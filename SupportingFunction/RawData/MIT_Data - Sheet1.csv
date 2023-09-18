@@ -1,0 +1,1730 @@
+Title,Description,Syllabus,Credits
+Introduction to Computer Science Programming in Python,"Introduction to computer science and programming for students with little or no programming experience. Students develop skills to program and use computational techniques to solve problems. Topics include the notion of computation, Python, simple algorithms and data structures, testing and debugging, and algorithmic complexity. Combination of 6.100A and 6.100B or 16.C20 counts as REST subject. Final given in the seventh week of the term.","Course Meeting Times
+Lectures: 2 sessions / week, 1 hour / session
+
+Recitations: 1 sessions / week, 1 hour / session
+
+Course Information
+6.0001 Introduction to Computer Science and Programming in Python is intended for students with little or no programming experience. It aims to provide students with an understanding of the role computation can play in solving problems and to help students, regardless of their major, feel justifiably confident of their ability to write small programs that allow them to accomplish useful goals. The class will use the Python 3.5 programming language.
+
+This is a half-semester course. Students who successfully complete 6.0001 may continue into 6.0002 Introduction to Computational Thinking and Data Science, which is taught in the second half of the semester.
+
+Goals
+Provide an understanding of the role computation can play in solving problems.
+Help students, including those who do not plan to major in Computer Science and Electrical Engineering, feel confident of their ability to write small programs that allow them to accomplish useful goals.
+Position students so that they can compete for research projects and excel in subjects with programming components.
+Textbook
+The textbook is Buy at MIT Press Guttag, John. Introduction to Computation and Programming Using Python: With Application to Understanding Data Second Edition. MIT Press, 2016. ISBN: 9780262529624. The book and the course lectures parallel each other, though there is more detail in the book about some topics. It is available both in hard copy and as an e-book.
+
+Lecture and Recitation Attendance
+A significant portion of the material for this course will presented only in lecture, so students are expected to regularly attend lectures.
+
+Recitations give students a chance to ask questions about the lecture material or the problem set for the given week. Sometimes, new material may be covered in recitation. Recitation attendance is encouraged but not required.
+
+Problem Sets and Quizzes
+Each problem set will involve programming in Python. There will be 6 problem sets in the course. There will be two quizzes. All quizzes will be closed-book, though you will be allowed to bring one page of notes to the first quiz and two pages of notes to the second quiz. Pages must be letter-sized, double-sided, either handwritten or typed.
+
+Grading Policy
+Grades will be roughly computed as follows:
+
+ACTIVITIES        PERCENTAGES
+Problem sets        30%
+Completion of mandatory finger exercises        10%
+Midterm Quiz        20%
+Final Quiz        40%
+Problem sets will be graded out of 10 points. Submissions that do not run will receive at most 20% of the points. Please contact your Teaching Assistant if you have a problem understanding your problem set grade.
+
+Note: Quizzes and finger exercises are not available on OpenCourseWare.
+
+Extension and Dropping Problem Sets Policy
+We do not grant any extensions. Instead, we offer late days and the option of rolling at most 2 problem set grades into the final quiz score.
+
+Late Days
+At the beginning of the term, students are given two late days that they can use on problem sets. Starting with Problem Set 1, additional late days can be accumulated for each assignment, one late day for each day the assignment is turned in ahead of the deadline. Up to three late days may be accumulated in this fashion in this course, i.e you can only have a maximum of 3 late days at any point in time. Late days are discrete (a student cannot use half a late day). The staff will keep track of late days and feedback for each problem set will include the number of late days the student has remaining. Any additional late work beyond these late days will not be accepted. To avoid surprises, we suggest that after you submit your problem set, you double check to make sure the submission was uploaded correctly.
+
+Rolling Over Problem Sets
+Before the final quiz, we will send out an announcement in which you can choose at most 2 problem sets that you can drop. If dropped, the percent that the problem sets are worth will be rolled into the final quiz score. We strongly urge you to see the late days and dropping the problem sets as backup in case of an emergency. Your best strategy is to do the problem sets early before work starts to pile up.
+
+Calendar
+SES #        TOPICS        ASSIGNMENTS
+1        What is computation?        Pset 0 released
+2        Branching and Iteration        Pset 1 released
+3        String Manipulation, Guess and Check, Approximations, Bisection        Pset 0 due
+4        Decomposition, Abstractions, Functions        Pset 2 released
+5        Tuples, Lists, Aliasing, Mutability, Cloning        Pset 1 due
+6        Recursion, Dictionaries        Pset 3 released
+7        Testing, Debugging, Exceptions, Assertions        Pset 2 due; Quiz 1
+8        Object Oriented Programming         
+9        Python Classes and Inheritance        Pset 3 due; Pset 4 released
+10        Understanding Program Efficiency, Part 1        Pset 4 due; Pset 5 released
+11        Understanding Program Efficiency, Part 2         
+12        Searching and Sorting        Pset 5 due; Final Quiz",1
+Introduction to Low-level Programming in C and Assembly,"Introduction to C and assembly language for students coming from a Python background (6.100A). Studies the C language, focusing on memory and associated topics including pointers, and how different data structures are stored in memory, the stack, and the heap in order to build a strong understanding of the constraints involved in manipulating complex data structures in modern computational systems. Studies assembly language to facilitate a firm understanding of how high-level languages are translated to machine-level instructions",,1
+Mathematics for Computer Science,"Elementary discrete mathematics for science and engineering, with a focus on mathematical tools and proof techniques useful in computer science. Topics include logical notation, sets, relations, elementary graph theory, state machines and invariants, induction and proofs by contradiction, recurrences, asymptotic notation, elementary analysis of algorithms, elementary number theory and cryptography, permutations and combinations, counting tools, and discrete probability.","Welcome to 6.042! In this course, we’ll teach you some mathematics that we think you’ll find useful in your study of computer science.
+
+Prerequisites
+The only prerequisite is 18.01. If you have already taken 18.310 or 6.046, then you should not take 6.042.
+
+Course Meeting Times
+Lectures: 2 sessions / week, 1.5 hours / session
+
+Recitations: 2 sessions / week, 1 hour / session
+
+Reading
+The text is Mathematics for Computer Science, available in the Readings section. Reading will be assigned each week with the problem sets.
+
+Homework and Exams
+There are 12 problem sets. Typically, a problem set is due a week after it is assigned. There are two exams: one 2-hour evening midterm, and a 3-hour final during finals week.
+
+Collaboration
+You are welcome to work with other students on homework, but your writeup must be entirely your own. Please do not refer to course materials from previous terms. On the top of your homework, list:
+
+all collaborators, other than course staff
+all written sources that you consulted, other than the text and course handouts from this term
+If you had no collaborators and consulted no written sources, then write, “I worked alone.” Homework without a collaboration statement will not be graded. Collaboration on exams is not allowed. If you somehow violate the collaboration policy, your best option is to tell us before we notice. Mistakes you confess are forgivable.
+
+Grading
+We compute a percentage score based on your coursework and then assign a letter grade as follows:
+
+A 88.0 – 100%
+B 75.0 – 87.9%
+C 60.0 – 74.9%
+D 50.0 – 59.9%
+F below 50%
+
+Your percentage score is the weighted average of your scores in four areas: homework, recitation, midterm and the final exam. The weights listed below total 110%, but we’ll cut 10% off the weight of your weakest exam. Scores in the four individual areas are determined as follows:
+
+Homework (30%) We drop your lowest score. We may normalize an entire recitation section upward, if necessary to compensate for variations in grading standards.
+
+Recitation (20%) Each recitation is worth 0, 1, or 2 points. If you attend for the full period and work constructively with your team, then you get 2 points. If you miss part of recitation or glaringly fail to work constructively with your team, then you get 1 point. If you are absent, you get 0 points. We drop your two lowest recitation scores.
+
+Midterm (25%), Final (35%) If the class median on an exam is below 75% (which is typical), then we normalize all scores upward so that the median is 75%. We normalize by adding a fixed number of points to every score. Scores are not capped at 100%. If the median on an exam is above 75%, fantastic!
+
+How to Succeed
+We want everyone to get the best possible grade within the bounds of fairness. There is no curve; in principle, everyone could get an A. Here are some suggestions on how you can do well:
+
+Attend recitation! If you show up on time, stay the whole hour, and work constructively with teammates, then you’ve got 20% in the bag.
+Attend lecture! We’ll explain every topic in the course and take your questions.
+Collaborate with other students on the homework. Some problems in 6.042 are tricky and sharing insights can save you a lot of time.
+Rely on your recitation instructor. Attend office hours and send questions to him or her via email. (Office hours are also a good opportunity to find collaborators.)
+Exams are typically tough. The best preparation is to do your best on each homework and go over your mistakes afterward with your recitation instructor.
+If you are having one of those terms and you’re getting buried by 6.042, MIT, and life at large, then come talk to us and we’ll see if we can help you out.
+Good luck and we hope you enjoy the class! This section contains recitation problems and notes, which include solutions.
+
+REC #        TOPICS        PROBLEMS        NOTES
+1        Logic, proving an implication        (PDF)        (PDF)
+2        Induction        (PDF)        (PDF)
+3        State machines        (PDF)        (PDF)
+4        Greatest common divisor        (PDF)        (PDF)
+5        Exponentiation, modular arithmetic, RSA        (PDF)        (PDF)
+6        Graph basics        (PDF)        (PDF)
+7        Stable marriage problem        (PDF)        (PDF)
+8        Build-up error, the grow algorithm        (PDF)        (PDF)
+9        Traveling salesperson problem        (PDF)        (PDF)
+10        Analysis of two networks, routing in a Beneš network        (PDF)        (PDF)
+11        Equivalence relations, chains, topological sort        (PDF)        (PDF)
+12        The L-tower problem, double sums        (PDF)        (PDF)
+13        Asymptotic notation, asymptotic equivalence        (PDF)        (PDF)
+14        Guessing a particular solution, linear recurrences        (PDF)        (PDF)
+15        Counting problems, pigeonhole principle        (PDF)        (PDF)
+16        Combinatorial proof, more counting        (PDF)        (PDF)
+17        Probability, Monty Hall problem        (PDF)        (PDF)
+18        Total probability law        (PDF)        (PDF)
+19        Bayes’ rule        (PDF)        (PDF)
+20        Philosophy of probability        (PDF)        (PDF)
+21        Conditional expectation and total expectation        (PDF)        (PDF)
+22        Expected value rule for functions of random variables, properties of variance        (PDF)        (PDF)
+23        Probability theorems        (PDF)        (PDF)",1
+Introduction to Probability and Statistics,Elementary introduction with applications. Basic probability models. Combinatorics. Random variables. Discrete and continuous probability distributions. Statistical estimation and testing. Confidence intervals. Introduction to linear regression.,"Course Meeting Times
+Class Sessions: 2 sessions / week, 1.5 hours / session
+Studio Sessions: 1 session / week, 1.5 hours / session
+Course Arc
+* Probability: (uncertain world, perfect knowledge of the uncertainty)
+    * Counting
+    * Random variables, distributions, quantiles, mean variance
+    * Conditional probability, Bayes’ theorem, base rate fallacy
+    * Joint distributions, covariance, correlation, independence
+    * Central limit theorem
+* Statistics I: pure applied probability (data in an uncertain world, perfect knowledge of the uncertainty)
+    * Bayesian inference with known priors, probability intervals
+    * Conjugate priors
+* Statistics II: applied probability (data in an uncertain world, imperfect knowledge of the uncertainty)
+    * Bayesian inference with unknown priors
+    * Frequentist significance tests and confidence intervals
+    * Resampling methods: bootstrapping
+    * Linear regression
+Computation, simulation, and visualization using R and applets will be used throughout the course.
+Broad Course Objectives
+* Learn the language and core concepts of probability theory.
+* Understand basic principles of statistical inference (both Bayesian and frequentist).
+* Build a starter statistical toolbox with appreciation for both the utility and limitations of these techniques.
+* Use software and simulation to do statistics (R).
+* Become an informed consumer of statistical information.
+* Prepare for further coursework or on-the-job study.
+Specific Learning Objectives
+Probability
+Students completing the course will be able to:
+* Use basic counting techniques (multiplication rule, combinations, permutations) to compute probability and odds.
+* Use R to run basic simulations of probabilistic scenarios.
+* Compute conditional probabilities directly and using Bayes’ theorem, and check for independence of events.
+* Set up and work with discrete random variables. In particular, understand the Bernoulli, binomial, geometric and Poisson distributions.
+* Work with continuous random variables. In particular, know the properties of uniform, normal and exponential distributions.
+* Know what expectation and variance mean and be able to compute them.
+* Understand the law of large numbers and the central limit theorem.
+* Compute the covariance and correlation between jointly distributed variables.
+* Use available resources (the internet or books) to learn about and use other distributions as they arise.
+Statistics
+Students completing the course will be able to:
+* Create and interpret scatter plots and histograms.
+* Understand the difference between probability and likelihood functions, and find the maximum likelihood estimate for a model parameter.
+* Do Bayesian updating with discrete priors to compute posterior distributions and posterior odds.
+* Do Bayesian updating with continuous priors.
+* Construct estimates and predictions using the posterior distribution.
+* Find credible intervals for parameter estimates.
+* Use null hypothesis significance testing (NHST) to test the significance of results, and understand and compute the p-value for these tests.
+* Use specific significance tests including, z-test t-test (one and two sample), chi-squared test.
+* Find confidence intervals for parameter estimates.
+* Use bootstrapping to estimate confidence intervals.
+* Compute and interpret simple linear regression between two variables.
+* Set up a least squares fit of data to a model.
+Basic Course Structure
+Before Class
+You must do the reading and answer reading questions before each class, as lectures will be given under the assumption that you have completed the reading. We do not expect that you will have mastered the material on first reading. The goal is to start the process, so class will be more productive. The reading questions will prepare you for the harder questions we will work during class and on the problem sets.
+Class Sessions
+Class sessions will be a blend of lecture, concept questions and group problem solving. In-class group work will be done in groups of three of your choosing. will use groups of 3. We will use “clicker questions” in class.
+Studio Sessions
+Studio sessions will involve longer problems and the use of R for computation, simulation and visualization. You will need to bring your laptop during these sessions. We will make frequent use of R for computation, simulation and visualization. We will teach you everything you need to know to use R as a tool, and you will not be expected to use R to do any hardcore computer programming.
+Collaboration
+MIT has a culture of teamwork so we encourage you to work with study partners. Collaboration on homework is encouraged, but you must write your solutions yourself, in your own words. You must also list all collaborators and outside sources of information.
+Discussion Boards
+This course makes use of discussion boards, which can be a great resource for helping each other understand the material and problem sets. We encourage collaboration and learning communities but please avoid asking for and/or posting answers to assignments: You may help clarify what’s being asked, shed light on a concept, or direct others to relevant material. You may not provide solutions to problem sets.
+Grading
+
+ACTIVITIES        PERCENTAGES
+Reading questions and in-class clicker questions        10%
+Problem sets (with lowest score dropped)        25%
+Exam 1        15%
+Exam 2        15%
+Final exam        35%
+
+Listed in the following table are the in-class slides and post-class materials for each of the class sessions. The post-class version of the slides contains the solutions to the board problems, clicker questions, and discussion questions that were posed to the students during class. It was not always the case that the end of the planned set of slides was reached in each class, so the last slides in one deck may be repeated in the next deck.
+
+WEEK #        SES #        IN-CLASS SLIDES        POST-CLASS SLIDES
+Probability                        
+1        C1        Introduction, counting and sets (PDF)        Class 1 Slides with Solutions (PDF)
+        C2        Probability basics (PDF)        Class 2 Slides with Solutions (PDF)
+2        C3        Conditional probability, Bayes’ theorem (PDF)        Class 3 Slides with Solutions (PDF)
+        C4        Discrete random variables, expectation (PDF)        Class 4 Slides with Solutions (PDF)
+3        C5        Variance, continuous random variables (PDF)
+Gallery of continuous variables, histograms (PDF)        Class 5 Slides with Solutions (PDF)
+Class 5 Slides, cont’d with Solutions (PDF)
+4        C6        Expectation, variance, law of large numbers and central limit theorem (PDF)        Class 6 Slides with Solutions (PDF)
+        C7        Joint distributions: Independence, covariance and correlation (PDF)        Class 7 Slides with Solutions (PDF)
+5        C8        Review for exam 1 (PDF)        Class 8 Slides with Solutions (PDF)
+        C9        No slides; exam 1 during class        
+Statistics: Bayesian Inference                        
+5        C10        Introduction to statistics; maximum likelihood estimates (PDF)        Class 10 Slides with Solutions (PDF)
+6        C11        Bayesian updating with known discrete priors (PDF)        Class 11 Slides with Solutions (PDF)
+        C12        Bayesian updating: Probabilistic prediction; odds (PDF)        Class 12 Slides with Solutions (PDF)
+7        C13        Bayesian updating: Continuous prior, discrete data (PDF)        Class 13 Slides with Solutions (PDF)
+        C14        Beta distributions: Continuous data (PDF)        Class 14 Slides with Solutions (PDF)
+8        C15        Conjugate priors; choosing priors (PDF)        Class 15 Slides with Solutions (PDF)
+        C16        Probability intervals (PDF)        Class 16 Slides with Solutions (PDF)
+Statistics: Frequentist Inference—Null Hypothesis Significance Testing (NHST)                        
+9        C17        Frequentist methods; NHST (PDF - 1.1MB)        Class 17 Slides with Solutions (PDF - 1.4MB)
+        C18        NHST II: Significance level, power, t-tests (PDF)        Class 18 Slides with Solutions (PDF)
+10        C19        NHST III: Gallery of tests (PDF)        Class 19 Slides with Solutions (PDF)
+        C20        Comparison of Bayesian and frequentist inference (PDF)        Class 20 Slides with Solutions (PDF)
+11        C21        Review for exam 2 (PDF)        Solutions file: Review of exam 2 (PDF)
+Statistics: Confidence Intervals; Regression                        
+12        C22        Confidence intervals for normal data (PDF)        Class 22 Slides with Solutions (PDF)
+        C23        Confidence intervals II (PDF)        Class 23 Slides with Solutions (PDF)
+13        C24        Bootstrap confidence intervals (PDF)        Class 24 Slides with Solutions (PDF)
+        C25        Linear regression (PDF)        Class 25 Slides with Solutions (PDF)
+14        C26        Problems file: Review for final exam (PDF)
+Solutions file: Review of final exam (PDF)        
+        C27        Problems file: Review for final exam, cont’d (PDF)
+Solutions file: Review of final exam, cont’d (PDF)        
+",1
+Computation Structures,"Provides an introduction to the design of digital systems and computer architecture. Emphasizes expressing all hardware designs in a high-level hardware language and synthesizing the designs. Topics include combinational and sequential circuits, instruction set abstraction for programmable hardware, single-cycle and pipelined processor implementations, multi-level memory hierarchies, virtual memory, exceptions and I/O, and parallel systems.","The following information reflected how this course was taught at MIT.
+Course Meeting Times
+Lectures: 2 sessions / week, 1 hour / session
+Recitations:  2 sessions /  week,  1 hour / session
+Course Description
+This course offers an introduction to the engineering of digital systems. Starting with MOS transistors, the course develops a series of building blocks – logic gates, combinational and sequential circuits, finite-state machines, computers and finally complete systems. Both hardware and software mechanisms are explored through a series of design examples.
+This course is required material for any Electrical Engineering and Computer Science (EECS) undergraduate who wants to understand (and ultimately design) digital systems. A good grasp of the material is essential for later courses in digital design, computer architecture and systems. Before taking this course, students should feel comfortable using computers; a rudimentary knowledge of programming language concepts and electrical fundamentals is assumed.
+The problem sets and lab exercises are intended to give students “hands-on” experience in designing digital systems; each student completes a gate-level design for a RISC processor during the semester. Students are encouraged to get help from others in understanding the material, but the designs and measurements they hand in must be their own work.
+Prerequisites
+8.02 Physics II: Electricity and Magnetism
+Learning Objectives
+On completion of this course, students will be able to
+1. Understand the role of abstraction in the design of large digital systems, and explain the major software and hardware abstractions in contemporary computer systems.
+2. Analyze the performance of digital systems using measures such as latency and throughput.
+3. Design simple hardware systems based on a variety of digital abstractions such as ROMs and logic arrays, logic trees, state machines, pipelining, and buses. synthesize digital systems from a library of representative components and test the designs under simulation.
+4. Understand the operation of a moderately complex digital system – a simple RISC-based computer – down to the gate level, and be able to synthesize, implement, and debug its components.
+5. Appreciate the technical skills necessary to be a capable digital systems engineer.
+Measurable Outcomes
+Upon completion of this course, students will be able to
+1. Identify flaws and limitations in simple systems implemented using the static discipline (noise assumptions, etc).
+2. Identify flaws and limitations in simple systems implemented using clocked registers with asynchronous inputs (metastability issues).
+3. Identify flaws and limitations in simple systems implemented using pipelined processors (pipeline hazards).
+4. Identify flaws and limitations in simple systems implemented using semaphores for process synchronization (deadlocks).
+5. Identify flaws and limitations in simple systems implemented using shared-memory multiprocessors (sequential inconsistency).
+6. Characterize the logic function of combinational devices using CMOS, ROM, or PLA technologies.
+7. Explain synthesis issues for combinational devices using CMOS, ROM, or PLA technologies from their functional specification.
+8. Explain synthesis of acyclic circuits from combinational components.
+9. Calculate performance characteristics of acyclic circuits with combinational components.
+10. Explain and calculate performance characteristics of single-clock sequential circuits.
+11. Design, debug, and test combinational circuits of the complexity of an arithmetic logic unit.
+12. Design, debug, and test a controller for a finite-state machine.
+13. Pipeline a combinational circuit for improved throughput.
+14. Understand issues affecting microprocessor instruction set design.
+15. Complete and debug the design of a simple CPU with a given RISC-based intruction set.
+16. Measure the memory access performance of a processor, and tune cache design parameters to improve performance.
+17. Analyze the operation of page-based virtual memory systems.
+18. Translate simple programs from C to machine language.
+19. Deduce processor state from a memory snapshot during execution.
+Problem sets
+There are no weekly graded problem sets. Instead there are two types of problems with answers provided in the worksheet section of each unit that you can use to test your understanding of the material:
+1. 6.004x on MITx problems that allow you to test yourself and check if you are correct without viewing the complete answer.
+2. Tutorial problems which provides additional practice problems with written answers.
+Collaboration
+The assignments are intended to help you understand the material and should be done individually. You are welcome to get help from others but the work you hand in must be your own. Copying another person’s work or allowing your work to be copied by others is a serious academic offense and will be treated as such. We do spot-check submissions to the online check-off system for infractions of the collaboration policy. So please don’t tempt fate by submitting someone else’s work as your own; it will save us all a lot of grief.
+Labs
+There are seven lab assignments due at various times during the term and a design projects due at the end of the term. Note that you can submit your work for a lab more than once, for example, as you complete each part. To earn points for a lab, all of the problems must be completed.
+Quizzes
+There are four 50-minute closed-book quizzes. The questions will be similar to those on the tutorial problems, worksheets and past quizzes; you’ll be asked to provide short, written answers and/or explanations.
+There is no final exam.
+Grading
+The final grade is determined by performance on the quizzes (120 points total), the labs (75 points total) and the design project (20 points total). In addition, you must have a non-zero score for each of the labs and labs 1, 3, 6 and 7 must be checked off as a prerequisite for passing the course. A missing lab will result in a failing grade.
+Once your combined score has been computed as explained above, here’s how grades will be assigned:
+
+GRADES        POINTS
+A        175 ≤ total points
+B        155 ≤ total points < 175
+C        135 ≤ total points < 155
+D        115 ≤ total points < 135
+F        total points < 115, missing lab
+
+This calendar reflects the campus schedule when this course was taught at MIT. The lab exercises are currently not included.
+
+
+SES #        TOPICS        KEY DATES
+L1        Unit 1: Basics of information: entropy, encodings, error correction        
+L2        Unit 2: The digital abstraction: combinational logic, voltage-based encoding        
+L3        Unit 3: CMOS: MOSFETs, gate design; timing        
+L4        Unit 4: Combinational logic: canonical forms, synthesis, simplification        
+L5        Unit 5: Sequential logic: latches, registers, timing        Lab 1 due
+L6        Unit 6: Finite-state machines (FSMs); asynchronous inputs and metastability        
+L7        Unit 7: Performance measures: throughput and latency, pipelining        
+Quiz 1 (L1–L5)                
+L8        Unit 8: Design tradeoffs: power, speed, area, throughput        
+L9        Unit 9: von Neumann architectures, Beta instruction set        Lab 2 due
+L10        Unit 10: Assmbly language        
+L11        Unit 11: Compiling expressions and statements        Lab 3 due
+L12        Unit 12: Stacks and procedures        
+L13        Unit 13: Beta implementation        
+Quiz 2 (L6–L12)                
+L14        Unit 14: Multilevel memories: locality, performance, caches        
+L15        Unit 14: Cache design issues (continued)        Lab 4 due
+L16        Unit 15: Pipelining the Beta: pipeline diagrams, data hazards        
+L17        Unit 15: Pipelining the Beta: control hazards, dealing with exceptions (continued)        Lab 5 due
+L18        Unit 16: Virtual memory: mapping, protection, contexts        
+Quiz 3 (L13–L17)                
+L19        Unit 17: Virtual machines: timesharing, OS kernels, supervisor calls        
+L20        Unit 18: Devices and interrupts; real-time        Lab 6 due
+L21        Unit 19: Communicating processes: semaphores, synchronization, atomicity, deadlock        
+L22        Unit 20: System-level communication        Lab 7 due
+L23        Unit 21: Parallel processing: performance limits, data- and thread-level parallelism        
+L24        Building a Better Beta: tips for the design project        
+Quiz 4 (L18–L22); design project due in one week after the quiz                
+",1
+Fundamentals of Programming,"Introduces fundamental concepts of programming. Designed to develop skills in applying basic methods from programming languages to abstract problems. Topics include programming and Python basics, computational concepts, software engineering, algorithmic techniques, data types, and recursion. Lab component consists of software design, construction, and implementation of design. Enrollment may be limited.","The calendar below will be populated throughout the semester with links to readings, recitation materials, and labs. The current week is marked in blue.
+
+You can add these events to your personal calendar using this URL:
+https://py.mit.edu/fall23/calendar?ics=1
+Warning: do not download this URL as a file and import it into your calendar, because then you won't automatically see changes when they occur (such as the date of the final exam). Instead, find out how to install the URL into your calendar so that your calendar automatically keeps it up to date.
+
+
+Week 0 (Mon, 4 Sep - Fri, 8 Sep)
+Week 0 Readings: Intro
+
+Week 0 Lab: Audio Processing
+Released: Wed, 6 Sep at 8:00am
+Due: Fri, 8 Sep at 5:00pm
+Cutoff: Sun, 10 Sep at 10:00pm
+Checkoff Due: Wed, 13 Sep at 10:00pm
+
+Week 0 Midpoint Recitation (Wed, 6 Sep) Files:
+rec.py
+
+Week 0 Wrap-up Recitation (Mon, 11 Sep) Files:
+rec.py
+
+Week 1 (Mon, 11 Sep - Fri, 15 Sep)
+Week 1 Readings: Environment Model
+
+Week 1 Lab: Image Processing
+Released: Fri, 8 Sep at 5:00pm
+Due: Fri, 15 Sep at 5:00pm
+Cutoff: Sun, 17 Sep at 10:00pm
+Checkoff Due: Wed, 20 Sep at 10:00pm
+
+Week 1 Midpoint Recitation (Wed, 13 Sep) Files:
+rec.py
+
+Week 2 (Mon, 18 Sep - Fri, 22 Sep)
+Week 2 Readings: Functions
+Released: Wed, 13 Sep at 5:00pm
+Due: Mon, 18 Sep at 10:00pm
+
+Week 2 Lab: Image Processing, Part 2
+Released: Fri, 15 Sep at 5:00pm
+Due: Sun, 24 Sep at 5:00pm
+Cutoff: Mon, 25 Sep at 10:00pm
+Checkoff Due: Wed, 27 Sep at 10:00pm
+
+Week 3 (Mon, 25 Sep - Fri, 29 Sep)
+Week 3 Readings: Flood Fill
+Released: Wed, 20 Sep at 5:00pm
+Due: Mon, 25 Sep at 10:00pm
+
+Week 3 Lab: Bacon Number
+Released: Fri, 22 Sep at 5:00pm
+Due: Fri, 29 Sep at 5:00pm
+Cutoff: Sun, 1 Oct at 10:00pm
+Checkoff Due: Wed, 4 Oct at 10:00pm
+
+Week 4 (Mon, 2 Oct - Fri, 6 Oct)
+Week 4 Readings: Graph Search
+Released: Wed, 27 Sep at 5:00pm
+Due: Mon, 2 Oct at 10:00pm
+
+Week 4 Lab: Snekoban
+Released: Fri, 29 Sep at 5:00pm
+Due: Fri, 6 Oct at 5:00pm
+Cutoff: Sun, 8 Oct at 10:00pm
+Checkoff Due: Wed, 18 Oct at 10:00pm
+
+Week 5
+Midterm 1: Wed, 11 Oct at 7:35pm
+
+Week 6 (Mon, 16 Oct - Fri, 20 Oct)
+Week 6 Readings: Recursion
+Released: Wed, 11 Oct at 5:00pm
+Due: Mon, 16 Oct at 10:00pm
+
+Week 6 Lab: Recipes
+Released: Fri, 13 Oct at 5:00pm
+Due: Fri, 20 Oct at 5:00pm
+Cutoff: Sun, 22 Oct at 10:00pm
+No checkoff required.
+
+Week 7 (Mon, 23 Oct - Fri, 27 Oct)
+Week 7 Readings: Recursion and Iteration
+Released: Wed, 18 Oct at 5:00pm
+Due: Mon, 23 Oct at 10:00pm
+
+Week 7 Lab: Mines
+Released: Fri, 20 Oct at 5:00pm
+Due: Fri, 27 Oct at 5:00pm
+Cutoff: Sun, 29 Oct at 10:00pm
+No checkoff required.
+
+Week 8 (Mon, 30 Oct - Fri, 3 Nov)
+Week 8 Readings: Backtracking
+Released: Wed, 25 Oct at 5:00pm
+Due: Mon, 30 Oct at 10:00pm
+
+Week 8 Lab: SAT Solver
+Released: Fri, 27 Oct at 5:00pm
+Due: Fri, 3 Nov at 5:00pm
+Cutoff: Sun, 5 Nov at 10:00pm
+No checkoff required.
+
+Week 9 (Mon, 6 Nov - Fri, 10 Nov)
+Week 9 Readings: Custom Types and the Environment Model
+Released: Wed, 1 Nov at 5:00pm
+Due: Mon, 6 Nov at 10:00pm
+
+Week 9 Lab: Autocomplete
+Released: Fri, 3 Nov at 5:00pm
+Due: Sun, 12 Nov at 5:00pm
+Cutoff: Mon, 13 Nov at 10:00pm
+No checkoff required.
+
+Week 10
+Midterm 2: Wed, 15 Nov at 7:35pm
+
+Week 11 (Mon, 20 Nov - Fri, 24 Nov)
+Week 11 Readings: Inheritance and Object-oriented Design
+Released: Wed, 15 Nov at 5:00pm
+Due: Mon, 20 Nov at 10:00pm
+
+Week 11 Lab: Symbolic Algebra
+Released: Fri, 10 Nov at 5:00pm
+Due: Wed, 22 Nov at 5:00pm
+Cutoff: Sun, 26 Nov at 10:00pm
+No checkoff required.
+
+Week 12 (Mon, 27 Nov - Fri, 1 Dec)
+Week 12 Readings: Functional Programming
+Released: Wed, 15 Nov at 5:00pm
+Due: Mon, 27 Nov at 10:00pm
+
+Week 12 Lab: LISP Interpreter, Part 1
+Released: Fri, 24 Nov at 5:00pm
+Due: Fri, 1 Dec at 5:00pm
+Cutoff: Sun, 3 Dec at 10:00pm
+No checkoff required.
+
+Week 13 (Mon, 4 Dec - Fri, 8 Dec)
+Week 13 Lab: LISP Interpreter, Part 2
+Released: Fri, 24 Nov at 5:00pm
+Due: Fri, 8 Dec at 5:00pm
+Cutoff: Sun, 10 Dec at 10:00pm
+No checkoff required.
+
+Week 14
+Final Exam: TBD",1
+Introduction to Algorithms,"Introduction to mathematical modeling of computational problems, as well as common algorithms, algorithmic paradigms, and data structures used to solve these problems. Emphasizes the relationship between algorithms and programming, and introduces basic performance measures and analysis techniques for these problems. Enrollment may be limited.","Class Meeting Times
+Lectures: 1 hr / session; 2 sessions / week
+Recitations: 1 hr / session; 2 sessions / week
+Prerequisites
+* 6.0001 Introduction to Computer Science and Programming in Python:  Basic experience programming in Python 3.
+* 6.042J Mathematics for Computer Science: Basic knowledge of discrete mathematics: set theory, relations and logic, combinatorics, proofs, recursion, number theory, graph theory, and probability.
+We strongly caution against taking 6.006 before having fulfilled the listed prerequisites. We will evaluate your understanding of the prerequisite material via a short Problem Set 0 assignment. All students must submit this evaluation, regardless of prerequisite status. We will assign each submission a letter grade. If you receive a C or below on the assignment, you will need to meet with a staff member to review your performance before you will be allowed to take the class. We will not grade any other assignments from you until a good faith attempt of Problem Set 0 has been submitted. The grade for this assignment will NOT affect your final grade in the class, but turning it in is required for taking this class.
+Course Description
+This is an introductory course covering elementary data structures (dynamic arrays, heaps, balanced binary search trees, hash tables) and algorithmic approaches to solve classical problems (sorting, graph searching, dynamic programming). Introduction to mathematical modeling of computational problems, as well as common algorithms, algorithmic paradigms, and data structures used to solve these problems. Emphasizes the relationship between algorithms and programming, and introduces basic performance measures and analysis techniques for these problems.
+Textbooks
+Written course material will be distributed via notes from lectures and recitations. An additional useful reference is 
+￼
+ Introduction to Algorithms by Cormen, Leiserson, Rivest, and Stein (Third Edition, MIT Press) ISBN: 9780262033848, commonly known as CLRS, though this text is not required for the course.
+Grading
+ASSIGNMENTS        PERCENTAGES
+Quiz 1        20%
+Quiz 2        15%
+Quiz 3        10%
+Final Exam        35%
+Problem Sets        18%
+Recitation        2%
+Lectures occured on Tuesdays and Thursdays. Recitations took place on Wednesdays and Fridays. Optional problem sessions were held on Fridays. 
+
+
+WEEK        LECTURES        RECITATIONS        PROBLEM SESSIONS        KEY DATES
+1        Lecture 1: Introduction
+Lecture 2: Data Structures        Recitation 1
+Recitation 2        Problem Session 1        Problem Set 0 Due
+2        Lecture 3: Sorting
+Lecture 4: Hashing        Recitation 3
+Recitation 4        Problem Session 2        Problem Set 1 Due
+3        Lecture 5: Linear Sorting        Recitation 5        Problem Session 3        Problem Set 2 Due
+4        Lecture 6: Binary Trees, Part 1
+Lecture 7: Binary Trees, Part 2: AVL        Recitation 6
+Recitation 7        Problem Session 4        Problem Set 3 Due
+5        Lecture 8: Binary Heaps
+Lecture 9: Breadth-First Search        Recitation 8
+Recitation 9        Quiz 1 Review        Problem Set 4 Due
+Quiz 1 Review
+6        Lecture 10: Depth-First Search
+Lecture 11: Weighted Shortest Paths        Recitation 10
+Recitation 11        Problem Session 5        
+7        Lecture 12: Bellman-Ford        Recitation 12        Problem Session 6        Problem Set 5 Due
+Quiz 1
+8        Lecture 13: Dijkstra’s Algorithm
+Lecture 14: Johnson’s Algorithm        Recitation 13
+Recitation 14        Problem Session 7        Problem Set 6 Due
+Quiz 2 Review
+9        Lecture 15: Dynamic Programming, Part 1: Recursive Algorithms
+Lecture 16: Dynamic Programming, Part 2: Subproblems        Recitation 15
+Recitation 16        Problem Session 8        
+10        Lecture 17: Dynamic Programming, Part 3: APSP, Parens, Piano        Recitation 17        No problem sessions        Problem Set 7 Due
+Quiz 2
+11        Lecture 18: Dynamic Programming, Part 4: Pseudopolynomials
+Lecture 19: Complexity        Recitation 18
+Recitation 19        Problem Session 9        Problem Set 8 Due
+Quiz 3 Review
+12        Lecture 20: Course Review        Recitation 20        No problem sessions        Quiz 3
+13        Lecture 21: Algorithms—Next Steps        No recitations        No problem sessions        
+14        Final Exam                        
+",1
+Software Construction,"Introduces fundamental principles and techniques of software development: how to write software that is safe from bugs, easy to understand, and ready for change. Topics include specifications and invariants; testing, test-case generation, and coverage; abstract data types and representation independence; design patterns for object-oriented programming; concurrent programming, including message passing and shared memory concurrency, and defending against races and deadlock; and functional programming with immutable data and higher-order functions. Includes weekly programming exercises and larger group programming projects.","Course Meeting Times
+Lectures: 2 sessions / week, 1.5 hours / session
+Recitations: 1 sessions / week, 1 hour / session
+Course Description
+6.005 Software Construction introduces fundamental principles and techniques of software development, i.e., how to write software that is safe from bugs, easy to understand, and ready for change. Topics include specifications and invariants; testing, test-case generation, and coverage; abstract data types and representation independence; design patterns for object-oriented programming; concurrent programming, including message passing and shared concurrency, and defending against races and deadlock; and functional programming with immutable data and higher-order functions. Includes weekly programming exercises and larger group programming projects.
+The 6.005 website homepage from Spring 2016, along with all course materials, is available to OpenCourseWare users.
+Class
+Class meetings
+There are two 90-minute class meetings each week on Monday and Wednesday and one 1-hour class meeting each week on Friday. You are expected to attend all class meetings and to participate actively in exercises and discussions.
+Laptops required
+Classes will include multiple-choice questions and programming exercises that require a laptop.
+Readings
+Most classes will have a reading that you must read before coming to class. There is no course textbook.
+Nanoquizzes
+Every class meeting will begin with a short quiz on the required reading for the class, plus recent class meetings. Nanoquizzes are closed-book and closed-notes, with a 3-minute time limit. There will be approximately 25 nanoquizzes. Your lowest 5 nanoquiz grades will be automatically dropped, and you can make up missed nanoquizzes or low grades. More info can be found on the nanoquiz grading and makeup page.
+Project
+You will complete a group software development project at the end of the semester. The project will be done in teams of three students. Each team member is required to participate roughly equally in every activity (design, implementation, test, documentation), and we may ask for an accounting of what each team member did. A single grade will be assigned to all members of the team.
+Team Meetings
+During the project, you and your project team will meet with your Teaching Assistant to discuss the work. Your TA will assign a grade based in part on this meeting. Team meetings will usually be scheduled during class times that will be reserved for this purpose.
+Quizzes
+There will be two quizzes, on dates specified on the course calendar. Each quiz will be comprehensive, drawing on any topics covered up to that point in the course, so e.g. Quiz 2 may include topics that were already covered on Quiz 1.
+Quizzes are closed-book, but you may bring a single 8.5×11” double-sided page of notes, readable without magnification, that was created by you. Since the process of creating a crib sheet is most of its benefit, you may not share these notes or use someone else’s.
+An archive of past quizzes is available.
+Grading Policy
+Grades will be roughly computed as follows:
+
+
+
+
+
+
+
+
+
+
+
+
+ACTIVITIES        PERCENTAGES
+Quizzes        30%
+Problem Sets        50%
+Project        10%
+Code Review        5%
+Participation        5%
+Letter grades are determined at the end of the semester. The default cutoffs are: a final average of 90 and above is an A, 80 and above is a B, 70 and above is a C. These boundaries may be adjusted downwards if necessary because of the difficulty of the assignments or quizzes, but the boundaries will never be adjusted upwards, so a final average of 90 is guaranteed to be an A. The boundary adjustment is done heuristically, and there are no grade quotas, no grade targets, and no centering of the class on a particular grade boundary.
+Every student is considered individually in the final grading meeting, judging from their entire performance in the course. A single bad mark in an otherwise consistent record will often be discounted.
+Problem Set Grading
+The overall grade for a problem set will typically be computed as follows:
+overall grade = 40% × beta-autograde + 45% × final-autograde + 15% × manual-grade
+where beta-autograde and final-autograde are determined by automated tests, and manual-grade is determined by graders reading the code. One part of manual-grade is fixing code in response to code reviews.
+The breakdown may vary by 5-10% from problem set to problem set, depending on how much of the problem set can be autograded and how much requires human eyes. Each problem set’s breakdown will be announced when final grades are released.
+Problems Sets, Beta & Final Problem Set Deadlines, and Slack Days
+Problem Sets
+To consolidate your understanding of the ideas from class, you will do five problem sets, PS0 to PS4, involving both design and implementation work. Problem sets will be done individually. Please review the page on collaboration on problem sets.
+Code review
+As part of each problem set, there will be a 2-day code-reviewing period when other students and staff will give you feedback about the code you submitted, using a web-based system. You will be expected to participate in this process by reviewing some of your classmates’ code. More details about objectives and guidelines for the code reviewing process are available.
+Beta and final submission
+Each problem set will have beta and final submission. The beta submission will be graded by an automated tester, and will be subject to code review. The final submission is due a week later. You will be expected to fix any failed test cases and revise your code based on code review feedback.
+The final submission must address all the code reviews received by the beta submission – all the human comments plus all the automated checkstyle comments that are marked #important. You can address a code review either by changing the code to reflect the review or by including a source code comment in your code that explains why the code wasn’t changed. If code reviews are unclear, you can discuss them with the reviewers, but you still must edit your own code in reaction to the review. A grader will check the submission and deduct points if it hasn’t addressed the code reviews.
+Since the final submission inevitably happens after code review for the problem set, it’s understood that you’ve looked at other students’ written solutions, and been inspired by other ways to solve the problems. You must be exceedingly scrupulous, therefore, in not using those written solutions during your revision. Both your original code and your revised code must be your own. Looking at other students’ answers to the problem set while you are revising your solution will be considered a violation of the collaboration policy.
+Collaboration and Public Sharing
+In line with MIT’s policy on academic honesty, please review the detailed page on collaboration and public sharing.
+FAQ
+Why is this course structured the way it is?
+Practice and feedback are key to learning, and the course is structured to provide as many opportunities for practice and feedback as possible. That means we don’t want to spend class time on lectures, we want to spend it on exercises to practice the concepts and skills of building software.
+Citations: Wieman et al., Course Transformation Guide · Deslauriers et al., Improved Learning in a Large-Enrollment Physics Class
+Why is attendance in class required?
+Class meetings are all about practice and feedback . The individual, pair, and small group questions, exercises, and coding problems we work on in class, and the discussions and feedback led by instructors, are a required component of this class.
+Class is like swim/judo/math team practice: you don’t get good unless you show up, and practicing with others is a necessary complement to practicing alone.
+Why are we sometimes asked to close laptops during class?
+Your laptop is a necessary tool for in-class programming, but it also presents a huge opportunity for distraction. The price of that distraction is paid not only by you, but by all those around you who can see your screen. In one study linked below:
+* For note-takers with laptops, multi-tasking led to a 11% drop in comprehension test scores.
+* For note-takers without laptops, merely having a laptop multi-tasker in their field of view led to a 17% drop in comprehension test scores!
+If you want to use a smartphone in your lap, so that the screen is not visible and not distracting to others, we have no objection, but you’ll still be hurting yourself.
+Citations: Sana et al., Laptop multitasking hinders classroom learning for both users and nearby peers · Mueller and Oppenheimer, The Pen Is Mightier Than the Keyboard
+How is participation in class graded?
+In general, participation in class is graded based on whether you attempted the questions, exercises, coding problems, etc., not on correctness.
+Programming exercises are graded based on whether you’ve attempted the exercise and made some progress, even if you don’t complete it. You are not expected to complete unfinished exercises after class, but TAs and LAs will be happy to help you review or finish them.
+Why do I need to read the readings and complete the reading exercises the night before coming to class?
+Reading the material before class prepares you to spend class time practicing the concepts and skills you’re learning. Reading in advance gives you time to think and ask questions, and repeated exposure to material spaced out over time improves learning.
+See: Spacing effect
+Why does the class have nanoquizzes on topics before we practice them in class?
+Nanoquizzes assess whether you did the reading and practiced with the reading exercises before coming to class, and they provide feedback to you on your comprehension. Nanoquizzes are themselves part of the practice we do in class: recalling information from the readings benefits learning more than just re-reading or re-hearing it.
+
+Readings
+Example code for some readings can be found on the 6.005 Github page.
+
+READING        TOPICS
+1: Static Checking        •        Types
+        •        Static Checking vs Dynamic Checking
+        •        Arrays and Collections
+        •        Iterating
+        •        Methods
+        •        Mutating Variables vs Reassigning Variables
+        •        Documenting Assumptions
+2: Basic Java        •        Snapshot Diagrams
+        •        Java Collections
+        •        Java API Documentation
+3: Testing        •        Validation
+        •        Test-first Programming
+        •        Choosing Test Cases by Partitioning
+        •        Blackbox and Whitebox Testing
+        •        Documenting Testing Strategies
+        •        Coverage
+        •        Unit Testing and Stubs
+        •        Automated Testing and Regression Testing
+4: Code Review        •        Don’t Repeat Yourself
+        •        Comments Where Needed
+        •        Fail Fast
+        •        Avoid Magic Numbers
+        •        One Purpose for Each Variable
+        •        Use Good Names
+        •        Use Whitespace to Help the Reader
+        •        Don’t Use Global Variables
+        •        Methods Should Return Results, Not Print Them
+5: Version Control        •        Inventing Version Control
+        •        Git: Copy, Commit, Pull, Push, Merge
+6: Specifications        •        Why Specifications?
+        •        Behavioral Equivalence
+        •        Specification Structure
+        •        Null References
+        •        What a Specification May Talk About
+        •        Testing and Specifications
+        •        Specifications for Mutating Methods
+        •        Exceptions for Signaling Bugs
+        •        Exceptions for Special Results
+        •        Checked and Unchecked Exceptions
+        •        Throwable Hierarchy
+        •        Exception Design Considerations
+        •        Abuse of Exceptions
+7: Designing Specifications        •        Deterministic vs Undertermined Specs
+        •        Declarative vs Operational Specs
+        •        Stronger vs Weaker Specs
+        •        Diagramming Specifications
+        •        Designing Good Specifications
+        •        Precondition or Postcondition?
+        •        About Access Control
+        •        About Static vs Instance Methods
+8: Avoiding Debugging        •        First Defense: Making Bugs Impossible
+        •        Second Defense: Localizing Bugs
+        •        Assertions
+        •        What to Assert
+        •        What Not to Assert
+        •        Incremental Development
+        •        Modularity and Encapsulation
+9: Mutability and Immutability        •        Mutability
+        •        Risks of Mutation
+        •        Aliasing is What Makes Mutation Risky
+        •        Specifications for Mutating Methods
+        •        Iterating Over Arrays and Lists
+        •        Mutation Undermines an Iterator
+        •        Mutation and Contracts
+        •        Useful Implementation Types
+10: Recursion        •        Choosing the Right Decomposition For a Problem
+        •        Structure of Recursive Implementations
+        •        Helper Methods
+        •        Choosing the Right Recursive Subproblem
+        •        Recursive Problem vs Recursive Data
+        •        Reentrant Code
+        •        When to Use Recursion Rather Than Iteration
+        •        Common Mistakes in Recursive Implementations
+11: Debugging        •        Reproduce the Bug
+        •        Understand the Location and Cause of the Bug
+        •        Fix the Bug
+12: Abstract Data Types        •        What Abstraction Means
+        •        Classifying Types and Operations
+        •        Designing Abstract Type
+        •        Representation Independence
+        •        Realizing ADT Concepts in Java
+        •        Testing and Abstract Data Type
+13: Abstraction Functions and Rep Invariants        •        Invariants
+        •        Rep Invariant and Abstraction Function
+        •        Documenting the AF, RI, and Safety from Rep Exposure
+        •        ADT Invariants Replace Preconditions
+14: Interfaces        •        Interfaces
+        •        Subtypes
+        •        Example: MyString
+        •        Example: Set
+        •        Generic Interfaces
+        •        Why Interfaces?
+        •        Realizing ADT Concepts in Java, Part II
+15: Equality        •        Three Ways to Regard Equality
+        •        == vs. equals()
+        •        Equality of Immutable Types
+        •        The Object Contract
+        •        Equality of Mutable Types
+        •        The Final Rule for Equals() and hashCode()
+16: Recursive Data Types        •        Recursive Functions
+        •        Immutable Lists
+        •        Recursive Datatype Definitions
+        •        Functions Over Recursive Datatypes
+        •        Tuning the Rep
+        •        Null vs Empty
+        •        Declared Type vs Actual Type
+        •        Example: Boolean Formulas
+        •        Writing a Program with ADTs
+        •        Recipes for Programming with ADTs
+        •        Example: Matrix Multiplication
+17: Regular Expressions and Grammars        •        Grammars
+        •        Regular Expressions
+18: Parser Generators        •        Parser Generators
+        •        An Antlr Grammar
+        •        Generating the Parser
+        •        Calling the Parser
+        •        Traversing the Parse Tree
+        •        Constructing an Abstract Syntax Tree
+        •        Handling Errors
+19: Concurrency        •        Two Models for Concurrent Programming
+        •        Processes, Threads, Time-Slicing
+        •        Example: Shared Memory
+        •        Interleaving
+        •        Race Condition
+        •        Tweaking the Code Won’t Help
+        •        Reordering
+        •        Example: Message Passing
+        •        Concurrency is Hard to Test and Debug
+20: Thread Saftey        •        What Threadsafe Means
+        •        Strategy 1: Confinement
+        •        Strategy 2: Immutability
+        •        Strategy 3: Using Threadsafe Data Types
+        •        How to Make A Safety Argument
+21: Sockets and Networking        •        Client/Server Design Pattern
+        •        Network Sockets
+        •        I/O
+        •        Blocking
+        •        Using Network Sockets
+        •        Wire Protocols
+        •        Testing Client/Server Code
+22: Queues and Message-Passing        •        Two Models for Concurrency
+        •        Message Passing with Threads
+        •        Implementing Message Passing with Queues
+        •        Stopping
+        •        Thread Safety Arguments with Message Passing
+23: Locks and Synchronization        •        Synchronization
+        •        Deadlock
+        •        Developing a ThreadSafe Abstract Data Type
+        •        Locking
+        •        Monitor Pattern
+        •        Thread Safety Argument with Synchronization
+        •        Atomic Operations
+        •        Designing a Data Type for Concurrency
+        •        Deadlock Rears its Ugly Head
+        •        Goals of Concurrent Program Design
+        •        Concurrency in Practice
+24: Graphical User Interfaces        •        View Tree
+        •        How the View Tree is Used
+        •        Input Handling
+        •        Separating Frontend from Backend
+        •        Background Processing in Graphical User Interfaces
+25: Map, Filter, Reduce        •        Abstracting Out Control Flow
+        •        Map
+        •        Functions as Values
+        •        Filter
+        •        Reduce
+        •        Benefits of Abstracting Out Control
+        •        First-class Functions in Java
+        •        Map/Filter/Reduce in Java
+        •        Higher-order Functions in Java
+26: Little Languages        •        Representing Code as Data
+        •        Building Languages to Solve Problems
+        •        Music Language
+27: Team Version Control        •        Git Workflow
+        •        Viewing Commit History
+        •        Graph of Commits
+        •        Using Version Control as a Team
+",1
+Design and Analysis of Algorithms,"Techniques for the design and analysis of efficient algorithms, emphasizing methods useful in practice. Topics include sorting; search trees, heaps, and hashing; divide-and-conquer; dynamic programming; greedy algorithms; amortized analysis; graph algorithms; and shortest paths. Advanced topics may include network flow; computational geometry; number-theoretic algorithms; polynomial and matrix calculations; caching; and parallel computing.","Course Meeting Times
+Lectures: 2 sessions / week, 1.5 hours / session
+Recitations: 1 session / week, 1 hour / session
+Prerequisites
+This course is the header course for the Theory of Computation concentration. You are expected, and strongly encouraged, to have taken:
+* 6.006 Introduction to Algorithms
+* 6.042J / 18.062J Mathematics for Computer Science
+Petitions for waivers will be considered by the course staff. Students will be responsible for material covered in prerequisites.
+Course Description
+This course assumes that students know how to analyze simple algorithms and data structures from having taken 6.006. It introduces students to the design of computer algorithms, as well as analysis of sophisticated algorithms.
+Course Objectives
+Upon completion of this course, students will be able to do the following:
+* Analyze the asymptotic performance of algorithms.
+* Write rigorous correctness proofs for algorithms.
+* Demonstrate a familiarity with major algorithms and data structures.
+* Apply important algorithmic design paradigms and methods of analysis.
+* Synthesize efficient algorithms in common engineering design situations.
+Course Outcomes
+Students who complete the course will have demonstrated the ability to do the following:
+* Argue the correctness of algorithms using inductive proofs and invariants.
+* Analyze worst-case running times of algorithms using asymptotic analysis.
+* Describe the divide-and-conquer paradigm and explain when an algorithmic design situation calls for it. Recite algorithms that employ this paradigm. Synthesize divide-and-conquer algorithms. Derive and solve recurrences describing the performance of divide-and-conquer algorithms.
+* Describe the dynamic-programming paradigm and explain when an algorithmic design situation calls for it. Recite algorithms that employ this paradigm. Synthesize dynamic-programming algorithms, and analyze them.
+* Describe the greedy paradigm and explain when an algorithmic design situation calls for it. Recite algorithms that employ this paradigm. Synthesize greedy algorithms, and analyze them.
+* Explain the major graph algorithms and their analyses. Employ graphs to model engineering problems, when appropriate. Synthesize new graph algorithms and algorithms that employ graph computations as key components, and analyze them.
+* Explain the different ways to analyze randomized algorithms (expected running time, probability of error). Recite algorithms that employ randomization. Explain the difference between a randomized algorithm and an algorithm with probabilistic inputs.
+* Analyze randomized algorithms. Employ indicator random variables and linearity of expectation to perform the analyses. Recite analyses of algorithms that employ this method of analysis.
+* Explain what amortized running time is and what it is good for. Describe the different methods of amortized analysis (aggregate analysis, accounting, potential method). Perform amortized analysis.
+* Explain what competitive analysis is and to which situations it applies. Perform competitive analysis.
+* Compare between different data structures. Pick an appropriate data structure for a design situation.
+* Explain what an approximation algorithm is, and the benefit of using approximation algorithms. Be familiar with some approximation algorithms, including algorithms that are PTAS or FPTAS. Analyze the approximation factor of an algorithm.
+Textbook
+The primary written reference for the course is:
+￼
+ Cormen, Thomas, Charles Leiserson, et al. Introduction to Algorithms. 3rd ed. MIT Press, 2009. ISBN: 9780262033848. [Preview with Google Books]
+In previous semesters the course has used the first or second edition of this text. We will be using material and exercise numbering from the third edition, making earlier editions unsuitable as substitutes.
+Lectures and Recitations
+You are responsible for material presented in lectures, including oral comments made by the lecturer.
+You are also responsible for material presented in recitations. Attendance in recitation has been well correlated in the past with exam performance. Recitations also give you a more personalized opportunity to ask questions and interact with the course staff. Your recitation instructor, together with the lecturers, will assign your final grade.
+Grading Policy
+The final grade will be based on the problem sets, two evening quizzes, and a final given during final exam week.
+The grading breakdown is as follows:
+
+ACTIVITIES        PERCENTAGES
+Problem Sets        30%
+Quiz 1        20%
+Quiz 2        20%
+Final Exam        30%
+Although the problem sets account for only 20% of your final grade, you are required to at least attempt them. The following table shows the impact of failing to attempt problems:
+QUESTIONS        IMPACT
+0        None
+1        1/100 of a letter grade
+2        1/10 of a letter grade
+3        1/5 of a letter grade
+4        1/4 of a letter grade
+5        1/3 of a letter grade
+6        1/2 of a letter grade
+7        One letter grade
+8        Two letter grades
+9 or more        Fail the course
+Please observe that this table is for questions skipped, not problem sets.
+Collaboration Policy
+The goal of homework is to give you practice in mastering the course material. Consequently, you are encouraged to collaborate on problem sets. In fact, students who form study groups generally do better on exams than do students who work alone. If you do work in a study group, however, you owe it to yourself and your group to be prepared for your study group meeting. Specifically, you should spend at least 30–45 minutes trying to solve each problem beforehand. If your group is unable to solve a problem, talk to other groups or ask your recitation instructor.
+You must write up each problem solution by yourself without assistance, however, even if you collaborate with others to solve the problem. You are asked on problem sets to identify your collaborators. If you did not work with anyone, you should write “Collaborators: none.” If you obtain a solution through research (e.g., on the web), acknowledge your source, but write up the solution in your own words. It is a violation of this policy to submit a problem solution that you cannot orally explain to a member of the course staff.
+No collaboration whatsoever is permitted on quizzes or exams. Plagiarism and other dishonest behavior cannot be tolerated in any academic environment that prides itself on individual accomplishment. If you have any questions about the collaboration policy, or if you feel that you may have violated the policy, please talk to one of the course staff. Although the course staff is obligated to deal with cheating appropriately, we are more understanding and lenient if we find out from the transgressor himself or herself rather than from a third party or discover it on our own.
+
+LEC #        LECTURE NOTES        LECTURE NOTES (HANDWRITTEN)
+1        Overview, Interval Scheduling (PDF)        Overview, Interval Scheduling (PDF)
+2        Divide & Conquer: Convex Hull, Median Finding (PDF)        Divide & Conquer: Convex Hull, Median Finding (PDF)
+3        Divide & Conquer: FFT (PDF)        Divide & Conquer: FFT (PDF - 4.8MB)
+4        Divide & Conquer: Van Emde Boas Trees (PDF)        Divide & Conquer: Van Emde Boas Trees (PDF - 4.3MB)
+5        Amortization: Amortized Analysis (PDF)        Amortization: Amortized Analysis (PDF - 6.2MB)
+6        Randomization: Matrix Multiply, Quicksort (PDF)        Randomization: Matrix Multiply, Quicksort (PDF)
+7        Randomization: Skip Lists (PDF)        Randomization: Skip Lists (PDF)
+8        Randomization: Universal & Perfect Hashing (PDF)        Randomization: Universal & Perfect Hashing (PDF - 5.2MB)
+9        Augmentation: Range Trees (PDF)        Augmentation: Range Trees (PDF - 4.5MB)
+10        Dynamic Programming: Advanced DP (PDF)        Dynamic Programming: Advanced DP (PDF)
+11        Dynamic Programming: All-pairs Shortest Paths (PDF)        Dynamic Programming: All-pairs Shortest Paths 11 (PDF - 5.6MB)
+12        Greedy Algorithms: Minimum Spanning Tree (PDF)        Greedy Algorithms: Minimum Spanning Tree (PDF - 5.1MB)
+13        Incremental Improvement: Max Flow, Min Cut (PDF)        None
+14        Incremental Improvement: Matching (PDF)
+Baseball Elimination Notes (PDF)        None
+15        Linear Programming: LP, Reductions, Simplex (PDF)        Linear Programming: LP, Reductions, Simplex 15 (PDF)
+16        Complexity: P, NP, NP-completeness, Reductions (PDF)        Complexity: P, NP, NP-completeness, Reductions 16 (PDF - 8.1MB)
+17        Complexity: Approximation Algorithms (PDF)        Complexity: Approximation Algorithms (PDF)
+18        Complexity: Fixed-parameter Algorithms (PDF)        Complexity: Fixed-parameter Algorithms (PDF - 6.4MB)
+19        Synchronous Distributed Algorithms: Symmetry-breaking. Shortest-paths Spanning Trees (PDF)        None
+20        Asynchronous Distributed Algorithms: Shortest-paths Spanning Trees (PDF)        None
+21        Cryptography: Hash Functions (PDF)        Cryptography: Hash Functions (PDF)
+22        Cryptography: Encryption (PDF)        Cryptography: Encryption (PDF)
+23        Cache-oblivious Algorithms: Medians & Matrices (PDF)        Cache-oblivious Algorithms: Medians & Matrices 23 (PDF - 6.1MB)
+24        Cache-oblivious Algorithms: Searching & Sorting (PDF)        Cache-oblivious Algorithms: Searching & Sorting (PDF - 5.4MB)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+QUESTIONS        IMPACT
+0        None
+1        1/100 of a letter grade
+2        1/10 of a letter grade
+3        1/5 of a letter grade
+4        1/4 of a letter grade
+5        1/3 of a letter grade
+6        1/2 of a letter grade
+7        One letter grade
+8        Two letter grades
+9 or more        Fail the course
+Please observe that this table is for questions skipped, not problem sets.
+Collaboration Policy
+The goal of homework is to give you practice in mastering the course material. Consequently, you are encouraged to collaborate on problem sets. In fact, students who form study groups generally do better on exams than do students who work alone. If you do work in a study group, however, you owe it to yourself and your group to be prepared for your study group meeting. Specifically, you should spend at least 30–45 minutes trying to solve each problem beforehand. If your group is unable to solve a problem, talk to other groups or ask your recitation instructor.
+You must write up each problem solution by yourself without assistance, however, even if you collaborate with others to solve the problem. You are asked on problem sets to identify your collaborators. If you did not work with anyone, you should write “Collaborators: none.” If you obtain a solution through research (e.g., on the web), acknowledge your source, but write up the solution in your own words. It is a violation of this policy to submit a problem solution that you cannot orally explain to a member of the course staff.
+No collaboration whatsoever is permitted on quizzes or exams. Plagiarism and other dishonest behavior cannot be tolerated in any academic environment that prides itself on individual accomplishment. If you have any questions about the collaboration policy, or if you feel that you may have violated the policy, please talk to one of the course staff. Although the course staff is obligated to deal with cheating appropriately, we are more understanding and lenient if we find out from the transgressor himself or herself rather than from a third party or discover it on our own.
+",1
+Computer Systems Engineering,"Topics on the engineering of computer software and hardware systems: techniques for controlling complexity; strong modularity using client-server design, operating systems; performance, networks; naming; security and privacy; fault-tolerant systems, atomicity and coordination of concurrent activities, and recovery; impact of computer systems on society. Case studies of working systems and readings from the current literature provide comparisons and contrasts. Includes a single, semester-long design project. Students engage in extensive written communication exercises. Enrollment may be limited.","Course Meeting Times
+Lectures: 2 sessions / week, 1 hour / session
+Recitations: 2 sessions / week, 1 hour / session
+Tutorials: 1 session / week, 1 hour / session
+Prerequisites
+6.004 Computation Structures and 6.005 Software Construction or 6.009 Fundamentals of Programming
+Learning Objectives
+After completing this class, the students will be able to design their own distributed systems to solve real-world problems. The ability to design one’s own distributed system includes an ability to argue for one’s design choices.
+This primary objective is supported by a few others:
+* The students will be able to evaluate and critique existing systems, as well as their own system designs. As part of that, students will learn to recognize design choices made in existing systems.
+* The students will be able to apply the technical material taught in lecture to new system components. This implies an ability to recognize and describe:
+    * How common design patterns in computer system—such as abstraction and modularity—are used to limit complexity.
+    * How operating systems use virtualization and abstraction to enforce modularity.
+    * How the Internet is designed to deal with scale, a diversity of applications, and competing economic interests.
+    * How reliable, usable distributed systems are able to be built on top of an unreliable network.
+    * Common pitfalls in the security of computer systems, and how to combat them.
+Because this is a Communication Intensive in the Major (CI-M) class, students will also learn to communicate in forms that are common in the field of computer systems. This includes written design reports, oral presentations, and peer review.
+The communication instruction also supports the primary learning objective of designing systems. In the real world, we design systems in teams, and communication of many forms (written, oral, etc.) is part of that process.
+Required Text
+Saltzer, Jerome H. and M. Frans Kaashoek. Principles of Computer System Design: An Introduction, Part I. Morgan Kaufmann, 2009. ISBN: 9780123749574. [Preview with Google Books]
+The text supplements the lectures and recitations; it should be your first resource when you are confused by a lecture topic, or want more information.
+Part II of the textbook is available on MIT OpenCourseWare.
+Course Structure
+The course has three components: lectures, recitations, and tutorials. We expect you to attend all three, as they each serve a different purpose.
+1. Lectures
+Lectures are held on Mondays and Wednesdays for one hour. The lectures are designed to teach students the technical details necessary to design their own systems and to put those details in larger contexts: both the contexts of a specific area of systems as well as systems in general.
+This type of material appears in lectures because that’s what lectures are good at: giving a higher-level context for the details of the class.
+2. Recitations
+Recitations are held on Tuesdays and Thursdays for one hour. For the first recitation, attend whichever one you want. After that, you will be assigned a permanent section.
+Recitations are designed to give students a chance to practice their system-analysis and oral communication skills. Each recitation revolves around a particular paper in systems. Through reading these papers, students get a better sense of how communication in the field is done. Recitations are discussion-based; students get practice analyzing, critiquing, and communicating about systems.
+3. Writing Tutorials
+Writing tutorials are held on Fridays for one hour. We will assign your time slot during the first week of classes.
+Most of these tutorials will teach the communication theory and practices of this course and assist you in preparing for the assignments. You’ll become fluent in a variety of communication genres, develop strategies and skills needed to present technical concepts to different audiences, learn how to use writing to develop and deepen your technical understanding—and get specific, directed instruction on writing and presenting your assignments. A handful of the tutorials will be dedicated to discussing the design project.
+Late Policy
+You must hand in assignments when they are due, and you must attend quizzes at the scheduled times. If you feel you have a compelling reason for not handing in an assignment on time, or for not attending a quiz, please talk to Dr. LaCurts in advance.
+The only exception to this late policy is design project materials. For those, the late policy will be explicitly posted on each assignment.
+If you miss an assignment deadline, you should still hand in the assignment; we’ll give you feedback even though we won’t give you credit for your final grade. Furthermore, doing assignments is the best way to prepare for exams and design project. Unless otherwise specified, assignments are due at 5:00pm on their assigned due-date.
+Grade Components
+Each assignment supports the objectives of the class in various ways.
+Technical Material (35% of Grade)
+* Quizzes: One quiz is held during the term. A second quiz will be scheduled during finals week. Each quiz will focus on half of the class material, but keep in mind that later topics build heavily upon the earlier topics. The quizzes will test material from lectures, recitations, and the assigned reading and let us test whether students have mastered the technical material.
+* Hands-ons: During most weeks, you will be expected to complete a hands-on experiment that requires a computer. These reinforce some of the abstract concepts from the lectures or papers that week and let you find out how things really work. (Note: Hands-on experiments are not available to OCW users.)
+Communication + System Design and Analysis (40% of Grade)
+The staff has worked with the MIT Writing, Rhetoric, and Professional Communication (WRAP) program for more than 10 years to design the writing and speaking assignments. We have chosen assignments that are similar to the kinds of writing you will do in the engineering workplace: Preliminary reports, final reports, and presentations. Communication assignments are designed to help you conceptualize and develop the design project.
+* Design Project: The primary assignment in 6.033 is the design project (DP). This project is where the students get to design their own system, which is the primary objective of this course.
+The DP requires you to develop a detailed system design to solve a real-world problem. This project will extend over most of the semester, and will be done in teams of three students, all of whom attend the same writing tutorial (with exceptions only for extenuating circumstances). Real-world systems are not built individually; it’s always a team effort. Part of the DP is to learn to work productively and effectively in this setting. We will give you tools for doing so in the writing tutorials.
+The DP consists of multiple deliverables: a preliminary report, oral presentation, final report, and peer review. The Design Project page gives more detail about the DP deliverables.
+* System Critiques: One of the goals of this class is for students to be able to analyze and critique technical systems. We will assign multiple system critiques during the semester.
+These critiques will be graded by your Teaching Assistants (TAs) and/or Communication Instructors and assigned a letter grade (we will specify more details about grading in each of the assignments). The expectations for each individual critique will be detailed in the tutorials. As your skills at analyzing and reading technical papers improve throughout the semester, we will expect your critiques to reflect that.
+Participation (25% of Grade)
+* Recitation Participation: Our recitations are discussion-based, and we expect you to be engaged and participate. Participating in a recitation means:
+    * Coming prepared to recitation (doing the reading, turning in the pre-reading question etc.)
+    * Paying attention when the instructor is speaking (you can’t participation in a discussion if you don’t know what it’s about)
+    * Participating (verbally) in pair-/group-work
+    * Volunteering to answer questions when the instructor asks them. (Note that you may not get called on each time. That’s okay; our class sizes prevent that. Statistically, if you’re raising your hand frequently, you’ll get called on with some frequency.)
+    * Responding to other student’s comments with an opinion of their own.
+    * Asking good questions in recitation (where “good” just means it’s clear that you prepared for the recitation).
+We will assign the participation grade in two parts: one for the first half of the semester, one for the second half of the semester. We will also give you preliminary grades for each of these (one about a quarter into the semester, one about three quarters into the semester), so that you know where you stand and have time to improve. This document explains in more detail how your participation grade is determined.
+Communication Participation: A portion of your participation grade will also be based on your participation in writing tutorials and on your understanding of communication concepts and skills, as demonstrated by your work on the design project and evaluated by your communication instructor.
+Note that over a third of your grade comes from written assignments; we expect you to take writing seriously in this class.
+Grading
+The class consists of three components: technical material, communication/system design and analysis, and participation. Each of these components comprises roughly one third of your grade, according to the following breakdown:
+
+ACTIVITIES        PERCENTAGES
+Technical Material 30% for Quizzes (two @ 15% each) 5% for Hands-Ons        35%
+Communication + System Design and Analysis 10% for Design Project (DP) Preliminary Report and Presentation
+20% for DP report
+4% for DP Peer Review
+6% for Critiques (Critique #1 =2%, Critique #2 = 4%)        40%
+Participation 20% for Recitation Participation
+5% for Communication Participation        25%
+You must complete all design project assignments in order to pass 6.033. If you do not, you will automatically receive an F.
+Collaboration Policy
+You may not collaborate on quizzes. On hands-ons, it’s okay to discuss ideas with your classmates, but you should not be collaborating on the actual answers. Take the UNIX hands-on for example: it’s okay to talk to your classmates about what pipes are, it’s not okay to work together to come up with a command that gives a long listing of the smallest given files in the /etc directory whose name contains the string “.conf”, sorted by increasing file size (i.e., the solution to one of the first questions).
+On all writing assignments you are welcome to discuss ideas with others, but your writing should be your own and you should acknowledge all contributions of ideas by others, whether from classmates or from papers you have read.
+
+Design Project Overview
+The primary assignment in 6.033 is the design project. This project is where the students get to design their own system, which is the primary objective of this course.
+The design project requires you to develop a detailed system design to solve a real-world problem. This project will extend over most of the semester and will be done in teams of three students, all of whom attend the same writing tutorial (with exceptions for extenuating circumstances). The project will involve a preliminary report, an oral presentation, an extended final report, and a peer review. The feedback we give on your preliminary report and presentation will aid in writing your final report.
+Your design project will be done in teams of three. Real-world systems are not built individually; it’s always a team effort. Part of the design project assignment is to learn to work productively and effectively in this setting. We will give you tools for doing so in the writing tutorials.
+The Preliminary Report for the design project will be evaluated by your Recitation Instructor and your Tutorial Instructor. Your Tutorial Instructor will evaluate it according to the grading rubric and assign a letter grade. Your Recitation Instructor will evaluate the preliminary report to make sure your design is on the right track; you should incorporate their feedback into the presentation and report. 
+The Presentation will be graded by your Recitation Instructor. Your presentation should reflect the feedback you got on your preliminary report; feedback on your presentation should inform your final report. We will release guidelines for the presentation as the due date gets nearer, but in general, your presentation will focus on any changes you have made since the preliminary report, rather than re-capping the entire system. 
+The presentation will receive a grade of check, check+, or check-. A check+ will move your preliminary report grade up one letter, a check- will move it down one letter, and a check will not change it. (E.g., if you receive a B on the preliminary report, and a check+ on the presentation, your “preliminary report + presentation” grade is an A.) Together with your preliminary report, this will be worth 10% of your final grade.
+The Final Report will also be graded by your Recitation Instructor and will receive a letter grade. This will be worth 20% of your final grade.
+The Peer Review will be graded by your Tutorial Instructor and Teaching Assistant and will receive a letter grade. This will be worth 4% of your final grade.
+Deliverables
+Below are all DP deliverables and related material. The dates deliverables are assigned and due are available on the course calendar.
+* Design Project Description (PDF)
+* Design Project FAQ (PDF)
+* Design Project Errata (PDF)
+* Preliminary Report Assignment (PDF)
+* Presentation Assignment (PDF) (Evaluation Tips (PDF))
+* Final Report Assignment (PDF)
+* Final Report Rubric (PDF)
+* Peer Review Assignment (PDF)
+Examples of Past Design Projects
+These writing examples were created by MIT students taking 6.033 in a previous iteration of the course. For an overview of the assignment, please view the Relevant DP Spec (PDF).
+DP Preliminary Report
+* Fast Track Preliminary Report (PDF)
+* MassRTTC Preliminary Report (PDF)
+DP Final Report
+* Fast Track Final Report (PDF)
+* MassRTTC Final Report (PDF)
+",1
+Theory of Computation,"A more extensive and theoretical treatment of the material in 6.1400J/18.400J, emphasizing computability and computational complexity theory. Regular and context-free languages. Decidable and undecidable problems, reducibility, recursive function theory. Time and space measures on computation, completeness, hierarchy theorems, inherently complex problems, oracles, probabilistic computation, and interactive proof systems.","Course Meeting Times
+Lectures: 2 sessions / week, 1.5 hours / session
+Recitations: 1 session / week, 1 hour / session
+Prerequisites
+* 6.042J Mathematics for Computer Science
+* 18.200 Principles of Discrete Applied Mathematics
+Course Description
+This course emphasizes computability and computational complexity theory. Topics include regular and context-free languages, decidable and undecidable problems, reducibility, recursive function theory, time and space measures on computation, completeness, hierarchy theorems, inherently complex problems, oracles, probabilistic computation, and interactive proof systems.
+Course Outline
+* Automata and Language Theory (2 weeks)
+    * Finite automata, regular expressions, push-down automata, context-free grammars, pumping lemmas.
+* Computability Theory (3 weeks)
+    * Turing machines, the Church-Turing thesis, decidability, the halting problem, reducibility, the recursion theorem.
+* Complexity Theory (7 weeks)
+    * Time and space measures of complexity, complexity classes P, NP, L, NL, PSPACE, BPP and IP, complete problems, the P versus NP conjecture, quantifiers and games, hierarchy theorems, provably hard problems, relativized computation and oracles, probabilistic computation, interactive proof systems.
+Online Course Format
+This course is offered entirely online while the MIT campus is shut down due to the Covid-19 pandemic. Lectures are offered live online via Zoom. The lectures are also recorded for viewing at a later time to accomodate students who cannot participate in the live lectures due to time-zone differences or other reasons. Weekly TA-led recitations are offered both live online and in person, at various times.
+Following student recommendations, we can de-emphasize (but not eliminate) the midterm and final exams by adding graded live mini-quizzes for credit during the lectures, to be conducted via Zoom’s polling feature. For students viewing a recorded lecture, an alternate timed and graded recorded mini-quiz will be available, but it must be completed within 24 hours of the original live lecture. Students may chose whether to take the live mini-quiz or the recorded mini-quiz on a lecture-by-lecture basis, and if both are taken for any given lecture, the higher score will be used. We expect that all students will complete the exams and mini-quizzes on their own individually, without assistance from others.
+Textbook
+Sipser, Michael. Introduction to the Theory of Computation. 3rd ed. Cengage Learning, 2012. ISBN: 9781133187790.
+You may use the second edition, but it is missing some additional practice problems. Errata for 2nd edition of textbook.
+We will cover Chapters 1, 2 (except 2.4), 3, 4, 5, 6.1, 7, 8, 9.1, 9.2, 10.2 (except the part on Primality), and 10.4 through Theorem 10.33.
+Recitations
+Recitations are primarily for going over lecture material in more detail with additional examples and for answering questions. Recitation attendance is optional, and you may attend any recitation you wish. BUT, if you are having trouble, we expect you to attend recitations weekly, and active participation may improve low grades.
+Grading
+ACTIVITIES        PERCENTAGES
+Homework        35%
+Quizzes        25%
+Midterm Exam        15%
+Final Exam        25%
+Homework
+35% of grade. There will be 6 biweekly problem sets. Cooperating on homework is allowed and may be helpful, but you are strongly encouraged to spend some time thinking about each problem yourself first. Solutions must be written up individually (not copied). Using course bibles or other outside or online materials is not permitted.
+Quizzes
+25% of grade. Given during each live lecture and following each recorded lecture.
+Exams
+One midterm (15% of grade) during a class session and one final exam (25% of grade) during finals week. The exams are both open book and open notes. You may only use the class textbook and notes you took in lectures and in recitation.
+
+This course is taught using Professor Sipser’s textbook:
+Sipser, Michael. Introduction to the Theory of Computation. 3rd ed. Cengage Learning, 2012. ISBN: 9781133187790.
+We will cover Chapters 1, 2 (except 2.4), 3, 4, 5, 6.1, 7, 8, 9.1, 9.2, 10.2 (except the part on Primality), and 10.4 through Theorem 10.33.
+
+LEC #        TOPICS        READINGS
+1        Introduction, Finite Automata, Regular Expressions        Section 1.1
+2        Nondeterminism, Closure Properties, Regular Expressions → Finite Automata        Sections 1.2 and 1.3
+3        The Regular Pumping Lemma, Finite Automata → Regular Expressions, CFGs        Sections 1.4, 2.0, and 2.1
+4        Pushdown Automata, CFG ↔ PDA        Section 2.2
+5        The CF Pumping Lemma, Turing Machines        Sections 2.3 and 3.1
+6        TM Variants, the Church-Turing Thesis        Sections 3.2 and 3.3
+7        Decision Problems for Automata and Grammars        Section 4.1
+8        Undecidability        Section 4.2
+9        Reducibility        Section 5.1
+10        The Computation History Method        Section 5.2
+11        The Recursion Theorem and Logic        Sections 6.1 and 6.2
+12        Time Complexity        Section 7.1
+13        Midterm Exam        [no readings]
+14        P and NP, SAT, Poly-time Reducibility        Sections 7.2 and 7.3
+15        NP-Completeness        Section 7.5
+16        Cook-Levin Theorem        Section 7.4
+17        Space Complexity, PSPACE, Savitch’s Theorem        Sections 8.1 and 8.2
+18        PSPACE-Completeness        Section 8.3
+19        Games, Generalized Geography        Section 8.3
+20        L and NL, NL = coNL        Section 8.4
+21        Hierarchy Theorems        Section 9.1
+22        Provably Intractable Problems, Oracles        Section 9.2
+23        Probabilistic Computation, BPP        Section 10.2
+24        Probabilistic Computation (cont.)        Section 10.2
+25        Interactive Proof Systems, IP        Section 10.4
+26        coNP ⊆ IP        Section 10.4
+",1
+Database Systems,"Topics related to the engineering and design of database systems, including data models; database and schema design; schema normalization and integrity constraints; query processing; query optimization and cost estimation; transactions; recovery; concurrency control; isolation and consistency; distributed, parallel and heterogeneous databases; adaptive databases; trigger systems; pub-sub systems; semi structured data and XML querying. Lecture and readings from original research papers. Semester-long project and paper. Students taking graduate version complete different assignments. Enrollment may be limited.","Course Meeting Times
+Lectures: 2 sessions / week, 1.5 hours / session
+Overview
+This course is designed to introduce graduate students to the foundations of database systems, focusing on basics such as the relational algebra and data model, query optimization, query processing, and transactions. This is not a course on database design or SQL programming (though we will discuss these issues briefly). It is designed for students who have taken 6.033 (or equivalent); no prior database experience is assumed, though students who have taken an undergraduate course in databases are encouraged to attend.
+Classes will consist of lectures and discussions based on readings from the database literature. For 6.830, there will be a semester-long project, as well as two exams and 7 additional assignments — 3 Java-based programming “labs” and 4 problem sets. For 6.814, exams and assignments are the same as 6.830, but instead of the semester project, there will be 2 additional labs.
+Lectures
+Attendance at lectures is mandatory and you are expected to show up prepared to answer questions and participate in discussion.
+Topics Covered
+Topics related to the engineering and design of database systems, including: data models; database and schema design; schema normalization and integrity constraints; query processing; query optimization and cost estimation; transactions; recovery; concurrency control; isolation and consistency; distributed, parallel, and heterogeneous databases; adaptive databases; trigger systems; key-value stores; object-relational mappings; streaming databases; DB as a service. Lecture and readings from original research papers. 6.830 includes semester-long project and paper.
+Prerequisites
+Students should have taken 6.033 Introduction to Systems or equivalent as well as 6.006 Introduction to Algorithms or equivalent. If you do not have experience in these subjects and would like to take the course, please contact the instructor. Prior database experience is not required.
+Units
+3-0-9. 6.830 is a Grad-H class. It counts as an engineering concentration (EC) subject in Systems. For Area II Ph.D. students in EECS, it satisfies the Systems Technical Qualifying Exam requirement.
+6.814 is an undergraduate class designed to satisfy the Advanced Undergraduate Subject requirement in the EECS curriculum. It counts as an engineering concentration (EC) subject in Systems.
+Grading
+Grades are assigned based on labs, homeworks, 2 quizzes, final project (for 6.830), and class participation. The grading breakdown is as follows:
+6.830
+
+ACTIVITIES        PERCENTAGES
+Assignments (problem sets, labs)        35% total
+Exams        20% each
+Final project        20%
+Class participation        5%
+6.814
+
+ACTIVITIES        PERCENTAGES
+Assignments (problem sets, labs)        50% total
+Exams        20% each
+Class participation        10%
+Each student is allowed 3 “late days”, each of which may be used to turn in one problem set or lab one class meeting later than it is due without penalty. After all three late days are used, assignments will be docked one letter grade for each class meeting they are late.
+Late days may not be used for the final project, lab 5 or exams. Regardless of late days, problem sets must be handed in before problem set solutions are posted, usually a week after the problem set is due.
+Collaboration Policy
+For problem sets and labs, you are allowed to discuss your answers with other students, but please write up your own answers and list your collaborators. Copying solutions from other students is never allowed. For the group project you will work in teams and hand in only one written report.
+Text
+The course readings will primarily be drawn from the following sources:
+￼
+ Hellerstein, Joseph, and Michael Stonebraker. Readings in Database Systems (The Red Book). 4th ed. MIT Press, 2005. ISBN: 9780262693141.
+Ramakrishnan, Raghu, and Johannes Gehrke. Database Management Systems. 3rd ed. McGraw-Hill, 2002. ISBN: 9780072465631.
+Note that the 3rd edition of Readings in Database Systems is a substantially different text (it does not include the same readings as the 4th edition.)
+Supplemental Readings
+Please see the Readings section for other readings and discussion questions.
+6.033 is a prerequisite. You may wish to review the 6.033 class notes, especially during our discussion of transactions and logging.
+
+
+CC = Carlo Curino MS = Michael Stonebraker
+
+LEC #        TOPICS        KEY DATES
+1        Introduction (CC)        
+2        The relational model (MS)        Problem set 1 out
+3        Schema design (MS)        
+4        Introduction to database internals (CC)        Problem set 1 due
+Lab 1 out
+5        Database operators and query processing (CC)        
+6        Indexing and access methods (CC)        Problem set 2 out
+Project teams due
+7        Buffer pool design and memory management (CC)        Lab 1 due
+Lab 2 out
+8        Join algorithms (CC)        
+9        Query optimization (CC)        
+10        Transactions and locking (MS)        Problem set 2 due
+11        Optimistic concurrency control (MS)        Project proposal due
+Lab 2 due
+        Exam 1        
+12        Recovery (MS)        Lab 3 out
+13        Recovery (MS)        
+14        Degrees of consistency (MS)        Problem set 3 out
+15        C-store
+Guest lecture: Sam Madden, MIT CSAIL        Lab 3 due
+16        Distributed transactions (CC)        Lab 4 out (6.814)
+17        Parallel databases (CC)        
+18        Scientific databases (MS)        
+19        NOSQL (CC)        
+20        ORM, DryadLINQ (CC)        Lab 4 due (6.814)
+21        Streaming databases (MS)        Problem set 3 due
+Lab 5 out (6.814)
+        Exam 2        
+22        Database as a service (CC)        
+23        Final project presentations        Final project due (6.830)
+Lab 5 due (6.814)
+A large portion (20%) of your grade in 6.830 consists of a final project. This project is meant to be a substantial independent research or engineering effort related to material we have studied in class. Your project may involve a comparison of systems we have read about, an application of database techniques to a system you are familiar with, or be a database-related project in your research area.
+This document describes what is expected of a final project and proposes some possible project ideas.
+What Is Expected
+Good class projects can vary dramatically in complexity, scope, and topic. The only requirement is that they be related to something we have studied in this class and that they contain some element of research — e.g., that you do more than simply engineer a piece of software that someone else has described or architected. To help you determine if your idea is of reasonable scope, we will arrange to meet with each group several times throughout the semester.
+What to Hand In
+There are two written deliverables, a project proposal and a final report.
+Project Proposal: The proposal should consist of 1-2 pages describing the problem you plan to solve, outlining how you plan to solve it, and describing what you will “deliver” for the final project. We will arrange short meetings with every group before the project proposal to help you refine your topic and would be happy to provide feedback on a draft of your proposal before it is due.
+Final Report: You should prepare a conference-style report on your project with maximum length of 15 pages (10 pt font or larger, one or two columns, 1 inch margins, single or double spaced — more is not better). Your report should introduce and motivate the problem your project addresses, describe related work in the area, discuss the elements of your solution, and present results that measure the behavior, performance, or functionality of your system (with comparisons to other related systems as appropriate.)
+Because this report is the primary deliverable upon which you will be graded, do not treat it as an afterthought. Plan to leave at least a week to do the writing, and make sure you proofread and edit carefully!
+Please submit a paper copy of your report. You will also be expected to give a presentation on your project in class that will provide an opportunity for you to present a short demo of your work and show what you have done to other students in the class. Details about the format of the presentation will be posted as the date gets closer.
+Project Ideas
+The following is a list of possible project ideas; you are not required to choose from this list — in fact, we encourage you to try to solve a problem of your own choosing! If you are interested in working on one of these projects, contact the instructors and we can put you in touch with students and others around MIT working on these ideas. Note that these are not meant to be complete project proposals, but just suggestions for areas to explore — you will need to flesh them out into complete projects by talking with your group members, the course staff, and graduate students working on these projects.
+1. Being able to compare performance of different DBMSs and different storage and access techniques is vital for the database community. To this purpose several synthetic benchmark has been designed and adopted over time (see TPC-C, TPC-H etc…). Wikipedia open source application, and publicly available data (several TB!!), provide a great starting point to develop a benchmark based on real-world data. Moreover, we obtained from the Wikimedia foundation 10% of 4 months of Wikipedia accesses (roughly 20 billion HTTP requests!). The project will consists in using this real-world data, queries and access patterns to design one of the first benchmarks based on real-world data.
+2. Amazon RDS is a database service provided within the EC2 cloud. An interesting project consists in investigating performance and scalability characteristics of Amazon RDS. Also since RDS services run in a virtualized environment, studying the “stability” and “isolation” of the performance offered is interesting.
+3. Hosted database services such as Amazon RDS, Microso SQL Azure are starting to become popular. It is still unclear what is the performance impact of running applications on a local (non-hosted) platform, such as a local enterprise datacenter, while having the data hosted “in the cloud”. An interesting project aim at investigating the performance impact for different classes of applications e.g., OLAP, OLTP, Web.
+4. Performance monitoring is an important portion of data-center and database management. An interesting project consists in developing a monitoring interface for MySQL, capable of monitoring multiple nodes, reporting both DBMS internal statistics, and OS-level statistics (CPU, RAM, DIsk), potentially automating the detection of saturation of resources.
+5. Being able to predict cpu/mem/disk load of database machines can enable “consolidation”, i.e., the co-location of multiple DB within a smaller set of physical servers. We have an interesting set of data from real-world data-centers, the project would consist in investigating machine-learning and other predictive techniques on such real-world data.
+6. Flash memories are very promising technologies, providing lower latency for random operations. However, they have a series of unusual restrictions and performance. An interesting project investigates the performance impact of using flash memories for DB applications.
+7. Often database assume data to be stored on a local disk, however data stored on network file systems can allow for easier administration, and is rather common in enterprises using SAN or NAS storage systems. The project will investigate the impact of local-vs-networked storage on query performance.
+8. Partition-aware object-relational mapping. Many programmers seem to prefer object-relational mapping (ORM) layers such as like Ruby on Rails or Hibernate to a traditional ODBC/JDBC interface to a database. In the H-store Project we have been studying performance benefits that can be obtained in a “partitonable” database, where the tables can be cleanly partitioned according to some key attribute (for example, customer-id), and queries are generally run over just one partition. The goal of this project would be to study how to exploit partitioning to improve the performance of a distributed ORM layer.
+9. Twitter provides a fire hose of data. Automatically filtering, aggregating, analyzing such data can allow a way to harness the full value of the data, extracting valuable information. The idea of this project is investigating stream processing technology to operate on social streams.
+10. Client-side database. Build a Javascript library that client-side Web applications can use to access a database; the idea is to avoid the painful way in which current client-side application have to use the XMLHttpRequest interface to access server-side objects asynchronously. This layer should cache objects on the client side whenever possible, but be backed by a shared, server-side database system.
+11. As a related project, HTML5 browsers (including WebKit, used by Safari and Chrome), include a client-side SQL API in JavaScript. This project would involve investigating how to user such a database to improve client performance, offload work from the server, etc.
+12. Preventing denial-of-service attacks on database systems. Databases are a vulnerable point in many Web sites, because it is often possible for attackers to make some simple request that causes the Web site to issue queries asking the database to do a lot of work. By issuing a large number of such requests, and attacker can effectively issue a denial of service attack against the Web site by disabling the database. The goal of this project would be to develop a set of techniques to counter this problem — for example, one approach might be to modify the database scheduler so that it doesn’t run the same expensive queries over and over.
+13. Auto-admin tools to recommend indices, etc. Design a tool that recommends a set of indices to build given a particular workload and a set of statistics in a database. Alternatively investigate the question of which materialized views to create in a data-warehousing system, such as
+14. Scientific community data management requirements significantly differ from regular web/enterprise ones. To this purpose a specialized DB is currently being developed named: SciDB. Studying performance of SciDB on dedicated servers vs. on virtualized environment such as EC2 is an intriguing topic. Another interesting investigation would cover the impact on SciDB performance of storing the data over the network (e.g., network file system). A third interesting project would explore the performance of clustering algorithms on SciDB vs. MapReduce.
+15. Asynchronous Database Access. Client software interacts with standard SQL databases via a blocking interface like ODBC or JDBC; the client sends SQL, waits for the database to process the query, and receives an answer. A non-blocking interface would allow a single client thread to issue many parallel queries from the same thread, with potential for some impressive performance gains. This project would investigate how this would work (do the queries have to be in different transactions? what kind of modification would need to be made to the database) and would look at the possible performance gains in some typical database benchmarks or applications.
+16. Extend SimpleDB. SimpleDB is very simple. There are a number of ways you might extend it to explore some of the research ideas we have studied in this class. For example, you could add support for optimistic concurrency control and compare its performance to the basic concurrency control scheme you will implement in Problem Set 3. There are a number of other possible projects of this type; we would be happy to discuss these in more detail.
+17. CarTel. In the CarTel project, we are building a system for collecting and managing data from automobiles. There are several possible CarTel related projects: * One of the features of CarTel is a GUI for browsing geo-spatial data collected from cars. We currently have a primitive interface for retrieving parts of the data that are of interest, but developing a more sophisticated interface or query language for browsing and exploring this data would make a great project. * One of the dangers with building a system like CarTel is that it collects relatively sensitive personal information about users location and driving habits. Protecting this information from casual browsers, insurance companies, or other undesired users is important. However, it is also important to be able to combine different users data together to do things like intelligent route planning or vehicle anomaly detection. The goal of this project would be to find a way to securely perform certain types of aggregate queries over CarTel data without exposing personally identifiable information. * We have speed and position data from the last year for 30 taxi cabs on the Boston streets. Think of something exciting you could do with this.
+18. Rollback of long-running or committed transactions. Database systems typically only support UNDO of committed transactions, but there are cases where it might be important to rollback already committed transactions. One approach is to use user-supplied compensating actions, but there may be other models that are possible, or it may be possible to automatically derive such compensating action for certain classes of transactions.
+",1
+Computational Systems Biology: Deep Learning in the Life Sciences,"Presents innovative approaches to computational problems in the life sciences, focusing on deep learning-based approaches with comparisons to conventional methods. Topics include protein-DNA interaction, chromatin accessibility, regulatory variant interpretation, medical image understanding, medical record understanding, therapeutic design, and experiment design (the choice and interpretation of interventions). Focuses on machine learning model selection, robustness, and interpretation. Teams complete a multidisciplinary final research project using TensorFlow or other framework. Provides a comprehensive introduction to each life sciences problem, but relies upon students understanding probabilistic problem formulations. Students taking graduate version complete additional assignments.","Course Meeting Times
+Lectures: 2 sessions / week, 1.5 hours / session
+Recitations: 1 session / week, 1 hour / session
+Prerequisites
+6.006 Introductions to Algorithms
+6.041SC Probabilistic Systems Analysis and Applied Probability
+7.01SC Fundamentals of Biology
+Description
+This course covers the algorithmic and machine learning foundations of computational biology combining theory with practice. We cover both foundational topics in computational biology, and current research frontiers. We study fundamental techniques, recent advances in the field, and work directly with current large-scale biological datasets.
+* Genomes: Biological sequence analysis, hidden Markov models, gene finding, comparative genomics, RNA structure, sequence alignment, hashing
+* Networks: Gene expression, clustering / classification, EM / Gibbs sampling, motifs, Bayesian networks, microRNAs, regulatory genomics, epigenomics
+* Evolution: Gene / species trees, phylogenomics, coalescent, personal genomics, population genomics, human ancestry, recent selection, disease mapping
+In addition to the technical material in the course, the term project provides practical experience doing these things:
+* Writing an National Institutes of Health (NIH)-style research proposal
+* Reviewing peer proposals
+* Planning and carrying out independent research
+* Presenting research results orally in a conference setting
+* Writing results in a journal-style scientific paper
+Grading
+
+
+
+
+
+
+
+
+
+
+ACTIVITIES        PERCENTAGES
+Problem sets        30%
+Quiz        20%
+Final Project        40%
+Scribing        10%
+Problem Sets
+There will be five problem sets during the semester, each including 3–5 problems for all students and a lab problem which is optional for undergraduate students. The problem sets will include both theoretical and programming problems. For programming problems, we provide skeleton code in Python, but you are welcome to write solutions in any language.
+Quiz
+There will be one quiz, in class, which will cover all material covered up to that point. There will be no final exam. The quiz will include true / false questions, short answer questions, practical problems using algorithms covered in class, and one or two problems extending ideas seen in class.
+Final Project
+Students will work on a final project with deliverables due at several milestones during the term as marked on the course schedule. The first part of the term will be spent identifying a topic relevant to the course materials, planning the project, writing an NIH-style proposal, and reviewing the proposals of your peers. The second part of the term will be focused on completing the project, writing the report, and presenting the results. Details of what is expected by each milestone will be posted on the course website.
+You may either work alone or with one partner; however, teams and graduate students will be expected to undertake more ambitious projects. Part of the final project grade will depend on the challenge and originality of your project.
+We anticipate projects of a few types:
+* Identify a biological problem, gather relevant datasets, design and implement new algorithms, apply the methods, and interpret the results.
+* Rigorously compare several algorithms which solve the same biological problem in terms of their performance and the quality of their outputs on synthetic and real data sets.
+Scribing
+Each student will contribute to the scribe notes, which are chapters of the course textbook. Several students may be assigned to work together on a single lecture / chapter depending on course enrollment. As a scribe, you are expected to do the following:
+1. Before the lecture, familiarize yourself with the materials.
+2. During the lecture take note of ideas covered in lecture which are missing or explained poorly in the text, questions asked in lecture which are not answered in the text, digressions from the lecture material which are worth elaborating on, figures / illustrations which are confusing or missing important elements, etc.
+3. After the lecture, edit the text to address the points you identify.
+Textbooks
+The course textbook is the compiled scribe notes. The entire course textbook is available in the readings section.
+You may also find the following optional texts helpful:
+Durbin, Richard, Sean R. Eddy, Anders Krogh, et al. Biological Sequence Analysis: Probabilistic Models of Proteins and Nucleic Acids. Cambridge University Press, 1998.
+￼
+ Jones, Neil C., and Pavel Pevzner. An Introduction to Bioinformatics Algorithms. MIT Press, 2004. ISBN: 9780262101066. [Preview on Google Books]
+Duda, Richard O., Peter E. Hart, and David G. Stork. Pattern Classification. John Wiley & Sons, 2003. ISBN: 9789814126021.
+Recitations
+Recitations will be held on Fridays, during which we will both review the lecture material and discuss additional aspects of it. Since there is only one recitation section, we will not be able to accommodate all scheduling conflicts. Therefore, attendance is not mandatory. Material in the recitation notes may appear on the quiz.
+Collaboration Policy
+You are welcome to collaborate on problem sets and the final project. However:
+* You must work independently on each problem before you discuss it with others.
+* You must write the solutions on your own.
+* You must acknowledge outside sources and collaborators.
+Overview
+The final project is divided into several milestones due over the course of the semester. The first two milestones will get you thinking about problems you are interested in and classmates you may want to collaborate with. The first milestone is included in the problem sets; however, the subsequent milestones are separate assignments. This overview lists some resources for finding project topics and outlines the criteria that will be used to evaluate your project.
+
+MILESTONES        DUE DATES
+Project Profile
+Describe your previous research, areas of interest in computational biology, type of project that best fits your interests. Post in a profile that lets your classmates know you and find potential partners.        Lecture 6
+Literature Search and Pre-Proposal
+Identify previous project proposals, recent papers, and potential partners that match your areas of interest. List initial project ideas and partners.        Lecture 8
+Formal Proposal
+Form teams of two, specify project goals, division of work, milestones, datasets, challenges. Prepare slide presentation for the class and the mentors.        Recitation 6
+Peer Review
+Evaluate / discuss three peer proposals, NIH review format.        Recitation 7
+Review Response
+Address peer evaluations, revise aims, scope, list of final deliverables / goals.        Lecture 17
+Midterm Progress Report
+Continue making substantial progress on proposed milestones. Write outline of final report.        Quiz date
+Final Report
+Complete your milestones, finalize results, figures, write-up in conference publication format. As part of report, comment on your overall project experience.        Recitation 11
+Project Presentations
+Conference format slide presentation        Final presentation dates
+Proposal Guidelines
+Write an National Institutes of Health (NIH) research proposal for your project describing your specific aims, research strategy, and resources. Follow the latest guidelines (available at the URLs below), making sure to adhere to the page limits.
+Restructured Application Forms and Instructions for Submissions for Funding
+Details of Application Changes for Research Grants and Cooperative Agreements (PDF)
+In the resources section, be sure to discuss what datasets you are going to use (and how you are going to gain access to them if they are not public), what computational resources you will use (especially for computationally intensive projects), and who you plan to ask for advice (mentors from the the instructor’s lab, other faculty, etc.). Also be sure to identify relevant course lectures to help us (and your peers) evaluate the relevance of your project.
+Groups must include a collaboration plan specifying the roles of individual investigators and how they will coordinate their activities.
+Your proposal must also include milestones projecting when you will complete each of your specific aims (including what will be done by the mid-course report), how you will measure progress, and the expected results for the final report.
+Selecting a Final Project
+The first part of any research project is coming up with a good, innovative, concrete, and feasible idea. There is no single recipe for getting a good idea for a project, and our best ideas frequently come in unexpected ways. While you are brainstorming, there are several resources available: During lectures, we will discuss several research directions that can be pursued as final projects. Going through your notes can give you more ideas. The second half of the semester will be guest lectures on current research. Guest lecture notes from last year can give you more details on most of these and can help you build your own research projects. The problem sets will provide possible starting points for projects that extend the algorithms and programs you have already written in new research directions. And of course, browsing recent publications in Nature, Science, PLoS Biology, Genome Research, Nucleic Acids Research, PNAS, PLoS Computational Biology, the Journal of Computational Biology, PubMed, and Google Scholar is a great way to get ideas of recent research ideas, datasets, and results that you can expand upon for your project.
+Peer Review Guidelines
+Peer reviews are designed to provide two benefits: first, feedback from others can improve the innovation or feasibility of your project. Second, thinking critically about other proposals exposes you to new areas of computational biology and enhances your research and project-planning ability.
+Each project proposal will be anonymously reviewed by multiple reviewers who will score on both NIH grant criteria and the course project criteria. We expect reviewers to score proposals impartially even if they recognize proposals based on the topic or background of the investigators. Review panels will discuss the proposals they have received, after which review panels will collaboratively write reviews. We will assign primary and secondary reviewers based on background, but each student will be a primary reviewer at most once.
+_Review Panels_
+Panel discussions will be led by the primary reviewer assigned, who will summarize the proposal and its strengths and weaknesses. All reviewers will share their comments and scores and explain their rationales. Although we anticipate reviewers changing their scores after the discussion, reviewers must explicitly say if the score they felt was appropriate is outside the range of scores shared by the panel and justify it.
+_Written Reviews_
+In a written review, give a score (1–5) for each of the five NIH core review criteria (reproduced below) and each of the five course project criteria (listed below). Justify each score by identifying the strengths and weaknesses of the proposal in that category and give constructive comments to improve the proposal. Note that “1” should stand for completely unsatisfactory, “3” should stand for acceptable, and “5” should stand for exemplary.
+Submit a single zip file containing one PDF document for each proposal you reviewed as a primary reviewer named proposal#review.pdf (for example, proposal1review.pdf). Do not include your name in your reviews.
+NIH Core Review Criteria
+* Significance: Does the project address an important problem or a critical barrier to progress in the field? If the aims of the project are achieved, how will scientific knowledge, technical capability, and / or clinical practice be improved? How will successful completion of the aims change the concepts, methods, technologies, treatments, services, or preventative interventions that drive this field?
+* Investigator(s): Are the PD / PIs, collaborators, and other researchers well suited to the project? If Early Stage Investigators or New Investigators, do they have appropriate experience and training? If established, have they demonstrated an ongoing record of accomplishments that have advanced their field(s)? If the project is collaborative or multi-PD / PI, do the investigators have complementary and integrated expertise; are their leadership approach, governance and organizational structure appropriate for the project?
+* Innovation: Does the application challenge and seek to shift current research or clinical practice paradigms by utilizing novel theoretical concepts, approaches or methodologies, instrumentation, or interventions? Are the concepts, approaches or methodologies, instrumentation, or interventions novel to one field of research or novel in a broad sense? Is a refinement, improvement, or new application of theoretical concepts, approaches or methodologies, instrumentation, or interventions proposed?
+* Approach: Are the overall strategy, methodology, and analyses well-reasoned and appropriate to accomplish the specific aims of the project? Are potential problems, alternative strategies, and benchmarks for success presented? If the project is in the early stages of development, will the strategy establish feasibility and will particularly risky aspects be managed? If the project involves clinical research, are the plans for
+1. protection of human subjects from research risks, and
+2. inclusion of minorities and members of both sexes / genders, as well as the inclusion of children, justified in terms of the scientific goals and research strategy proposed?
+* Environment: Will the scientific environment in which the work will be done contribute to the probability of success? Are the institutional support, equipment and other physical resources available to the investigators adequate for the project proposed? Will the project benefit from unique features of the scientific environment, subject populations, or collaborative arrangements?
+Grading Criteria
+* Originality: How original is the idea? Note that we don’t expect every project to solve a previously unsolved problem. But we do expect projects to introduce some new computational idea to whatever problem they tackle (as illustrated in the lectures).
+* Challenge: How challenging was the project? Although we don’t expect every project to develop a brand-new algorithm, we do expect projects to do more than just apply off-the-shelf bioinformatics tools.
+* Relevance: Is the problem relevant to the course? Are you using ideas discussed in the course? Is this something that we could have used as an example in one of the lectures? Or is this only a vaguely justifiable tangential connection of something you were working on already?
+* Achievement: What did you actually accomplish in your project? What is your contribution to the field? Note that what you accomplished will be weighed against what you proposed to do and how challenging it was going to be, so be sure to pick a small enough, concrete problem which is still interesting.
+* Presentation: Did you effectively convey your research problem and your key ideas? In your written report, remember that you are writing for an audience of computational biologists. Be sure to make explicit what your contributions were not just in terms of figures and tables, but more importantly in terms of the ideas (biological or computational) which generated them. In your oral presentation, remember you are speaking to an audience of your peers and that you have stringent time limits. You must get your key ideas across, so do not feel obligated to show all of your results. Instead, prioritize the ones which demonstrate the intuition behind your approach.
+Readings are from the course textbook, which has been transcribed and compiled by students in this course over many years. The instructions for student “scribes,” and the templates they used, are linked below.
+* Scribing Guide (PDF)
+* Scribe Templates (ZIP) (This zip file contains: 1 .sh file and 2 .txt files.)
+The entire course textbook is available, courtesy of the professor and the students.
+Kellis, Manolis, ed. Computational Biology: Genomes, Networks, Evolution. MIT course 6.047 / 6.878. 2016 (PDF - 43.5MB).
+
+LEC #        TOPICS        READINGS
+1        Introduction: Course Overview, Biology, Algorithms, Machine Learning        Chapter 1: Introduction to the Course
+        •        1.1 Introduction and Goals
+        •        1.2 Final Project: Introduction to Research in Computational Biology
+        •        1.3 Additional Materials
+        •        1.4 Crash Course in Molecular Biology
+        •        1.5 Introduction to Algorithms and Probabilistic Inference
+2        Alignment I: Dynamic Programming, Global and Local Alignment        Chapter 2: Sequence Alignment and Dynamic Programming
+        •        2.1 Introduction
+        •        2.2 Aligning Sequences
+        •        2.3 Problem Formulations
+        •        2.4 Dynamic Programming
+        •        2.5 The Needleman-Wunsch Algorithm
+        •        2.6 Multiple Alignment
+        •        2.7 Current Research Directions
+        •        2.8 Further Reading
+        •        2.9 Tools and Techniques
+        •        2.10 What Have We Learned?
+        •        2.11 Appendix
+3        Alignment II: Database Search, Rapid String Matching, BLAST, BLOSUM        Chapter 3: Rapid Sequence Alignment and Database Search
+        •        3.1 Introduction
+        •        3.2 Global Alignment vs. Local Alignment vs. Semi-global Alignment
+        •        3.3 Linear-time Exact String Matching
+        •        3.4 The BLAST (Basic Local Alignment Search Tool) Algorithm
+        •        3.5 Pre-processing for Linear-time String Matching
+        •        3.6 Probabilistic Foundations of Sequence Alignment
+        •        3.7 Current Research Directions
+        •        3.8 Further Readings
+        •        3.9 Tools and Techniques
+        •        3.10 What Have We Learned?
+4        Hidden Markov Models Part 1: Evaluation / Parsing, Viterbi, Forward Algorithms        Chapter 7: Hidden Markov Models I
+        •        7.1 Introduction
+        •        7.2 Motivation
+        •        7.3 Markov Chains and HMMS: From Example to Formalizing
+        •        7.4 Apply HMM to Real World: From Casino to Biology
+        •        7.5 Algorithmic Settings for HMMs
+        •        7.6 An Interesting Question: Can We Incorporate Memory in Our Model?
+        •        7.7 Further Reading
+        •        7.8 Current Research Directions
+        •        7.9 Tools and Techniques
+        •        7.10 What Have We Learned?
+5        Hidden Markov Models Part 2: Posterior Decoding, Learning, Baum-Welch        Chapter 8: Hidden Markov Models II-Posterior Decoding and Learning
+        •        8.1 Review of Previous Lecture
+        •        8.2 Posterior Decoding
+        •        8.3 Encoding Memory in an HMM: Detection of CpG Islands
+        •        8.4 Learning
+        •        8.5 Using HMMs to Align Sequences with Affine Gap Penalties
+        •        8.6 Current Research Directions
+        •        8.7 Further Reading
+        •        8.8 Tools and Techniques
+        •        8.9 What Have We Learned?
+6        Transcript Structure: GENSCAN, RNA-seq, Mapping, De Novo Assembly, Diff Expr        Chapter 12: Large Intergenic Non-coding RNAs
+        •        12.3 Practical Topic: RNAseq
+7        Expression Analysis: Clustering / Classification, K-Means, Hierarchical, Bayesian        Chapter 15: Gene Regulation 1: Gene Expression Clustering
+        •        15.1 Introduction
+        •        15.2 Methods for Measuring Gene Expression
+        •        15.3 Clustering Algorithms
+        •        15.4 Current Research Directions
+        •        15.5 Further Reading
+        •        15.6 Resources
+        •        15.7 What Have We Learned? 
+Chapter 16: Gene Regulation 2: Classification
+        •        16.1 Introduction
+        •        16.2 Classification - Bayesian Techniques
+        •        16.3 Classification Support Vector Machines
+        •        16.4 Tumor Classification with SVMs
+        •        16.5 Semi-Supervised Learning
+        •        16.6 Current Research Directions
+        •        16.7 Further Reading
+        •        16.8 Resources
+8        Networks I: Bayesian Inference, Deep Learning, Network Dynamics        Chapter 20: Networks I Inference, Structure, Spectral Methods
+        •        20.1 Introduction
+        •        20.2 Network Centrality Measures
+        •        20.3 Linear Algebra Review
+        •        20.4 Sparse Principal Component Analysis
+        •        20.5 Network Communities and Modules
+        •        20.6 Network Diffusion Kernels
+        •        20.7 Neural Networks
+        •        20.8 Open Issues and Challenges
+        •        20.9 Current Research Directions
+        •        20.10 Further Reading
+        •        20.11 Tools and Techniques
+        •        20.12 What Have We Learned?
+Chapter 21: Regulatory Networks: Inferences, Analysis, Application
+        •        21.1 Introduction
+        •        21.2 Structure Inference
+        •        21.3 Overview of the OGM Learning Task
+        •        21.4 Applications of Networks
+        •        21.5 Structural Properties of Networks
+        •        21.6 Network Clustering
+9        Networks II: Network Learning, Structure, Spectral Methods        
+10        Regulatory Motifs: Discovery, Representation, PBMs, Gibbs Sampling, EM        Chapter 17: Regulatory Motifs, Gibbs Sampling, and EM
+        •        17.1 Introduction to Regulatory Motifs and Gene Regulation
+        •        17.2 Expectation Maximization
+        •        17.3 Gibbs Sampling: Sample from Joint (M, Zjj) Distribution
+        •        17.4 De Novo Motif Discovery
+        •        17.5 Evolutionary Signatures for Instance Identification
+        •        17.6 Phylogenies, Branch Length Score, Confidence Score
+        •        17.7 Possibly Deprecated Stuff Below
+        •        17.8 Comparing Different Methods
+        •        17.9 OOPS, ZOOPS, TCM
+        •        17.10 Extension of the EM Approach
+        •        17.11 Motif Representation and Information Content
+11        Epigenomics: ChIP-Seq, Read Mapping, Peak Calling, IDR, Chromatin States        Chapter 19: Epigenomics / Chromatin States
+        •        19.1 Introduction
+        •        19.2 Epigenetic Information in Nucleosomes
+        •        19.3 Epigenomic Assays
+        •        19.4 Primary Data Processing of ChIP Data
+        •        19.5 Annotating the Genome Using Chromatin Signatures
+        •        19.6 Current Research Directions
+        •        19.7 Further Reading
+        •        19.8 Tools and Techniques
+        •        19.9 What Have We Learned?
+12        RNA Modifications: RNA Editing, Translation Regulation, Splicing Regulation        Chapter 11: RNA Modifications
+        •        11.1 Introduction
+        •        11.2 Post-transcriptional Regulation
+        •        11.3 Current Research Directions
+        •        11.4 Further Reading
+        •        11.5 Tools and Techniques
+        •        11.6 What Have We Learned?
+13        Resolving Human Ancestry and Human History from Genetic Data        Chapter 29: Population History
+        •        29.1 Introduction
+        •        29.2 Quick Survey of Human Genetic Variation
+        •        29.3 African European Gene Flow
+        •        29.4 Gene Flow on the Indian Subcontinent
+        •        29.5 Gene Flow Between Archaic Human Populations
+        •        29.6 European Ancestry and Migrations
+        •        29.7 Tools and Techniques
+        •        29.8 Further Directions
+        •        29.9 Further Reading
+14        Disease Association Mapping, GWAS, Organismal Phenotypes        Chapter 31: Medical Genetics-The Past to the Present
+        •        31.1 Introduction
+        •        31.2 Goals of Investigating the Genetic Basis of Disease
+        •        31.3 Mendelian Traits
+        •        31.4 Complex Traits
+        •        31.5 Genome-wide Association Studies
+        •        31.6 Current Research Directions
+        •        31.7 Further Reading
+        •        31.8 Tools and Techniques
+        •        31.9 What Have We Learned?
+15        Quantitative Trait Mapping, Molecular Traits, eQTLs        Chapter 32: Variation 2: Quantitative Trait Mapping, eQTLs, Molecular Trait Variation
+        •        32.1 Introduction
+        •        32.2 eQTL Basics
+        •        32.3 Structure of an eQTL Study
+        •        32.4 Current Research Directions
+        •        32.5 What Have We Learned?
+        •        32.6 Further Reading
+        •        32.7 Tools and Resources
+16        Missing Heritability, Complex Traits, Interpret GWAS, Rank-based Enrichment        Chapter 33: Missing Heritability
+        •        33.1 Introduction
+        •        33.2 Current Research Directions
+        •        33.3 Further Reading
+        •        33.4 Tools and Techniques
+        •        33.5 What Have We Learned?
+17        Comparative Genomics and Evolutionary Signatures        Chapter 4: Comparative Genomics I: Genome Annotation
+        •        4.1 Introduction
+        •        4.2 Conservation of Genomic Sequences
+        •        4.3 Excess Constraint
+        •        4.4 Diversity of Evolutionary Signatures: An Overview of Selection Patterns
+        •        4.5 Protein-coding Signatures
+        •        4.6 MicroRNA (miRNA) Gene Signatures
+        •        4.7 Regulatory Motifs
+        •        4.8 Current Research Directions
+        •        4.9 Further Reading
+        •        4.10 Tools and Techniques
+        •        4.11 Bibliography
+18        Phylogenetics: Molecular Evolution, Tree Building, Phylogenetic Inference        Chapter 27: Molecular Evolution and Phylogenetics
+        •        27.1 Introduction
+        •        27.2 Basics of Phylogeny
+        •        27.3 Distance Based Methods
+        •        27.4 Character Based Methods
+        •        27.5 Possible Theoretical and Practical Issues with Discussed Approach
+        •        27.6 Towards Final Project
+        •        27.7 What Have We Learned?
+19        Phylogenomics: Gene / Species Trees, Reconciliation, Recombination Graphs        Chapter 28: Phylogenomics II
+        •        28.1 Introduction
+        •        28.2 Inferring Orthologs / Paralogs, Gene Duplication and Loss
+        •        28.3 Reconstruction
+        •        28.4 Modeling Population and Allele Frequencies
+        •        28.5 SPIDIR
+        •        28.6 Ancestral Recombination Graphs
+        •        28.7 Conclusion
+        •        28.8 Current Research Directions
+        •        28.9 Further Reading
+        •        28.10 Tools and Techniques
+        •        28.11 What Have We Learned?
+20        Personal Genomics, Disease Epigenomics: Systems Approaches to Disease        Chapter 34: Personal Genomes, Synthetic Genomes, Computing in C vs. Si
+        •        34.1 Introduction
+        •        34.2 Reading and Writing Genomes
+        •        34.3 Personal Genomes
+        •        34.4 Current Research Directions
+        •        34.5 Further Reading
+        •        34.6 Tools and Techniques
+        •        34.7 What Have We Learned?
+Chapter 36: Cancer Genomics
+        •        36.1 Introduction
+        •        36.2 Characterization
+        •        36.3 Interpretation
+        •        36.4 Current Research Directions
+        •        36.5 Further Reading
+        •        36.6 Tools and Techniques
+        •        36.7 What Have We Learned?
+21        Three-Dimensional Chromatin Interactions: 3C, 5C, HiC, ChIA-Pet        Chapter 30: Population Genetic Variation
+        •        30.1 Introduction
+        •        30.2 Population Selection Basics
+        •        30.3 Genetic Linkage
+        •        30.4 Natural Selection
+        •        30.5 Human Evolution
+        •        30.6 Current Research
+        •        30.7 Further Reading
+22        Genome Engineering with CRISPR / Cas9 and Related Technologies        
+",1
+Machine Learning,"6.867 is an introductory course on machine learning which gives an overview of many concepts, techniques, and algorithms in machine learning, beginning with topics such as classification and linear regression and ending up with more recent topics such as boosting, support vector machines, hidden Markov models, and Bayesian networks. The course will give the student the basic ideas and intuition behind modern machine learning methods as well as a bit more formal understanding of how, why, and when they work. The underlying theme in the course is statistical inference as it provides the foundation for most of the methods covered.
+","Course Meeting Times
+Lectures: 2 sessions / week, 1.5 hours / session
+A list of topics covered in the course is presented in the calendar.
+Description
+This introductory course gives an overview of many concepts, techniques, and algorithms in machine learning, beginning with topics such as classification and linear regression and ending up with more recent topics such as boosting, support vector machines, hidden Markov models, and Bayesian networks. The course will give the student the basic ideas and intuition behind modern machine learning methods as well as a bit more formal understanding of how, why, and when they work. The underlying theme in the course is statistical inference as it provides the foundation for most of the methods covered.
+Problem Sets
+There will be a total of 5 problem sets, due roughly every two weeks. The content of the problem sets will vary from theoretical questions to more applied problems. You are encouraged to collaborate with other students while solving the problems but you will have to turn in your own solutions. Copying will not be tolerated. If you collaborate, you must indicate all of your collaborators.
+Each problem set will be graded by a group of students with the guidance of your TAs. Each problem set will be graded in a single grading session, usually on the first Monday after it is due, starting at 5pm. Every student is required to participate in one grading session. You should sign up for grading by contacting a TA, by email or in person; doing it early increases the chances of getting the preferred grading schedule. Students who do not register for grading by the third week of the course, will be assigned to a problem set by us.
+If you drop the class after signing up for a grading session, please be sure to let us know so we can keep track of students available for grading. If you add the class during the term, please remember to sign up for grading.
+Exams
+There will be two in-class exams, a midterm midway through the term and a final the last day of class.
+Project
+You are required to complete a class project. The choice of the topic is up to you so long as it clearly pertains to the course material. To ensure that you are on the right track, you will have to submit a one paragraph description of your project a month before the project is due. Similarly to problem sets, you are encouraged to collaborate on the project. We expect a four page write-up about the project, which should clearly and succinctly describe the project goal, methods, and your results. Each group should submit only one copy of the write-up and include all the names of the group members (a two person group will have 6 pages, a three person group will have 8 pages, and so on). The projects will be graded on the basis of your understanding of the overall course material (not based on, e.g., how brilliantly your method works). The scope of the project is about 1-2 problem sets.
+The projects are due in Lec #23. Electronic submission is required but we can accept only postscript or pdf documents. The short proposal should be turned in on or before Lec #12.
+The projects can be literature reviews, theoretical derivations or analyses, applications of machine learning methods to problems you are interested in, or something else (to be discussed with course staff).
+Grading
+Your overall grade will be determined roughly as follows:
+
+
+
+
+
+
+
+
+
+
+ACTIVITIES        PERCENTAGES
+Midterm        15%
+Problem sets        30%
+Final        25%
+Project        30%
+Text
+There are a number of useful texts for this course but each covers only some part of the class material.
+Bishop, Christopher. Neural Networks for Pattern Recognition. New York, NY: Oxford University Press, 1995. ISBN: 9780198538646.
+Duda, Richard, Peter Hart, and David Stork. Pattern Classification. 2nd ed. New York, NY: Wiley-Interscience, 2000. ISBN: 9780471056690.
+Hastie, T., R. Tibshirani, and J. H. Friedman. The Elements of Statistical Learning: Data Mining, Inference and Prediction. New York, NY: Springer, 2001. ISBN: 9780387952840.
+MacKay, David. Information Theory, Inference, and Learning Algorithms. Cambridge, UK: Cambridge University Press, 2003. ISBN: 9780521642989. Available on-line here.
+Mitchell, Tom. Machine Learning. New York, NY: McGraw-Hill, 1997. ISBN: 9780070428072.
+You are responsible for the material covered in lectures (most of which will appear in lecture notes in some form), problem sets, as well as material specifically made available and indicated for this purpose. The weekly recitations/tutorials will be helpful in understanding the material and solving the homework problems.
+Recommended Citation
+For any use or distribution of these materials, please cite as follows:
+Tommi Jaakkola, course materials for 6.867 Machine Learning, Fall 2006. MIT OpenCourseWare (http://ocw.mit.edu/), Massachusetts Institute of Technology. Downloaded on [DD Month YYYY].
+Calendar
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+LEC #        TOPICS        KEY DATES
+1        Introduction, linear classification, perceptron update rule        
+2        Perceptron convergence, generalization        
+3        Maximum margin classification        
+4        Classification errors, regularization, logistic regression        Problem set 1 out
+5        Linear regression, estimator bias and variance, active learning        
+6        Active learning (cont.), non-linear predictions, kernals        Problem set 1 due
+7        Kernal regression, kernels        Problem set 2 out
+8        Support vector machine (SVM) and kernels, kernel optimization        
+9        Model selection        Problem set 2 due
+10        Model selection criteria        
+        Midterm        
+11        Description length, feature selection        Problem set 3 out 3 days before Lec #11
+12        Combining classifiers, boosting        
+13        Boosting, margin, and complexity        Problem set 3 due
+Problem set 4 out
+14        Margin and generalization, mixture models        
+15        Mixtures and the expectation maximization (EM) algorithm        
+16        EM, regularization, clustering        Problem set 4 due
+17        Clustering        
+18        Spectral clustering, Markov models        Problem set 5 out
+19        Hidden Markov models (HMMs)        
+20        HMMs (cont.)        
+21        Bayesian networks        
+22        Learning Bayesian networks        Problem set 5 due
+23        Probabilistic inference
+Guest lecture on collaborative filtering        Projects due
+        Final        
+24        Current problems in machine learning, wrap up        Exams back
+The choice of topic for the class project is up to you so long as it clearly pertains to the course material. It is fine to select a topic that is related to your area of research so long as you can isolate a part that is not carried out in collaboration with people outside the class. You are encouraged to collaborate on the project but this is by no means required. We expect a four page write-up about the project, which should clearly and succinctly describe the project goal, methods, and your results. You can refer to (and provide) supplementary material if you wish but the 4-page description should be detailed enough so that the project can be graded only on the basis of the write-up. A two person group will have 6 pages, a three person group will have 8 pages, and so on. The page limit and at least 11pt font is necessary (and will be enforced) to ensure that we will be able to read through everyone’s project carefully. Each group should submit only one copy of the write-up and include all the names of the group members. The projects will be graded on the basis of your understanding of the overall course material (not based on, e.g., how brilliantly your method works). The scope of the project is about 1-2 problem sets.
+The projects are due during Lec #23. Electronic submission is required but we can accept only postscript or pdf documents.
+The projects can be literature reviews, theoretical derivations or analyses, applications of machine learning methods to problems you are interested in, or something else (to be discussed with course staff).
+Here are Some Examples
+* Apply/Develop a machine learning method to solve a specific problem
+    * A machine learning approach to classifying your incoming mail
+    * Predict stock prices based on past price variation
+    * Predict how people would rate movies, books, etc.
+    * Cluster gene expression data, how to modify existing methods to solve the problem better
+* Surveys/Reviews
+    * Complexity of classifiers, different concepts, comparison
+    * Algorithmic stability, which methods have stability guarantees, and where could we apply these concepts
+    * Collaborative filtering, what methods are available to solve collaborative filtering problems, in which context have they been found effective
+    * Machine learning methods for genomic data, are they effective, what is missing
+    * Calibration, which methods are calibrated, how to modify a method so as to improve calibration
+* Theoretical problems
+    * Generalization guarantees for a specific algorithm (ask us)
+    * Learnability of specific concept classes (ask us)
+    * Convergence/consistency of a specific estimation method (ask us)
+
+",1
+Architectural Construction And Computation,"This class investigates the use of computers in architectural design and construction. It begins with a pre-prepared design computer model, which is used for testing and process investigation in construction. It then explores the process of construction from all sides of the practice: detail design, structural design, and both legal and computational issues.","Syllabus
+Course Meeting Times
+Lectures: 2 sessions / week, 2 hours / session
+Course Description
+This class investigates the use of computers in architectural design and construction. It begins with a pre-prepared design computer model, which is used for testing and process investigation in construction. It then explores the process of construction from all sides of the practice: detail design, structural design, and both legal and computational issues.
+Course Organization
+* Lectures
+* Assignments
+* One Final Presentation
+Course Policies
+1. Students are expected to complete both the assignments to full completion for a grade.
+2. Assignments later than one week after the due date will loose one letter grade.
+3. Assignments will be accepted more than 2 weeks after the assignment date.
+Assignments
+There will be a total of 2 assignments plus one final project. Each assignment is broken into weekly goals.
+Grading
+Due to the size of the class and the fact that we are working in teams your fellow classmates will have a hand in determining your individual final grade. Each team of four will individually evaluate the other three team members after the final presentation in December. Your final grade will be determined as a variation of the overall grade for the team. For example, if your team receives a B as the average grade for the semester and your teammates qualify you to have contributed to the team your personal grade for the semester will be a B+ or an A. If you slack off or minimally contribute to your teams efforts you will receive a B- or a C. Since everyone has a specific role to play on your team individual contributions should be evident at reviews. Please talk to us early if irreconcilable disputes occur we would like to address them sooner rather than later.
+ACTIVITIES        PERCENTAGES
+Attendance and Participation in Class (Full Participation in all Aspects of the Course)        30%
+Assignments        50%
+Final Project        20%
+
+WEEK #        TOPICS        KEY DATES
+Traditional Design and Construction                
+1        Introduction to Traditional Design        
+2        Field Trip        Construction methods due
+3        Presentation on Design        Wall section design due
+4        Presentation on Construction        Wall section construction due
+Computer Controlled Design and Construction                
+5        CNC Construction        
+6        Presentation on Design        Construction methods due
+7        Field Trip - Sargent Wood Products        Wall section design due
+8        Presentation on Construction        Wall section construction due
+Final Construction                
+9        Student Proposal Presentations        
+10        Student Final Presentations        Final presentation
+",1

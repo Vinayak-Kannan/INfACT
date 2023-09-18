@@ -1,0 +1,75 @@
+Title,Description,Syllabus,Credits
+INTRODUCTION TO DATABASES,"Prerequisites: (COMS W3134) or (COMS W3137) or (COMS W3136) and fluency in Java); or the instructor's permission. The fundamentals of database design and application development using databases: entity-relationship modeling, logical design of relational databases, relational data definition and manipulation languages, SQL, XML, query processing, physical database tuning, transaction processing, security. Programming projects are required.",,3
+ARTIFICIAL INTELLIGENCE,"Prerequisites: (COMS W3134 or COMS W3136 or COMS W3137) and any course on probability. Prior knowledge of Python is recommended. Provides a broad understanding of the basic techniques for building intelligent computer systems. Topics include state-space problem representations, problem reduction and and-or graphs, game playing and heuristic search, predicate calculus, and resolution theorem proving, AI systems and languages for knowledge representation, machine learning and concept formation and other topics such as natural language processing may be included as time permits.",,3
+NATURAL LANGUAGE PROCESSING,"Prerequisites: (COMS W3134 or COMS W3136 or COMS W3137) or the instructors permission. Computational approaches to natural language generation and understanding. Recommended preparation: some previous or concurrent exposure to AI or Machine Learning. Topics include information extraction, summarization, machine translation, dialogue systems, and emotional speech. Particular attention is given to robust techniques that can handle understanding and generation for the large amounts of text on the Web or in other large corpora. Programming exercises in several of these areas.",,3
+FUND-LARGE-SCALE DIST SYS,"Prerequisites: (COMS W3134 or COMS W3136 or COMS W3137) and (COMS W3157 or COMS W4118 or CSEE W4119) Design and implementation of large-scale distributed and cloud systems. Teaches abstractions, design and implementation techniques that enable the building of fast, scalable, fault-tolerant distributed systems. Topics include distributed communication models (e.g. sockets, remote procedure calls, distributed shared memory), distributed synchronization (clock synchronization, logical clocks, distributed mutex), distributed file systems, replication, consistency models, fault tolerance, distributed transactions, agreement and commitment, Paxos-based consensus, MapReduce infrastructures, scalable distributed databases. Combines concepts and algorithms with descriptions of real-world implementations at Google, Facebook, Yahoo, Microsoft, LinkedIn, etc.",,3
+COMPUTING IN ECONOMICS,"Introduction to elementary computing concepts and Python programming with domain-specific applications. Shared CS concepts and Python programming lectures with track-specific sections. Track themes will vary but may include computing for the social sciences, computing for economics and finance, digital humanities, and more. Intended for nonmajors. Students may only receive credit for one of ENGI E1006 or COMS W1002.",,3
+DATA STRUCTURES IN JAVA,"Prerequisites: (COMS W1004) or knowledge of Java. Data types and structures: arrays, stacks, singly and doubly linked lists, queues, trees, sets, and graphs. Programming techniques for processing such structures: sorting and searching, hashing, garbage collection. Storage management. Rudiments of the analysis of algorithms. Taught in Java. Note: Due to significant overlap, students may receive credit for only one of the following three courses: COMS W3134, COMS W3136, COMS W3137.",,3
+COMPUTER SCIENCE THEORY,"Prerequisites: (COMS W3203) Corequisites: COMS W3134,COMS W3136,COMS W3137 Regular languages: deterministic and non-deterministic finite automata, regular expressions. Context-free languages: context-free grammars, push-down automata. Turing machines, the Chomsky hierarchy, and the Church-Turing thesis. Introduction to Complexity Theory and NP-Completeness.",,3
+PROGRAMMING LANG & TRANSL,"Prerequisites: (COMS W3134 or COMS W3136 or COMS W3137) and (COMS W3261) and (CSEE W3827) or equivalent, or the instructors permission. Modern programming languages and compiler design. Imperative, object-oriented, declarative, functional, and scripting languages. Language syntax, control structures, data types, procedures and parameters, binding, scope, run-time organization, and exception handling. Implementation of language translation tools including compilers and interpreters. Lexical, syntactic and semantic analysis; code generation; introduction to code optimization. Teams implement a language and its compiler.",,3
+COMPUTER GRAPHICS,"Prerequisites: (COMS W3134) or (COMS W3136) or (COMS W3137) COMS W4156 is recommended. Strong programming background and some mathematical familiarity including linear algebra is required. Introduction to computer graphics. Topics include 3D viewing and projections, geometric modeling using spline curves, graphics systems such as OpenGL, lighting and shading, and global illumination. Significant implementation is required: the final project involves writing an interactive 3D video game in OpenGL.",,3
+USER INTERFACE DESIGN,"Prerequisites: (COMS W3134 or COMS W3136 or COMS W3137) Introduction to the theory and practice of computer user interface design, emphasizing the software design of graphical user interfaces. Topics include basic interaction devices and techniques, human factors, interaction styles, dialogue design, and software infrastructure. Design and programming projects are required.",,3
+MACHINE LEARNING,"Prerequisites: Any introductory course in linear algebra and any introductory course in statistics are both required. Highly recommended: COMS W4701 or knowledge of Artificial Intelligence. Topics from generative and discriminative machine learning including least squares methods, support vector machines, kernel methods, neural networks, Gaussian distributions, linear classification, linear regression, maximum likelihood, exponential family distributions, Bayesian networks, Bayesian inference, mixture models, the EM algorithm, graphical models and hidden Markov models. Algorithms implemented in MATLAB.",,3
+ADVANCED PROGRAMMING,"Prerequisites: (COMS W3134) or (COMS W3137) C programming language and Unix systems programming. Also covers Git, Make, TCP/IP networking basics, C++ fundamentals.",,4
+INTRUSION DETECTION SYSTEM,"Corequisite: COMS 4180W. The state of threats against computers, and networked systems. An overview of computer security solutions and why they fail. Provides a detailed treatment for Network and Host-based Intrusion Detection and Intrusion Prevention systems. Considerable depth is provided on anomaly detection systems to detect new attacks. Covers issues and problems in email (spam, and viruses) and insider attacks (masquerading and impersonation).",,3
+INTRO TO INFORMATION SCIENCE,"Basic introduction to concepts and skills in Information Sciences: human-computer interfaces, representing information digitally, organizing and searching information on the internet, principles of algorithmic problem solving, introduction to database concepts, and introduction to programming in Python.",,3
+COMPUTING IN ECONOMICS,"Introduction to elementary computing concepts and Python programming with domain-specific applications. Shared CS concepts and Python programming lectures with track-specific sections. Track themes will vary but may include computing for the social sciences, computing for economics and finance, digital humanities, and more. Intended for nonmajors. Students may only receive credit for one of ENGI E1006 or COMS W1002.",,3
+"INTRO-COMPUT SCI/PROG IN JAVA
+","A general introduction to computer science for science and engineering students interested in majoring in computer science or engineering. Covers fundamental concepts of computer science, algorithmic problem-solving capabilities, and introductory Java programming skills. Assumes no prior programming background. Columbia University students may receive credit for only one of the following two courses: 1004 or 1005.","COMS W1004 - Introduction to Computer Science and Programming in Java
+
+General Course Information
+Fall 2023
+
+Lectures:
+
+Section 1: Mondays and Wednesdays from 2:40pm to 3:55pm in Room 309 Havemeyer Hall.  Also available via Zoom:
+https://columbiauniversity.zoom.us/j/96796128116?pwd=eTk5eXdsWkJONVZCbHNEQzRhWWZaUT09
+Section 2: Mondays and Wednesdays from 5:40pm to 6:55pm in Room 417 International Affairs Building  Also available via Zoom:
+https://columbiauniversity.zoom.us/j/96604870336?pwd=WEJnNXFWSjhXWkl0YzVQczk5MjhVZz09
+Course Description:
+
+A general introduction to computer science for science and engineering students interested in majoring in computer science or engineering. Covers fundamental concepts of computer science, algorithmic problem-solving capabilities, and introductory Java programming skills. Assumes no prior programming background.
+
+Instructor:
+
+Paul Blaer (pblaer@cs.columbia.edu)
+
+Office Hours are posted on the front page of courseworks.
+
+Teaching Assistants:
+
+All TA/CA office hours on listed calendar.  A small number of office hours will be held online and will be marked on the calendar as such along with their Zoom link.  
+
+TA/CA contact information and office hours can be found on the homepage.
+
+Required Textbooks:
+
+Cay Horstmann, Big Java: Early Objects, 7th Edition. Wiley, 2015, ISBN: 978-1-119-49909-1
+Grading: 
+
+Your course grade will be based on 10 homework assignments (50%), a midterm exam (20%) and a final exam (30%). 
+
+Tentative Course Schedule:
+
+Week 1 - Introduction, algorithmic problem solving.
+Week 2 - More on algorithmic problem solving.  The Java programming language.
+Week 3 - Writing and using classes.
+Week 4 - The String class.  Representing information.
+Week 5 - Iteration and conditionals. 
+Week 6 - More on writing classes.  
+Week 7 - Introduction to Arrays and ArrayLists.
+Week 8 - More an Arrays and ArrayLists and Generics
+Week  9 - Reading and writing files, IO and Exceptions
+Week 10 - More on exceptions and Inheritance
+Week 11 - More on Inheritance and Interfaces
+Week 12 - Recursion, Recursive Algorithms, and an Introduction to Generics
+Week 13 - An introduction to Data Structures and Linked Lists
+Exam Schedule:  
+
+There will be two exams  a midterm and a final exam.  Both exams are in person only. The midterm exam will be held during a regular class session, it is scheduled in place of lecture on Wednesday, October 18th.  The final exam is 2 hours and 50 minutes long and will be held during the registrar assigned exam slot. The registrar has not finalized the exam schedule for the semester yet, however based on the projected schedule section 1's final exam is expected to be held from 1:10pm to 4pm on Wednesday, December 20th and section 2's final exam is expected to be held from 4:10pm to 7pm also on Wednesday, December 20th. 
+
+Homework:
+
+There are 10 homework assignments - roughly 1 assignment will be due each week.  Half are programming assignments and half are written assignments. You will be given 8 late days (more than one minute late is considered a whole day).  You may use up to 2 late days on each individual assignment (up to a maximum of 8 across all assignments that allow late days).  There is one exception:  the final pair of assignments (9 and 10) may not be submitted late.
+
+All homework must be done individually. Please review the Computer Science Department's policy on academic honesty.",3
