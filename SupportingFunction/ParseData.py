@@ -1,8 +1,13 @@
 import openai
 import pandas as pd
+from dotenv import dotenv_values
+from langchain.text_splitter import RecursiveCharacterTextSplitter
+from openai.embeddings_utils import get_embedding, cosine_similarity
 
 
 def parse_scraped_data():
+    config = dotenv_values("/Users/vinayakkannan/Desktop/INfACT/Script/SupportingFunction/.env")
+    openai.api_key = config.get("SECRET_KEY")
     baseDF = create_dataframe()
     skillDF = pd.DataFrame(columns=['Skill', 'Explanation', 'Related Course', 'Credits'])
     knowledgeDF = pd.DataFrame(columns=['Skill', 'Explanation', 'Related Course', 'Credits'])
@@ -13,18 +18,20 @@ def parse_scraped_data():
     knowledgeDF = newDFs[1]
     abilitiesDF = newDFs[2]
 
-    skillDF.to_csv('/Users/vinayakkannan/Desktop/INfACT/Script/SupportingFunction/RawData/SkillOutputv2.csv', index=False)
-    knowledgeDF.to_csv('/Users/vinayakkannan/Desktop/INfACT/Script/SupportingFunction/RawData/KnowledgeOutputv2.csv', index=False)
-    abilitiesDF.to_csv('/Users/vinayakkannan/Desktop/INfACT/Script/SupportingFunction/RawData/AbilitiesOutputv2.csv', index=False)
+    skillDF.to_csv('/Users/vinayakkannan/Desktop/INfACT/Script/SupportingFunction/RawData/SkillOutputv2.csv',
+                   index=False)
+    knowledgeDF.to_csv('/Users/vinayakkannan/Desktop/INfACT/Script/SupportingFunction/RawData/KnowledgeOutputv2.csv',
+                       index=False)
+    abilitiesDF.to_csv('/Users/vinayakkannan/Desktop/INfACT/Script/SupportingFunction/RawData/AbilitiesOutputv2.csv',
+                       index=False)
 
 
 def create_dataframe():
-    data = pd.read_csv('/Users/vinayakkannan/Desktop/INfACT/Script/SupportingFunction/RawData/Data - Sheet1.csv')
+    data = pd.read_csv('/Users/vinayakkannan/Desktop/INfACT/Script/SupportingFunction/RawData/MIT_Data - Sheet1.csv')
     data['Syllabus'].fillna('', inplace=True)
     data["combined"] = (
             "Title: " + data.Title.str.strip() + "; Description: " + data.Description.str.strip() + "Syllabus: " + data.Syllabus.str.strip()
     )
-    model = "text-embedding-ada-002"
     data['Skills'] = ""
     data['Knowledge'] = ""
     data['Abilities'] = ""
@@ -71,9 +78,24 @@ def get_skills(df, baseDF, skillDF, knowledgeDF, abilitiesDF):
     """
 
     for i, row in enumerate(df.index):
+        text_splitter = RecursiveCharacterTextSplitter(chunk_size=500, chunk_overlap=0)
+        all_splits = text_splitter.split_documents(df.combined[i])
+        embedding_model = "text-embedding-ada-002"
+        embeddings = [[get_embedding(x.page_content, engine=embedding_model), x.page_content] for x in all_splits]
+        prompt_embedding = get_embedding(prompt, engine=embedding_model)
+        total_tokens = len(embeddings) * 500 * 4
+        if total_tokens > 4000:
+            max_chunks = len(embeddings) - (total_tokens - 4000) / (500 * 4)
+            # Sort the embeddings by cosine_similarity from openai package to prompt embedding
+            embeddings = sorted(embeddings, key=lambda x: cosine_similarity(x[0], prompt_embedding), reverse=True)
+            embeddings = embeddings[:max_chunks]
+        # Combine elements in embeddings into a single string
+        combined_embedding_text = [x[1] for x in embeddings]
+        combined_embedding_text = " ".join(combined_embedding_text)
+
         response = get_course_label([{
             "role": "user",
-            "content": prompt + df.combined[i]
+            "content": prompt + combined_embedding_text
         }])
         newDFs = parse_response(response.choices[0].message.content, i, baseDF, df.Title[i], df.Credits[i], skillDF,
                                 knowledgeDF, abilitiesDF)
