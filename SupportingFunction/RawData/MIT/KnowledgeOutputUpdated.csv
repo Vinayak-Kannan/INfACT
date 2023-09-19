@@ -1,0 +1,76 @@
+Skill,Explanation,Related Course,Credits,Collapsed Skill
+Computation,Students will gain knowledge about the role computation plays in solving problems.,Introduction to Computer Science Programming in Python,1,Machine learning concepts
+Python language,Students will learn about the Python programming language and its features.,Introduction to Computer Science Programming in Python,1,Python
+Simple algorithms,Students will acquire knowledge about basic algorithms and their implementation.,Introduction to Computer Science Programming in Python,1,Algorithms
+Algorithmic complexity,Students will learn about the concept of algorithmic complexity and how to analyze it.,Introduction to Computer Science Programming in Python,1,Algorithmic complexity
+Data structures,Students will gain knowledge about different data structures and their applications in programming.,Introduction to Computer Science Programming in Python,1,Algorithms
+Memory organization,"Students will learn about the organization of memory in modern computational systems, including the stack, heap, and data segments.",Introduction to Low-level Programming in C and Assembly,1,Memory organization
+Pointers,"Students will gain knowledge about pointers, a fundamental concept in low-level programming that allows for efficient memory manipulation.",Introduction to Low-level Programming in C and Assembly,1,Pointers
+Translation of high-level languages,"Students will understand how high-level languages like C are translated to machine-level instructions, which is crucial for low-level programming.",Introduction to Low-level Programming in C and Assembly,1,Translation of high-level languages
+Constraints in low-level programming,"Students will acquire knowledge about the constraints and limitations involved in manipulating complex data structures at the low-level, such as memory limitations and performance considerations.",Introduction to Low-level Programming in C and Assembly,1,Constraints in low-level programming
+Low-level programming concepts,"Students will learn various low-level programming concepts, such as register usage, instruction sets, and memory addressing modes.",Introduction to Low-level Programming in C and Assembly,1,Low-level programming concepts
+Discrete mathematics,Students will acquire knowledge of elementary discrete mathematics concepts and their applications in computer science.,Mathematics for Computer Science,1,Discrete mathematics
+Sets and relations,Students will learn about sets and relations and their role in computer science.,Mathematics for Computer Science,1,Sets and relations
+State machines,Students will gain knowledge of state machines and their use in modeling systems.,Mathematics for Computer Science,1,State machines
+Elementary number theory,Students will learn about elementary number theory concepts and their applications in cryptography.,Mathematics for Computer Science,1,Elementary number theory
+Permutations and combinations,Students will acquire knowledge of permutations and combinations and their use in counting problems.,Mathematics for Computer Science,1,Permutations and combinations
+Probability theory,Students will acquire knowledge of the language and core concepts of probability theory.,Introduction to Probability and Statistics,1,Probability theory
+Statistical distributions,"Students will learn about various probability distributions, including Bernoulli, binomial, geometric, Poisson, uniform, normal, and exponential distributions.",Introduction to Probability and Statistics,1,Statistical inference
+Statistical estimation,"Students will gain knowledge of statistical estimation techniques, including maximum likelihood estimation and confidence interval estimation.",Introduction to Probability and Statistics,1,Statistical inference
+Linear regression,Students will learn about simple linear regression and how to interpret and compute regression models.,Introduction to Probability and Statistics,1,Linear regression analysis
+Statistical testing,"Students will acquire knowledge of null hypothesis significance testing (NHST) and how to perform specific significance tests, such as z-tests, t-tests, and chi-squared tests.",Introduction to Probability and Statistics,1,Statistical inference
+Abstraction in design,Students will understand the role of abstraction in the design of large digital systems and be able to explain major software and hardware abstractions.,Computation Structures,1,Abstraction in design
+Digital system engineering,Students will gain knowledge of the technical skills necessary to be a capable digital systems engineer.,Computation Structures,1,Digital system components
+Digital system components,"Students will learn about the different components of digital systems, including MOS transistors, logic gates, and memory hierarchies.",Computation Structures,1,Digital system components
+Instruction set design,Students will understand the issues affecting microprocessor instruction set design.,Computation Structures,1,Instruction set design
+Memory access performance,Students will learn how to measure the memory access performance of a processor and tune cache design parameters to improve performance.,Computation Structures,1,Memory access performance
+Programming basics,Students will acquire a foundational knowledge of programming concepts and principles.,Fundamentals of Programming,1,Programming basics
+Computational concepts,"Students will learn about fundamental computational concepts, such as loops, conditionals, and variables.",Fundamentals of Programming,1,Machine learning concepts
+Software engineering,"Students will gain knowledge of software engineering principles and practices, including software design and implementation.",Fundamentals of Programming,1,Software engineering
+Python,Students will learn and become proficient in the Python programming language.,Fundamentals of Programming,1,Python
+Abstract problem-solving,Students will develop knowledge and skills in solving abstract problems using programming techniques.,Fundamentals of Programming,1,Abstract problem-solving
+Discrete mathematics,"Students should have basic knowledge of discrete mathematics, including set theory, relations and logic, combinatorics, proofs, recursion, number theory, graph theory, and probability.",Introduction to Algorithms,1,Discrete mathematics
+Database design,"Although not explicitly mentioned in the course description, knowledge of database design principles may be useful for understanding and implementing certain algorithms.",Introduction to Algorithms,1,Database design
+Algorithmic paradigms,Students will learn about different algorithmic paradigms and approaches to solve computational problems.,Introduction to Algorithms,1,Algorithmic paradigms
+Performance measures and analysis techniques,Students will learn how to measure and analyze the performance of algorithms.,Introduction to Algorithms,1,Performance measures and analysis techniques
+Mathematical modeling of computational problems,Students will learn how to model computational problems mathematically.,Introduction to Algorithms,1,Mathematical modeling of computational problems
+Specifications and invariants,Students will learn about specifications and invariants in software development.,Software Construction,1,Specifications and invariants
+Abstract data types and representation independence,Students will gain knowledge about abstract data types and representation independence in software development.,Software Construction,1,Abstract data types and representation independence
+Software version control,Students will learn about version control systems and their use in software development.,Software Construction,1,Software version control
+Software design principles,"Students will gain knowledge about software design principles, including avoiding code repetition, using good names, and using whitespace effectively.",Software Construction,1,Architectural design principles
+Software testing strategies,"Students will learn about different testing strategies, including blackbox and whitebox testing, and documenting testing strategies.",Software Construction,1,Software testing strategies
+Major algorithms and data structures,Students will gain familiarity with major algorithms and data structures.,Design and Analysis of Algorithms,1,Algorithms
+Correctness proofs,Students will learn how to write rigorous correctness proofs for algorithms.,Design and Analysis of Algorithms,1,Correctness proofs
+Competitive analysis,Students will understand what competitive analysis is and when it applies to algorithm design.,Design and Analysis of Algorithms,1,Competitive analysis
+Approximation algorithms,Students will be familiar with approximation algorithms and their benefits.,Design and Analysis of Algorithms,1,Algorithms
+Randomized algorithms,Students will learn how to analyze randomized algorithms and the difference between randomized algorithms and algorithms with probabilistic inputs.,Design and Analysis of Algorithms,1,Algorithms
+Design choices in existing systems,Students will learn to recognize and critique design choices made in existing systems.,Computer Systems Engineering,1,Design choices in existing systems
+Technical material,"Students will acquire knowledge of technical details necessary to design their own systems, including concepts such as abstraction, modularity, and virtualization.",Computer Systems Engineering,1,Technical material
+Communication concepts and skills,Students will learn communication concepts and skills necessary for effective written and oral communication in the field of computer systems.,Computer Systems Engineering,1,Communication concepts and skills
+Operating systems,Students will gain knowledge of how operating systems use virtualization and abstraction to enforce modularity.,Computer Systems Engineering,1,Operating systems
+Internet design,"Students will learn about the design of the Internet to deal with scale, diverse applications, and competing economic interests.",Computer Systems Engineering,1,Internet design
+Computability theory,"Students will learn about the theoretical foundations of computation, including the Church-Turing thesis, decidability, the halting problem, and reducibility.",Theory of Computation,1,Complexity theory
+Complexity theory,"Students will gain knowledge about the measures of complexity, complexity classes (P, NP, L, NL, PSPACE, BPP, IP), complete problems, hierarchy theorems, and probabilistic computation.",Theory of Computation,1,Complexity theory
+Regular and context-free languages,Students will learn about regular and context-free languages and their applications in computational theory.,Theory of Computation,1,Regular and context-free languages
+Time and space measures on computation,Students will gain knowledge about time and space complexity measures and their significance in analyzing algorithms and problems.,Theory of Computation,1,Time and space measures on computation
+Interactive proof systems,Students will learn about interactive proof systems and their role in complexity theory.,Theory of Computation,1,Interactive proof systems
+Database systems,"Students will gain knowledge about the foundations of database systems, including the relational algebra, data models, and query optimization.",Database Systems,1,Database systems
+Query processing,"Students will learn about the process of executing queries in a database system, which is a specific knowledge area within database systems.",Database Systems,1,Query processing
+Transactions,Students will acquire knowledge about transactions and their role in ensuring data consistency and integrity in a database.,Database Systems,1,Transactions
+Concurrency control,Students will learn about concurrency control techniques used in databases to manage multiple concurrent transactions.,Database Systems,1,Concurrency control
+Distributed databases,Students will gain knowledge about distributed databases and the challenges associated with managing data across multiple nodes.,Database Systems,1,Distributed databases
+Computational biology,"Students will acquire knowledge in the field of computational biology, including foundational topics and current research frontiers.",Computational Systems Biology: Deep Learning in the Life Sciences,1,Molecular biology
+Algorithms,Students will learn about algorithms and their application in computational biology.,Computational Systems Biology: Deep Learning in the Life Sciences,1,Algorithms
+Molecular biology,"Students will gain knowledge in molecular biology, including gene/species trees, phylogenomics, coalescent, personal genomics, population genomics, human ancestry, recent selection, and disease mapping.",Computational Systems Biology: Deep Learning in the Life Sciences,1,Molecular biology
+Probabilistic inference,Students will learn about probabilistic inference techniques and their use in computational biology.,Computational Systems Biology: Deep Learning in the Life Sciences,1,Statistical inference
+Bioinformatics tools,Students will acquire knowledge of bioinformatics tools and their application in analyzing biological data.,Computational Systems Biology: Deep Learning in the Life Sciences,1,Bioinformatics tools
+Machine learning concepts,"Students will acquire knowledge of fundamental concepts, techniques, and algorithms in machine learning.",Machine Learning,1,Machine learning concepts
+Statistical inference,Students will learn about statistical inference and its role in machine learning methods.,Machine Learning,1,Statistical inference
+Classification algorithms,Students will gain knowledge of different classification algorithms and their applications.,Machine Learning,1,Algorithms
+Linear regression analysis,Students will learn about linear regression analysis and its use in predictive modeling.,Machine Learning,1,Linear regression analysis
+Data analysis,Students will acquire knowledge of data analysis techniques and how to apply them in machine learning projects.,Machine Learning,1,Data analysis
+Architectural design principles,Students will learn the fundamental principles and concepts of architectural design.,Architectural Construction And Computation,1,Architectural design principles
+Construction methods,Students will gain knowledge of various construction methods and techniques used in architectural projects.,Architectural Construction And Computation,1,Construction methods
+Building codes and regulations,Students will learn about the codes and regulations that govern architectural construction.,Architectural Construction And Computation,1,Building codes and regulations
+Computer-aided design software,Students will acquire knowledge of specific software used in architectural design and construction.,Architectural Construction And Computation,1,Computer-aided design software
+Material selection,"Students will learn about different building materials and their properties, and how to select appropriate materials for construction projects.",Architectural Construction And Computation,1,Material selection

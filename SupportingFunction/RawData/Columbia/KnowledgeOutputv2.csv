@@ -1,0 +1,83 @@
+Skill,Explanation,Related Course,Credits
+Database design,"Students will learn how to design a database, including entity-relationship modeling and logical design of relational databases. This knowledge is essential for creating efficient and well-structured databases.",INTRODUCTION TO DATABASES,3
+Relational data definition and manipulation languages,Students will acquire knowledge of the languages used to define and manipulate data in relational databases. This knowledge is crucial for effectively working with and managing data in a database system.,INTRODUCTION TO DATABASES,3
+State-space problem representations,Students will learn about representing problems as states and how to navigate through them.,ARTIFICIAL INTELLIGENCE,3
+Predicate calculus,"Students will gain knowledge of predicate calculus, which is used in logical reasoning and problem-solving.",ARTIFICIAL INTELLIGENCE,3
+Resolution theorem proving,"Students will learn about resolution theorem proving, a technique used in automated reasoning.",ARTIFICIAL INTELLIGENCE,3
+AI systems and languages,Students will gain knowledge of different AI systems and programming languages used for knowledge representation.,ARTIFICIAL INTELLIGENCE,3
+Concept formation,Students will learn about the process of concept formation in artificial intelligence.,ARTIFICIAL INTELLIGENCE,3
+Computational Linguistics,Students will acquire knowledge of the field of computational linguistics and its applications in NLP.,NATURAL LANGUAGE PROCESSING,3
+AI or Machine Learning,Students should have some previous or concurrent exposure to AI or Machine Learning concepts to understand the computational approaches used in NLP.,NATURAL LANGUAGE PROCESSING,3
+Robust Techniques,Students will learn about robust techniques in NLP that can handle understanding and generation for large amounts of text on the Web or in other large corpora.,NATURAL LANGUAGE PROCESSING,3
+Text Corpora,Students will gain knowledge about working with large text corpora and how to process and analyze them using NLP methods.,NATURAL LANGUAGE PROCESSING,3
+NLP Algorithms,"Students will learn about various NLP algorithms and models used for tasks such as information extraction, summarization, machine translation, and dialogue systems.",NATURAL LANGUAGE PROCESSING,3
+Distributed Communication Models,"Students will gain knowledge of various distributed communication models, such as sockets, remote procedure calls, and distributed shared memory, and their applications in building distributed systems.",FUND-LARGE-SCALE DIST SYS,3
+Consistency Models,Students will learn about different consistency models used in distributed systems and their implications for data integrity and system performance.,FUND-LARGE-SCALE DIST SYS,3
+Fault Tolerance Techniques,"Students will acquire knowledge of fault tolerance techniques, including replication, consensus algorithms (such as Paxos), and fault detection and recovery mechanisms.",FUND-LARGE-SCALE DIST SYS,3
+Scalable System Design,Students will learn about the principles and techniques for designing scalable distributed systems that can handle large amounts of data and high user loads.,FUND-LARGE-SCALE DIST SYS,3
+Real-World Implementations,"Students will gain knowledge of real-world implementations of large-scale distributed systems at companies like Google, Facebook, Yahoo, Microsoft, and LinkedIn, providing insights into industry best practices.",FUND-LARGE-SCALE DIST SYS,3
+Elementary computing concepts,"Students will acquire knowledge of fundamental computing concepts, such as algorithms, data structures, and computational thinking, providing them with a solid foundation in computer science.",COMPUTING IN ECONOMICS,3
+Domain-specific applications,"Students will learn about the application of computing concepts in the field of economics, including topics like computational economics, econometrics, and financial modeling.",COMPUTING IN ECONOMICS,3
+Python libraries,"Students will gain knowledge of various Python libraries commonly used in economics, such as Pandas, NumPy, and Matplotlib, enabling them to leverage these tools for data analysis and visualization.",COMPUTING IN ECONOMICS,3
+Economic theories and principles,"Students will acquire knowledge of basic economic theories and principles, allowing them to apply computational methods to analyze economic phenomena.",COMPUTING IN ECONOMICS,3
+Data management,"Students will learn about data management techniques, including data cleaning, data integration, and data transformation, which are crucial for working with large economic datasets.",COMPUTING IN ECONOMICS,3
+Data structure concepts,"Students will acquire knowledge about the fundamental concepts and principles of data structures, including their characteristics, advantages, and limitations.",DATA STRUCTURES IN JAVA,3
+Analysis of algorithms,Students will learn how to analyze the efficiency and performance of algorithms used in data structure operations.,DATA STRUCTURES IN JAVA,3
+Storage management,Students will gain knowledge about memory management techniques and strategies for efficient storage of data structures.,DATA STRUCTURES IN JAVA,3
+Java programming language,"Students will deepen their knowledge of Java programming language, including its syntax, features, and libraries.",DATA STRUCTURES IN JAVA,3
+Algorithmic problem-solving,Students will learn problem-solving strategies and techniques specific to data structures and algorithms.,DATA STRUCTURES IN JAVA,3
+Regular languages,"Students will learn about regular languages, their properties, and their relationship with finite automata and regular expressions.",COMPUTER SCIENCE THEORY,3
+Context-free languages,"Students will gain knowledge about context-free languages, their properties, and their relationship with context-free grammars and push-down automata.",COMPUTER SCIENCE THEORY,3
+Chomsky hierarchy,"Students will learn about the Chomsky hierarchy, a classification of formal languages based on their generative power.",COMPUTER SCIENCE THEORY,3
+Church-Turing thesis,"Students will acquire knowledge about the Church-Turing thesis, which states the equivalence of different models of computation.",COMPUTER SCIENCE THEORY,3
+NP-Completeness,"Students will learn about NP-Completeness, a concept in complexity theory that deals with the difficulty of solving computational problems.",COMPUTER SCIENCE THEORY,3
+Language syntax,Students will learn about the syntax of different programming languages. This knowledge is selected because understanding language syntax is essential for writing correct and readable code.,PROGRAMMING LANG & TRANSL,3
+Control structures,"Students will learn about control structures used in programming languages, such as loops and conditionals. This knowledge is selected because control structures are fundamental for controlling the flow of a program.",PROGRAMMING LANG & TRANSL,3
+Procedures and parameters,Students will learn about procedures and parameters in programming languages. This knowledge is selected because understanding procedures and parameters is crucial for modular programming and code reusability.,PROGRAMMING LANG & TRANSL,3
+Binding and scope,Students will learn about binding and scope in programming languages. This knowledge is selected because understanding binding and scope is essential for understanding variable lifetimes and scoping rules.,PROGRAMMING LANG & TRANSL,3
+Run-time organization,"Students will learn about the organization of programs at runtime, including memory management and program execution. This knowledge is selected because understanding run-time organization is crucial for optimizing program performance and memory usage.",PROGRAMMING LANG & TRANSL,3
+Computer Graphics,Students will acquire a comprehensive understanding of computer graphics principles and techniques.,COMPUTER GRAPHICS,3
+3D Viewing and Projections,Students will learn about different methods for 3D viewing and projections in computer graphics.,COMPUTER GRAPHICS,3
+Linear Algebra,Students will gain knowledge of linear algebra concepts and their application in computer graphics.,COMPUTER GRAPHICS,3
+OpenGL,Students will learn about the OpenGL graphics library and its use in computer graphics programming.,COMPUTER GRAPHICS,3
+Spline Curves,Students will acquire knowledge of spline curves and their use in geometric modeling in computer graphics.,COMPUTER GRAPHICS,3
+Human factors,"Students will learn about the psychological and physiological aspects of human-computer interaction, enabling them to design user interfaces that are intuitive and user-friendly.",USER INTERFACE DESIGN,3
+Interaction styles,"Students will gain knowledge about different interaction styles, such as command-line interfaces, menu-driven interfaces, and graphical user interfaces, and understand when to use each style.",USER INTERFACE DESIGN,3
+Software infrastructure,"Students will learn about the underlying software infrastructure required for developing user interfaces, including libraries, frameworks, and development tools.",USER INTERFACE DESIGN,3
+Basic interaction devices and techniques,"Students will acquire knowledge about various input and output devices used in user interfaces, such as keyboards, mice, touchscreens, and gestures, as well as techniques for capturing and processing user input.",USER INTERFACE DESIGN,3
+Design principles,"Students will learn fundamental design principles for creating visually appealing and functional user interfaces, including layout, color theory, typography, and visual hierarchy.",USER INTERFACE DESIGN,3
+Linear algebra,"Students will acquire knowledge of linear algebra concepts and techniques, which are fundamental to understanding and implementing machine learning algorithms.",MACHINE LEARNING,3
+Statistics,"Students will gain knowledge of statistical concepts and methods, which are essential for analyzing and interpreting data in the context of machine learning.",MACHINE LEARNING,3
+Artificial intelligence,"Students will learn about the basics of artificial intelligence, which provides a foundation for understanding and applying machine learning techniques.",MACHINE LEARNING,3
+Gaussian distributions,"Students will gain knowledge of Gaussian distributions and their role in probabilistic modeling, which is relevant to several machine learning algorithms.",MACHINE LEARNING,3
+Exponential family distributions,Students will learn about exponential family distributions and their application in modeling various types of data in machine learning.,MACHINE LEARNING,3
+Advanced programming concepts,"Students will acquire knowledge of advanced programming concepts, such as data structures, algorithms, and software design principles.",ADVANCED PROGRAMMING,4
+Object-oriented programming,"Students will learn about the principles and techniques of object-oriented programming, including encapsulation, inheritance, and polymorphism.",ADVANCED PROGRAMMING,4
+Memory management,"Students will gain knowledge of memory management techniques, including dynamic memory allocation and deallocation.",ADVANCED PROGRAMMING,4
+Software development methodologies,"Students will learn about different software development methodologies, such as agile and waterfall, and their application in real-world projects.",ADVANCED PROGRAMMING,4
+Debugging and testing,Students will acquire knowledge of debugging and testing techniques to identify and fix errors in their programs.,ADVANCED PROGRAMMING,4
+Computer security solutions,Students will gain knowledge about various solutions and approaches to computer security and understand their strengths and weaknesses.,INTRUSION DETECTION SYSTEM,3
+Threat landscape,"Students will learn about the current state of threats against computers and networked systems, including the latest attack techniques and trends.",INTRUSION DETECTION SYSTEM,3
+Intrusion detection systems,"Students will acquire knowledge about the principles, components, and operation of both network-based and host-based intrusion detection systems.",INTRUSION DETECTION SYSTEM,3
+Email security practices,"Students will learn about best practices and techniques for securing email systems and preventing spam, viruses, and other email-based threats.",INTRUSION DETECTION SYSTEM,3
+Insider threat mitigation,"Students will gain knowledge about strategies and methods for mitigating insider threats, including detecting and preventing unauthorized access and malicious activities.",INTRUSION DETECTION SYSTEM,3
+Information science principles,Students will acquire knowledge of the fundamental concepts and theories in information science.,INTRO TO INFORMATION SCIENCE,3
+Digital information representation,Students will learn about different methods and formats for representing information digitally.,INTRO TO INFORMATION SCIENCE,3
+Internet search techniques,Students will gain knowledge of effective strategies for searching and retrieving information from the internet.,INTRO TO INFORMATION SCIENCE,3
+Database design principles,Students will learn the principles and best practices for designing databases.,INTRO TO INFORMATION SCIENCE,3
+Programming fundamentals,Students will acquire knowledge of basic programming concepts and techniques using Python.,INTRO TO INFORMATION SCIENCE,3
+Elementary computing concepts,"Students will acquire knowledge of fundamental computing concepts, such as algorithms, data structures, and computational thinking.",COMPUTING IN ECONOMICS,3
+Domain-specific applications,"Students will learn about the application of computing concepts in the field of economics, including topics like economic modeling, forecasting, and optimization.",COMPUTING IN ECONOMICS,3
+Python libraries,"Students will gain knowledge of various Python libraries commonly used in economics, such as NumPy, Pandas, and Matplotlib, which are essential for data analysis and visualization.",COMPUTING IN ECONOMICS,3
+Economic theories,"Students will acquire knowledge of basic economic theories and principles, providing them with a foundation for understanding and analyzing economic data.",COMPUTING IN ECONOMICS,3
+Data management,"Students will learn about data management techniques, including data cleaning, data integration, and data transformation, which are crucial for working with economic datasets.",COMPUTING IN ECONOMICS,3
+Fundamental concepts of computer science,Students will learn the foundational principles and theories of computer science.,"INTRO-COMPUT SCI/PROG IN JAVA
+",3
+Data structures,Students will gain knowledge about different data structures and their applications in solving computational problems.,"INTRO-COMPUT SCI/PROG IN JAVA
+",3
+Recursion,Students will understand the concept of recursion and its use in solving complex problems.,"INTRO-COMPUT SCI/PROG IN JAVA
+",3
+Linked lists,Students will learn about linked lists as a fundamental data structure for storing and manipulating data.,"INTRO-COMPUT SCI/PROG IN JAVA
+",3
+Generics,Students will acquire knowledge about generics and their use in creating reusable and type-safe code.,"INTRO-COMPUT SCI/PROG IN JAVA
+",3

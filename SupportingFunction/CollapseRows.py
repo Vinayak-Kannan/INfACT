@@ -37,9 +37,8 @@ def collapse_rows(df: DataFrame) -> DataFrame:
 
         similar_indices = None
         # If similarity is less than 0.8, make similar_index == None
-        if len(similarities) > 0 and similarities[1][0] >= 0.9:
+        if len(similarities) > 0 and similarities[1][0] >= 0.85:
             similar_indices = similarities[1]
-            df.loc[i, 'Embedding'] = None
 
         # If there are similar values, add the first similar value to the 'Collapsed Skill' column
         if similar_indices:
@@ -47,6 +46,15 @@ def collapse_rows(df: DataFrame) -> DataFrame:
         else:
             # If there are no similar values, add the original value to the 'Collapsed Skill' column
             df.loc[i, 'Collapsed Skill'] = df.loc[i, 'Skill']
+
+    # Loop through each row. Check if the 'Collapsed Skill' value is the same as the 'Skill' value If it's not,
+    # find other 'Collapsed Skills' that are the same as the 'Skill' value and make them equal to the 'Collapsed
+    # Skill' value
+    for i, row in enumerate(df['Collapsed Skill']):
+        if row != df.loc[i, 'Skill']:
+            for j, row2 in enumerate(df['Collapsed Skill']):
+                if row2 == df.loc[i, 'Skill']:
+                    df.loc[j, 'Collapsed Skill'] = row
 
     # Drop the 'Embedding' column
     df = df.drop(columns=['Embedding'])

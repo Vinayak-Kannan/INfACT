@@ -1,0 +1,83 @@
+Skill,Explanation,Related Course,Credits
+SQL,"Students will gain proficiency in SQL, which is a fundamental skill in working with databases and querying data.",INTRODUCTION TO DATABASES,3
+XML,"Students will learn about XML (eXtensible Markup Language) and its use in databases, allowing them to work with XML data and integrate it into database systems.",INTRODUCTION TO DATABASES,3
+Python programming,"Students will gain proficiency in Python programming, which is recommended prior knowledge for the course.",ARTIFICIAL INTELLIGENCE,3
+Problem-solving,Students will develop problem-solving skills as they work on building intelligent computer systems.,ARTIFICIAL INTELLIGENCE,3
+Knowledge representation,Students will learn techniques for representing knowledge in intelligent computer systems.,ARTIFICIAL INTELLIGENCE,3
+Machine learning,Students will learn about machine learning algorithms and techniques used in artificial intelligence.,ARTIFICIAL INTELLIGENCE,3
+Natural language processing,"Students may have the opportunity to learn about natural language processing, depending on the time available.",ARTIFICIAL INTELLIGENCE,3
+Natural Language Processing (NLP),Students will gain proficiency in NLP techniques and algorithms.,NATURAL LANGUAGE PROCESSING,3
+Information Extraction,Students will learn how to extract relevant information from text using NLP methods.,NATURAL LANGUAGE PROCESSING,3
+Summarization,Students will develop the skill of summarizing large amounts of text using NLP techniques.,NATURAL LANGUAGE PROCESSING,3
+Machine Translation,Students will learn how to translate text from one language to another using NLP algorithms.,NATURAL LANGUAGE PROCESSING,3
+Dialogue Systems,Students will gain the ability to design and build conversational agents using NLP techniques.,NATURAL LANGUAGE PROCESSING,3
+Distributed Systems Design,"Students will learn how to design large-scale distributed systems, including the use of distributed communication models and synchronization techniques.",FUND-LARGE-SCALE DIST SYS,3
+Fault-Tolerant System Implementation,"Students will gain proficiency in implementing fault-tolerant distributed systems, including replication, consistency models, and fault tolerance mechanisms.",FUND-LARGE-SCALE DIST SYS,3
+Distributed Database Management,"Students will develop skills in managing scalable distributed databases, including knowledge of distributed transactions and agreement protocols.",FUND-LARGE-SCALE DIST SYS,3
+MapReduce Infrastructures,"Students will learn about the design and implementation of MapReduce infrastructures, a key technology for processing large-scale distributed data.",FUND-LARGE-SCALE DIST SYS,3
+Distributed File Systems,"Students will acquire skills in designing and implementing distributed file systems, an essential component of large-scale distributed systems.",FUND-LARGE-SCALE DIST SYS,3
+Python programming,"Students will gain proficiency in Python programming, which is a widely used language in the field of economics and finance.",COMPUTING IN ECONOMICS,3
+Data analysis,"Students will learn how to handle and manipulate data using Python programming, allowing them to analyze economic data effectively.",COMPUTING IN ECONOMICS,3
+Statistical analysis,"Students will develop skills in statistical analysis using Python, enabling them to interpret and draw conclusions from economic data.",COMPUTING IN ECONOMICS,3
+Problem-solving,"Through programming projects and assignments, students will enhance their problem-solving skills, which are essential in the field of economics.",COMPUTING IN ECONOMICS,3
+Data visualization,"Students will learn how to visually represent and present data using Python libraries, enhancing their ability to communicate complex economic concepts effectively.",COMPUTING IN ECONOMICS,3
+Java programming,"Students will gain proficiency in Java programming, which is essential for working with data structures in Java.",DATA STRUCTURES IN JAVA,3
+Data structure implementation,"Students will learn how to handle and manipulate various data structures such as arrays, stacks, linked lists, queues, trees, sets, and graphs.",DATA STRUCTURES IN JAVA,3
+Sorting and searching,Students will develop skills in implementing sorting and searching algorithms to process data structures efficiently.,DATA STRUCTURES IN JAVA,3
+Hashing,Students will learn how to use hashing techniques to store and retrieve data in data structures.,DATA STRUCTURES IN JAVA,3
+Garbage collection,Students will gain knowledge and skills in managing memory and garbage collection in Java.,DATA STRUCTURES IN JAVA,3
+Finite automata,"Students will learn how to handle and manipulate deterministic and non-deterministic finite automata, which are essential concepts in computer science theory.",COMPUTER SCIENCE THEORY,3
+Regular expressions,"Students will gain proficiency in using regular expressions, a powerful tool for pattern matching and text manipulation.",COMPUTER SCIENCE THEORY,3
+Context-free grammars,"Students will develop the skill of working with context-free grammars, which are used to describe the syntax of programming languages and other formal languages.",COMPUTER SCIENCE THEORY,3
+Turing machines,"Students will learn how to handle and manipulate Turing machines, a theoretical model of computation that forms the foundation of computer science theory.",COMPUTER SCIENCE THEORY,3
+Complexity theory,"Students will acquire the skill of understanding and analyzing the complexity of algorithms and problems, which is crucial in computer science theory.",COMPUTER SCIENCE THEORY,3
+Programming languages,"Students will gain proficiency in multiple programming languages, including imperative, object-oriented, declarative, functional, and scripting languages. This skill is selected because the course focuses on teaching different programming languages and their syntax.",PROGRAMMING LANG & TRANSL,3
+Compiler design,"Students will learn about the design and implementation of language translation tools, including compilers and interpreters. This skill is selected because the course covers the implementation of language translation tools and code generation.",PROGRAMMING LANG & TRANSL,3
+Problem-solving,Students will develop problem-solving skills as they work on programming projects. This skill is selected because programming requires logical thinking and problem-solving abilities.,PROGRAMMING LANG & TRANSL,3
+Data types,Students will learn about different data types used in programming languages. This skill is selected because understanding data types is essential for programming and manipulating data.,PROGRAMMING LANG & TRANSL,3
+Exception handling,Students will learn about exception handling in programming languages. This skill is selected because handling exceptions is crucial for writing robust and error-free code.,PROGRAMMING LANG & TRANSL,3
+Programming,"Students will develop strong programming skills in computer graphics, specifically in OpenGL.",COMPUTER GRAPHICS,3
+3D Modeling,Students will learn how to create and manipulate 3D models using spline curves.,COMPUTER GRAPHICS,3
+Lighting and Shading,Students will gain proficiency in implementing lighting and shading techniques in computer graphics.,COMPUTER GRAPHICS,3
+Global Illumination,Students will learn about global illumination algorithms and how to implement them in computer graphics.,COMPUTER GRAPHICS,3
+Problem-solving,Students will develop problem-solving skills through the implementation of graphics systems and the final project.,COMPUTER GRAPHICS,3
+User interface design,Students will learn the principles and techniques of designing user interfaces for computer software.,USER INTERFACE DESIGN,3
+Software design,"Students will develop skills in designing software systems, specifically focusing on graphical user interfaces.",USER INTERFACE DESIGN,3
+Interaction design,Students will learn how to design effective interactions between users and computer systems.,USER INTERFACE DESIGN,3
+Dialogue design,Students will gain proficiency in designing dialogues and conversations within user interfaces.,USER INTERFACE DESIGN,3
+Programming,Students will acquire programming skills necessary for implementing user interfaces.,USER INTERFACE DESIGN,3
+MATLAB,Students will gain proficiency in using MATLAB for implementing machine learning algorithms.,MACHINE LEARNING,3
+Machine learning algorithms,"Students will learn and understand various machine learning algorithms such as support vector machines, neural networks, and Bayesian networks.",MACHINE LEARNING,3
+Data analysis,Students will develop skills in analyzing and interpreting data to make informed decisions in the context of machine learning.,MACHINE LEARNING,3
+Programming,Students will enhance their programming skills through implementing machine learning algorithms in MATLAB.,MACHINE LEARNING,3
+Statistical analysis,Students will learn and apply statistical analysis techniques to evaluate and validate machine learning models.,MACHINE LEARNING,3
+C++ programming,"Students will develop proficiency in C++ programming language, including its syntax, data types, and object-oriented programming concepts.",ADVANCED PROGRAMMING,4
+Git,"Students will learn how to use Git, a version control system, to manage and track changes in their codebase.",ADVANCED PROGRAMMING,4
+Make,"Students will gain proficiency in using Make, a build automation tool, to compile and build their programs efficiently.",ADVANCED PROGRAMMING,4
+TCP/IP networking,"Students will learn the basics of TCP/IP networking, including protocols, addressing, and socket programming.",ADVANCED PROGRAMMING,4
+Unix systems programming,"Students will develop skills in Unix systems programming, including file I/O, process management, and inter-process communication.",ADVANCED PROGRAMMING,4
+Intrusion detection,Students will learn how to detect and identify potential threats and attacks on computer and networked systems.,INTRUSION DETECTION SYSTEM,3
+Anomaly detection,Students will gain proficiency in identifying and detecting new and unusual patterns or behaviors that may indicate a security breach.,INTRUSION DETECTION SYSTEM,3
+Network security,Students will develop skills in implementing security measures to protect computer networks from unauthorized access and attacks.,INTRUSION DETECTION SYSTEM,3
+Email security,"Students will learn about the issues and challenges related to email security, including spam, viruses, and phishing attacks.",INTRUSION DETECTION SYSTEM,3
+Insider threat detection,"Students will acquire the ability to identify and prevent insider attacks, such as masquerading and impersonation.",INTRUSION DETECTION SYSTEM,3
+Human-computer interface design,Students will learn how to design user-friendly interfaces for digital systems.,INTRO TO INFORMATION SCIENCE,3
+Information organization,Students will develop skills in organizing and categorizing information effectively.,INTRO TO INFORMATION SCIENCE,3
+Algorithmic problem-solving,Students will learn problem-solving techniques and algorithms to solve computational problems.,INTRO TO INFORMATION SCIENCE,3
+Database concepts,Students will gain proficiency in understanding and working with databases.,INTRO TO INFORMATION SCIENCE,3
+Python programming,Students will learn the fundamentals of programming using Python.,INTRO TO INFORMATION SCIENCE,3
+Python programming,"Students will gain proficiency in Python programming, which is a widely used language in the field of economics and finance.",COMPUTING IN ECONOMICS,3
+Data analysis,"Students will learn how to handle and manipulate data using Python programming, allowing them to analyze economic data effectively.",COMPUTING IN ECONOMICS,3
+Statistical analysis,"Students will develop skills in statistical analysis using Python, enabling them to interpret and draw conclusions from economic data.",COMPUTING IN ECONOMICS,3
+Problem-solving,"Through programming projects and assignments, students will enhance their problem-solving skills, which are essential in the field of economics.",COMPUTING IN ECONOMICS,3
+Data visualization,"Students will learn how to visually represent and present data using Python libraries, enhancing their ability to communicate complex economic concepts effectively.",COMPUTING IN ECONOMICS,3
+Java programming,Students will develop introductory Java programming skills through hands-on assignments and projects.,"INTRO-COMPUT SCI/PROG IN JAVA
+",3
+Algorithmic problem-solving,Students will learn and apply problem-solving techniques to develop efficient algorithms.,"INTRO-COMPUT SCI/PROG IN JAVA
+",3
+Class design,Students will gain the skill of designing and implementing classes to represent and manipulate data.,"INTRO-COMPUT SCI/PROG IN JAVA
+",3
+Arrays and ArrayLists,Students will learn how to work with arrays and ArrayLists to store and manipulate collections of data.,"INTRO-COMPUT SCI/PROG IN JAVA
+",3
+File IO,Students will acquire the skill of reading and writing files using Java's input/output mechanisms.,"INTRO-COMPUT SCI/PROG IN JAVA
+",3

@@ -1,0 +1,83 @@
+Skill,Explanation,Related Course,Credits
+Problem-solving,"Through programming projects, students will develop the ability to solve problems related to database design and application development. This ability is essential for identifying and resolving issues that may arise in real-world database scenarios.",INTRODUCTION TO DATABASES,3
+Communication,Students will enhance their communication skills through the presentation and documentation of their programming projects. Effective communication is vital in conveying ideas and collaborating with others in the field of database development.,INTRODUCTION TO DATABASES,3
+Analytical thinking,Students will develop the ability to analyze complex problems and find solutions.,ARTIFICIAL INTELLIGENCE,3
+Critical thinking,Students will enhance their critical thinking skills as they evaluate different AI techniques and approaches.,ARTIFICIAL INTELLIGENCE,3
+Communication,Students will improve their ability to communicate complex ideas and concepts related to artificial intelligence.,ARTIFICIAL INTELLIGENCE,3
+Collaboration,"Students will have the opportunity to collaborate with peers on AI projects, enhancing their teamwork skills.",ARTIFICIAL INTELLIGENCE,3
+Research skills,Students will develop research skills as they explore and study various topics in artificial intelligence.,ARTIFICIAL INTELLIGENCE,3
+Problem-solving,Students will develop problem-solving abilities as they work on programming exercises and projects in NLP.,NATURAL LANGUAGE PROCESSING,3
+Analytical Thinking,Students will enhance their ability to analyze and understand complex linguistic data and apply NLP techniques to solve problems.,NATURAL LANGUAGE PROCESSING,3
+Communication,"Students will improve their ability to communicate their ideas and findings related to NLP effectively, both verbally and in writing.",NATURAL LANGUAGE PROCESSING,3
+Programming,Students will develop programming skills in implementing NLP algorithms and working with NLP libraries and tools.,NATURAL LANGUAGE PROCESSING,3
+Research Skills,"Students will gain the ability to conduct research in the field of NLP, including literature review, experimental design, and evaluation of NLP systems.",NATURAL LANGUAGE PROCESSING,3
+Problem-Solving,Students will develop the ability to analyze and solve complex problems related to the design and implementation of large-scale distributed systems.,FUND-LARGE-SCALE DIST SYS,3
+Communication,"Students will enhance their ability to effectively communicate complex technical concepts, both verbally and in writing, to collaborate with team members and present their work.",FUND-LARGE-SCALE DIST SYS,3
+System Analysis,"Students will develop the ability to analyze and evaluate the performance, scalability, and fault tolerance of distributed systems, identifying areas for improvement and optimization.",FUND-LARGE-SCALE DIST SYS,3
+Collaboration,"Students will learn to work effectively in teams, collaborating with others to design and implement large-scale distributed systems.",FUND-LARGE-SCALE DIST SYS,3
+Adaptability,"Students will develop the ability to adapt to rapidly evolving technologies and industry trends in the field of large-scale distributed systems, enabling them to stay current and continue learning throughout their careers.",FUND-LARGE-SCALE DIST SYS,3
+Analytical thinking,Students will develop the ability to analyze economic problems and apply computational methods to derive insights and solutions.,COMPUTING IN ECONOMICS,3
+Collaboration,"Through group projects and discussions, students will enhance their ability to collaborate effectively with peers, an essential skill in the field of economics.",COMPUTING IN ECONOMICS,3
+Critical thinking,"Students will cultivate critical thinking skills, enabling them to evaluate economic models, theories, and empirical evidence using computational tools.",COMPUTING IN ECONOMICS,3
+Written communication,Students will improve their ability to communicate economic concepts and findings through written reports and documentation.,COMPUTING IN ECONOMICS,3
+Research skills,"Students will develop research skills, including the ability to gather, evaluate, and synthesize economic data from various sources, supporting their analysis and decision-making processes.",COMPUTING IN ECONOMICS,3
+Problem-solving,Students will develop the ability to analyze and solve complex problems related to data structures and algorithms.,DATA STRUCTURES IN JAVA,3
+Programming,Students will enhance their programming abilities by implementing and manipulating various data structures in Java.,DATA STRUCTURES IN JAVA,3
+Analytical thinking,Students will develop the ability to analyze and evaluate the efficiency and performance of different data structure operations.,DATA STRUCTURES IN JAVA,3
+Communication,"Students will enhance their ability to communicate their ideas, algorithms, and solutions effectively, both verbally and in writing.",DATA STRUCTURES IN JAVA,3
+Collaboration,Students will develop the ability to work collaboratively in teams to design and implement data structures and algorithms.,DATA STRUCTURES IN JAVA,3
+Problem-solving,"Students will develop the ability to analyze and solve complex problems in the field of computer science theory, applying the concepts and techniques learned in the course.",COMPUTER SCIENCE THEORY,3
+Logical reasoning,"Students will enhance their ability to think logically and critically, as computer science theory involves rigorous reasoning and proof techniques.",COMPUTER SCIENCE THEORY,3
+Abstract thinking,"Students will develop the ability to think abstractly, as many concepts in computer science theory deal with abstract models of computation and formal languages.",COMPUTER SCIENCE THEORY,3
+Algorithmic thinking,"Students will acquire the ability to design and analyze algorithms, as algorithmic concepts are fundamental in computer science theory.",COMPUTER SCIENCE THEORY,3
+Written communication,"Students will enhance their ability to communicate complex ideas and concepts effectively through written reports and assignments, as computer science theory often requires precise and clear explanations.",COMPUTER SCIENCE THEORY,3
+Problem-solving,Students will develop the ability to solve programming problems by applying their knowledge of programming languages and compiler design. This ability is selected because problem-solving is a key ability required in programming.,PROGRAMMING LANG & TRANSL,3
+Communication,Students will enhance their communication skills through team projects and discussions. This ability is selected because effective communication is essential for collaborating with team members and conveying ideas and concepts.,PROGRAMMING LANG & TRANSL,3
+Analytical thinking,Students will develop the ability to analyze programming issues and identify solutions. This ability is selected because analytical thinking is crucial for debugging and optimizing code.,PROGRAMMING LANG & TRANSL,3
+Collaboration,Students will develop the ability to work effectively in teams while implementing a language and its compiler. This ability is selected because collaboration and teamwork are important skills in the software development industry.,PROGRAMMING LANG & TRANSL,3
+Adaptability,Students will develop the ability to adapt to different programming languages and paradigms. This ability is selected because being adaptable to different programming languages and paradigms is valuable in a rapidly evolving field like software development.,PROGRAMMING LANG & TRANSL,3
+Programming,Students will develop the ability to write code for implementing computer graphics algorithms and systems.,COMPUTER GRAPHICS,3
+Problem-solving,Students will enhance their problem-solving abilities through the implementation of graphics techniques and the final project.,COMPUTER GRAPHICS,3
+Communication,Students will improve their ability to communicate their ideas and findings related to computer graphics.,COMPUTER GRAPHICS,3
+Analytical Thinking,Students will develop the ability to analyze and evaluate different approaches and techniques in computer graphics.,COMPUTER GRAPHICS,3
+Project Management,Students will gain the ability to effectively manage and organize their work for the final project in computer graphics.,COMPUTER GRAPHICS,3
+Problem-solving,"Students will develop the ability to analyze and solve problems related to user interface design, such as identifying usability issues and proposing effective solutions.",USER INTERFACE DESIGN,3
+Communication,"Students will enhance their ability to effectively communicate their design ideas and rationale to stakeholders, including clients, users, and development teams.",USER INTERFACE DESIGN,3
+Collaboration,"Students will develop the ability to work collaboratively in multidisciplinary teams, as user interface design often involves collaboration with developers, graphic designers, and usability experts.",USER INTERFACE DESIGN,3
+User research,"Students will gain the ability to conduct user research, including user interviews, surveys, and usability testing, to inform the design of user interfaces.",USER INTERFACE DESIGN,3
+Usability evaluation,"Students will learn how to evaluate the usability of user interfaces through methods such as heuristic evaluation, cognitive walkthroughs, and user testing, and make improvements based on the findings.",USER INTERFACE DESIGN,3
+Problem-solving,Students will develop the ability to identify and solve complex problems related to machine learning algorithms and data analysis.,MACHINE LEARNING,3
+Critical thinking,Students will enhance their critical thinking skills by evaluating and selecting appropriate machine learning techniques for different tasks.,MACHINE LEARNING,3
+Data interpretation,Students will develop the ability to interpret and analyze data to extract meaningful insights and make informed decisions.,MACHINE LEARNING,3
+Algorithm implementation,"Students will gain the ability to implement machine learning algorithms in MATLAB, demonstrating their understanding of the underlying concepts.",MACHINE LEARNING,3
+Communication,Students will enhance their ability to effectively communicate their findings and insights from machine learning experiments through written reports and presentations.,MACHINE LEARNING,3
+Problem-solving,Students will develop the ability to analyze complex problems and devise effective solutions using programming techniques.,ADVANCED PROGRAMMING,4
+Collaboration,"Students will enhance their ability to work collaboratively in a team, including effective communication, task delegation, and conflict resolution.",ADVANCED PROGRAMMING,4
+Code optimization,Students will develop the ability to optimize their code for improved performance and efficiency.,ADVANCED PROGRAMMING,4
+Debugging,Students will acquire the ability to debug and troubleshoot their programs to identify and fix errors.,ADVANCED PROGRAMMING,4
+Software documentation,Students will enhance their ability to document their code and software projects effectively for future reference and maintenance.,ADVANCED PROGRAMMING,4
+Problem-solving,Students will develop the ability to analyze and solve complex problems related to intrusion detection and prevention.,INTRUSION DETECTION SYSTEM,3
+Communication,Students will enhance their ability to effectively communicate and present their findings and recommendations related to computer security.,INTRUSION DETECTION SYSTEM,3
+Critical thinking,Students will develop critical thinking skills to evaluate and assess the effectiveness of different security solutions and approaches.,INTRUSION DETECTION SYSTEM,3
+Risk assessment,Students will acquire the ability to assess and evaluate the risks associated with computer and network security and make informed decisions.,INTRUSION DETECTION SYSTEM,3
+System analysis,Students will develop the ability to analyze computer systems and networks to identify vulnerabilities and potential security weaknesses.,INTRUSION DETECTION SYSTEM,3
+Problem-solving,Students will develop the ability to analyze and solve problems using computational thinking.,INTRO TO INFORMATION SCIENCE,3
+Communication,Students will enhance their ability to effectively communicate ideas and concepts related to information science.,INTRO TO INFORMATION SCIENCE,3
+Critical thinking,Students will develop the ability to think critically and evaluate information and solutions.,INTRO TO INFORMATION SCIENCE,3
+Collaboration,Students will learn to work effectively in teams and collaborate on information science projects.,INTRO TO INFORMATION SCIENCE,3
+Information literacy,Students will develop the ability to evaluate and critically assess information from various sources.,INTRO TO INFORMATION SCIENCE,3
+Analytical thinking,"Students will develop the ability to analyze economic problems and datasets critically, allowing them to make informed decisions and recommendations.",COMPUTING IN ECONOMICS,3
+Collaboration,"Through group projects and discussions, students will enhance their ability to collaborate effectively with others, reflecting the importance of teamwork in the field of economics.",COMPUTING IN ECONOMICS,3
+Written communication,Students will improve their ability to communicate economic concepts and analysis through written reports and assignments.,COMPUTING IN ECONOMICS,3
+Research skills,"Students will develop research skills, including the ability to gather and evaluate economic data from various sources, enabling them to conduct independent research in the field.",COMPUTING IN ECONOMICS,3
+Critical evaluation,"Students will learn how to critically evaluate economic models, theories, and empirical studies, enhancing their ability to assess the validity and reliability of economic analysis.",COMPUTING IN ECONOMICS,3
+Problem-solving,Students will develop the ability to analyze and solve complex problems using algorithmic thinking.,"INTRO-COMPUT SCI/PROG IN JAVA
+",3
+Communication,Students will enhance their ability to effectively communicate their ideas and solutions to technical problems.,"INTRO-COMPUT SCI/PROG IN JAVA
+",3
+Organization,Students will develop the ability to organize and manage their code and project files in a structured manner.,"INTRO-COMPUT SCI/PROG IN JAVA
+",3
+Analytical thinking,Students will cultivate the ability to analyze and evaluate different approaches to problem-solving.,"INTRO-COMPUT SCI/PROG IN JAVA
+",3
+Debugging,Students will learn how to identify and fix errors in their code through systematic debugging techniques.,"INTRO-COMPUT SCI/PROG IN JAVA
+",3
