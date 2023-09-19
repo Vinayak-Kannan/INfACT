@@ -79,13 +79,13 @@ def get_skills(df, baseDF, skillDF, knowledgeDF, abilitiesDF):
 
     for i, row in enumerate(df.index):
         text_splitter = RecursiveCharacterTextSplitter(chunk_size=500, chunk_overlap=0)
-        all_splits = text_splitter.split_documents(df.combined[i])
+        all_splits = text_splitter.split_text(df.combined[i])
         embedding_model = "text-embedding-ada-002"
-        embeddings = [[get_embedding(x.page_content, engine=embedding_model), x.page_content] for x in all_splits]
+        embeddings = [[get_embedding(x, engine=embedding_model), x] for x in all_splits]
         prompt_embedding = get_embedding(prompt, engine=embedding_model)
         total_tokens = len(embeddings) * 500 * 4
         if total_tokens > 4000:
-            max_chunks = len(embeddings) - (total_tokens - 4000) / (500 * 4)
+            max_chunks = int(len(embeddings) - (total_tokens - 4000) / (500 * 4))
             # Sort the embeddings by cosine_similarity from openai package to prompt embedding
             embeddings = sorted(embeddings, key=lambda x: cosine_similarity(x[0], prompt_embedding), reverse=True)
             embeddings = embeddings[:max_chunks]
