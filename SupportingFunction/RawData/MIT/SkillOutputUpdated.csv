@@ -4,40 +4,40 @@ Algorithmic complexity,Students will learn about the complexity of algorithms an
 Testing and debugging,Students will gain skills in testing and debugging their programs to ensure they are functioning correctly.,Introduction to Computer Science Programming in Python,1,Debugging
 Data structures,Students will learn about different data structures and how to use them effectively in programming.,Introduction to Computer Science Programming in Python,1,Data manipulation
 Problem-solving,Students will develop problem-solving skills as they work on programming projects and assignments.,Introduction to Computer Science Programming in Python,1,Problem-solving
-C programming,"Students will gain proficiency in the C programming language, which is essential for low-level programming.",Introduction to Low-level Programming in C and Assembly,1,C programming
+C programming,"Students will gain proficiency in the C programming language, which is essential for low-level programming.",Introduction to Low-level Programming in C and Assembly,1,Python programming
 Assembly language,"Students will learn how to write and understand assembly language code, which is necessary for low-level programming.",Introduction to Low-level Programming in C and Assembly,1,Assembly language
 Memory management,Students will learn how to manipulate memory and understand the constraints involved in storing and accessing data in modern computational systems.,Introduction to Low-level Programming in C and Assembly,1,Memory management
 Data structure manipulation,"Students will develop the skill of manipulating complex data structures in low-level programming, including understanding how different data structures are stored in memory, the stack, and the heap.",Introduction to Low-level Programming in C and Assembly,1,Data manipulation
 Debugging,"Students will learn how to debug low-level programs, which requires a specific set of skills and techniques.",Introduction to Low-level Programming in C and Assembly,1,Debugging
-Mathematical reasoning,"Students will develop the skill of using logical notation, proof techniques, and mathematical tools to solve problems in computer science.",Mathematics for Computer Science,1,Mathematical reasoning
-Problem-solving,Students will enhance their problem-solving skills as they work on problem sets and analyze algorithms.,Mathematics for Computer Science,1,Problem-solving
-Graph theory,Students will learn about elementary graph theory and its applications in computer science.,Mathematics for Computer Science,1,Graph theory
-Counting and combinatorics,Students will gain proficiency in counting problems and combinatorial proof techniques.,Mathematics for Computer Science,1,Counting and combinatorics
-Asymptotic notation,Students will learn how to analyze algorithms using asymptotic notation.,Mathematics for Computer Science,1,Asymptotic notation
-R programming,Students will gain proficiency in using R for statistical analysis and simulation.,Introduction to Probability and Statistics,1,R programming
+Mathematical reasoning,"Students will develop the skill of mathematical reasoning as they learn about logical notation, proof techniques, and analysis of algorithms.",Mathematics for Computer Science,1,Computational thinking
+Problem-solving,Students will enhance their problem-solving skills through working on problem sets and exams that require the application of mathematical concepts.,Mathematics for Computer Science,1,Problem-solving
+Graph theory,"Students will gain proficiency in graph theory, which involves manipulating and analyzing graphs to solve problems.",Mathematics for Computer Science,1,Graph theory
+Counting and combinatorics,"Students will learn skills in counting and combinatorics, which involve manipulating and organizing data to solve counting problems.",Mathematics for Computer Science,1,Counting and combinatorics
+Asymptotic notation,Students will develop the skill of using asymptotic notation to analyze the efficiency of algorithms and understand their performance.,Mathematics for Computer Science,1,Asymptotic notation
+R programming,Students will gain proficiency in using R for statistical analysis and simulation.,Introduction to Probability and Statistics,1,Python programming
 Data manipulation,Students will learn how to handle and manipulate data in order to perform statistical calculations and simulations.,Introduction to Probability and Statistics,1,Data manipulation
-Problem-solving,Students will develop problem-solving skills as they work on statistical problems and simulations.,Introduction to Probability and Statistics,1,Problem-solving
+Problem-solving,Students will develop problem-solving skills as they work on statistical problems and projects.,Introduction to Probability and Statistics,1,Problem-solving
 Communication,Students will enhance their communication skills through class discussions and presentations of statistical findings.,Introduction to Probability and Statistics,1,Communication
-Statistical inference,"Students will learn the principles and techniques of statistical inference, including both Bayesian and frequentist approaches.",Introduction to Probability and Statistics,1,Statistical inference
-Designing digital systems,"Students will learn how to design digital systems, including logic gates, combinational and sequential circuits, finite-state machines, and computers.",Computation Structures,1,Designing digital systems
-Analyzing performance,Students will gain the ability to analyze the performance of digital systems using measures such as latency and throughput.,Computation Structures,1,Analyzing performance
+Statistical inference,"Students will learn the principles and techniques of statistical inference, including both Bayesian and frequentist approaches.",Introduction to Probability and Statistics,1,Data manipulation
+Designing digital systems,"Students will learn how to design digital systems, including logic gates, combinational and sequential circuits, finite-state machines, and computers.",Computation Structures,1,Structural design
+Analyzing performance,Students will gain the ability to analyze the performance of digital systems using measures such as latency and throughput.,Computation Structures,1,Data manipulation
 Debugging,Students will develop the skill of debugging digital systems and identifying flaws and limitations in their implementation.,Computation Structures,1,Debugging
-Synthesizing designs,Students will learn how to synthesize and implement digital system designs using high-level hardware languages.,Computation Structures,1,Synthesizing designs
-Problem-solving,Students will develop problem-solving skills as they work on designing and testing digital systems.,Computation Structures,1,Problem-solving
-Programming,"Students will develop proficiency in programming languages, specifically Python, and learn how to apply programming concepts to solve abstract problems.",Fundamentals of Programming,1,Programming
-Software design,"Students will learn how to design software systems, including the construction and implementation of design.",Fundamentals of Programming,1,Software development
+Synthesizing designs,Students will learn how to synthesize and implement digital system designs using high-level hardware languages.,Computation Structures,1,Structural design
+Problem-solving,Students will develop problem-solving skills as they work on designing and debugging digital systems.,Computation Structures,1,Problem-solving
+Programming,"Students will develop proficiency in programming languages, specifically Python, and learn how to apply programming concepts to solve abstract problems.",Fundamentals of Programming,1,Software development
+Software design,"Students will learn how to design software, including the construction and implementation of design.",Fundamentals of Programming,1,Software development
 Algorithmic techniques,Students will gain knowledge and practice in using algorithmic techniques to solve programming problems.,Fundamentals of Programming,1,Algorithmic techniques
-Data types,Students will learn about different data types and how to manipulate and work with them in programming.,Fundamentals of Programming,1,Data types
+Data types,Students will learn about different data types and how to manipulate and work with them in programming.,Fundamentals of Programming,1,Data manipulation
 Recursion,"Students will learn and practice the concept of recursion in programming, including its use in solving problems.",Fundamentals of Programming,1,Recursion
 Python programming,"Students will gain proficiency in programming in Python 3, as it is a prerequisite for the course.",Introduction to Algorithms,1,Python programming
 Algorithm design,Students will learn how to design algorithms to solve computational problems.,Introduction to Algorithms,1,Algorithm design
 Data structure implementation,"Students will learn how to implement and use various data structures such as dynamic arrays, heaps, balanced binary search trees, and hash tables.",Introduction to Algorithms,1,Data manipulation
-Sorting,Students will learn different sorting algorithms and how to implement them.,Introduction to Algorithms,1,Sorting
+Sorting,Students will learn different sorting algorithms and how to implement them.,Introduction to Algorithms,1,Classification
 Problem-solving,Students will develop problem-solving skills as they work on programming projects and assignments.,Introduction to Algorithms,1,Problem-solving
 Software development,"Students will learn fundamental principles and techniques of software development, including writing software that is safe from bugs, easy to understand, and ready for change.",Software Construction,1,Software development
-Testing and test-case generation,Students will gain proficiency in testing and generating test cases for software.,Software Construction,1,Debugging
-Design patterns for object-oriented programming,Students will learn about design patterns used in object-oriented programming.,Software Construction,1,Design patterns for object-oriented programming
-Concurrent programming,"Students will develop skills in concurrent programming, including message passing and shared memory concurrency, and defending against races and deadlock.",Software Construction,1,Concurrent programming
+Testing,"Students will learn about testing, test-case generation, and coverage, and how to apply these techniques in software development.",Software Construction,1,Debugging
+Design patterns,Students will learn about design patterns for object-oriented programming and how to apply them in software development.,Software Construction,1,Structural design
+Concurrent programming,"Students will learn about concurrent programming, including message passing and shared memory concurrency, and how to defend against races and deadlock.",Software Construction,1,Functional programming
 Functional programming,Students will learn about functional programming with immutable data and higher-order functions.,Software Construction,1,Functional programming
 Algorithm analysis,Students will learn how to analyze the asymptotic performance of algorithms.,Design and Analysis of Algorithms,1,Algorithm design
 Algorithm design,Students will learn important algorithmic design paradigms and methods of analysis.,Design and Analysis of Algorithms,1,Algorithm design
@@ -46,23 +46,20 @@ Problem-solving,Students will develop problem-solving skills as they work on pro
 Communication,Students will enhance their communication skills through written and oral explanations of algorithms and analyses.,Design and Analysis of Algorithms,1,Communication
 System design,Students will learn how to design their own distributed systems to solve real-world problems.,Computer Systems Engineering,1,Structural design
 Communication,"Students will enhance their communication skills through written design reports, oral presentations, and peer review.",Computer Systems Engineering,1,Communication
-Problem-solving,Students will develop problem-solving abilities as they evaluate and critique existing systems and make design choices.,Computer Systems Engineering,1,Problem-solving
-Technical proficiency,"Students will gain proficiency in technical concepts such as common design patterns, virtualization, and abstraction.",Computer Systems Engineering,1,Technical proficiency
-Analytical skills,Students will develop the ability to analyze and critique technical systems.,Computer Systems Engineering,1,Analytical skills
+Problem-solving,"Students will develop the ability to evaluate and critique existing systems, as well as their own system designs.",Computer Systems Engineering,1,Problem-solving
+Technical proficiency,"Students will gain proficiency in technical concepts such as common design patterns, operating systems, and the Internet.",Computer Systems Engineering,1,Presentation skills
+Analytical thinking,Students will develop the ability to analyze and critique technical systems.,Computer Systems Engineering,1,Computational thinking
 Problem-solving,Students will develop problem-solving skills as they work on programming projects and tackle complex computational problems.,Theory of Computation,1,Problem-solving
 Computational complexity analysis,Students will learn how to analyze the time and space complexity of algorithms and problems.,Theory of Computation,1,Algorithmic techniques
 Language theory,"Students will gain knowledge and skills in automata and language theory, including finite automata, regular expressions, push-down automata, and context-free grammars.",Theory of Computation,1,Language theory
-Turing machines,Students will learn about Turing machines and their role in computability theory.,Theory of Computation,1,Turing machines
+Turing machines,Students will learn about Turing machines and their role in computability theory.,Theory of Computation,1,Algorithmic techniques
 Communication,"Although not explicitly mentioned in the course description, effective communication is essential in any field, including computer science. Students will have opportunities to enhance their communication skills through assignments, presentations, and discussions.",Theory of Computation,1,Communication
-SQL,Students will gain proficiency in SQL as they learn about database systems and query processing.,Database Systems,1,SQL
-XML,"Students will learn about XML (eXtensible Markup Language) and its use in databases, which will enhance their ability to work with data in different formats.",Database Systems,1,XML
-Problem-solving,Students will develop problem-solving skills as they work on programming projects and analyze issues related to database systems.,Database Systems,1,Problem-solving
-Communication,Students will enhance their communication skills through class discussions and presentations on their projects.,Database Systems,1,Communication
-Database design,"Students will learn how to design a database, which is a quantifiable skill that can be applied in various job settings.",Database Systems,1,Structural design
-Research skills,"Students will develop research skills as they conduct literature searches, evaluate previous project proposals, and analyze recent papers.",Computational Systems Biology: Deep Learning in the Life Sciences,1,Research skills
-Data analysis,Students will gain proficiency in data analysis techniques as they work with large-scale biological datasets and interpret the results.,Computational Systems Biology: Deep Learning in the Life Sciences,1,Data manipulation
+SQL,"Students will gain proficiency in SQL, which is a quantifiable skill that involves manipulating data in databases.",Database Systems,1,XML
+XML,"Students will learn about XML (eXtensible Markup Language) and its use in databases, which is a quantifiable skill that involves manipulating data in a specific format.",Database Systems,1,XML
+Research skills,"Students will develop research skills as they identify previous project proposals, conduct literature searches, and gather relevant datasets for their projects.",Computational Systems Biology: Deep Learning in the Life Sciences,1,Presentation skills
+Data analysis,Students will gain proficiency in analyzing large-scale biological datasets and interpreting the results.,Computational Systems Biology: Deep Learning in the Life Sciences,1,Data manipulation
 Proposal writing,Students will learn how to write a National Institutes of Health (NIH)-style research proposal.,Computational Systems Biology: Deep Learning in the Life Sciences,1,Proposal writing
-Collaboration,"Students will develop collaboration skills as they work in teams, discuss and evaluate peer proposals, and collaborate with potential partners.",Computational Systems Biology: Deep Learning in the Life Sciences,1,Collaboration
+Collaboration,Students will develop collaboration skills as they work in teams and evaluate and discuss peer proposals.,Computational Systems Biology: Deep Learning in the Life Sciences,1,Collaboration
 Presentation skills,Students will enhance their presentation skills as they present their research results orally in a conference setting.,Computational Systems Biology: Deep Learning in the Life Sciences,1,Presentation skills
 Machine learning methods,Students will learn and apply various machine learning methods to solve specific problems.,Machine Learning,1,Algorithmic techniques
 Classification,Students will gain proficiency in classifying data using machine learning algorithms.,Machine Learning,1,Classification
@@ -72,5 +69,5 @@ Communication,Students will enhance their communication skills through project w
 Computer-aided design (CAD),Students will learn how to use computer software for architectural design and construction.,Architectural Construction And Computation,1,Computer-aided design (CAD)
 Computational thinking,Students will develop the ability to think algorithmically and solve problems using computational methods.,Architectural Construction And Computation,1,Computational thinking
 Structural design,Students will gain knowledge and skills in designing the structural components of buildings.,Architectural Construction And Computation,1,Structural design
-Detail design,"Students will learn how to create detailed designs for architectural elements such as walls, floors, and roofs.",Architectural Construction And Computation,1,Detail design
+Detail design,"Students will learn how to create detailed designs for architectural elements such as walls, floors, and roofs.",Architectural Construction And Computation,1,Structural design
 Legal issues in construction,Students will acquire knowledge of the legal regulations and requirements related to architectural construction.,Architectural Construction And Computation,1,Legal issues in construction

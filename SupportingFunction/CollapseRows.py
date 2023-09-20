@@ -13,7 +13,10 @@ def get_embeddings(texts):
         embeddings.append(value)
     return embeddings
 
-
+# Ideas to do this better:
+# 1. Store the embeddings in vectorDB to stop having to call the API every time
+# 2. Instead of dropping terms, roll them up into a list of terms, then have LLM synthesize them all into a single term
+# 3. Switch to LLAMA for better results, fine tune it on accruate responses we have
 def collapse_rows(df: DataFrame) -> DataFrame:
     config = dotenv_values("/Users/vinayakkannan/Desktop/INfACT/Script/SupportingFunction/.env")
     openai.api_key = config.get("SECRET_KEY")

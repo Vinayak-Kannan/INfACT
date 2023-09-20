@@ -4,73 +4,70 @@ Communication,Students will enhance their ability to communicate their ideas and
 Organization,Students will develop the ability to organize their code and manage their programming projects.,Introduction to Computer Science Programming in Python,1,Organization
 Analytical thinking,Students will develop the ability to analyze and evaluate different approaches to problem-solving.,Introduction to Computer Science Programming in Python,1,Analytical thinking
 Debugging,Students will acquire the ability to identify and fix errors in their programs through debugging techniques.,Introduction to Computer Science Programming in Python,1,Debugging
-Problem-solving,"Students will develop the ability to solve complex programming problems in low-level languages, which often require a deep understanding of memory management and data manipulation.",Introduction to Low-level Programming in C and Assembly,1,Problem-solving
-Analytical thinking,Students will enhance their ability to analyze and understand complex code and its behavior at the low-level.,Introduction to Low-level Programming in C and Assembly,1,Analytical thinking
-Attention to detail,"Low-level programming requires meticulous attention to detail, and students will develop this ability through the course.",Introduction to Low-level Programming in C and Assembly,1,Attention to detail
-Debugging,"Students will gain the ability to effectively debug low-level programs, which involves identifying and fixing issues at the machine level.",Introduction to Low-level Programming in C and Assembly,1,Debugging
-Technical communication,"Students will improve their ability to communicate technical concepts related to low-level programming, both verbally and in writing, to effectively collaborate and explain their work.",Introduction to Low-level Programming in C and Assembly,1,Ability to communicate technical concepts
-Logical reasoning,Students will develop the ability to apply logical reasoning in solving problems and proving theorems.,Mathematics for Computer Science,1,Logical reasoning
-Communication,Students will enhance their ability to communicate mathematical ideas and solutions effectively.,Mathematics for Computer Science,1,Communication
-Analytical thinking,Students will develop the ability to analyze and evaluate algorithms and their efficiency.,Mathematics for Computer Science,1,Analytical thinking
-Problem-solving,Students will enhance their ability to approach and solve complex problems in computer science.,Mathematics for Computer Science,1,Problem-solving
-Mathematical modeling,Students will gain the ability to model real-world problems using mathematical concepts and techniques.,Mathematics for Computer Science,1,Mathematical modeling
+Problem-solving,"Students will develop the ability to solve complex programming problems in low-level programming, which requires analytical thinking and attention to detail.",Introduction to Low-level Programming in C and Assembly,1,Problem-solving
+Analytical thinking,Students will enhance their ability to analyze and understand complex programming concepts and algorithms.,Introduction to Low-level Programming in C and Assembly,1,Analytical thinking
+Attention to detail,"Students will develop the ability to pay close attention to details in low-level programming, as even small mistakes can have significant consequences.",Introduction to Low-level Programming in C and Assembly,1,Attention to detail
+Debugging,"Students will acquire the ability to effectively debug low-level programs, identifying and fixing errors in code.",Introduction to Low-level Programming in C and Assembly,1,Debugging
+Technical communication,"Students will enhance their ability to communicate technical concepts related to low-level programming, both verbally and in writing.",Introduction to Low-level Programming in C and Assembly,1,Written communication
+Mathematical analysis,Students will develop the ability to analyze mathematical problems and apply appropriate mathematical techniques to solve them.,Mathematics for Computer Science,1,Data analysis
+Logical reasoning,Students will enhance their ability to reason logically and apply logical notation and proof techniques to solve mathematical problems.,Mathematics for Computer Science,1,Logical reasoning
+Communication,Students will improve their ability to communicate mathematical ideas and solutions verbally and in writing.,Mathematics for Computer Science,1,Communication
+Collaboration,Students will develop the ability to collaborate with other students on problem sets and engage in constructive teamwork.,Mathematics for Computer Science,1,Collaboration
+Time management,Students will acquire the ability to manage their time effectively to complete problem sets and prepare for exams within given deadlines.,Mathematics for Computer Science,1,Time management
 Data analysis,Students will develop the ability to analyze and interpret data using statistical techniques.,Introduction to Probability and Statistics,1,Data analysis
-Statistical simulation,"Students will gain the ability to use simulation methods, particularly in R, to perform probabilistic scenarios and estimate statistical quantities.",Introduction to Probability and Statistics,1,Statistical simulation
+Statistical simulation,"Students will gain the ability to use simulation methods, particularly in R, to perform probabilistic scenarios and estimate statistical quantities.",Introduction to Probability and Statistics,1,Statistical interpretation
 Statistical visualization,Students will develop the ability to visualize statistical data and results using graphs and plots.,Introduction to Probability and Statistics,1,Statistical interpretation
 Statistical reasoning,Students will enhance their ability to reason and make logical conclusions based on statistical evidence.,Introduction to Probability and Statistics,1,Statistical interpretation
 Statistical interpretation,Students will acquire the ability to interpret and communicate statistical findings to a non-technical audience.,Introduction to Probability and Statistics,1,Statistical interpretation
-Problem-solving,Students will develop the ability to identify flaws and limitations in simple systems and design solutions to overcome them.,Computation Structures,1,Problem-solving
-Communication,Students will enhance their communication skills through written lab reports and explanations of their designs.,Computation Structures,1,Communication
-Organization,Students will develop the ability to organize their work and manage their time effectively to complete lab assignments and design projects.,Computation Structures,1,Organization
-Analyzing issues,"Students will develop the ability to analyze issues affecting digital systems, such as pipeline hazards and control hazards.",Computation Structures,1,Analyzing issues
-Debugging,"Students will gain the ability to debug and test digital systems, including controllers for finite-state machines and CPUs.",Computation Structures,1,Debugging
-Problem-solving,Students will develop the ability to analyze and solve problems using programming techniques and algorithms.,Fundamentals of Programming,1,Problem-solving
+Problem-solving,Students will develop the ability to solve problems related to digital system design and implementation.,Computation Structures,1,Problem-solving
+Communication,Students will enhance their communication skills through lab assignments and design projects.,Computation Structures,1,Communication
+Organizational skills,"Although not explicitly mentioned in the course description, students may develop organizational skills as they work on designing and implementing digital systems.",Computation Structures,1,Organizational skills
+Analytical skills,Students will develop the ability to analyze issues affecting digital system performance and identify flaws and limitations in system implementations.,Computation Structures,1,Analytical skills
+Time management,Students will need to manage their time effectively to complete lab assignments and design projects within specified deadlines.,Computation Structures,1,Time management
+Problem-solving,Students will develop the ability to analyze and solve problems using programming techniques and concepts.,Fundamentals of Programming,1,Problem-solving
 Communication,"Students will enhance their ability to communicate effectively, both verbally and in writing, about programming concepts and solutions.",Fundamentals of Programming,1,Communication
-Organization,Students will develop the ability to organize and structure their code and software projects effectively.,Fundamentals of Programming,1,Organization
-Analytical thinking,Students will develop the ability to analyze and evaluate programming problems and solutions critically.,Fundamentals of Programming,1,Analytical thinking
-Debugging,Students will gain the ability to identify and fix errors and bugs in their code through debugging techniques.,Fundamentals of Programming,1,Debugging
+Organization,"Students will develop the ability to organize and manage programming projects, including software design and implementation.",Fundamentals of Programming,1,Organization
+Analytical thinking,Students will develop the ability to analyze programming problems and think critically to develop effective solutions.,Fundamentals of Programming,1,Analytical thinking
+Collaboration,"Students will enhance their ability to work collaboratively in programming projects, including teamwork and communication skills.",Fundamentals of Programming,1,Collaboration
 Problem-solving,Students will develop the ability to analyze and solve complex computational problems.,Introduction to Algorithms,1,Problem-solving
-Communication,"Students will enhance their communication skills through assignments, quizzes, and exams.",Introduction to Algorithms,1,Communication
-Analytical thinking,Students will develop the ability to think analytically and critically evaluate algorithms and their performance.,Introduction to Algorithms,1,Analytical thinking
-Time management,Students will learn to manage their time effectively to complete assignments and prepare for quizzes and exams.,Introduction to Algorithms,1,Time management
-Collaboration,"Students may have opportunities to collaborate with peers on problem-solving and programming projects, developing their ability to work in teams.",Introduction to Algorithms,1,Collaboration
+Communication,"Although not explicitly mentioned, students may enhance their communication skills through discussions, presentations, and collaboration with peers.",Introduction to Algorithms,1,Communication
+Analytical thinking,Students will develop the ability to analyze and evaluate different algorithmic approaches and their efficiency.,Introduction to Algorithms,1,Analytical thinking
+Programming,"Students will enhance their programming abilities, particularly in Python, through hands-on implementation of algorithms and data structures.",Introduction to Algorithms,1,Communication
+Time management,Students will develop the ability to manage their time effectively to complete assignments and projects within given deadlines.,Introduction to Algorithms,1,Time management
 Problem-solving,Students will develop the ability to solve problems as they work on programming projects.,Software Construction,1,Problem-solving
-Communication,Students will enhance their communication skills through discussions and feedback in class.,Software Construction,1,Communication
-Collaboration,Students will develop the ability to work effectively in teams during the group software development project.,Software Construction,1,Collaboration
-Code reviewing,Students will gain the ability to review and provide feedback on their classmates' code.,Software Construction,1,Code reviewing
-Time management,Students will develop the ability to manage their time effectively to meet project deadlines and complete problem sets.,Software Construction,1,Time management
-Analyzing algorithms,Students will have the ability to analyze worst-case running times of algorithms using asymptotic analysis.,Design and Analysis of Algorithms,1,Explaining algorithms
-Applying algorithmic design paradigms,Students will be able to apply important algorithmic design paradigms and methods of analysis to solve engineering design problems.,Design and Analysis of Algorithms,1,Applying algorithmic design paradigms
-Explaining algorithms,Students will be able to explain the correctness of algorithms using inductive proofs and invariants.,Design and Analysis of Algorithms,1,Explaining algorithms
-Graph modeling,Students will have the ability to employ graphs to model engineering problems and analyze graph algorithms.,Design and Analysis of Algorithms,1,Graph modeling
-Amortized analysis,Students will understand what amortized running time is and perform amortized analysis.,Design and Analysis of Algorithms,1,Amortized analysis
-Arguing for design choices,Students will develop the ability to argue for their design choices in distributed systems.,Computer Systems Engineering,1,Arguing for design choices
-Oral communication,"Students will enhance their ability to communicate verbally through participation in discussions, pair/group work, and presentations.",Computer Systems Engineering,1,Written communication
-Written communication,"Students will enhance their ability to communicate in writing through written design reports, critiques, and other written assignments.",Computer Systems Engineering,1,Written communication
-System analysis,Students will develop the ability to analyze and critique technical systems.,Computer Systems Engineering,1,System analysis
-Teamwork,"Students will learn to work productively and effectively in teams, as real-world systems are typically built collaboratively.",Computer Systems Engineering,1,Teamwork
+Communication,Students will enhance their communication skills through discussions and feedback led by instructors.,Software Construction,1,Communication
+Organizational skills,Students will develop the ability to organize their work and manage their time effectively.,Software Construction,1,Organizational skills
+Analytical skills,Students will develop the ability to analyze issues and make informed decisions in software development.,Software Construction,1,Analytical skills
+Collaboration,Students will develop the ability to work effectively in teams and collaborate with others in software development projects.,Software Construction,1,Collaboration
+Analytical thinking,Students will develop the ability to analyze worst-case running times of algorithms and perform asymptotic analysis.,Design and Analysis of Algorithms,1,Analytical thinking
+Algorithmic design,Students will be able to apply important algorithmic design paradigms and methods of analysis to solve engineering design problems.,Design and Analysis of Algorithms,1,Algorithmic design
+Graph modeling,Students will be able to employ graphs to model engineering problems and analyze graph algorithms.,Design and Analysis of Algorithms,1,Statistical interpretation
+Amortized analysis,Students will understand what amortized running time is and how to perform amortized analysis.,Design and Analysis of Algorithms,1,Data analysis
+Communication,"Students will enhance their ability to explain algorithms, analyses, and design choices verbally and in writing.",Design and Analysis of Algorithms,1,Communication
+Designing distributed systems,Students will develop the ability to design their own distributed systems to solve real-world problems.,Computer Systems Engineering,1,Designing distributed systems
+Arguing for design choices,Students will develop the ability to argue for their design choices in system design.,Computer Systems Engineering,1,Arguing for design choices
+Participating in discussions,"Students will enhance their ability to participate in discussions, both verbally and in pair/group work.",Computer Systems Engineering,1,Participating in discussions
+Analyzing and critiquing systems,Students will develop the ability to analyze and critique technical systems.,Computer Systems Engineering,1,Analyzing and critiquing systems
+Written communication,"Students will enhance their ability to communicate effectively through written design reports, critiques, and other written assignments.",Computer Systems Engineering,1,Written communication
 Analytical thinking,Students will develop the ability to analyze complex problems and algorithms.,Theory of Computation,1,Analytical thinking
 Logical reasoning,Students will enhance their logical reasoning skills through the study of computability and complexity theory.,Theory of Computation,1,Logical reasoning
 Time management,"The course structure and workload will require students to effectively manage their time to complete assignments, quizzes, and exams.",Theory of Computation,1,Time management
-Independent learning,Students will develop the ability to learn and understand complex theoretical concepts independently.,Theory of Computation,1,Independent learning
+Independent learning,Students will develop the ability to learn independently and explore advanced topics in computability and complexity theory.,Theory of Computation,1,Independent learning
 Critical thinking,The course content and problem-solving exercises will foster critical thinking skills in students as they analyze and evaluate different computational problems and solutions.,Theory of Computation,1,Critical thinking
-Problem-solving,"Students will develop the ability to analyze and solve problems related to database systems, which is a crucial ability in the field.",Database Systems,1,Problem-solving
-Communication,"Students will enhance their ability to communicate verbally and in writing, which is essential for presenting their project findings and collaborating with others.",Database Systems,1,Communication
-Organization,"Students will develop the ability to organize their work and manage project timelines, which is important for successfully completing the semester-long project.",Database Systems,1,Organization
-Analytical thinking,Students will develop the ability to analyze complex issues and make informed decisions related to database systems.,Database Systems,1,Analytical thinking
-Research,"Students will acquire the ability to conduct research in the field of database systems, which includes reading and analyzing research papers and applying their findings to their projects.",Database Systems,1,Research
-Problem-solving,"Students will develop the ability to solve problems as they work on the final project, design and implement new algorithms, and apply computational methods.",Computational Systems Biology: Deep Learning in the Life Sciences,1,Problem-solving
-Communication,"Students will enhance their communication abilities, both verbally and in writing, as they present their research results and write reports.",Computational Systems Biology: Deep Learning in the Life Sciences,1,Communication
-Organization,"Students will develop the ability to organize their work, plan their projects, and meet milestones.",Computational Systems Biology: Deep Learning in the Life Sciences,1,Organization
-Critical thinking,"Students will enhance their critical thinking abilities as they evaluate peer proposals, analyze research findings, and interpret results.",Computational Systems Biology: Deep Learning in the Life Sciences,1,Critical thinking
-Leadership,"Students will develop leadership skills as they work in teams, divide work, and plan and carry out independent research.",Computational Systems Biology: Deep Learning in the Life Sciences,1,Leadership
-Ability to apply machine learning methods,Students will develop the ability to apply machine learning methods to solve real-world problems.,Machine Learning,1,Ability to apply machine learning methods
-Ability to analyze and interpret data,Students will develop the ability to analyze and interpret data using machine learning techniques.,Machine Learning,1,Ability to analyze and interpret data
+Problem-solving,"Students will develop the ability of problem-solving as they work on programming projects, which is the capacity to express the skill of problem-solving.",Database Systems,1,Problem-solving
+Communication,"Students will enhance their communication skills, which is the ability to communicate verbally and in writing.",Database Systems,1,Communication
+Problem-solving,Students will develop the ability to solve complex problems related to computational biology.,Computational Systems Biology: Deep Learning in the Life Sciences,1,Problem-solving
+Critical thinking,Students will enhance their critical thinking skills as they evaluate and compare algorithms and research proposals.,Computational Systems Biology: Deep Learning in the Life Sciences,1,Critical thinking
+Communication,"Students will improve their ability to communicate their ideas and research findings effectively, both orally and in writing.",Computational Systems Biology: Deep Learning in the Life Sciences,1,Communication
+Time management,Students will develop the ability to manage their time effectively to meet project milestones and deadlines.,Computational Systems Biology: Deep Learning in the Life Sciences,1,Time management
+Leadership,Students will have the opportunity to demonstrate leadership skills as they plan and carry out independent research projects.,Computational Systems Biology: Deep Learning in the Life Sciences,1,Collaboration
+Ability to apply machine learning methods,Students will develop the ability to apply machine learning methods to solve real-world problems.,Machine Learning,1,Ability to evaluate and compare classifiers
+Ability to analyze and interpret data,Students will develop the ability to analyze and interpret data using machine learning techniques.,Machine Learning,1,Analytical skills
 Ability to evaluate and compare classifiers,Students will gain the ability to evaluate and compare different classifiers based on their performance.,Machine Learning,1,Ability to evaluate and compare classifiers
-Ability to communicate technical concepts,Students will enhance their ability to communicate technical concepts related to machine learning both verbally and in writing.,Machine Learning,1,Ability to communicate technical concepts
-Ability to work collaboratively,"Students will develop the ability to work collaboratively on machine learning projects, including literature reviews, theoretical analyses, and applications of machine learning methods.",Machine Learning,1,Collaboration
+Ability to communicate effectively,Students will enhance their ability to communicate their findings and results effectively through written and oral presentations.,Machine Learning,1,Collaboration
+Ability to collaborate,Students will develop the ability to collaborate with others in solving machine learning problems and working on projects.,Machine Learning,1,Collaboration
 Problem-solving,Students will develop the ability to analyze and solve problems related to architectural design and construction.,Architectural Construction And Computation,1,Problem-solving
 Communication,Students will enhance their ability to effectively communicate their design ideas and construction plans.,Architectural Construction And Computation,1,Communication
-Teamwork,Students will learn how to collaborate effectively with others in a team setting.,Architectural Construction And Computation,1,Teamwork
+Teamwork,Students will learn how to collaborate effectively with others in a team setting.,Architectural Construction And Computation,1,Collaboration
 Time management,Students will develop the ability to manage their time effectively to meet project deadlines.,Architectural Construction And Computation,1,Time management
-Presentation skills,Students will learn how to present their design and construction projects in a clear and professional manner.,Architectural Construction And Computation,1,Presentation skills
+Presentation skills,Students will learn how to present their design and construction projects in a clear and professional manner.,Architectural Construction And Computation,1,Organizational skills
