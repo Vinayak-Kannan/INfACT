@@ -1,0 +1,151 @@
+Skill,Explanation,Related Course,Credits
+Problem-solving,"Students will develop the ability to analyze problems, break them down into smaller components, and devise effective solutions using programming techniques.",Intro to CS,3
+Communication,"Students will enhance their ability to effectively communicate their ideas, thoughts, and solutions both verbally and in writing.",Intro to CS,3
+Organization,"Students will develop the ability to organize their code, files, and data structures in a structured and efficient manner.",Intro to CS,3
+Analytical thinking,Students will cultivate the ability to analyze and evaluate complex problems and make informed decisions based on logical reasoning.,Intro to CS,3
+Debugging and troubleshooting,Students will acquire the ability to identify and fix errors and bugs in their code through systematic debugging and troubleshooting techniques.,Intro to CS,3
+Problem-solving,Students will develop the ability to solve problems related to data structures and algorithms.,Data Structures,3
+Programming,Students will enhance their programming abilities by implementing various data structures and algorithms in Java.,Data Structures,3
+Analytical thinking,Students will develop the ability to analyze and evaluate the efficiency of different data structure operations.,Data Structures,3
+Collaboration,Students will enhance their ability to work in teams and collaborate on programming projects involving data structures.,Data Structures,3
+Communication,Students will improve their ability to communicate their ideas and solutions related to data structures effectively.,Data Structures,3
+Problem-solving,Students will develop strong problem-solving skills through hands-on programming assignments and projects.,Advanced Programming,4
+Collaboration,"Students will enhance their ability to work effectively in teams, as they will be required to collaborate on group projects and participate in code reviews.",Advanced Programming,4
+Critical thinking,Students will develop critical thinking skills by analyzing and evaluating different programming solutions and making informed decisions.,Advanced Programming,4
+Code documentation,Students will learn how to write clear and concise code documentation to improve code readability and maintainability.,Advanced Programming,4
+Software testing,"Students will gain the ability to design and implement effective software testing strategies, including unit testing, integration testing, and regression testing.",Advanced Programming,4
+Problem-solving,Students will develop the ability to apply logical reasoning and mathematical techniques to solve complex problems in discrete mathematics and related areas.,Discrete Math,3
+Analytical thinking,"Students will enhance their ability to analyze and break down complex problems into smaller, more manageable components, which is crucial in discrete mathematics and computer science.",Discrete Math,3
+Abstract reasoning,"Students will improve their ability to think abstractly and conceptually, as discrete mathematics often deals with mathematical structures and concepts that are not directly observable in the physical world.",Discrete Math,3
+Written communication,"Students will enhance their ability to communicate mathematical ideas and solutions effectively through written reports and explanations, which is important in academia and professional settings.",Discrete Math,3
+Critical thinking,"Students will develop the ability to evaluate and critique mathematical arguments and proofs, and to identify logical fallacies and errors in reasoning, which is essential for rigorous mathematical thinking and problem-solving.",Discrete Math,3
+Problem-solving,"Students will develop the ability to analyze and solve complex problems in the field of computer science theory, applying the concepts and techniques learned in the course.",CS Theory,3
+Logical reasoning,"Students will enhance their ability to think logically and critically, as they engage with abstract concepts and proofs in the course.",CS Theory,3
+Abstract thinking,"Students will develop the ability to think abstractly, as they work with formal languages, grammars, and theoretical models of computation.",CS Theory,3
+Analytical thinking,"Students will strengthen their analytical skills, as they analyze the complexity of algorithms and problems, and evaluate their efficiency.",CS Theory,3
+Written communication,Students will improve their ability to communicate complex ideas and concepts effectively through written assignments and exams in the course.,CS Theory,3
+Problem-solving,Students will develop problem-solving abilities through the design and implementation of digital circuits and processors.,Fundamentals of Computer Systems,3
+Analytical thinking,Students will enhance their ability to analyze and understand complex computer systems.,Fundamentals of Computer Systems,3
+Logical reasoning,Students will develop logical reasoning skills through the application of Boolean algebra and digital logic design.,Fundamentals of Computer Systems,3
+Communication,"Students will improve their communication skills through class discussions, presentations, and project reports.",Fundamentals of Computer Systems,3
+Teamwork,"Students will have opportunities to work in teams on projects, enhancing their ability to collaborate and work effectively in a group setting.",Fundamentals of Computer Systems,3
+Problem-solving,Students will enhance their problem-solving abilities through the application of linear algebra concepts to real-world scenarios.,Linear Algebra,3
+Analytical thinking,"Students will develop the ability to analyze and interpret data using linear algebra techniques, particularly in the context of probability and statistics.",Linear Algebra,3
+Critical thinking,Students will develop the ability to think critically and evaluate statistical information and arguments.,Introduction to Statistics,3
+Problem-solving,Students will enhance their problem-solving skills by applying statistical methods to real-world scenarios.,Introduction to Statistics,3
+Data analysis,Students will develop the ability to analyze and interpret data using statistical techniques.,Introduction to Statistics,3
+Communication,Students will improve their ability to effectively communicate statistical findings and conclusions.,Introduction to Statistics,3
+Quantitative reasoning,Students will enhance their ability to reason quantitatively and make informed decisions based on statistical analysis.,Introduction to Statistics,3
+Problem-solving,"Students will develop the ability to solve problems related to database design and application development. Through programming projects, they will learn to analyze issues and find effective solutions.",Introduction to Databases,3
+Communication,"Students will enhance their communication skills, both verbally and in writing, as they work on programming projects and present their findings. Effective communication is essential for collaborating with team members and conveying ideas and results.",Introduction to Databases,3
+Problem-solving,Students will develop the ability to solve complex problems related to the design and implementation of distributed systems.,Distributed Systems Fundamentals,3
+Communication,"Students will enhance their communication skills, particularly in explaining and discussing distributed systems concepts and designs.",Distributed Systems Fundamentals,3
+Analytical Thinking,Students will develop the ability to analyze issues and make informed decisions in the context of distributed systems.,Distributed Systems Fundamentals,3
+Collaboration,Students will learn to work effectively in teams to design and implement distributed systems.,Distributed Systems Fundamentals,3
+Adaptability,Students will develop the ability to adapt to new technologies and approaches in the rapidly evolving field of distributed systems.,Distributed Systems Fundamentals,3
+Problem-solving,Students will develop the ability to identify and solve complex problems in the field of machine learning.,Machine Learning,3
+Critical thinking,Students will enhance their critical thinking skills by analyzing and evaluating different machine learning algorithms and approaches.,Machine Learning,3
+Data interpretation,Students will develop the ability to interpret and draw meaningful insights from data in the context of machine learning.,Machine Learning,3
+Algorithm implementation,Students will gain the ability to implement machine learning algorithms and models in MATLAB.,Machine Learning,3
+Research skills,Students will develop research skills by exploring and analyzing current trends and advancements in the field of machine learning.,Machine Learning,3
+Problem-solving,"Students will develop the ability to analyze and solve complex software engineering problems by applying appropriate algorithms, data structures, and design patterns.",Engineering Software-as-a-Service,3
+Collaboration,"Students will enhance their ability to collaborate effectively with team members, stakeholders, and clients in software development projects.",Engineering Software-as-a-Service,3
+Critical thinking,"Students will develop critical thinking skills to evaluate and make informed decisions about software design, implementation, and testing.",Engineering Software-as-a-Service,3
+Adaptability,"Students will learn to adapt to changing software requirements, technologies, and project constraints, and develop the ability to quickly learn and apply new tools and frameworks.",Engineering Software-as-a-Service,3
+Documentation,"Students will improve their ability to document software design, architecture, and implementation details, ensuring clear and comprehensive communication within the development team and for future maintenance purposes.",Engineering Software-as-a-Service,3
+Problem-solving,"Students will develop the ability to analyze and solve problems related to user interface design, such as improving usability, addressing user feedback, and optimizing user workflows.",User Interface Design,3
+Communication,"Students will enhance their ability to effectively communicate design ideas and concepts to stakeholders, team members, and users.",User Interface Design,3
+Collaboration,"Students will develop the ability to work collaboratively in design and programming projects, understanding the importance of teamwork in creating successful user interfaces.",User Interface Design,3
+User research,"Students will gain the ability to conduct user research, including user interviews, usability testing, and user feedback analysis, to inform the design of user interfaces.",User Interface Design,3
+Evaluation and iteration,"Students will learn how to evaluate and iterate on their designs based on user feedback and usability testing results, continuously improving the user experience of their interfaces.",User Interface Design,3
+Critical thinking,Students will develop the ability to analyze and evaluate security issues and make informed decisions.,Security I,3
+Problem-solving,Students will enhance their problem-solving skills by applying security principles and techniques to real-world scenarios.,Security I,3
+Communication,Students will improve their ability to effectively communicate security concepts and recommendations to different stakeholders.,Security I,3
+Collaboration,Students will develop the ability to work collaboratively in teams to address security challenges.,Security I,3
+Ethical hacking,Students will gain the ability to ethically hack systems to identify vulnerabilities and propose appropriate security measures.,Security I,3
+Problem-solving,Students will develop the ability to solve complex problems related to computer vision tasks.,Computer Vision I,3
+Analytical thinking,Students will enhance their ability to analyze and interpret visual data.,Computer Vision I,3
+Communication,Students will improve their communication skills through presenting and discussing their computer vision projects.,Computer Vision I,3
+Programming,Students will acquire the ability to implement computer vision algorithms using programming languages such as Python or MATLAB.,Computer Vision I,3
+Visual perception,Students will develop their ability to perceive and interpret visual information accurately.,Computer Vision I,3
+Problem-solving,Students will develop the ability to solve complex problems related to NLP and machine learning.,Natural Language Processing,3
+Communication,"Students will enhance their ability to communicate effectively, both verbally and in writing, about NLP concepts and techniques.",Natural Language Processing,3
+Problem-solving,Students will develop the ability to solve algorithmic problems through programming projects and assignments.,Intro to CS,3
+Communication,"Students will enhance their communication skills, both verbally and in writing, through various activities and assignments in the course.",Intro to CS,3
+Organizational skills,"Although not explicitly mentioned in the course description, students may develop organizational skills as they manage their programming projects and assignments.",Intro to CS,3
+Analytical skills,"Although not explicitly mentioned in the course description, students may develop analytical skills as they analyze and understand programming concepts and problems.",Intro to CS,3
+Collaboration,"Although not explicitly mentioned in the course description, students may have opportunities to collaborate with peers on programming projects, enhancing their ability to work in a team.",Intro to CS,3
+Problem-solving,Students will develop the ability to solve problems related to data structures and algorithms.,Data Structures,3
+Programming,Students will enhance their programming abilities by implementing various data structures and algorithms in Java.,Data Structures,3
+Analytical thinking,Students will develop the ability to analyze and evaluate the efficiency of different data structure operations.,Data Structures,3
+Communication,Students will enhance their ability to communicate their ideas and solutions related to data structures.,Data Structures,3
+Collaboration,Students will develop the ability to work collaboratively in teams to solve complex problems involving data structures.,Data Structures,3
+Problem-solving,"Students will develop strong problem-solving skills through hands-on programming assignments and projects, where they will encounter and overcome various challenges and obstacles.",Advanced Programming,4
+Collaboration,"Students will enhance their ability to work effectively in teams, collaborating with peers on group projects and utilizing version control systems like Git to manage collaborative coding efforts.",Advanced Programming,4
+Critical thinking,"Students will develop critical thinking skills by analyzing and evaluating different programming solutions, identifying potential issues, and making informed decisions to optimize code efficiency and functionality.",Advanced Programming,4
+Code optimization,"Students will learn how to optimize their code for performance, efficiency, and readability, improving their ability to write clean, concise, and maintainable code.",Advanced Programming,4
+Documentation,"Students will enhance their ability to document their code effectively, including writing clear and concise comments, creating user manuals, and providing comprehensive documentation for future reference.",Advanced Programming,4
+Problem-solving,"Students will develop strong problem-solving skills through the application of logical reasoning, mathematical techniques, and algorithmic thinking to solve complex problems in discrete mathematics and computer science.",Discrete Math,3
+Analytical thinking,"Students will enhance their ability to analyze and evaluate mathematical statements, proofs, and algorithms, enabling them to identify patterns, relationships, and underlying structures in various mathematical and computational contexts.",Discrete Math,3
+Communication,"Students will improve their ability to communicate mathematical ideas and concepts effectively, both orally and in writing, through the presentation of logical arguments, proofs, and mathematical explanations.",Discrete Math,3
+Abstract reasoning,"Students will develop the ability to think abstractly and generalize mathematical concepts and principles to solve problems in diverse domains, including computer programming, cryptography, and network analysis.",Discrete Math,3
+Critical thinking,"Students will cultivate critical thinking skills by evaluating the validity and soundness of mathematical arguments, identifying logical fallacies, and making informed judgments based on mathematical evidence and reasoning.",Discrete Math,3
+Problem-solving,"Students will develop the ability to analyze and solve complex problems in the field of computer science theory, applying the concepts and techniques learned in the course.",CS Theory,3
+Logical reasoning,"Students will enhance their ability to think logically and critically, as they engage with abstract concepts and proofs in the course.",CS Theory,3
+Abstract thinking,"Students will cultivate the ability to think abstractly, as they work with formal languages and theoretical models of computation.",CS Theory,3
+Analytical thinking,Students will develop the ability to analyze and evaluate the efficiency and complexity of algorithms and computational problems.,CS Theory,3
+Written communication,"Students will improve their ability to communicate their ideas and solutions effectively through written reports and explanations, as they engage in theoretical discussions and proofs.",CS Theory,3
+Problem-solving,Students will develop problem-solving abilities through the design and implementation of digital circuits and processors.,Fundamentals of Computer Systems,3
+Analytical thinking,Students will enhance their ability to analyze and understand complex computer systems.,Fundamentals of Computer Systems,3
+Logical reasoning,Students will develop logical reasoning skills through the application of Boolean algebra and digital logic design.,Fundamentals of Computer Systems,3
+Communication,"Students will improve their communication skills through class discussions, presentations, and project reports.",Fundamentals of Computer Systems,3
+Teamwork,"Students will have opportunities to work in teams on projects, enhancing their ability to collaborate and work effectively in a group setting.",Fundamentals of Computer Systems,3
+Problem-solving,Students will enhance their problem-solving abilities through the application of linear algebra concepts to real-world scenarios.,Linear Algebra,3
+Analytical thinking,"Students will develop the ability to analyze and interpret data using linear algebra techniques, particularly in the context of probability and statistics.",Linear Algebra,3
+Problem-solving,Students will develop the ability to solve statistical problems and make informed decisions based on data analysis.,Introduction to Statistics,3
+Critical thinking,Students will enhance their ability to think critically and evaluate statistical information and arguments.,Introduction to Statistics,3
+Communication,Students will improve their ability to effectively communicate statistical findings and interpretations to others.,Introduction to Statistics,3
+Data visualization,"Students will develop the ability to visually represent data using graphs, charts, and other visualization techniques.",Introduction to Statistics,3
+Statistical reasoning,Students will enhance their ability to apply statistical concepts and reasoning to real-world problems and scenarios.,Introduction to Statistics,3
+Problem-solving,"Through programming projects, students will develop the ability to solve problems related to database design and application development. This ability is essential for troubleshooting and optimizing database systems.",Introduction to Databases,3
+Communication,Students will enhance their communication skills through project presentations and discussions. Effective communication is crucial for collaborating with team members and conveying ideas and solutions in the field of database development.,Introduction to Databases,3
+Problem-solving,Students will develop the ability to solve complex problems related to visual recognition and interpretation.,"VISUAL INTERFACES TO COMP
+",3
+Critical thinking,Students will enhance their ability to think critically and analyze the underlying assumptions of visual interface systems.,"VISUAL INTERFACES TO COMP
+",3
+Communication,Students will improve their ability to communicate their ideas and findings related to visual interfaces.,"VISUAL INTERFACES TO COMP
+",3
+Collaboration,Students will develop the ability to work effectively in teams on projects related to visual interfaces.,"VISUAL INTERFACES TO COMP
+",3
+Research skills,Students will acquire the ability to conduct research in the field of visual interfaces and evaluate existing systems.,"VISUAL INTERFACES TO COMP
+",3
+Problem-solving,Students will develop the ability to identify and solve complex problems in the field of machine learning.,Machine Learning,3
+Critical thinking,Students will enhance their critical thinking skills by analyzing and evaluating different machine learning algorithms and approaches.,Machine Learning,3
+Data interpretation,Students will develop the ability to interpret and draw meaningful insights from data in the context of machine learning.,Machine Learning,3
+Algorithm implementation,Students will gain the ability to implement machine learning algorithms and models in MATLAB.,Machine Learning,3
+Research skills,Students will develop research skills by exploring and analyzing current trends and advancements in the field of machine learning.,Machine Learning,3
+Problem-solving,Students will develop the ability to analyze and solve complex software engineering problems through hands-on programming assignments and projects.,Engineering Software-as-a-Service,3
+Collaboration,"Students will enhance their ability to collaborate effectively with team members, stakeholders, and clients to develop and deliver high-quality software solutions.",Engineering Software-as-a-Service,3
+Critical thinking,"Students will cultivate critical thinking skills to evaluate and make informed decisions about software design, architecture, and implementation.",Engineering Software-as-a-Service,3
+Adaptability,"Students will develop the ability to adapt to changing software requirements, technologies, and project constraints, reflecting the dynamic nature of the software industry.",Engineering Software-as-a-Service,3
+Communication,"Students will improve their verbal and written communication skills, enabling them to effectively convey technical concepts and ideas to both technical and non-technical audiences.",Engineering Software-as-a-Service,3
+Problem-solving,Students will develop the ability to analyze and solve problems related to robotics. This ability is crucial for troubleshooting and optimizing robotic systems.,Computation Aspects of Robotics,3
+Communication,Students will enhance their ability to effectively communicate their ideas and findings related to robotics. This ability is important for collaborating with team members and presenting research or project outcomes.,Computation Aspects of Robotics,3
+Programming,Students will develop the ability to program robots using specialized programming languages. This ability allows students to translate their ideas into executable code for controlling robots.,Computation Aspects of Robotics,3
+System integration,Students will gain the ability to integrate different components and subsystems of a robotic system. This ability is important for ensuring seamless operation and coordination of various robot functionalities.,Computation Aspects of Robotics,3
+Planning and optimization,Students will develop the ability to plan and optimize robot movements and actions based on given objectives and constraints. This ability enables students to design efficient and effective robotic systems.,Computation Aspects of Robotics,3
+Problem-solving,Students will develop the ability to analyze complex security issues and devise effective solutions.,Security II,3
+Communication,Students will enhance their ability to effectively communicate security concepts and findings to both technical and non-technical stakeholders.,Security II,3
+Critical thinking,Students will develop critical thinking skills to evaluate security risks and make informed decisions.,Security II,3
+Risk assessment,Students will acquire the ability to assess and quantify security risks to prioritize mitigation efforts.,Security II,3
+Collaboration,Students will enhance their ability to work collaboratively in teams to address security challenges and develop secure solutions.,Security II,3
+Problem-solving,"Students will develop advanced problem-solving abilities through hands-on projects and assignments in computer vision, enabling them to tackle complex challenges in the field.",Computer Vision,3
+Communication,"Students will enhance their ability to effectively communicate their ideas, findings, and results related to computer vision through written reports, presentations, and discussions.",Computer Vision,3
+Analytical thinking,"Students will develop the ability to analyze and interpret visual data, enabling them to extract meaningful insights and make informed decisions.",Computer Vision,3
+Research skills,"Students will acquire the ability to conduct research in computer vision, including literature review, experimental design, and evaluation of algorithms and models.",Computer Vision,3
+Collaboration,"Students will develop teamwork and collaboration skills through group projects and discussions, fostering the ability to work effectively in interdisciplinary teams in the field of computer vision.",Computer Vision,3
+Analytical thinking,Students will develop the ability to analyze and interpret complex language data and extract meaningful insights.,Natural Language Processing,3
+Problem-solving,Students will enhance their problem-solving abilities by applying NLP techniques to solve language-related challenges.,Natural Language Processing,3
+Communication,Students will improve their ability to effectively communicate their findings and insights from NLP analysis through written reports and presentations.,Natural Language Processing,3
+Critical thinking,Students will develop critical thinking skills to evaluate the performance and limitations of different NLP algorithms and approaches.,Natural Language Processing,3
+Research skills,"Students will acquire the ability to conduct research in the field of NLP, including literature review, experimental design, and evaluation of NLP models and techniques.",Natural Language Processing,3

@@ -1,0 +1,397 @@
+Program,Title,Credits,Professor,Professor Google Scholar Citations,Description,Syllabus,Semester
+COMS,Intro to CS,3,Paul S Blaer,551,"A general introduction to computer science for science and engineering students interested in majoring in computer science or engineering. Covers fundamental concepts of computer science, algorithmic problem-solving capabilities, and introductory Java programming skills. Assumes no prior programming background. Columbia University students may receive credit for only one of the following two courses: 1004 or 1005.","COMS W1004 - Introduction to Computer Science and Programming in Java
+
+General Course Information
+Fall 2023
+
+Lectures:
+
+Section 1: Mondays and Wednesdays from 2:40pm to 3:55pm in Room 309 Havemeyer Hall.  Also available via Zoom:
+https://columbiauniversity.zoom.us/j/96796128116?pwd=eTk5eXdsWkJONVZCbHNEQzRhWWZaUT09
+Section 2: Mondays and Wednesdays from 5:40pm to 6:55pm in Room 417 International Affairs Building  Also available via Zoom:
+https://columbiauniversity.zoom.us/j/96604870336?pwd=WEJnNXFWSjhXWkl0YzVQczk5MjhVZz09
+Course Description:
+
+A general introduction to computer science for science and engineering students interested in majoring in computer science or engineering. Covers fundamental concepts of computer science, algorithmic problem-solving capabilities, and introductory Java programming skills. Assumes no prior programming background.
+
+Instructor:
+
+Paul Blaer (pblaer@cs.columbia.edu)
+
+Office Hours are posted on the front page of courseworks.
+
+Teaching Assistants:
+
+All TA/CA office hours on listed calendar.  A small number of office hours will be held online and will be marked on the calendar as such along with their Zoom link.  
+
+TA/CA contact information and office hours can be found on the homepage.
+
+Required Textbooks:
+
+Cay Horstmann, Big Java: Early Objects, 7th Edition. Wiley, 2015, ISBN: 978-1-119-49909-1
+Grading: 
+
+Your course grade will be based on 10 homework assignments (50%), a midterm exam (20%) and a final exam (30%). 
+
+Tentative Course Schedule:
+
+Week 1 - Introduction, algorithmic problem solving.
+Week 2 - More on algorithmic problem solving.  The Java programming language.
+Week 3 - Writing and using classes.
+Week 4 - The String class.  Representing information.
+Week 5 - Iteration and conditionals. 
+Week 6 - More on writing classes.  
+Week 7 - Introduction to Arrays and ArrayLists.
+Week 8 - More an Arrays and ArrayLists and Generics
+Week  9 - Reading and writing files, IO and Exceptions
+Week 10 - More on exceptions and Inheritance
+Week 11 - More on Inheritance and Interfaces
+Week 12 - Recursion, Recursive Algorithms, and an Introduction to Generics
+Week 13 - An introduction to Data Structures and Linked Lists
+Exam Schedule:  
+
+There will be two exams  a midterm and a final exam.  Both exams are in person only. The midterm exam will be held during a regular class session, it is scheduled in place of lecture on Wednesday, October 18th.  The final exam is 2 hours and 50 minutes long and will be held during the registrar assigned exam slot. The registrar has not finalized the exam schedule for the semester yet, however based on the projected schedule section 1's final exam is expected to be held from 1:10pm to 4pm on Wednesday, December 20th and section 2's final exam is expected to be held from 4:10pm to 7pm also on Wednesday, December 20th. 
+
+Homework:
+
+There are 10 homework assignments - roughly 1 assignment will be due each week.  Half are programming assignments and half are written assignments. You will be given 8 late days (more than one minute late is considered a whole day).  You may use up to 2 late days on each individual assignment (up to a maximum of 8 across all assignments that allow late days).  There is one exception:  the final pair of assignments (9 and 10) may not be submitted late.
+
+All homework must be done individually. Please review the Computer Science Department's policy on academic honesty.",Fall 2023
+COMS,Data Structures,3,Brian Borowski,195,"Prerequisites: (COMS W1004) or knowledge of Java. Data types and structures: arrays, stacks, singly and doubly linked lists, queues, trees, sets, and graphs. Programming techniques for processing such structures: sorting and searching, hashing, garbage collection. Storage management. Rudiments of the analysis of algorithms. Taught in Java. Note: Due to significant overlap, students may receive credit for only one of the following three courses: COMS W3134, COMS W3136, COMS W3137.",,Fall 2023
+COMS,Advanced Programming,4,Jae W Lee,7694,"Prerequisites: (COMS W3134) or (COMS W3137) C programming language and Unix systems programming. Also covers Git, Make, TCP/IP networking basics, C++ fundamentals.",,Fall 2023
+COMS,Discrete Math,3,Tony B Dear,158,"Prerequisites: Any introductory course in computer programming. Logic and formal proofs, sequences and summation, mathematical induction, binomial coefficients, elements of finite probability, recurrence relations, equivalence relations and partial orderings, and topics in graph theory (including isomorphism, traversability, planarity, and colorings).",,Fall 2023
+COMS,CS Theory,3,Toniann Pitassi,,"Prerequisites: (COMS W3203) Corequisites: COMS W3134,COMS W3136,COMS W3137 Regular languages: deterministic and non-deterministic finite automata, regular expressions. Context-free languages: context-free grammars, push-down automata. Turing machines, the Chomsky hierarchy, and the Church-Turing thesis. Introduction to Complexity Theory and NP-Completeness.",,Fall 2023
+COMS,Fundamentals of Computer Systems,3,Martha A Kim,1776,"Prerequisites: an introductory programming course. Fundamentals of computer organization and digital logic. Boolean algebra, Karnaugh maps, basic gates and components, flipflops and latches, counters and state machines, basics of combinational and sequential digital design. Assembly language, instruction sets, ALU’s, single-cycle and multi-cycle processor design, introduction to pipelined processors, caches, and virtual memory.",,Fall 2023
+MATH,Linear Algebra,3,George Dragomir,283,"Linear algebra with a focus on probability and statistics. The course covers the standard linear algebra topics: systems of linear equations, matrices, determinants, vector spaces, bases, dimension, eigenvalues and eigenvectors, the Spectral Theorem and singular value decompositions. It also teaches applications of linear algebra to probability, statistics and dynamical systems giving a background sufficient for higher level courses in probability and statistics. The topics covered in the probability theory part include conditional probability, discrete and continuous random variables, probability distributions and the limit theorems, as well as Markov chains, curve fitting, regression, and pattern analysis. The course contains applications to life sciences, chemistry, and environmental life sciences. No a prior i background in the life sciences is assumed.
+
+This course is best suited for students who wish to focus on applications and practical approaches to problem solving. It is recommended to students majoring in engineering, technology, life sciences, social sciences, and economics. Math majors, joint majors, and math concentrators must take MATH UN2010 Linear Algebra, which focuses on linear algebra concepts and foundations that are needed for upper-level math courses. MATH UN2015 (Linear Algebra and Probability) does NOT replace MATH UN2010 (Linear Algebra) as prerequisite requirements of math courses. Students may not receive full credit for both courses MATH UN2010 and MATH UN2015.",,Fall 2023
+STAT,Introduction to Statistics,3,Alexander Clark,3,"Prerequisites: intermediate high school algebra. Designed for students in fields that emphasize quantitative methods. Graphical and numerical summaries, probability, theory of sampling distributions, linear regression, analysis of variance, confidence intervals and hypothesis testing. Quantitative reasoning and data analysis. Practical experience with statistical software. Illustrations are taken from a variety of fields. Data-collection/analysis project with emphasis on study designs is part of the coursework requirement.",,Fall 2023
+COMS,Introduction to Databases,3,Luis Gravano,17468,"Prerequisites: (COMS W3134) or (COMS W3137) or (COMS W3136) and fluency in Java); or the instructor's permission. The fundamentals of database design and application development using databases: entity-relationship modeling, logical design of relational databases, relational data definition and manipulation languages, SQL, XML, query processing, physical database tuning, transaction processing, security. Programming projects are required.",,Fall 2023
+COMS,Distributed Systems Fundamentals,3,Roxana Geambasu,1895,"Prerequisites: (COMS W3134 or COMS W3136 or COMS W3137) and (COMS W3157 or COMS W4118 or CSEE W4119) Design and implementation of large-scale distributed and cloud systems. Teaches abstractions, design and implementation techniques that enable the building of fast, scalable, fault-tolerant distributed systems. Topics include distributed communication models (e.g. sockets, remote procedure calls, distributed shared memory), distributed synchronization (clock synchronization, logical clocks, distributed mutex), distributed file systems, replication, consistency models, fault tolerance, distributed transactions, agreement and commitment, Paxos-based consensus, MapReduce infrastructures, scalable distributed databases. Combines concepts and algorithms with descriptions of real-world implementations at Google, Facebook, Yahoo, Microsoft, LinkedIn, etc.",,Fall 2023
+COMS,Machine Learning,3,Daniel Hsu,14170,"Prerequisites: Any introductory course in linear algebra and any introductory course in statistics are both required. Highly recommended: COMS W4701 or knowledge of Artificial Intelligence. Topics from generative and discriminative machine learning including least squares methods, support vector machines, kernel methods, neural networks, Gaussian distributions, linear classification, linear regression, maximum likelihood, exponential family distributions, Bayesian networks, Bayesian inference, mixture models, the EM algorithm, graphical models and hidden Markov models. Algorithms implemented in MATLAB.",,Fall 2023
+COMS,Engineering Software-as-a-Service,3,Junfeng Yang,8327,"Modern software engineering concepts and practices including topics such as Software-as-a-Service, Service-oriented Architecture, Agile Development, Behavior-driven Development, Ruby on Rails, and Dev/ops.",,Fall 2023
+COMS,User Interface Design,3,Brian A Smith,442,"Prerequisites: (COMS W3134 or COMS W3136 or COMS W3137) Introduction to the theory and practice of computer user interface design, emphasizing the software design of graphical user interfaces. Topics include basic interaction devices and techniques, human factors, interaction styles, dialogue design, and software infrastructure. Design and programming projects are required.",,Fall 2023
+COMS,Security I,3,Suman Jana,10719,"Introduction to security. Threat models. Operating system security features. Vulnerabilities and tools. Firewalls, virtual private networks, viruses. Mobile and app security. Usable security. Note: May not earn credit for both W4181 and W4180 or W4187. ",,Fall 2023
+COMS,Computer Vision I,3,Shree K Nayar,67002,"Introductory course in computer vision. Topics include image formation and optics, image sensing, binary images, image processing and filtering, edge extraction and boundary detection, region growing and segmentation, pattern classification methods, brightness and reflectance, shape from shading and photometric stereo, texture, binocular stereo, optical flow and motion, 2D and 3D object representation, object recognition, vision systems and applications.",,Fall 2023
+COMS,Natural Language Processing,3,Daniel Bauer,452,"Prerequisites: (COMS W3134 or COMS W3136 or COMS W3137) or the instructors permission. Computational approaches to natural language generation and understanding. Recommended preparation: some previous or concurrent exposure to AI or Machine Learning. Topics include information extraction, summarization, machine translation, dialogue systems, and emotional speech. Particular attention is given to robust techniques that can handle understanding and generation for the large amounts of text on the Web or in other large corpora. Programming exercises in several of these areas.","Natural Language Processing - COMS W4705 Section 1
+
+Fall 2023
+
+Class Time: Monday & Wednesday 1:10pm-2:25pm (starting September 6)
+
+Location:  309 Havemeyer (zoom option will be available for students who cannot attend in person)
+
+Instructor: Daniel Bauer <bauer@cs.columbia.edu>. Office Hours: Monday 3:00-4:00pm (704 CEPSR) and Tuesday (10:00-11:30am on Zoom)
+
+Please see the Modules section for week-to-week materials.
+
+Course Assistants
+
+Name        Email        Office Hours         Location
+Josephine Passananti        jcp2228@columbia.edu)        
+Tuesday 9-10:30am
+
+Thursday 10-11:30am
+
+Zoom
+Dhaarna Maheshwari        dm3792@columbia.edu)        
+Monday 4:30-6:00 pm
+
+Wednesday 4:30-6:00 pm
+
+CS TA room
+Leon Li        al4263@columbia.edu        Friday 7:30 - 9:00 pm        Zoom
+Grace Li        gl2676@barnard.edu)        Thursday 8:30 - 10 am        537 W 121 Lounge
+Andrew Stein        aps2231@columbia.edu        Monday 10:30 - 12         CS TA Room
+May Zisbrod        mz2822@columbia.edu)        Saturday 10:00 -11:30 am        Zoom
+Shreya Oak        so2667@columbia.edu)        Monday 4:15 - 5:45 pm        CS TA room
+Shreyas Bhat        shreyas.bhat@columbia.edu)        Monday 5:30 pm - 7pm        CS TA room
+Vedangi Kishor Wagh        vw2287@columbia.edu)        Tuesday 12 - 1:30 pm        CS TA room
+Xintong Yu        xy2482@columbia.edu)        Wednesday 2:30 - 4:00pm        CS TA room
+Course Description
+This course provides an introduction to the field of Natural Language Processing (NLP). We will discuss properties of human language at different levels of representation (morphology, syntax , semantics, pragmatics), and will learn how to create systems that can analyze, understand, and generate natural language. We  will introduce core NLP techniques for language modeling, tagging, parsing, and word-sense disambiguation. We will  also discuss applications such as machine translation and image caption generation. We will study machine learning methods used in NLP, such as various forms of Neural Networks. We will discuss ethical aspects of NLP research and applications. Homework assignments  will consist of programming projects in Python.
+
+Prerequisites
+Data Structures (COMS 3134 or COMS 3137), and Discrete Math (COMS 3203). Some experience programming Python and background in probability/statistics and Linear Algebra is helpful. Some previous or concurrent exposure to AI and machine learning is beneficial, but not required. 
+
+Main Course topics
+
+Linguistics background: Levels of linguistic representation. Ambiguity. Diversity in human languages.
+Machine Learning techniques for NLP (supervised machine learning, bayesian models, hidden markov models, neural networks, RNNs, transformers).
+Language modeling. 
+Tagging models (part-of-speech tagging, named-entity recognition).
+Linguistic representations, language complexity, and grammar formalisms. 
+Syntactic analysis (dependency and constituency parsing).
+Lexical semantics, distributed word representations (embeddings), word-sense-disambiguation.
+Computational semantics. Semantic parsing.
+Machine translation. 
+Ethics, Bias, and Fairness in NLP.
+Supplemental Textbooks
+You do not have to buy any textbooks for this class. The following books are available online. From time to time I will post additional research papers and reading material on Courseworks.
+Daniel Jurafsky, James H. Martin, Speech and language processing, 2nd edition. Prentice Hall. 2009.
+A draft of the third edition is available here: https://web.stanford.edu/~jurafsky/slp3/ed3book.pdf
+
+Yoav Goldberg, Neural Network Methods for Natural Language Processing. Morgan & Claypool (Synthesis Lectures on Human Language Technologies). 2017
+Available as an e-book through the Columbia library (https://clio.columbia.edu/catalog/13676351)
+
+Requirements and Grading
+Your course grade will be based on 5 programming assignments, lowest score dropped (10% each = 40%), 2 exams (25% each, 50% total), and participation (10%, online participation on Ed counts) 
+
+Exams
+There will be two paper based in-class exams (65 min each). The exams will be closed notes / closed book. For exam 2, one double-sided letter-sized ""cheat sheet"" will be allowed. Calculators recommended.
+
+Homework Policy
+You will have approximately 2 weeks to complete each programming assignment. Homework assignments may be submitted up to 4 days late for a 20 point penalty. Other extensions will be granted for documented emergencies only. Regrade requests will only be accepted up to 72 hours after homework scores are released on Courseworks by emailing the TA who graded your assignment.
+
+Tentative schedule of topics:
+
+Date        Topics
+Wed 9/6        Introduction and course overview. Levels of linguistic representation. Ambiguity.
+9/11 & 9/13        Probability review and machine learning basics.
+Text classification. Naive Bayes.
+9/18 & 9/20        
+n-gram language models, smoothing.
+
+Sequence labeling. Hidden Markov models (HMMs). Part-of-speech tagging. B-I-O tagging and named-entity recognition.
+
+ 9/25 & 9/27        
+Syntax and grammar. Context-free grammars (CFGs).
+Parsing with CFG and PCFGs (probabilistic CFGs): CKY.
+
+10/2 & 10/4        
+Transition-based Dependency Parsing.  Machine Learning for NLP.
+
+10/9 & 10/11        
+Machine Learning for NLP.  Introduction to neural networks and backpropagation.
+
+10/16 & 10/18        
+Neural language models. Distributed word representations. Static word embeddings. Pre-training.
+
+Exam 1 Review.
+
+10/23 & 10/25        
+Exam 1, Monday 10/23 (65 minutes)
+
+WordNet and Word Sense Disambiguation.
+
+10/30 & 11/1        
+Recurrent Neural Networks and LSTMs. Contextualized embeddings. ELMo.
+
+11/8        
+University holiday on Monday (Election Day).
+
+Neural MT. Attention.
+
+11/13 & 11/15        
+Self-attention and transformer-based models.  BERT, GPT and friends, and various applications.
+
+11/20        
+Prompting. Reinforcement-Learning from Human Feedback.
+
+University holiday on Wednesday (Thanksgiving).
+
+11/27 & 11/29        
+Semantic Role Labeling (FrameNet, PropBank). Abstract Meaning Representation.
+
+Additional applications: text generation and summarization.
+
+12/4  & 12/6        Multimodal NLP (language and vision). Exam 2 Review on 12/6. 
+Mon 12/11        Exam 2 (65 minutes, 1 double sided letter-sized cheat sheet allowed)
+Attendance Policy, Classroom Interaction
+Attendance, in person or online with instructor approval, is expected for all sessions and is reflected in the participation grade. The instructor understands that there may be extenuating circumstances that prevent you from attending all sessions. If you have to miss a session (or part of it), you are responsible for catching up on the material. 
+
+During class, you are expected to behave professionally, respectful and courteous to all course participants. You will use your time in class time most effectively if you fully participating in the class by asking questions and engaging in classroom activities.
+
+If you are participating on zoom, keep your camera turned on and keep yourself muted. Ask questions in the chat. From time-to time, I may unmute individual participants. I will  also occasionally use polls and ask that you participate using the yes/no/hands up functionality.
+
+Disability-Related Accommodations
+To receive disability-related academic accommodations for this course, students must first be registered with their school Disability Services (DS) office. Detailed information is available online for both the Columbia and Barnard registration processes. Refer to the appropriate website for information regarding deadlines, disability documentation requirements, and drop-in hours (Columbia)/intake session (Barnard).
+
+For this course, students registered with the Columbia DS office can refer to the “Courses that do not require professor signature” section of the DS Testing Accommodations page for more information about accessing their accommodations.
+
+Academic Honesty Policy
+It is important that you read and understand this section. Any form of academic misconduct will result in a homework or exam grade of zero and can potentially be reported to the appropriate office.
+
+Interaction With Other Students: All homework assignments must be solved individually. You are encouraged to discuss problems with others, but when you sit down to code up your solution you must work on your own, without any further interaction. You are not allowed to share your solutions (literal code and theory solutions) with other students or other groups. 
+
+Online Material: Treat coding problems like essay assignments: You are not permitted to copy any part of other people’s work without attribution. This applies to code produced by other students and to material found on the internet. The problems in this course are designed to be solved with the course materials only. However, sometimes online sources (for instance Stackoverflow) can be useful as a reference. If you have to use code snippets found online you must attribute your source in a comment (complete link). You are not allowed to copy non-trivial code fragments from these sources.
+
+Code is non-trivial if either of the following applies: 
+
+Any code that directly solves the the assignment.
+Any code you do not fully understand.
+Code longer than three lines.
+If we find that you copied a source with attribution, but you used it to solve part of the problem, we will deduct points, but we will not treat this as an example of academic misconduct. 
+
+Note that you may use any code provided in the course materials and in the textbook without attribution. 
+
+In addition to this policy, the CS department’s academic honesty policy, as well as the individual policies of your school applies to this course.
+
+AI-Tools/LLMs: The use of language model based AI to complete programming assignments is not permitted in this course, unless specified as part of an assignment.
+
+Campus Resources
+The instructor is committed to promoting students' well being and advancing an inclusive and welcoming campus culture. He is aware that students may experience personal, social, or financial challenges, whether related or unrelated  to their coursework, that may affect their health and academic performance. In addition, the high levels of stress experienced by many Columbia students may affect their mental and physical health. These effects may be exacerbated during the Covid-19 pandemic.
+If you are in need of support, you are encouraged to reach out to your school's adviser. If you feel comfortable notifying the instructor, he will make every effort to provide support and connect you to available Columbia resources.
+
+If you or someone you know feels overwhelmed or suffers from depression or anxiety, please contact
+
+Counseling and Psychological Services (CPS, Columbia) - 212-853-2878
+Furman Counseling Center (Barnard) - 212-854-2092
+For additional campus resources, see https://universitylife.columbia.edu/student-resources-directory",Fall 2023
+COMS,Intro to CS,3,Adam H Cannon,292,"A general introduction to computer science for science and engineering students interested in majoring in computer science or engineering. Covers fundamental concepts of computer science, algorithmic problem-solving capabilities, and introductory Java programming skills. Assumes no prior programming background. Columbia University students may receive credit for only one of the following two courses: 1004 or 1005.","COMS W1004 Introduction to Computer Science
+Spring 2023 Syllabus (tentative)
+Tuesday, January 17
+Lecture 1: Introduction
+Reading: Lecture notes
+
+Thursday, January 19
+Lecture 2: Introduction to algorithmic problem solving
+Reading: Lecture notes
+
+Tuesday, January 24
+Lecture 3: More on Algorithms
+Reading: Lecture notes
+
+Thursday, January 26
+Lecture 4: Codio and Java basics
+Reading: Horstmann Chapters 1, 2.2 and Chapter 4
+
+(Homework 1 due Monday, January 30)
+
+Tuesday, January 31
+Lecture 5: Iteration and conditionals
+Reading: Horstmann Chapters 5 and 6
+
+Thursday, Febrary 2
+Lecture 6: Writing and using classes
+Reading: Horstmann Chapters 2 and 3
+
+(Homework 2 due Monday, February 6)
+
+Tuesday, February 7
+Lecture 7:Writing better classes and using the String class
+Reading: Horstmann Chapters 2 and 3
+
+Thursday, February 9
+Lecture 8: Using classes
+Reading: Horstmann Chapter 8
+
+(Homework 3 due Monday February 13 )
+
+Tuesday, February 14
+Lecture 9:  Review session for midterm
+
+Thursday, February 16
+Lecture 10 Midterm 1
+
+(Homework 4 due Monday, February 20)
+
+Tuesday, February 21
+Lecture 11: Representing information
+Reading: Lecture Notes
+
+Thursday, February 23
+Lecture 12: Back to Java: Top-down design
+Reading: Horstmann Chapter 8
+
+(Homework 5 due Monday, February 27)
+
+Tuesday, February 28
+Lecture 13: Using and writing classes
+Reading: Horstmann Chapter 8
+
+Thursday, March 2
+Lecture 14: So far, so good, so what!
+Reading: Review of all reading so far
+
+(Homework 6 Due Monday, March 6)
+
+Tuesday, March 7
+Lecture 15: Guest Lecture
+ 
+
+Thursday, March 9
+Lecture 16:Using Arrays and ArrayLists
+Reading: Horstmann Chapter 7
+
+Tuesday, March 14
+Spring Break, No class
+
+Thursday, March 16
+Spring Break, No class
+
+Tuesday, March 21
+Lecture 17: Using Arrays and ArrayLists
+Reading: Horstmann Chapter 7
+
+Thursday, March 23
+Lecture 18: Putting it all together
+Reading: Horstmann Chapters 1-8
+
+(Homework 7 due Monday, March 27)
+
+Tuesday March 28
+Lecture 19: Test Review
+Reading: Horstmann Chapters 1-8
+
+Thursday, March 30
+Lecture 20: Midterm 2
+
+(Homework 8 due Monday, April 3)
+
+Tuesday, April 4
+Lecture 21: File reading and Exceptions
+Reading: Horstmann Chapter 11
+
+Thursday, April 6
+Lecture 22: File reading and Exceptions
+Reading: Horstmann Chapter 11
+
+(Homework 9 Due Monday, April 10)
+
+Tuesday, April 11 Lecture 23: Inheritance
+Reading: Horstmann Chapter 9
+
+Thursday, April 13
+Lecture 24: Interfaces and Exceptions revisited
+Reading: Horstmann Chapter 11
+
+(Homework 10 due Monday, April 17)
+
+Tuesday, April 18
+Lecture 25: Recursion
+Reading: Horstmann Chapter 13
+
+Thursday, April 20
+Lecture 26: The Java Collections Framework
+Reading: Horstmann Chapter 15-16
+
+(Homework 11 due Monday, April 24)
+
+Tuesday, April 25
+Lecture 27: Generics
+Reading: Horstmann Chapter 18
+
+Thursday, April 27
+Lecture 28: Using Generics (ArrayLists)
+Reading: Hosrtmann Chapter 18",Spring 2023
+COMS,Data Structures,3,Paul S Blaer,551,"Prerequisites: (COMS W1004) or knowledge of Java. Data types and structures: arrays, stacks, singly and doubly linked lists, queues, trees, sets, and graphs. Programming techniques for processing such structures: sorting and searching, hashing, garbage collection. Storage management. Rudiments of the analysis of algorithms. Taught in Java. Note: Due to significant overlap, students may receive credit for only one of the following three courses: COMS W3134, COMS W3136, COMS W3137.",,Spring 2023
+COMS,Advanced Programming,4,Brian Borowski,195,"Prerequisites: (COMS W3134) or (COMS W3137) C programming language and Unix systems programming. Also covers Git, Make, TCP/IP networking basics, C++ fundamentals.",,Spring 2023
+COMS,Discrete Math,3,Ansaf Salleb-Aouissi,1302,"Prerequisites: Any introductory course in computer programming. Logic and formal proofs, sequences and summation, mathematical induction, binomial coefficients, elements of finite probability, recurrence relations, equivalence relations and partial orderings, and topics in graph theory (including isomorphism, traversability, planarity, and colorings).",,Spring 2023
+COMS,CS Theory,3,Xi Chen,3910,"Prerequisites: (COMS W3203) Corequisites: COMS W3134,COMS W3136,COMS W3137 Regular languages: deterministic and non-deterministic finite automata, regular expressions. Context-free languages: context-free grammars, push-down automata. Turing machines, the Chomsky hierarchy, and the Church-Turing thesis. Introduction to Complexity Theory and NP-Completeness.
+
+ ",,Spring 2023
+COMS,Fundamentals of Computer Systems,3,Daniel S Rubenstein,7866,"Prerequisites: an introductory programming course. Fundamentals of computer organization and digital logic. Boolean algebra, Karnaugh maps, basic gates and components, flipflops and latches, counters and state machines, basics of combinational and sequential digital design. Assembly language, instruction sets, ALU’s, single-cycle and multi-cycle processor design, introduction to pipelined processors, caches, and virtual memory.",,Spring 2023
+MATH,Linear Algebra,3,George Dragomir,283,"Linear algebra with a focus on probability and statistics. The course covers the standard linear algebra topics: systems of linear equations, matrices, determinants, vector spaces, bases, dimension, eigenvalues and eigenvectors, the Spectral Theorem and singular value decompositions. It also teaches applications of linear algebra to probability, statistics and dynamical systems giving a background sufficient for higher level courses in probability and statistics. The topics covered in the probability theory part include conditional probability, discrete and continuous random variables, probability distributions and the limit theorems, as well as Markov chains, curve fitting, regression, and pattern analysis. The course contains applications to life sciences, chemistry, and environmental life sciences. No a prior i background in the life sciences is assumed.
+
+This course is best suited for students who wish to focus on applications and practical approaches to problem solving. It is recommended to students majoring in engineering, technology, life sciences, social sciences, and economics. Math majors, joint majors, and math concentrators must take MATH UN2010 Linear Algebra, which focuses on linear algebra concepts and foundations that are needed for upper-level math courses. MATH UN2015 (Linear Algebra and Probability) does NOT replace MATH UN2010 (Linear Algebra) as prerequisite requirements of math courses. Students may not receive full credit for both courses MATH UN2010 and MATH UN2015.",,Spring 2023
+STAT,Introduction to Statistics,3,Alexander Clark,3,"Prerequisites: intermediate high school algebra. Designed for students in fields that emphasize quantitative methods. Graphical and numerical summaries, probability, theory of sampling distributions, linear regression, analysis of variance, confidence intervals and hypothesis testing. Quantitative reasoning and data analysis. Practical experience with statistical software. Illustrations are taken from a variety of fields. Data-collection/analysis project with emphasis on study designs is part of the coursework requirement.",,Spring 2023
+COMS,Introduction to Databases,3,Kenneth A Ross,15183,"Prerequisites: (COMS W3134) or (COMS W3137) or (COMS W3136) and fluency in Java); or the instructor's permission. The fundamentals of database design and application development using databases: entity-relationship modeling, logical design of relational databases, relational data definition and manipulation languages, SQL, XML, query processing, physical database tuning, transaction processing, security. Programming projects are required.",,Spring 2023
+COMS,"VISUAL INTERFACES TO COMP
+",3,John R Kender,5576,"Prerequisites: (COMS W3134 or COMS W3136 or COMS W3137) Visual input as data and for control of computer systems. Survey and analysis of architecture, algorithms, and underlying assumptions of commercial and research systems that recognize and interpret human gestures, analyze imagery such as fingerprint or iris patterns, generate natural language descriptions of medical or map imagery. Explores foundations in human psychophysics, cognitive science, and artificial intelligence.",,Spring 2023
+COMS,Machine Learning,3,Nakul Verma,1721,"Prerequisites: Any introductory course in linear algebra and any introductory course in statistics are both required. Highly recommended: COMS W4701 or knowledge of Artificial Intelligence. Topics from generative and discriminative machine learning including least squares methods, support vector machines, kernel methods, neural networks, Gaussian distributions, linear classification, linear regression, maximum likelihood, exponential family distributions, Bayesian networks, Bayesian inference, mixture models, the EM algorithm, graphical models and hidden Markov models. Algorithms implemented in MATLAB.",,Spring 2023
+COMS,Engineering Software-as-a-Service,3,Junfeng Yang,8327,"Modern software engineering concepts and practices including topics such as Software-as-a-Service, Service-oriented Architecture, Agile Development, Behavior-driven Development, Ruby on Rails, and Dev/ops.",,Spring 2023
+COMS,Computation Aspects of Robotics,3,Shuran Song,23592,"Prerequisites: (COMS W3134 or COMS W3136COMS W3137) Introduction to robotics from a computer science perspective. Topics include coordinate frames and kinematics, computer architectures for robotics, integration and use of sensors, world modeling systems, design and use of robotic programming languages, and applications of artificial intelligence for planning, assembly, and manipulation.",,Spring 2023
+COMS,Security II,3,Steven M Bellovin,19441,"Advanced security. Centralized, distributed, and cloud system security. Cryptographic protocol design choices. Hardware and software security techniques. Security testing and fuzzing. Blockchain. Human security issues. Note: May not earn credit for both W4182 and W4180 or W4187. ",,Spring 2023
+COMS,Computer Vision,3,Carl Vondrick,11994,"Advanced course in computer vision. Topics include convolutional networks and back-propagation, object and action recognition, self-supervised and few-shot learning, image synthesis and generative models, object tracking, vision and language, vision and audio, 3D representations, interpretability, and bias, ethics, and media deception. ",,Spring 2023
+COMS,Natural Language Processing,3,Daniel Bauer,452,"Prerequisites: (COMS W3134 or COMS W3136 or COMS W3137) and any course on probability. Prior knowledge of Python is recommended. Provides a broad understanding of the basic techniques for building intelligent computer systems. Topics include state-space problem representations, problem reduction and and-or graphs, game playing and heuristic search, predicate calculus, and resolution theorem proving, AI systems and languages for knowledge representation, machine learning and concept formation and other topics such as natural language processing may be included as time permits.",,Spring 2023
