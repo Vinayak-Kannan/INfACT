@@ -1,6 +1,6 @@
 # This is a sample Python script.
 import pandas as pd
-
+import math
 from SupportingFunction.CollapseRows import collapse_rows
 from SupportingFunction.ParseData import parse_scraped_data
 
@@ -10,9 +10,9 @@ from SupportingFunction.ParseData import parse_scraped_data
 
 
 def driver():
-    school = "Columbia_Updated"
+    school = "Columbia_Spring2023_v1"
     # Use a breakpoint in the code line below to debug your script.
-    # parse_scraped_data(school)
+    parse_scraped_data(school)
     skill_df = pd.read_csv(
         f'/Users/vinayakkannan/Desktop/INfACT/Script/SupportingFunction/RawData/{school}/SkillOutputv2.csv')
     skill_cleaned = collapse_rows(skill_df, school)

@@ -79,6 +79,7 @@ def get_skills(df, baseDF, skillDF, knowledgeDF, abilitiesDF):
 
     for i, row in enumerate(df.index):
         text_splitter = RecursiveCharacterTextSplitter(chunk_size=500, chunk_overlap=250)
+        print(df.combined[i])
         all_splits = text_splitter.split_text(df.combined[i])
         embedding_model = "text-embedding-ada-002"
         embeddings = [[get_embedding(x, engine=embedding_model), x] for x in all_splits]
@@ -98,15 +99,19 @@ def get_skills(df, baseDF, skillDF, knowledgeDF, abilitiesDF):
             "role": "user",
             "content": prompt + combined_embedding_text
         }])
-        newDFs = parse_response(response.choices[0].message.content, i, baseDF, df.Title[i], df.Credits[i], skillDF,
-                                knowledgeDF, abilitiesDF)
-        skillDF = newDFs[0]
-        knowledgeDF = newDFs[1]
-        abilitiesDF = newDFs[2]
+        try:
+            newDFs = parse_response(response.choices[0].message.content, i, baseDF, df.Title[i], df.Credits[i], skillDF,
+                                    knowledgeDF, abilitiesDF, df.Semester[i])
+            skillDF = newDFs[0]
+            knowledgeDF = newDFs[1]
+            abilitiesDF = newDFs[2]
+        except:
+            print("Error, unable to parse this course")
+            continue
     return [skillDF, knowledgeDF, abilitiesDF]
 
 
-def parse_response(response, index, df, courseName, credits, skillDF, knowledgeDF, abilitiesDF):
+def parse_response(response, index, df, courseName, credits, skillDF, knowledgeDF, abilitiesDF, semester):
     print(response)
     # Split the response into lines and remove empty lines
     lines = [line.strip() for line in response.split('\n') if line.strip()]
@@ -130,19 +135,19 @@ def parse_response(response, index, df, courseName, credits, skillDF, knowledgeD
             if current_section == "skills":
                 skills.append({"Name": name[3:], "Explanation": explanation})
                 new_row = pd.DataFrame(
-                    {'Skill': name[3:], 'Explanation': explanation, 'Related Course': courseName, 'Credits': credits},
+                    {'Skill': name[3:], 'Explanation': explanation, 'Related Course': courseName, 'Credits': credits, 'Semester': semester},
                     index=[0])
                 skillDF = pd.concat([skillDF, new_row], ignore_index=True)
             elif current_section == "knowledge":
                 knowledge.append({"Name": name[3:], "Explanation": explanation})
                 new_row = pd.DataFrame(
-                    {'Skill': name[3:], 'Explanation': explanation, 'Related Course': courseName, 'Credits': credits},
+                    {'Skill': name[3:], 'Explanation': explanation, 'Related Course': courseName, 'Credits': credits, 'Semester': semester},
                     index=[0])
                 knowledgeDF = pd.concat([knowledgeDF, new_row], ignore_index=True)
             elif current_section == "abilities":
                 abilities.append({"Name": name[3:], "Explanation": explanation})
                 new_row = pd.DataFrame(
-                    {'Skill': name[3:], 'Explanation': explanation, 'Related Course': courseName, 'Credits': credits},
+                    {'Skill': name[3:], 'Explanation': explanation, 'Related Course': courseName, 'Credits': credits, 'Semester': semester},
                     index=[0])
                 abilitiesDF = pd.concat([abilitiesDF, new_row], ignore_index=True)
 

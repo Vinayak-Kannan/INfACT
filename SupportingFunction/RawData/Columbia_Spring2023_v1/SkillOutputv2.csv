@@ -1,0 +1,537 @@
+Skill,Explanation,Related Course,Credits,Semester
+Programming,"Students will gain proficiency in at least one programming language, which is a quantifiable skill that can be developed with practice.",COMPUTATIONAL GENOMICS,3,Spring 2023
+Data analysis,"Students will learn computational techniques for analyzing genomic data, which involves handling and manipulating data to extract meaningful insights.",COMPUTATIONAL GENOMICS,3,Spring 2023
+Artificial intelligence,"Students will learn techniques from artificial intelligence and machine learning, which involves manipulating algorithms and models to solve complex problems.",COMPUTATIONAL GENOMICS,3,Spring 2023
+String-matching algorithms,"Students will learn about string-matching algorithms, which is a specific skill related to pattern recognition and sequence analysis in genomic data.",COMPUTATIONAL GENOMICS,3,Spring 2023
+Clustering algorithms,"Students will learn about clustering algorithms, which is a skill related to grouping similar data points together based on certain criteria.",COMPUTATIONAL GENOMICS,3,Spring 2023
+Programming,"Students will gain proficiency in at least one programming language, which is a quantifiable skill that can be developed with practice.",COMPUTATIONAL GENOMICS,3,Spring 2023
+Data analysis,"Students will learn computational techniques for analyzing genomic data, which involves handling and manipulating data to extract meaningful insights.",COMPUTATIONAL GENOMICS,3,Spring 2023
+Artificial intelligence,"Students will learn techniques from artificial intelligence and machine learning, which involves manipulating algorithms and models to solve complex problems.",COMPUTATIONAL GENOMICS,3,Spring 2023
+String-matching algorithms,"Students will learn about string-matching algorithms, which is a specific skill related to pattern recognition and sequence analysis in genomic data.",COMPUTATIONAL GENOMICS,3,Spring 2023
+Clustering algorithms,"Students will learn about clustering algorithms, which is a skill related to grouping similar data points together based on certain criteria.",COMPUTATIONAL GENOMICS,3,Spring 2023
+Python programming,Students will develop proficiency in Python programming language through programming projects.,ADVANCED DATABASE SYSTEMS,3,Spring 2023
+Database management,"Students will learn how to effectively manage databases, including creating, updating, and querying databases.",ADVANCED DATABASE SYSTEMS,3,Spring 2023
+SQL,Students will gain advanced knowledge and skills in SQL (Structured Query Language) for manipulating and retrieving data from databases.,ADVANCED DATABASE SYSTEMS,3,Spring 2023
+Data modeling,Students will learn how to design and create data models for efficient and organized database structures.,ADVANCED DATABASE SYSTEMS,3,Spring 2023
+Data analysis,Students will develop skills in analyzing and interpreting data stored in databases to derive meaningful insights.,ADVANCED DATABASE SYSTEMS,3,Spring 2023
+Advanced SQL,"Students will further develop their proficiency in SQL, including complex queries, subqueries, and advanced data manipulation techniques.",ADVANCED DATABASE SYSTEMS,3,Spring 2023
+Data modeling,"Students will learn how to design and implement complex data models for databases, including entity-relationship diagrams and normalization techniques.",ADVANCED DATABASE SYSTEMS,3,Spring 2023
+Database optimization,"Students will acquire skills in optimizing database performance, including indexing, query optimization, and database tuning.",ADVANCED DATABASE SYSTEMS,3,Spring 2023
+Data warehousing,"Students will gain knowledge and hands-on experience in designing and building data warehouses, including ETL (Extract, Transform, Load) processes and dimensional modeling.",ADVANCED DATABASE SYSTEMS,3,Spring 2023
+NoSQL databases,"Students will explore and gain practical skills in working with non-relational databases, such as MongoDB or Cassandra, and understand their advantages and use cases.",ADVANCED DATABASE SYSTEMS,3,Spring 2023
+SQL,"Students will gain proficiency in SQL, which is a quantifiable skill that involves manipulating and querying databases.",Topics in Database System,3,Spring 2023
+Python programming,"Students will implement programming projects in Python, developing their ability to handle and manipulate data using this language.",Topics in Database System,3,Spring 2023
+Programming,Students will develop proficiency in programming languages and techniques used in software engineering.,TOPICS IN SOFTWARE ENGINE,3,Spring 2023
+Software testing,"Students will learn how to test software for functionality, performance, and reliability.",TOPICS IN SOFTWARE ENGINE,3,Spring 2023
+Agile development,Students will gain knowledge and experience in agile software development methodologies.,TOPICS IN SOFTWARE ENGINE,3,Spring 2023
+Version control,Students will learn how to use version control systems to manage and track changes in software projects.,TOPICS IN SOFTWARE ENGINE,3,Spring 2023
+User interface design,Students will acquire skills in designing user-friendly interfaces for software applications.,TOPICS IN SOFTWARE ENGINE,3,Spring 2023
+User interface design,"Students will learn how to design user-friendly interfaces for computer systems, websites, and mobile applications.",Human-Computer Interactio,3,Spring 2023
+Usability testing,Students will gain proficiency in conducting usability tests to evaluate the effectiveness and efficiency of user interfaces.,Human-Computer Interactio,3,Spring 2023
+Prototyping,Students will develop the skill of creating interactive prototypes to visualize and test design concepts before implementation.,Human-Computer Interactio,3,Spring 2023
+User research,Students will learn various methods and techniques for gathering user feedback and conducting user-centered research.,Human-Computer Interactio,3,Spring 2023
+Interaction design,Students will acquire the ability to design intuitive and engaging interactions between users and computer systems.,Human-Computer Interactio,3,Spring 2023
+User interface design,"Students will learn how to design user-friendly interfaces for computer systems, websites, and mobile applications.",Human-Computer Interactio,3,Spring 2023
+Usability testing,Students will gain proficiency in conducting usability tests to evaluate the effectiveness and efficiency of user interfaces.,Human-Computer Interactio,3,Spring 2023
+Prototyping,Students will develop the skill of creating interactive prototypes to visualize and test design concepts before implementation.,Human-Computer Interactio,3,Spring 2023
+User research,Students will learn various methods and techniques for gathering user feedback and conducting user-centered research.,Human-Computer Interactio,3,Spring 2023
+Interaction design,Students will acquire the ability to design intuitive and engaging interactions between users and computer systems.,Human-Computer Interactio,3,Spring 2023
+Technical writing,"Students will learn how to effectively write technical documents such as proposals, journal articles, conference papers, theses, and technical presentations.",TECH WRITING FOR CS AND E,3,Spring 2023
+Presentation skills,Students will develop the ability to present information in a clear and concise manner.,TECH WRITING FOR CS AND E,3,Spring 2023
+Research skills,Students will learn how to conduct research and gather relevant information for their technical writing.,TECH WRITING FOR CS AND E,3,Spring 2023
+Editing and proofreading,Students will gain proficiency in editing and proofreading their own work to ensure accuracy and clarity.,TECH WRITING FOR CS AND E,3,Spring 2023
+Collaboration,Students will develop the ability to work collaboratively with others in order to produce high-quality technical writing.,TECH WRITING FOR CS AND E,3,Spring 2023
+Data encryption,Students will learn how to encrypt data to protect privacy.,PRIVACY PRESERVING SYS,3,Spring 2023
+Privacy risk assessment,Students will develop the skill of assessing privacy risks in different systems.,PRIVACY PRESERVING SYS,3,Spring 2023
+Anonymization techniques,Students will gain proficiency in anonymizing data to preserve privacy.,PRIVACY PRESERVING SYS,3,Spring 2023
+Privacy regulations,Students will learn about various privacy regulations and their implications.,PRIVACY PRESERVING SYS,3,Spring 2023
+Privacy-enhancing technologies,"Students will acquire skills in using technologies that enhance privacy, such as differential privacy or homomorphic encryption.",PRIVACY PRESERVING SYS,3,Spring 2023
+Natural Language Processing (NLP),Students will gain proficiency in NLP techniques and algorithms used for processing spoken language.,ADV SPOKEN LANGUAGE PROCESSING,3,Spring 2023
+Speech Recognition,Students will learn how to develop and implement speech recognition systems to convert spoken language into written text.,ADV SPOKEN LANGUAGE PROCESSING,3,Spring 2023
+Sentiment Analysis,Students will acquire the skill of analyzing and interpreting the sentiment expressed in spoken language data.,ADV SPOKEN LANGUAGE PROCESSING,3,Spring 2023
+Language Modeling,Students will develop the ability to build language models that capture the statistical properties of spoken language.,ADV SPOKEN LANGUAGE PROCESSING,3,Spring 2023
+Machine Learning,Students will learn how to apply machine learning algorithms to process and understand spoken language.,ADV SPOKEN LANGUAGE PROCESSING,3,Spring 2023
+Critical analysis,Students will develop the skill of critically analyzing and interpreting classic computer science texts.,READING THE CS CLASSICS,3,Spring 2023
+Research skills,Students will learn how to conduct research and gather information from various sources to deepen their understanding of the course material.,READING THE CS CLASSICS,3,Spring 2023
+Writing skills,Students will enhance their writing skills through the preparation of essays and reports on the topics covered in the course.,READING THE CS CLASSICS,3,Spring 2023
+Presentation skills,Students will practice presenting their ideas and findings in a clear and concise manner.,READING THE CS CLASSICS,3,Spring 2023
+Time management,Students will learn to effectively manage their time to complete readings and assignments within given deadlines.,READING THE CS CLASSICS,3,Spring 2023
+Speech recognition,Students will gain proficiency in the techniques and algorithms used in speech recognition systems.,FUND SPEECH RECOGNITION,3,Spring 2023
+Programming,Students will develop programming skills in order to implement speech recognition algorithms and systems.,FUND SPEECH RECOGNITION,3,Spring 2023
+Machine learning algorithms,Students will learn and apply various machine learning algorithms to solve real-world problems.,HIGH PERF MACH LEARNING,3,Spring 2023
+Data preprocessing,Students will gain proficiency in preprocessing and cleaning large datasets to prepare them for machine learning tasks.,HIGH PERF MACH LEARNING,3,Spring 2023
+Python programming,"Students will develop programming skills in Python, which is widely used in machine learning.",HIGH PERF MACH LEARNING,3,Spring 2023
+Statistical analysis,Students will learn statistical techniques and methods to analyze and interpret data in the context of machine learning.,HIGH PERF MACH LEARNING,3,Spring 2023
+Model evaluation and validation,Students will learn how to evaluate and validate machine learning models to ensure their accuracy and reliability.,HIGH PERF MACH LEARNING,3,Spring 2023
+Cloud computing,"Students will gain proficiency in cloud computing technologies and platforms, such as Amazon Web Services (AWS) or Microsoft Azure.",CLOUD COMPUTING & BIG DATA,3,Spring 2023
+Big data analytics,Students will learn how to handle and manipulate large datasets using tools like Hadoop or Spark.,CLOUD COMPUTING & BIG DATA,3,Spring 2023
+Virtualization,Students will develop skills in virtualizing resources and managing virtual machines in a cloud environment.,CLOUD COMPUTING & BIG DATA,3,Spring 2023
+Data security,Students will acquire knowledge and skills in securing data in cloud computing and big data environments.,CLOUD COMPUTING & BIG DATA,3,Spring 2023
+Data visualization,Students will learn how to visually represent and analyze big data using tools like Tableau or Power BI.,CLOUD COMPUTING & BIG DATA,3,Spring 2023
+Programming languages,"Students will learn and gain proficiency in various programming languages, such as C++, Java, and Python. This skill is selected because it involves manipulating data and writing code to accomplish specific objectives.",TYPES LANGUAGES COMPILERS,3,Spring 2023
+Compiler design,Students will develop skills in designing and implementing compilers. This skill is selected because it involves manipulating and transforming code to generate executable programs.,TYPES LANGUAGES COMPILERS,3,Spring 2023
+Algorithm analysis,Students will learn how to analyze and evaluate the efficiency and performance of algorithms. This skill is selected because it involves manipulating and analyzing data to solve computational problems.,TYPES LANGUAGES COMPILERS,3,Spring 2023
+Debugging,Students will acquire skills in identifying and fixing errors in code. This skill is selected because it involves manipulating and troubleshooting code to achieve desired outcomes.,TYPES LANGUAGES COMPILERS,3,Spring 2023
+Software engineering,"Students will learn principles and practices of software engineering, including software development methodologies and project management. This skill is selected because it involves manipulating and organizing resources to develop software systems effectively.",TYPES LANGUAGES COMPILERS,3,Spring 2023
+Natural Language Processing (NLP),Students will gain proficiency in NLP techniques and algorithms used in spoken language processing.,ADV SPOKEN LANGUAGE PROCESSING,3,Spring 2023
+Speech Recognition,Students will learn how to develop and implement speech recognition systems.,ADV SPOKEN LANGUAGE PROCESSING,3,Spring 2023
+Machine Learning,Students will acquire skills in applying machine learning algorithms to analyze and process spoken language data.,ADV SPOKEN LANGUAGE PROCESSING,3,Spring 2023
+Data Analysis,Students will develop the ability to analyze and interpret large amounts of spoken language data.,ADV SPOKEN LANGUAGE PROCESSING,3,Spring 2023
+Programming,"Students will enhance their programming skills, particularly in languages commonly used in NLP such as Python or Java.",ADV SPOKEN LANGUAGE PROCESSING,3,Spring 2023
+Speech recognition,Students will gain proficiency in the techniques and algorithms used in speech recognition systems.,FUND SPEECH RECOGNITION,3,Spring 2023
+Programming,Students will develop programming skills in order to implement speech recognition algorithms and systems.,FUND SPEECH RECOGNITION,3,Spring 2023
+Machine learning algorithms,Students will learn and apply various machine learning algorithms to solve real-world problems.,HIGH PERF MACH LEARNING,3,Spring 2023
+Data preprocessing,Students will gain proficiency in preprocessing and cleaning large datasets to prepare them for machine learning tasks.,HIGH PERF MACH LEARNING,3,Spring 2023
+Python programming,"Students will develop programming skills in Python, which is widely used in machine learning.",HIGH PERF MACH LEARNING,3,Spring 2023
+Statistical analysis,Students will learn statistical techniques and methods to analyze and interpret data in the context of machine learning.,HIGH PERF MACH LEARNING,3,Spring 2023
+Model evaluation and validation,Students will learn how to evaluate and validate machine learning models to ensure their accuracy and reliability.,HIGH PERF MACH LEARNING,3,Spring 2023
+Cloud computing,"Students will gain proficiency in cloud computing technologies and platforms, such as Amazon Web Services (AWS) or Microsoft Azure.",CLOUD COMPUTING & BIG DATA,3,Spring 2023
+Big data analytics,Students will learn how to handle and manipulate large datasets using tools like Hadoop or Spark.,CLOUD COMPUTING & BIG DATA,3,Spring 2023
+Virtualization,Students will develop skills in virtualizing resources and managing virtual machines in a cloud environment.,CLOUD COMPUTING & BIG DATA,3,Spring 2023
+Data security,Students will acquire knowledge and skills in securing data in cloud computing and big data environments.,CLOUD COMPUTING & BIG DATA,3,Spring 2023
+Data visualization,Students will learn how to visually represent and analyze big data using tools like Tableau or Power BI.,CLOUD COMPUTING & BIG DATA,3,Spring 2023
+Java programming,"Students will learn introductory Java programming skills, allowing them to write and execute basic programs.",INTRO-COMPUT SCI/PROG IN,3,Spring 2023
+Algorithmic problem-solving,Students will develop the ability to analyze problems and devise efficient solutions using algorithms.,INTRO-COMPUT SCI/PROG IN,3,Spring 2023
+Data manipulation,"Students will gain proficiency in handling and manipulating data, including input/output operations and data structures.",INTRO-COMPUT SCI/PROG IN,3,Spring 2023
+Debugging,Students will learn techniques for identifying and fixing errors in computer programs.,INTRO-COMPUT SCI/PROG IN,3,Spring 2023
+Object-oriented programming,"Students will understand the principles and concepts of object-oriented programming, enabling them to design and implement modular and reusable code.",INTRO-COMPUT SCI/PROG IN,3,Spring 2023
+Java programming,"Students will learn introductory Java programming skills, allowing them to write and execute basic programs.",INTRO-COMPUT SCI/PROG IN,3,Spring 2023
+Algorithmic problem-solving,Students will develop the ability to analyze problems and devise efficient solutions using algorithms.,INTRO-COMPUT SCI/PROG IN,3,Spring 2023
+Data manipulation,"Students will gain proficiency in handling and manipulating data, including input/output operations and data structures.",INTRO-COMPUT SCI/PROG IN,3,Spring 2023
+Debugging,Students will learn techniques for identifying and fixing errors in computer programs.,INTRO-COMPUT SCI/PROG IN,3,Spring 2023
+Object-oriented programming,"Students will understand the principles and concepts of object-oriented programming, enabling them to design and implement modular and reusable code.",INTRO-COMPUT SCI/PROG IN,3,Spring 2023
+Programming,"Students will gain proficiency in programming languages such as Java, Python, or C++.",EMERGING SCHOLARS PROG SE,1,Spring 2023
+Data analysis,Students will learn how to analyze and interpret data using statistical techniques and software tools.,EMERGING SCHOLARS PROG SE,1,Spring 2023
+Web development,"Students will acquire skills in designing and developing websites using HTML, CSS, and JavaScript.",EMERGING SCHOLARS PROG SE,1,Spring 2023
+Algorithm design,Students will learn how to design efficient algorithms to solve computational problems.,EMERGING SCHOLARS PROG SE,1,Spring 2023
+Teamwork,"Students will develop the ability to work effectively in a team, collaborating with others to achieve common goals.",EMERGING SCHOLARS PROG SE,1,Spring 2023
+Programming,Students will develop proficiency in programming languages and gain the ability to write code to solve problems.,EMERGING SCHOLARS PROG SE,1,Spring 2023
+Data analysis,Students will learn how to analyze and interpret data using various tools and techniques.,EMERGING SCHOLARS PROG SE,1,Spring 2023
+Problem-solving,Students will develop critical thinking and problem-solving skills through hands-on projects and assignments.,EMERGING SCHOLARS PROG SE,1,Spring 2023
+Collaboration,Students will learn how to work effectively in teams and collaborate with others to achieve common goals.,EMERGING SCHOLARS PROG SE,1,Spring 2023
+Presentation skills,Students will enhance their ability to effectively communicate and present their ideas and findings to others.,EMERGING SCHOLARS PROG SE,1,Spring 2023
+Programming,"Students will gain proficiency in programming languages such as Java, Python, or C++.",EMERGING SCHOLARS PROG SE,1,Spring 2023
+Data analysis,Students will learn how to analyze and interpret data using statistical techniques and software tools.,EMERGING SCHOLARS PROG SE,1,Spring 2023
+Web development,"Students will acquire skills in designing and developing websites using HTML, CSS, and JavaScript.",EMERGING SCHOLARS PROG SE,1,Spring 2023
+Algorithm design,Students will learn how to design efficient algorithms to solve computational problems.,EMERGING SCHOLARS PROG SE,1,Spring 2023
+Teamwork,"Students will develop the ability to work effectively in a team, collaborating with others to achieve common goals.",EMERGING SCHOLARS PROG SE,1,Spring 2023
+Programming,"Students will develop proficiency in programming languages such as Java, Python, or C++.",EMERGING SCHOLARS PROG SE,1,Spring 2023
+Data analysis,Students will learn how to analyze and interpret data using statistical techniques and software tools.,EMERGING SCHOLARS PROG SE,1,Spring 2023
+Web development,"Students will gain skills in designing and building websites using HTML, CSS, and JavaScript.",EMERGING SCHOLARS PROG SE,1,Spring 2023
+Algorithm design,Students will learn how to design efficient algorithms to solve computational problems.,EMERGING SCHOLARS PROG SE,1,Spring 2023
+Teamwork,"Students will develop the ability to work effectively in a team, collaborating with others to achieve common goals.",EMERGING SCHOLARS PROG SE,1,Spring 2023
+Programming,Students will develop proficiency in programming languages and gain the ability to write code to solve problems.,EMERGING SCHOLARS PROG SE,1,Spring 2023
+Data analysis,Students will learn how to analyze and interpret data using various tools and techniques.,EMERGING SCHOLARS PROG SE,1,Spring 2023
+Problem-solving,Students will develop critical thinking and problem-solving skills through hands-on projects and assignments.,EMERGING SCHOLARS PROG SE,1,Spring 2023
+Collaboration,Students will learn how to work effectively in teams and collaborate with others to achieve common goals.,EMERGING SCHOLARS PROG SE,1,Spring 2023
+Presentation skills,Students will enhance their ability to effectively communicate and present their ideas and findings to others.,EMERGING SCHOLARS PROG SE,1,Spring 2023
+Programming,Students will develop proficiency in programming languages and gain the ability to write code to solve problems.,EMERGING SCHOLARS PROG SE,1,Spring 2023
+Data analysis,Students will learn how to analyze and interpret data using various tools and techniques.,EMERGING SCHOLARS PROG SE,1,Spring 2023
+Problem-solving,Students will develop critical thinking and problem-solving skills through hands-on projects and assignments.,EMERGING SCHOLARS PROG SE,1,Spring 2023
+Collaboration,Students will learn how to work effectively in teams and collaborate with others to achieve common goals.,EMERGING SCHOLARS PROG SE,1,Spring 2023
+Presentation skills,Students will enhance their ability to effectively communicate and present their ideas and findings to others.,EMERGING SCHOLARS PROG SE,1,Spring 2023
+Programming,"Students will gain proficiency in programming languages such as Java, Python, or C++.",EMERGING SCHOLARS PROG SE,1,Spring 2023
+Data analysis,Students will learn how to analyze and interpret data using statistical techniques and software tools.,EMERGING SCHOLARS PROG SE,1,Spring 2023
+Web development,"Students will acquire skills in designing and developing websites using HTML, CSS, and JavaScript.",EMERGING SCHOLARS PROG SE,1,Spring 2023
+Algorithm design,Students will learn how to design efficient algorithms to solve computational problems.,EMERGING SCHOLARS PROG SE,1,Spring 2023
+Teamwork,"Students will develop the ability to work effectively in a team, collaborating with others to achieve common goals.",EMERGING SCHOLARS PROG SE,1,Spring 2023
+Programming,"Students will gain proficiency in programming languages such as Java, Python, or C++.",EMERGING SCHOLARS PROG SE,1,Spring 2023
+Data analysis,Students will learn how to analyze and interpret data using statistical techniques and software tools.,EMERGING SCHOLARS PROG SE,1,Spring 2023
+Web development,"Students will acquire skills in designing and developing websites using HTML, CSS, and JavaScript.",EMERGING SCHOLARS PROG SE,1,Spring 2023
+Algorithm design,Students will learn how to design efficient algorithms to solve computational problems.,EMERGING SCHOLARS PROG SE,1,Spring 2023
+Teamwork,"Students will develop the ability to work effectively in a team, collaborating with others to achieve common goals.",EMERGING SCHOLARS PROG SE,1,Spring 2023
+Programming,"Students will gain proficiency in programming languages such as Java, Python, or C++.",EMERGING SCHOLARS PROG SE,1,Spring 2023
+Data analysis,Students will learn how to analyze and interpret data using statistical techniques and software tools.,EMERGING SCHOLARS PROG SE,1,Spring 2023
+Web development,"Students will acquire skills in designing and developing websites using HTML, CSS, and JavaScript.",EMERGING SCHOLARS PROG SE,1,Spring 2023
+Algorithm design,Students will learn how to design efficient algorithms to solve computational problems.,EMERGING SCHOLARS PROG SE,1,Spring 2023
+Teamwork,"Students will develop the ability to work effectively in a team, collaborating with others to achieve common goals.",EMERGING SCHOLARS PROG SE,1,Spring 2023
+Programming,Students will learn programming languages and gain proficiency in coding.,EMERGING SCHOLARS PROG SE,1,Spring 2023
+Data analysis,Students will develop skills in analyzing and interpreting data.,EMERGING SCHOLARS PROG SE,1,Spring 2023
+Problem-solving,Students will enhance their problem-solving abilities through various programming projects.,EMERGING SCHOLARS PROG SE,1,Spring 2023
+Collaboration,Students will learn how to effectively collaborate with peers on programming assignments and projects.,EMERGING SCHOLARS PROG SE,1,Spring 2023
+Technical writing,Students will improve their skills in writing technical documentation and reports.,EMERGING SCHOLARS PROG SE,1,Spring 2023
+Java programming,"Students will gain proficiency in Java programming, which is essential for working with data structures in Java.",DATA STRUCTURES IN JAVA,3,Spring 2023
+Data structure implementation,"Students will learn how to handle and manipulate various data structures such as arrays, stacks, linked lists, queues, trees, sets, and graphs.",DATA STRUCTURES IN JAVA,3,Spring 2023
+Sorting and searching,Students will develop skills in implementing sorting and searching algorithms to efficiently process data structures.,DATA STRUCTURES IN JAVA,3,Spring 2023
+Hashing,Students will learn how to use hashing techniques to optimize data retrieval and storage in data structures.,DATA STRUCTURES IN JAVA,3,Spring 2023
+Garbage collection,Students will acquire skills in managing memory and implementing garbage collection algorithms to optimize memory usage in data structures.,DATA STRUCTURES IN JAVA,3,Spring 2023
+Java programming,"Students will gain proficiency in Java programming, which is essential for working with data structures in Java.",DATA STRUCTURES IN JAVA,3,Spring 2023
+Data structure implementation,"Students will learn how to handle and manipulate various data structures such as arrays, stacks, linked lists, queues, trees, sets, and graphs.",DATA STRUCTURES IN JAVA,3,Spring 2023
+Sorting and searching,Students will develop skills in implementing sorting and searching algorithms to process data structures efficiently.,DATA STRUCTURES IN JAVA,3,Spring 2023
+Hashing,Students will learn how to use hashing techniques to store and retrieve data in data structures.,DATA STRUCTURES IN JAVA,3,Spring 2023
+Garbage collection,Students will gain knowledge and skills in managing memory and garbage collection in Java.,DATA STRUCTURES IN JAVA,3,Spring 2023
+Java programming,"Students will gain proficiency in programming in Java, which is the language used in the course.",HONORS DATA STRUCTURES &,4,Spring 2023
+Sorting and searching,Students will learn techniques for sorting and searching data structures.,HONORS DATA STRUCTURES &,4,Spring 2023
+Hashing,Students will learn about hashing and its use in data structures.,HONORS DATA STRUCTURES &,4,Spring 2023
+Garbage collection,Students will learn about garbage collection and its importance in memory management.,HONORS DATA STRUCTURES &,4,Spring 2023
+Algorithm design and analysis,Students will develop skills in designing and analyzing algorithms for data structures.,HONORS DATA STRUCTURES &,4,Spring 2023
+C++ programming,"Students will develop proficiency in C++ programming language, including its syntax, data types, and object-oriented programming concepts.",ADVANCED PROGRAMMING,4,Spring 2023
+Git,"Students will learn how to use Git, a version control system, to manage and track changes in their codebase.",ADVANCED PROGRAMMING,4,Spring 2023
+Make,"Students will gain proficiency in using Make, a build automation tool, to compile and manage their software projects.",ADVANCED PROGRAMMING,4,Spring 2023
+TCP/IP networking,"Students will learn the basics of TCP/IP networking, including protocols, addressing, and socket programming.",ADVANCED PROGRAMMING,4,Spring 2023
+Unix systems programming,"Students will develop skills in Unix systems programming, including file I/O, process management, and inter-process communication.",ADVANCED PROGRAMMING,4,Spring 2023
+C++ programming,"Students will develop proficiency in C++ programming language, including its syntax, data types, and object-oriented programming concepts.",ADVANCED PROGRAMMING,4,Spring 2023
+Git,"Students will learn how to use Git, a version control system, to manage and track changes in their codebase.",ADVANCED PROGRAMMING,4,Spring 2023
+Make,"Students will gain proficiency in using Make, a build automation tool, to compile and manage their software projects.",ADVANCED PROGRAMMING,4,Spring 2023
+TCP/IP networking,"Students will learn the basics of TCP/IP networking, including protocols, addressing, and socket programming.",ADVANCED PROGRAMMING,4,Spring 2023
+Unix systems programming,"Students will develop skills in Unix systems programming, including file I/O, process management, and inter-process communication.",ADVANCED PROGRAMMING,4,Spring 2023
+Logic and formal proofs,"Students will learn how to construct logical arguments and formal proofs, which are essential skills in mathematics and computer science.",DISCRETE MATHEMATICS,4,Spring 2023
+Sequences and summation,"Students will develop the ability to work with sequences and summations, which are fundamental concepts in discrete mathematics.",DISCRETE MATHEMATICS,4,Spring 2023
+Mathematical induction,Students will learn how to use mathematical induction to prove statements about integers and other mathematical objects.,DISCRETE MATHEMATICS,4,Spring 2023
+Recurrence relations,"Students will gain proficiency in solving recurrence relations, which are equations that define a sequence recursively.",DISCRETE MATHEMATICS,4,Spring 2023
+Graph theory,"Students will learn about the basic concepts and techniques in graph theory, such as isomorphism, traversability, planarity, and colorings.",DISCRETE MATHEMATICS,4,Spring 2023
+Logic and formal proofs,"Students will learn how to construct logical arguments and formal proofs, which are essential skills in mathematics and computer science.",DISCRETE MATHEMATICS,4,Spring 2023
+Sequences and summation,"Students will develop the ability to work with sequences and summations, which are fundamental concepts in discrete mathematics.",DISCRETE MATHEMATICS,4,Spring 2023
+Mathematical induction,Students will learn how to use mathematical induction to prove statements about integers and other mathematical objects.,DISCRETE MATHEMATICS,4,Spring 2023
+Recurrence relations,"Students will gain proficiency in solving recurrence relations, which are equations that define a sequence recursively.",DISCRETE MATHEMATICS,4,Spring 2023
+Graph theory,"Students will learn about the basic concepts and techniques in graph theory, such as isomorphism, traversability, planarity, and colorings.",DISCRETE MATHEMATICS,4,Spring 2023
+Logic and formal proofs,"Students will learn how to construct logical arguments and formal proofs, which are essential skills in discrete mathematics.",DISCRETE MATHEMATICS,4,Spring 2023
+Sequences and summation,"Students will develop the ability to manipulate and analyze mathematical sequences and summations, which are fundamental concepts in discrete mathematics.",DISCRETE MATHEMATICS,4,Spring 2023
+Mathematical induction,Students will learn how to use mathematical induction to prove statements about integers and other discrete structures.,DISCRETE MATHEMATICS,4,Spring 2023
+Recurrence relations,"Students will gain proficiency in solving and analyzing recurrence relations, which are used to describe the behavior of sequences and algorithms.",DISCRETE MATHEMATICS,4,Spring 2023
+Graph theory,"Students will learn about the basic concepts and techniques in graph theory, such as isomorphism, traversability, planarity, and colorings.",DISCRETE MATHEMATICS,4,Spring 2023
+Proficiency in linear algebra computations,"Students will develop the skill of performing computations involving matrices and vectors, which is a fundamental skill in linear algebra.",COMPUTATIONAL LINEAR ALGE,4,Spring 2023
+Programming skills,"Students will gain experience in using programming languages and software tools for solving computational problems in linear algebra, which is a valuable skill in various fields such as computer science and engineering.",COMPUTATIONAL LINEAR ALGE,4,Spring 2023
+Finite automata,"Students will learn how to handle and manipulate deterministic and non-deterministic finite automata, which are essential concepts in computer science theory.",COMPUTER SCIENCE THEORY,3,Spring 2023
+Regular expressions,"Students will gain proficiency in using regular expressions, a powerful tool for pattern matching and text manipulation.",COMPUTER SCIENCE THEORY,3,Spring 2023
+Context-free grammars,"Students will develop the skill of working with context-free grammars, which are used to describe the syntax of programming languages and other formal languages.",COMPUTER SCIENCE THEORY,3,Spring 2023
+Turing machines,"Students will learn how to handle and manipulate Turing machines, a theoretical model of computation that forms the foundation of computer science theory.",COMPUTER SCIENCE THEORY,3,Spring 2023
+Complexity theory,"Students will acquire the skill of understanding and analyzing the complexity of algorithms and problems, which is crucial in computer science theory.",COMPUTER SCIENCE THEORY,3,Spring 2023
+Finite automata,"Students will learn how to handle and manipulate deterministic and non-deterministic finite automata, which are essential concepts in computer science theory.",COMPUTER SCIENCE THEORY,3,Spring 2023
+Regular expressions,"Students will gain proficiency in using regular expressions, a powerful tool for pattern matching and text manipulation.",COMPUTER SCIENCE THEORY,3,Spring 2023
+Context-free grammars,"Students will develop the skill of working with context-free grammars, which are used to describe the syntax of programming languages and other formal languages.",COMPUTER SCIENCE THEORY,3,Spring 2023
+Turing machines,"Students will learn how to handle and manipulate Turing machines, a theoretical model of computation that forms the foundation of computer science theory.",COMPUTER SCIENCE THEORY,3,Spring 2023
+Complexity theory,"Students will acquire the skill of understanding and analyzing the complexity of algorithms and problems, which is crucial in computer science theory.",COMPUTER SCIENCE THEORY,3,Spring 2023
+Finite automata,"Students will learn how to handle and manipulate deterministic and non-deterministic finite automata, which are essential concepts in computer science theory.",COMPUTER SCIENCE THEORY,3,Spring 2023
+Regular expressions,"Students will gain proficiency in using regular expressions, a powerful tool for pattern matching and text manipulation.",COMPUTER SCIENCE THEORY,3,Spring 2023
+Context-free grammars,"Students will develop the skill of working with context-free grammars, which are used to describe the syntax of programming languages and other formal languages.",COMPUTER SCIENCE THEORY,3,Spring 2023
+Turing machines,"Students will learn how to handle and manipulate Turing machines, a theoretical model of computation that forms the basis of modern computer science.",COMPUTER SCIENCE THEORY,3,Spring 2023
+Complexity theory,"Students will acquire the skill of understanding and analyzing the complexity of algorithms and problems, which is crucial in computer science theory.",COMPUTER SCIENCE THEORY,3,Spring 2023
+SQL,"Students will gain proficiency in SQL, which is a fundamental skill in working with databases and querying data.",INTRODUCTION TO DATABASES,3,Spring 2023
+XML,"Students will learn about XML (eXtensible Markup Language) and its use in databases, allowing them to work with XML data and integrate it into database systems.",INTRODUCTION TO DATABASES,3,Spring 2023
+SQL,"Students will gain proficiency in SQL, which is a fundamental skill in working with databases and querying data.",INTRODUCTION TO DATABASES,3,Spring 2023
+XML,"Students will learn about XML (eXtensible Markup Language) and its use in databases, allowing them to work with XML data and integrate it into database systems.",INTRODUCTION TO DATABASES,3,Spring 2023
+SQL,"Students will gain proficiency in SQL, which is a fundamental skill in working with databases and querying data.",INTRODUCTION TO DATABASES,3,Spring 2023
+XML,"Students will learn about XML (eXtensible Markup Language) and its use in databases, allowing them to work with XML data and integrate it into database systems.",INTRODUCTION TO DATABASES,3,Spring 2023
+Programming languages,"Students will gain proficiency in multiple programming languages, including imperative, object-oriented, declarative, functional, and scripting languages. This skill is selected because the course focuses on teaching different programming languages and their syntax.",PROGRAMMING LANG & TRANSL,3,Spring 2023
+Compiler design,"Students will learn about the design and implementation of language translation tools, including compilers and interpreters. This skill is selected because the course covers the implementation of language translation tools and code generation.",PROGRAMMING LANG & TRANSL,3,Spring 2023
+Problem-solving,Students will develop problem-solving skills as they work on programming projects. This skill is selected because programming requires logical thinking and problem-solving abilities.,PROGRAMMING LANG & TRANSL,3,Spring 2023
+Data types,Students will learn about different data types used in programming languages. This skill is selected because understanding data types is essential for programming and manipulating data.,PROGRAMMING LANG & TRANSL,3,Spring 2023
+Exception handling,Students will learn about exception handling in programming languages. This skill is selected because handling exceptions is crucial for writing robust and error-free code.,PROGRAMMING LANG & TRANSL,3,Spring 2023
+Programming languages,"Students will gain proficiency in multiple programming languages, including imperative, object-oriented, declarative, functional, and scripting languages. This skill is selected because the course focuses on the study and implementation of different programming languages.",PROGRAMMING LANG-TRANSLATORS,3,Spring 2023
+Compiler design,"Students will learn about the design and implementation of language translation tools, including compilers and interpreters. This skill is selected because the course covers the implementation of language translation tools.",PROGRAMMING LANG-TRANSLATORS,3,Spring 2023
+"Lexical, syntactic, and semantic analysis","Students will develop the ability to analyze and understand the different levels of language analysis, including lexical, syntactic, and semantic analysis. This skill is selected because the course covers these topics in the context of language translation tools.",PROGRAMMING LANG-TRANSLATORS,3,Spring 2023
+Code generation,Students will learn how to generate executable code from high-level programming language constructs. This skill is selected because the course covers the implementation of code generation in language translation tools.,PROGRAMMING LANG-TRANSLATORS,3,Spring 2023
+Code optimization,Students will be introduced to code optimization techniques to improve the efficiency and performance of generated code. This skill is selected because the course includes an introduction to code optimization in the context of language translation tools.,PROGRAMMING LANG-TRANSLATORS,3,Spring 2023
+Process management,Students will learn how to handle and manipulate processes in an operating system to accomplish specific objectives.,OPERATING SYSTEMS I,3,Spring 2023
+Memory management,"Students will gain proficiency in managing memory in an operating system, including allocation and deallocation.",OPERATING SYSTEMS I,3,Spring 2023
+Virtual memory,Students will learn about virtual memory and its use in optimizing memory usage in an operating system.,OPERATING SYSTEMS I,3,Spring 2023
+Interrupt handling,Students will develop the ability to handle interrupts in an operating system to ensure proper functioning.,OPERATING SYSTEMS I,3,Spring 2023
+File systems,"Students will learn how to handle and manipulate file systems in an operating system, including file organization and access.",OPERATING SYSTEMS I,3,Spring 2023
+Process management,Students will learn how to handle and manipulate processes in an operating system to accomplish specific objectives.,OPERATING SYSTEMS I,3,Spring 2023
+Memory management,"Students will gain proficiency in managing memory in an operating system, including allocation and deallocation.",OPERATING SYSTEMS I,3,Spring 2023
+Virtual memory,Students will learn about virtual memory and its use in optimizing memory usage in an operating system.,OPERATING SYSTEMS I,3,Spring 2023
+Interrupt handling,Students will develop the ability to handle interrupts in an operating system to ensure proper functioning.,OPERATING SYSTEMS I,3,Spring 2023
+File systems,"Students will learn how to handle and manipulate file systems in an operating system, including file organization and access.",OPERATING SYSTEMS I,3,Spring 2023
+3D User Interface Design,"Students will learn how to design and develop 3D user interfaces, including interaction techniques, metaphors, and dialogue design.",3D UI AND AUGMENTED REALI,3,Spring 2023
+Selection and Manipulation,Students will gain proficiency in selecting and manipulating objects in a 3D environment.,3D UI AND AUGMENTED REALI,3,Spring 2023
+3D Software Support,Students will learn how to utilize software tools and technologies specific to 3D user interfaces.,3D UI AND AUGMENTED REALI,3,Spring 2023
+Virtual and Augmented Reality,Students will gain knowledge and practical experience in designing and implementing virtual and augmented reality experiences.,3D UI AND AUGMENTED REALI,3,Spring 2023
+Tangible User Interfaces,Students will learn about tangible user interfaces and how to design and develop interactive systems that incorporate physical objects.,3D UI AND AUGMENTED REALI,3,Spring 2023
+Cryptographic protocol design,Students will learn how to design secure cryptographic protocols to protect sensitive information.,SECURITY II,3,Spring 2023
+Security testing and fuzzing,Students will gain proficiency in testing and fuzzing techniques to identify vulnerabilities in security systems.,SECURITY II,3,Spring 2023
+Blockchain,Students will learn about the fundamentals of blockchain technology and its applications in ensuring secure transactions.,SECURITY II,3,Spring 2023
+Hardware and software security techniques,Students will acquire knowledge and practical skills in implementing security measures for both hardware and software systems.,SECURITY II,3,Spring 2023
+"Centralized, distributed, and cloud system security","Students will learn how to secure different types of systems, including centralized, distributed, and cloud-based architectures.",SECURITY II,3,Spring 2023
+Cryptographic protocol design,Students will learn how to design secure cryptographic protocols to protect sensitive information.,SECURITY II,3,Spring 2023
+Security testing and fuzzing,Students will gain proficiency in testing and fuzzing techniques to identify vulnerabilities in security systems.,SECURITY II,3,Spring 2023
+Blockchain,Students will learn about the fundamentals of blockchain technology and its applications in ensuring secure transactions.,SECURITY II,3,Spring 2023
+Hardware and software security techniques,Students will acquire knowledge and practical skills in implementing security measures for both hardware and software systems.,SECURITY II,3,Spring 2023
+"Centralized, distributed, and cloud system security","Students will develop the ability to secure different types of systems, including centralized, distributed, and cloud-based architectures.",SECURITY II,3,Spring 2023
+Algorithm design,Students will learn how to design algorithms to solve complex problems efficiently.,Advanced Algorithms,3,Spring 2023
+Data analysis,Students will gain proficiency in analyzing and manipulating data to extract meaningful insights.,Advanced Algorithms,3,Spring 2023
+Programming,Students will develop programming skills to implement and optimize algorithms.,Advanced Algorithms,3,Spring 2023
+Problem-solving,Students will enhance their problem-solving abilities through the application of algorithmic techniques.,Advanced Algorithms,3,Spring 2023
+Critical thinking,Students will learn to think critically and creatively to devise innovative algorithmic solutions.,Advanced Algorithms,3,Spring 2023
+Algorithm design,Students will learn how to design algorithms to solve complex problems efficiently.,Advanced Algorithms,3,Spring 2023
+Data analysis,Students will gain proficiency in analyzing and manipulating data to extract meaningful insights.,Advanced Algorithms,3,Spring 2023
+Programming,Students will develop programming skills to implement and optimize algorithms.,Advanced Algorithms,3,Spring 2023
+Problem-solving,Students will enhance their problem-solving abilities through the application of algorithmic techniques.,Advanced Algorithms,3,Spring 2023
+Critical thinking,Students will learn to think critically and evaluate the efficiency and effectiveness of different algorithmic approaches.,Advanced Algorithms,3,Spring 2023
+Problem-solving,Students will develop the skill of problem-solving as they analyze and solve computational problems.,INTRO-COMPUTATIONAL COMPL,3,Spring 2023
+Programming,Students will gain proficiency in programming languages and learn how to write efficient and effective code.,INTRO-COMPUTATIONAL COMPL,3,Spring 2023
+Data analysis,Students will learn how to handle and manipulate data to extract meaningful insights and make informed decisions.,INTRO-COMPUTATIONAL COMPL,3,Spring 2023
+Algorithm design,Students will develop the skill of designing algorithms to solve complex computational problems.,INTRO-COMPUTATIONAL COMPL,3,Spring 2023
+Critical thinking,Students will enhance their critical thinking skills as they analyze and evaluate different computational approaches.,INTRO-COMPUTATIONAL COMPL,3,Spring 2023
+Problem-solving,Students will develop the skill of problem-solving as they learn to analyze and solve computational problems.,INTRO-COMPUTATIONAL COMPL,3,Spring 2023
+Programming,Students will gain proficiency in programming languages and develop the skill of writing code to solve computational problems.,INTRO-COMPUTATIONAL COMPL,3,Spring 2023
+Business model innovation,Students will learn how to design innovative business models to create and grow a technology venture.,PRIN-INNOVATN/ENTREPRENEU,3,Spring 2023
+Product design,Students will gain proficiency in designing innovative products that align with technology paradigm shifts.,PRIN-INNOVATN/ENTREPRENEU,3,Spring 2023
+Intellectual property protection,Students will learn strategies for protecting intellectual property in the context of a technology venture.,PRIN-INNOVATN/ENTREPRENEU,3,Spring 2023
+Project planning,Students will develop skills in planning and organizing team projects related to technology entrepreneurship.,PRIN-INNOVATN/ENTREPRENEU,3,Spring 2023
+Technology analysis,Students will learn how to identify and analyze opportunities created by technology paradigm shifts.,PRIN-INNOVATN/ENTREPRENEU,3,Spring 2023
+Python programming,"Students will gain proficiency in Python programming, which is recommended prior knowledge for the course.",ARTIFICIAL INTELLIGENCE,3,Spring 2023
+Problem-solving,Students will develop problem-solving skills as they work on building intelligent computer systems.,ARTIFICIAL INTELLIGENCE,3,Spring 2023
+Knowledge representation,Students will learn techniques for representing knowledge in intelligent computer systems.,ARTIFICIAL INTELLIGENCE,3,Spring 2023
+Machine learning,Students will learn about machine learning algorithms and techniques used in artificial intelligence.,ARTIFICIAL INTELLIGENCE,3,Spring 2023
+Natural language processing,"Students may have the opportunity to learn about natural language processing, depending on the time available.",ARTIFICIAL INTELLIGENCE,3,Spring 2023
+Python programming,"Students will gain proficiency in Python programming, which is recommended prior knowledge for the course.",ARTIFICIAL INTELLIGENCE,3,Spring 2023
+Problem-solving,Students will develop problem-solving skills as they work on building intelligent computer systems.,ARTIFICIAL INTELLIGENCE,3,Spring 2023
+Knowledge representation,Students will learn techniques for representing knowledge in intelligent computer systems.,ARTIFICIAL INTELLIGENCE,3,Spring 2023
+Machine learning,Students will learn about machine learning algorithms and techniques used in artificial intelligence.,ARTIFICIAL INTELLIGENCE,3,Spring 2023
+Natural language processing,"Students may have the opportunity to learn about natural language processing, depending on the time available.",ARTIFICIAL INTELLIGENCE,3,Spring 2023
+Python programming,"Students will gain proficiency in Python programming, which is recommended prior knowledge for the course.",ARTIFICIAL INTELLIGENCE,3,Spring 2023
+Problem-solving,Students will develop problem-solving skills as they work on building intelligent computer systems.,ARTIFICIAL INTELLIGENCE,3,Spring 2023
+Knowledge representation,Students will learn techniques for representing knowledge in intelligent computer systems.,ARTIFICIAL INTELLIGENCE,3,Spring 2023
+Machine learning,Students will learn about machine learning algorithms and techniques used in artificial intelligence.,ARTIFICIAL INTELLIGENCE,3,Spring 2023
+Natural language processing,"Students may have the opportunity to learn about natural language processing, depending on the time available.",ARTIFICIAL INTELLIGENCE,3,Spring 2023
+Natural Language Processing (NLP),Students will gain proficiency in computational approaches to natural language generation and understanding.,NATURAL LANGUAGE PROCESSI,3,Spring 2023
+Information Extraction,Students will learn how to extract relevant information from text using NLP techniques.,NATURAL LANGUAGE PROCESSI,3,Spring 2023
+Summarization,Students will develop the skill of summarizing large amounts of text using NLP algorithms.,NATURAL LANGUAGE PROCESSI,3,Spring 2023
+Machine Translation,Students will learn how to translate text from one language to another using NLP methods.,NATURAL LANGUAGE PROCESSI,3,Spring 2023
+Dialogue Systems,Students will gain the ability to design and build conversational agents using NLP techniques.,NATURAL LANGUAGE PROCESSI,3,Spring 2023
+Natural Language Processing (NLP),Students will gain proficiency in computational approaches to natural language generation and understanding.,NATURAL LANGUAGE PROCESSI,3,Spring 2023
+Information Extraction,Students will learn how to extract relevant information from text using NLP techniques.,NATURAL LANGUAGE PROCESSI,3,Spring 2023
+Summarization,Students will develop the skill of summarizing large amounts of text using NLP algorithms.,NATURAL LANGUAGE PROCESSI,3,Spring 2023
+Machine Translation,Students will learn how to translate text from one language to another using NLP methods.,NATURAL LANGUAGE PROCESSI,3,Spring 2023
+Dialogue Systems,Students will gain the ability to design and implement dialogue systems using NLP techniques.,NATURAL LANGUAGE PROCESSI,3,Spring 2023
+Natural Language Processing (NLP),Students will gain proficiency in computational approaches to natural language generation and understanding.,NATURAL LANGUAGE PROCESSI,3,Spring 2023
+Information Extraction,Students will learn how to extract relevant information from text using NLP techniques.,NATURAL LANGUAGE PROCESSI,3,Spring 2023
+Summarization,Students will develop the skill of summarizing large amounts of text using NLP algorithms.,NATURAL LANGUAGE PROCESSI,3,Spring 2023
+Machine Translation,Students will learn how to translate text from one language to another using NLP methods.,NATURAL LANGUAGE PROCESSI,3,Spring 2023
+Dialogue Systems,Students will gain the ability to design and implement dialogue systems using NLP techniques.,NATURAL LANGUAGE PROCESSI,3,Spring 2023
+Data manipulation,"Students will learn how to import, export, manipulate, transform, and visualize data.",MACHINE LEARNING FOR DATA,3,Spring 2023
+Statistical analysis,Students will gain proficiency in using statistical summaries to analyze data.,MACHINE LEARNING FOR DATA,3,Spring 2023
+Machine learning,Students will learn how to run and evaluate machine learning models.,MACHINE LEARNING FOR DATA,3,Spring 2023
+Programming,Students are expected to have a basic knowledge of programming and will further develop their programming skills throughout the course.,MACHINE LEARNING FOR DATA,3,Spring 2023
+Problem-solving,"Through working on programming projects and real-world applications, students will develop problem-solving skills.",MACHINE LEARNING FOR DATA,3,Spring 2023
+Data manipulation,"Students will learn how to import, export, manipulate, transform, and visualize data.",MACHINE LEARNING FOR DATA,3,Spring 2023
+Statistical analysis,Students will gain proficiency in using statistical summaries to analyze data.,MACHINE LEARNING FOR DATA,3,Spring 2023
+Machine learning,Students will learn how to run and evaluate machine learning models.,MACHINE LEARNING FOR DATA,3,Spring 2023
+Programming,Students are expected to have a basic knowledge of programming and will further develop their programming skills throughout the course.,MACHINE LEARNING FOR DATA,3,Spring 2023
+Problem-solving,"Through working on programming projects and real-world applications, students will develop problem-solving skills.",MACHINE LEARNING FOR DATA,3,Spring 2023
+Convolutional networks and back-propagation,"Students will gain proficiency in understanding and implementing convolutional networks and back-propagation algorithms, which are fundamental techniques in computer vision.",Computer Vision II: Learn,3,Spring 2023
+Object and action recognition,Students will learn how to develop algorithms and models for recognizing objects and actions in images or videos.,Computer Vision II: Learn,3,Spring 2023
+Image synthesis and generative models,Students will acquire the skills to generate realistic images and learn about generative models such as GANs (Generative Adversarial Networks).,Computer Vision II: Learn,3,Spring 2023
+Object tracking,Students will learn techniques for tracking objects in videos and develop the ability to implement object tracking algorithms.,Computer Vision II: Learn,3,Spring 2023
+Vision and language,"Students will develop skills in integrating computer vision with natural language processing, enabling them to understand and generate textual descriptions of visual content.",Computer Vision II: Learn,3,Spring 2023
+Convolutional networks and back-propagation,"Students will gain proficiency in understanding and implementing convolutional networks and back-propagation algorithms, which are fundamental techniques in computer vision.",Computer Vision II: Learn,3,Spring 2023
+Object and action recognition,"Students will learn how to develop algorithms and models for recognizing objects and actions in images or videos, enhancing their ability to analyze and interpret visual data.",Computer Vision II: Learn,3,Spring 2023
+Image synthesis and generative models,"Students will acquire the skill of generating realistic images and understanding generative models, enabling them to create new visual content.",Computer Vision II: Learn,3,Spring 2023
+Object tracking,"Students will develop the skill of tracking objects in videos, allowing them to analyze and monitor the movement of objects over time.",Computer Vision II: Learn,3,Spring 2023
+Vision and language,"Students will learn how to integrate computer vision with natural language processing, enabling them to understand and generate textual descriptions of visual content.",Computer Vision II: Learn,3,Spring 2023
+Robotic programming languages,Students will learn how to design and use programming languages specifically for robotics. This skill is important as it allows students to effectively program and control robots.,COMPUTATNL ASPECTS OF ROB,3,Spring 2023
+Sensor integration,Students will gain proficiency in integrating sensors into robotic systems. This skill is essential for robots to perceive and interact with their environment.,COMPUTATNL ASPECTS OF ROB,3,Spring 2023
+Artificial intelligence for planning,Students will learn how to apply artificial intelligence techniques to plan and optimize robot movements and actions. This skill enables robots to make intelligent decisions and adapt to changing situations.,COMPUTATNL ASPECTS OF ROB,3,Spring 2023
+Coordinate frames and kinematics,Students will develop an understanding of coordinate frames and kinematics in robotics. This skill is crucial for accurately controlling robot movements and positions.,COMPUTATNL ASPECTS OF ROB,3,Spring 2023
+Computer architectures for robotics,Students will learn about the different computer architectures used in robotics. This skill is important for designing efficient and reliable robotic systems.,COMPUTATNL ASPECTS OF ROB,3,Spring 2023
+Robotic programming languages,Students will learn how to design and use programming languages specifically for robotics. This skill is important as it allows students to effectively communicate with and control robots.,COMPUTATNL ASPECTS OF ROB,3,Spring 2023
+Sensor integration,Students will gain proficiency in integrating sensors into robotic systems. This skill is essential for robots to perceive and interact with their environment.,COMPUTATNL ASPECTS OF ROB,3,Spring 2023
+Artificial intelligence for planning,Students will learn how to apply artificial intelligence techniques to plan and optimize robot movements and actions. This skill enables robots to make intelligent decisions and adapt to changing situations.,COMPUTATNL ASPECTS OF ROB,3,Spring 2023
+Coordinate frames and kinematics,Students will develop an understanding of coordinate frames and kinematics in robotics. This skill is crucial for accurately controlling robot movements and positions.,COMPUTATNL ASPECTS OF ROB,3,Spring 2023
+Computer architectures for robotics,Students will learn about the different computer architectures used in robotics. This skill is important for designing efficient and reliable robotic systems.,COMPUTATNL ASPECTS OF ROB,3,Spring 2023
+Computer vision,Students will learn how to analyze and interpret visual input as data.,VISUAL INTERFACES TO COMP,3,Spring 2023
+Algorithm design,Students will gain proficiency in designing algorithms for visual recognition and interpretation.,VISUAL INTERFACES TO COMP,3,Spring 2023
+Human-computer interaction,Students will learn how to design visual interfaces for computer systems.,VISUAL INTERFACES TO COMP,3,Spring 2023
+Data analysis,Students will develop skills in analyzing imagery such as fingerprint or iris patterns.,VISUAL INTERFACES TO COMP,3,Spring 2023
+Natural language processing,Students will learn how to generate natural language descriptions of medical or map imagery.,VISUAL INTERFACES TO COMP,3,Spring 2023
+Computer vision,Students will learn how to analyze and interpret visual input as data.,VISUAL INTERFACES TO COMP,3,Spring 2023
+Algorithm design,Students will gain proficiency in designing algorithms for visual recognition and interpretation.,VISUAL INTERFACES TO COMP,3,Spring 2023
+Human-computer interaction,Students will learn how to design visual interfaces for computer systems.,VISUAL INTERFACES TO COMP,3,Spring 2023
+Data analysis,Students will develop skills in analyzing imagery such as fingerprint or iris patterns.,VISUAL INTERFACES TO COMP,3,Spring 2023
+Natural language processing,Students will learn how to generate natural language descriptions of medical or map imagery.,VISUAL INTERFACES TO COMP,3,Spring 2023
+Computer vision,Students will learn how to analyze and interpret visual input as data.,VISUAL INTERFACES TO COMP,3,Spring 2023
+Algorithm design,Students will gain proficiency in designing algorithms for visual recognition and interpretation.,VISUAL INTERFACES TO COMP,3,Spring 2023
+Human-computer interaction,Students will learn how to design visual interfaces for computer systems.,VISUAL INTERFACES TO COMP,3,Spring 2023
+Data analysis,Students will develop skills in analyzing imagery such as fingerprint or iris patterns.,VISUAL INTERFACES TO COMP,3,Spring 2023
+Natural language processing,Students will learn how to generate natural language descriptions of medical or map imagery.,VISUAL INTERFACES TO COMP,3,Spring 2023
+MATLAB,Students will gain proficiency in using MATLAB for implementing machine learning algorithms.,MACHINE LEARNING,3,Spring 2023
+Machine learning algorithms,"Students will learn and understand various machine learning algorithms such as support vector machines, neural networks, and Bayesian networks.",MACHINE LEARNING,3,Spring 2023
+Data analysis,Students will develop skills in analyzing and interpreting data to make informed decisions in the context of machine learning.,MACHINE LEARNING,3,Spring 2023
+Programming,Students will enhance their programming skills through implementing machine learning algorithms in MATLAB.,MACHINE LEARNING,3,Spring 2023
+Statistical analysis,Students will learn and apply statistical analysis techniques to evaluate and validate machine learning models.,MACHINE LEARNING,3,Spring 2023
+MATLAB,Students will gain proficiency in using MATLAB for implementing machine learning algorithms.,MACHINE LEARNING,3,Spring 2023
+Machine learning algorithms,"Students will learn and understand various machine learning algorithms such as support vector machines, neural networks, and Bayesian networks.",MACHINE LEARNING,3,Spring 2023
+Data analysis,Students will develop skills in analyzing and interpreting data to make informed decisions in the context of machine learning.,MACHINE LEARNING,3,Spring 2023
+Programming,Students will enhance their programming skills through implementing machine learning algorithms in MATLAB.,MACHINE LEARNING,3,Spring 2023
+Statistical analysis,Students will learn and apply statistical analysis techniques to evaluate and validate machine learning models.,MACHINE LEARNING,3,Spring 2023
+MATLAB,Students will gain proficiency in using MATLAB for implementing machine learning algorithms.,MACHINE LEARNING,3,Spring 2023
+Machine learning algorithms,"Students will learn and understand various machine learning algorithms such as support vector machines, neural networks, and Bayesian networks.",MACHINE LEARNING,3,Spring 2023
+Data analysis,Students will develop skills in analyzing and interpreting data to make informed decisions in the context of machine learning.,MACHINE LEARNING,3,Spring 2023
+Programming,Students will enhance their programming skills through implementing machine learning algorithms in MATLAB.,MACHINE LEARNING,3,Spring 2023
+Statistical analysis,Students will learn and apply statistical analysis techniques to evaluate and validate machine learning models.,MACHINE LEARNING,3,Spring 2023
+MATLAB,Students will gain proficiency in using MATLAB for implementing machine learning algorithms.,MACHINE LEARNING,3,Spring 2023
+Machine learning algorithms,"Students will learn and understand various machine learning algorithms such as support vector machines, neural networks, and Bayesian networks.",MACHINE LEARNING,3,Spring 2023
+Data analysis,Students will develop skills in analyzing and interpreting data to make informed decisions in the context of machine learning.,MACHINE LEARNING,3,Spring 2023
+Programming,Students will enhance their programming skills through implementing machine learning algorithms in MATLAB.,MACHINE LEARNING,3,Spring 2023
+Statistical analysis,Students will learn and apply statistical analysis techniques to evaluate and validate machine learning models.,MACHINE LEARNING,3,Spring 2023
+Network configuration,"Students will learn how to configure and set up computer networks, including routers, switches, and IP addresses.",INTRO TO NETWORKS AND CROWDS,3,Spring 2023
+Data analysis,"Students will develop skills in analyzing network data to identify patterns, troubleshoot issues, and optimize network performance.",INTRO TO NETWORKS AND CROWDS,3,Spring 2023
+Network security,Students will gain knowledge and practical skills in implementing security measures to protect networks from unauthorized access and cyber threats.,INTRO TO NETWORKS AND CROWDS,3,Spring 2023
+Troubleshooting,"Students will learn how to diagnose and resolve network issues, including connectivity problems, performance bottlenecks, and hardware failures.",INTRO TO NETWORKS AND CROWDS,3,Spring 2023
+Collaboration,"Students will develop skills in working collaboratively with others to design, implement, and maintain computer networks.",INTRO TO NETWORKS AND CROWDS,3,Spring 2023
+Data analysis,Students will learn how to analyze geometric data using various statistical techniques and software tools.,GEOMETRIC DATA ANALYSIS,3,Spring 2023
+Statistical modeling,Students will develop the skill of creating statistical models to analyze geometric data and make predictions.,GEOMETRIC DATA ANALYSIS,3,Spring 2023
+Data visualization,"Students will gain proficiency in visualizing geometric data through the use of charts, graphs, and other visual representations.",GEOMETRIC DATA ANALYSIS,3,Spring 2023
+Programming,Students will learn programming languages and techniques that are commonly used in geometric data analysis.,GEOMETRIC DATA ANALYSIS,3,Spring 2023
+Critical thinking,Students will develop the ability to think critically and apply logical reasoning to solve problems related to geometric data analysis.,GEOMETRIC DATA ANALYSIS,3,Spring 2023
+Programming,Students will develop proficiency in programming languages and techniques.,PROG ANALYSIS SECURITY,3,Spring 2023
+Data analysis,Students will learn how to analyze and interpret data to make informed decisions.,PROG ANALYSIS SECURITY,3,Spring 2023
+Security analysis,Students will gain knowledge and skills in analyzing and assessing the security of computer systems.,PROG ANALYSIS SECURITY,3,Spring 2023
+Risk assessment,Students will learn how to identify and evaluate potential risks in computer systems and develop strategies to mitigate them.,PROG ANALYSIS SECURITY,3,Spring 2023
+Problem-solving,Students will develop the ability to identify and solve complex problems related to programming and security analysis.,PROG ANALYSIS SECURITY,3,Spring 2023
+Statistical analysis,Students will develop proficiency in statistical analysis techniques used in causal inference.,CAUSAL INFERENCE II,3,Spring 2023
+Data manipulation,Students will learn how to manipulate and clean data to prepare it for causal analysis.,CAUSAL INFERENCE II,3,Spring 2023
+Programming,Students will gain programming skills to implement causal inference methods in statistical software.,CAUSAL INFERENCE II,3,Spring 2023
+Research design,Students will learn how to design research studies that allow for causal inference.,CAUSAL INFERENCE II,3,Spring 2023
+Critical thinking,Students will develop critical thinking skills to evaluate and interpret causal inference results.,CAUSAL INFERENCE II,3,Spring 2023
+Entrepreneurship,Students will learn the skills necessary to start and run a successful startup.,BLDNG SUCCESSFUL STARTUP,3,Spring 2023
+Business planning,Students will develop the ability to create comprehensive business plans.,BLDNG SUCCESSFUL STARTUP,3,Spring 2023
+Market research,Students will gain proficiency in conducting market research to identify target markets and customer needs.,BLDNG SUCCESSFUL STARTUP,3,Spring 2023
+Financial management,"Students will learn how to manage the financial aspects of a startup, including budgeting and forecasting.",BLDNG SUCCESSFUL STARTUP,3,Spring 2023
+Pitching,Students will enhance their ability to effectively pitch their startup ideas to potential investors or partners.,BLDNG SUCCESSFUL STARTUP,3,Spring 2023
+Image processing,Students will learn how to manipulate and analyze digital images using various techniques and algorithms.,APPLIED COMPUTER VISION,3,Spring 2023
+Machine learning,"Students will develop skills in applying machine learning algorithms to computer vision tasks, such as object recognition and image classification.",APPLIED COMPUTER VISION,3,Spring 2023
+Programming,"Students will gain proficiency in programming languages commonly used in computer vision, such as Python or MATLAB.",APPLIED COMPUTER VISION,3,Spring 2023
+Feature extraction,"Students will learn techniques for extracting meaningful features from images, such as edge detection or texture analysis.",APPLIED COMPUTER VISION,3,Spring 2023
+Object detection,Students will acquire the skill of detecting and localizing objects within images or videos using computer vision algorithms.,APPLIED COMPUTER VISION,3,Spring 2023
+Data analysis,Students will learn how to analyze data using various statistical methods and software.,EMPIRICAL METHODS DATA SC,3,Spring 2023
+Experimental design,Students will develop skills in designing and conducting empirical studies.,EMPIRICAL METHODS DATA SC,3,Spring 2023
+Statistical programming,Students will gain proficiency in programming languages such as R or Python for statistical analysis.,EMPIRICAL METHODS DATA SC,3,Spring 2023
+Data visualization,Students will learn how to effectively present data using visual tools and techniques.,EMPIRICAL METHODS DATA SC,3,Spring 2023
+Research methodology,"Students will acquire skills in conducting research, including data collection and analysis techniques.",EMPIRICAL METHODS DATA SC,3,Spring 2023
+Algorithm design,Students will learn how to design efficient algorithms to solve complex programming problems.,COMPETITIVE PROGRAMMING,3,Spring 2023
+Data structures,"Students will gain proficiency in implementing and manipulating various data structures such as arrays, linked lists, stacks, queues, trees, and graphs.",COMPETITIVE PROGRAMMING,3,Spring 2023
+Problem-solving,"Students will develop the skill of problem-solving by analyzing and breaking down programming problems into smaller, manageable tasks.",COMPETITIVE PROGRAMMING,3,Spring 2023
+Programming languages,"Students will learn and practice programming in multiple languages such as C++, Java, or Python to implement their solutions.",COMPETITIVE PROGRAMMING,3,Spring 2023
+Debugging,Students will acquire the skill of identifying and fixing errors in their code through the process of debugging.,COMPETITIVE PROGRAMMING,3,Spring 2023
+Programming,Students will develop proficiency in programming languages and techniques used in open source development.,OPEN SOURCE DEVELOPMENT,3,Spring 2023
+Version Control,Students will learn how to use version control systems to manage and track changes in open source projects.,OPEN SOURCE DEVELOPMENT,3,Spring 2023
+Bug Tracking,"Students will gain the ability to use bug tracking systems to identify, report, and resolve issues in open source projects.",OPEN SOURCE DEVELOPMENT,3,Spring 2023
+Collaboration,Students will learn how to effectively collaborate with other developers in an open source development environment.,OPEN SOURCE DEVELOPMENT,3,Spring 2023
+Documentation,Students will develop skills in documenting their code and contributing to project documentation in open source development.,OPEN SOURCE DEVELOPMENT,3,Spring 2023
+Design thinking,Students will learn and apply the principles of design thinking to solve complex problems and generate innovative solutions.,INNOVATION & DESIGN LAB,3,Spring 2023
+Prototyping,Students will develop the skill of creating prototypes to test and iterate their design ideas.,INNOVATION & DESIGN LAB,3,Spring 2023
+User research,Students will learn how to conduct user research to gain insights into user needs and preferences.,INNOVATION & DESIGN LAB,3,Spring 2023
+Collaboration,Students will enhance their ability to work effectively in teams and collaborate with others to achieve common goals.,INNOVATION & DESIGN LAB,3,Spring 2023
+Presentation skills,Students will improve their ability to effectively communicate and present their design ideas to various stakeholders.,INNOVATION & DESIGN LAB,3,Spring 2023
+iOS app development,Students will learn how to develop mobile applications specifically for iOS devices using programming languages such as Swift and Objective-C.,MOBILE APP DEVELOP IOS,3,Spring 2023
+User interface design,Students will acquire the skill of designing visually appealing and user-friendly interfaces for mobile applications.,MOBILE APP DEVELOP IOS,3,Spring 2023
+Debugging and troubleshooting,Students will develop the ability to identify and fix errors and issues in mobile app code to ensure smooth functionality.,MOBILE APP DEVELOP IOS,3,Spring 2023
+Version control,Students will learn how to use version control systems like Git to manage and track changes in their app development projects.,MOBILE APP DEVELOP IOS,3,Spring 2023
+Testing and quality assurance,Students will gain proficiency in testing their mobile apps to ensure they meet quality standards and are free from bugs and glitches.,MOBILE APP DEVELOP IOS,3,Spring 2023
+Data visualization,Students will learn how to effectively visualize data using various tools and techniques.,INTRO TO DATA VISUALIZATION,3,Spring 2023
+Data analysis,"Students will develop the skill of analyzing data to identify patterns, trends, and insights.",INTRO TO DATA VISUALIZATION,3,Spring 2023
+Data manipulation,Students will gain proficiency in manipulating data to prepare it for visualization.,INTRO TO DATA VISUALIZATION,3,Spring 2023
+Graphic design,Students will learn the principles of graphic design and apply them to create visually appealing data visualizations.,INTRO TO DATA VISUALIZATION,3,Spring 2023
+Programming,Students will acquire basic programming skills to implement interactive and dynamic data visualizations.,INTRO TO DATA VISUALIZATION,3,Spring 2023
+Design thinking,"Students will learn and practice the process of design thinking, which involves empathizing with users, defining problems, ideating solutions, prototyping, and testing.",INNOVATION & DESIGN LAB,3,Spring 2023
+Rapid prototyping,Students will develop the skill of quickly creating prototypes using various tools and materials to test and iterate on their design ideas.,INNOVATION & DESIGN LAB,3,Spring 2023
+Collaboration,"Students will learn how to effectively collaborate with team members, stakeholders, and users to generate innovative ideas and solutions.",INNOVATION & DESIGN LAB,3,Spring 2023
+User research,"Students will gain the skill of conducting user research through interviews, observations, and surveys to understand user needs and preferences.",INNOVATION & DESIGN LAB,3,Spring 2023
+Creative problem-solving,Students will learn and apply techniques for creatively solving complex problems and generating innovative solutions.,INNOVATION & DESIGN LAB,3,Spring 2023
+Machine learning algorithms,Students will learn and apply various machine learning algorithms to solve real-world problems.,APPLIED MACHINE LEARNING,3,Spring 2023
+Data preprocessing,Students will gain proficiency in preprocessing and cleaning datasets to prepare them for machine learning tasks.,APPLIED MACHINE LEARNING,3,Spring 2023
+Model evaluation,Students will learn how to evaluate the performance of machine learning models using appropriate metrics and techniques.,APPLIED MACHINE LEARNING,3,Spring 2023
+Feature engineering,Students will develop the skill of creating new features from existing data to improve the performance of machine learning models.,APPLIED MACHINE LEARNING,3,Spring 2023
+Programming in Python,"Students will enhance their programming skills in Python, which is widely used in the field of machine learning.",APPLIED MACHINE LEARNING,3,Spring 2023
+Data analysis,Students will develop the skill of analyzing data to draw meaningful conclusions and make informed decisions.,CAUSAL INFERENCE FOR DATA SCI,3,Spring 2023
+Statistical modeling,Students will learn how to use statistical models to analyze and interpret data.,CAUSAL INFERENCE FOR DATA SCI,3,Spring 2023
+Programming,Students will gain proficiency in programming languages such as Python or R to manipulate and analyze data.,CAUSAL INFERENCE FOR DATA SCI,3,Spring 2023
+Experimental design,Students will learn how to design experiments to gather data and test causal relationships.,CAUSAL INFERENCE FOR DATA SCI,3,Spring 2023
+Data visualization,Students will develop the skill of creating visual representations of data to effectively communicate insights.,CAUSAL INFERENCE FOR DATA SCI,3,Spring 2023
+Machine learning algorithms,Students will learn and apply various machine learning algorithms to solve real-world problems.,APPLIED MACHINE LEARNING,3,Spring 2023
+Data preprocessing,Students will gain proficiency in preprocessing and cleaning datasets to prepare them for machine learning models.,APPLIED MACHINE LEARNING,3,Spring 2023
+Model evaluation,Students will learn how to evaluate the performance of machine learning models using appropriate metrics and techniques.,APPLIED MACHINE LEARNING,3,Spring 2023
+Feature engineering,Students will develop the skill of creating new features from existing data to improve the performance of machine learning models.,APPLIED MACHINE LEARNING,3,Spring 2023
+Programming in Python,"Students will enhance their programming skills in Python, which is widely used in the field of machine learning.",APPLIED MACHINE LEARNING,3,Spring 2023
+Entrepreneurship,Students will learn the skills necessary to start and run a successful startup.,BLDNG SUCCESSFUL STARTUP,3,Spring 2023
+Business planning,Students will develop the ability to create comprehensive business plans.,BLDNG SUCCESSFUL STARTUP,3,Spring 2023
+Market research,Students will gain proficiency in conducting market research to identify target markets and customer needs.,BLDNG SUCCESSFUL STARTUP,3,Spring 2023
+Financial management,"Students will learn how to manage the financial aspects of a startup, including budgeting and forecasting.",BLDNG SUCCESSFUL STARTUP,3,Spring 2023
+Pitching,Students will enhance their ability to effectively pitch their startup ideas to potential investors or partners.,BLDNG SUCCESSFUL STARTUP,3,Spring 2023
+Algorithm design,Students will learn how to design efficient algorithms to solve complex problems.,COMPETITIVE PROGRAMMING,3,Spring 2023
+Data structures,"Students will gain proficiency in implementing and manipulating various data structures such as arrays, linked lists, stacks, queues, and trees.",COMPETITIVE PROGRAMMING,3,Spring 2023
+Programming languages,"Students will develop skills in programming languages such as C++, Java, or Python, which are commonly used in competitive programming.",COMPETITIVE PROGRAMMING,3,Spring 2023
+Time complexity analysis,Students will learn how to analyze the time complexity of algorithms and optimize them for better performance.,COMPETITIVE PROGRAMMING,3,Spring 2023
+Debugging,Students will acquire skills in identifying and fixing errors in their code through systematic debugging techniques.,COMPETITIVE PROGRAMMING,3,Spring 2023
+Open source software development,Students will learn the skills required to develop software using open source technologies and tools.,OPEN SOURCE DEVELOPMENT,3,Spring 2023
+Version control,Students will gain proficiency in using version control systems such as Git to manage and track changes in software development projects.,OPEN SOURCE DEVELOPMENT,3,Spring 2023
+Collaborative coding,"Students will develop the ability to work collaboratively on coding projects using tools like GitHub, allowing them to contribute to open source projects.",OPEN SOURCE DEVELOPMENT,3,Spring 2023
+Agile development,"Students will learn the skills necessary to work in an agile development environment, including iterative development, continuous integration, and frequent feedback.",OPEN SOURCE DEVELOPMENT,3,Spring 2023
+Test-driven development,"Students will learn the practice of test-driven development, where tests are written before the code, ensuring the quality and reliability of the software.",OPEN SOURCE DEVELOPMENT,3,Spring 2023
+Machine learning algorithms,Students will learn and apply various machine learning algorithms to solve real-world problems.,APPLIED MACHINE LEARNING,3,Spring 2023
+Data preprocessing,"Students will gain proficiency in cleaning, transforming, and preparing data for machine learning models.",APPLIED MACHINE LEARNING,3,Spring 2023
+Model evaluation and selection,Students will learn how to evaluate the performance of machine learning models and select the most appropriate one for a given task.,APPLIED MACHINE LEARNING,3,Spring 2023
+Feature engineering,Students will develop the skill of creating new features from existing data to improve the performance of machine learning models.,APPLIED MACHINE LEARNING,3,Spring 2023
+Programming in Python,"Students will enhance their programming skills in Python, which is widely used in the field of machine learning.",APPLIED MACHINE LEARNING,3,Spring 2023
+System-on-Chip Design,Students will learn the skills required to design and develop system-on-chip (SoC) architectures.,EMBEDDED SCALABLE PLATFOR,3,Spring 2023
+Embedded Software Programming,Students will gain proficiency in programming embedded software for scalable platforms.,EMBEDDED SCALABLE PLATFOR,3,Spring 2023
+Electronic Design Automation,Students will learn the skills necessary to use electronic design automation tools for designing embedded systems.,EMBEDDED SCALABLE PLATFOR,3,Spring 2023
+Reading and Analyzing Research Papers,Students will develop the skill of reading and analyzing research papers related to embedded scalable platforms.,EMBEDDED SCALABLE PLATFOR,3,Spring 2023
+Project Management,Students will acquire the skills needed to manage and complete a semester-long project related to embedded scalable platforms.,EMBEDDED SCALABLE PLATFOR,3,Spring 2023
+Digital logic design,"Students will learn how to design and manipulate digital circuits using Boolean algebra, Karnaugh maps, and basic gates.",FUNDAMENTALS OF COMPUTER,3,Spring 2023
+Assembly language programming,Students will gain proficiency in programming in assembly language and understanding instruction sets.,FUNDAMENTALS OF COMPUTER,3,Spring 2023
+Processor design,"Students will learn about the design and implementation of processors, including single-cycle and multi-cycle designs.",FUNDAMENTALS OF COMPUTER,3,Spring 2023
+Pipelined processors,Students will understand the concept of pipelining in processor design and its advantages.,FUNDAMENTALS OF COMPUTER,3,Spring 2023
+Cache and virtual memory,Students will learn about the principles and implementation of cache memory and virtual memory systems.,FUNDAMENTALS OF COMPUTER,3,Spring 2023
+Digital logic design,"Students will learn how to design and manipulate digital circuits using Boolean algebra, Karnaugh maps, and basic gates.",FUNDAMENTALS OF COMPUTER,3,Spring 2023
+Assembly language programming,Students will gain proficiency in programming in assembly language and understanding instruction sets.,FUNDAMENTALS OF COMPUTER,3,Spring 2023
+Processor design,"Students will learn about the design and implementation of processors, including single-cycle and multi-cycle designs.",FUNDAMENTALS OF COMPUTER,3,Spring 2023
+Pipelined processors,Students will understand the concept of pipelining in processor design and its advantages.,FUNDAMENTALS OF COMPUTER,3,Spring 2023
+Cache and virtual memory,Students will learn about the principles and implementation of cache memory and virtual memory systems.,FUNDAMENTALS OF COMPUTER,3,Spring 2023
+Digital logic design,"Students will learn how to design and manipulate digital circuits using Boolean algebra, Karnaugh maps, and basic gates.",FUNDAMENTALS OF COMPUTER,3,Spring 2023
+Assembly language programming,Students will gain proficiency in programming in assembly language and understanding instruction sets.,FUNDAMENTALS OF COMPUTER,3,Spring 2023
+Processor design,"Students will learn about the design and implementation of processors, including single-cycle and multi-cycle designs.",FUNDAMENTALS OF COMPUTER,3,Spring 2023
+Pipelined processors,Students will understand the concept of pipelining in processor design and its advantages.,FUNDAMENTALS OF COMPUTER,3,Spring 2023
+Cache and virtual memory,Students will learn about the principles and implementation of cache memory and virtual memory systems.,FUNDAMENTALS OF COMPUTER,3,Spring 2023
+Programming,"Students will develop programming skills in Python, C++, Java, or Ruby, which are essential for working with computer networks.",COMPUTER NETWORKS,3,Spring 2023
+Network troubleshooting,"Students will learn how to diagnose and resolve network issues, developing the skill of troubleshooting.",COMPUTER NETWORKS,3,Spring 2023
+Protocol analysis,Students will gain proficiency in analyzing network protocols to understand their functionality and identify potential vulnerabilities.,COMPUTER NETWORKS,3,Spring 2023
+Network configuration,"Students will learn how to configure network devices, such as routers and switches, to establish and maintain network connectivity.",COMPUTER NETWORKS,3,Spring 2023
+Network monitoring,Students will develop the skill of monitoring network performance and identifying bottlenecks or security threats.,COMPUTER NETWORKS,3,Spring 2023
+Programming,"Students will develop programming skills in Python, C++, Java, or Ruby, which are essential for working with computer networks.",COMPUTER NETWORKS,3,Spring 2023
+Network troubleshooting,"Students will learn how to diagnose and resolve network issues, developing the skill of troubleshooting.",COMPUTER NETWORKS,3,Spring 2023
+Protocol analysis,Students will gain proficiency in analyzing network protocols to understand their functionality and identify potential vulnerabilities.,COMPUTER NETWORKS,3,Spring 2023
+Network configuration,"Students will learn how to configure network devices, such as routers and switches, to establish and maintain network connectivity.",COMPUTER NETWORKS,3,Spring 2023
+Network monitoring,Students will develop the skill of monitoring network performance and identifying bottlenecks or security threats.,COMPUTER NETWORKS,3,Spring 2023
+Programming,"Students will develop programming skills in Python, C++, Java, or Ruby, which are essential for working with computer networks.",COMPUTER NETWORKS,3,Spring 2023
+Network troubleshooting,"Students will learn how to diagnose and resolve network issues, developing the skill of troubleshooting.",COMPUTER NETWORKS,3,Spring 2023
+Protocol analysis,Students will gain proficiency in analyzing network protocols to understand their functionality and identify potential vulnerabilities.,COMPUTER NETWORKS,3,Spring 2023
+Network configuration,"Students will learn how to configure network devices, such as routers and switches, to establish and maintain network connectivity.",COMPUTER NETWORKS,3,Spring 2023
+Network monitoring,Students will develop the skill of monitoring network performance and identifying bottlenecks or security threats.,COMPUTER NETWORKS,3,Spring 2023
+Programming,Students will gain proficiency in programming languages and techniques used in computer systems.,COMPUTER SYSTEMS FOR DATA,3,Spring 2023
+Parallel Computing,"Students will learn about hardware and software techniques for exploiting instruction-level parallelism, data-level parallelism, and task level parallelism.",COMPUTER SYSTEMS FOR DATA,3,Spring 2023
+Networking,Students will develop skills in understanding and designing network architectures for computer systems.,COMPUTER SYSTEMS FOR DATA,3,Spring 2023
+Optimization,Students will learn techniques for optimizing latency and throughput in computer systems.,COMPUTER SYSTEMS FOR DATA,3,Spring 2023
+Specialization,"Students will gain knowledge and skills in specialized areas of computer systems, such as data center computers.",COMPUTER SYSTEMS FOR DATA,3,Spring 2023
+Quantitative analysis,Students will learn how to analyze and interpret data in the context of computer architecture.,COMPUTER ARCHITECTURE,3,Spring 2023
+Pipelining,Students will gain proficiency in understanding and implementing pipelining techniques in computer architecture.,COMPUTER ARCHITECTURE,3,Spring 2023
+Memory hierarchy design,Students will learn how to design and optimize memory hierarchies in computer systems.,COMPUTER ARCHITECTURE,3,Spring 2023
+Parallelism,"Students will develop skills in identifying and exploiting different forms of parallelism, such as instruction-level, thread-level, and data-level parallelism.",COMPUTER ARCHITECTURE,3,Spring 2023
+Cache coherence,Students will learn about cache coherence protocols and techniques used to ensure data consistency in multiprocessor systems.,COMPUTER ARCHITECTURE,3,Spring 2023
+Embedded system design,"Students will learn how to design embedded systems, combining hardware and software, to accomplish specific objectives.",EMBEDDED SYSTEMS,3,Spring 2023
+C programming,"Students will gain proficiency in C programming, which is essential for developing embedded systems.",EMBEDDED SYSTEMS,3,Spring 2023
+I/O interfacing,"Students will learn how to interface input/output devices with embedded systems, allowing them to manipulate and control external devices.",EMBEDDED SYSTEMS,3,Spring 2023
+Peripherals,"Students will acquire knowledge and skills in working with various peripherals, such as sensors, actuators, and communication modules, to enhance the functionality of embedded systems.",EMBEDDED SYSTEMS,3,Spring 2023
+Microprocessor-based system design,"Students will learn how to design and implement embedded systems using microprocessors, enabling them to create complex and efficient systems.",EMBEDDED SYSTEMS,3,Spring 2023
+Algorithm analysis,Students will learn how to analyze the efficiency and performance of algorithms.,ANALYSIS OF ALGORITHMS I,3,Spring 2023
+Sorting and searching,Students will gain proficiency in implementing and optimizing sorting and searching algorithms.,ANALYSIS OF ALGORITHMS I,3,Spring 2023
+Dynamic programming,Students will develop the skill of solving complex problems by breaking them down into smaller overlapping subproblems.,ANALYSIS OF ALGORITHMS I,3,Spring 2023
+Graph algorithms,Students will learn how to manipulate and traverse graphs to solve various problems.,ANALYSIS OF ALGORITHMS I,3,Spring 2023
+Approximation algorithms,Students will acquire the skill of designing algorithms that provide near-optimal solutions for NP-hard problems.,ANALYSIS OF ALGORITHMS I,3,Spring 2023
+Algorithm analysis,Students will learn how to analyze the efficiency and performance of algorithms.,ANALYSIS OF ALGORITHMS I,3,Spring 2023
+Sorting and searching,Students will gain proficiency in implementing and optimizing sorting and searching algorithms.,ANALYSIS OF ALGORITHMS I,3,Spring 2023
+Dynamic programming,Students will develop the skill of solving complex problems by breaking them down into smaller overlapping subproblems.,ANALYSIS OF ALGORITHMS I,3,Spring 2023
+Graph algorithms,Students will learn how to manipulate and traverse graphs to solve various problems.,ANALYSIS OF ALGORITHMS I,3,Spring 2023
+Approximation algorithms,Students will acquire the skill of designing algorithms that provide near-optimal solutions for NP-hard problems.,ANALYSIS OF ALGORITHMS I,3,Spring 2023
+Algorithm analysis,Students will learn how to analyze the efficiency and performance of algorithms.,ANALYSIS OF ALGORITHMS I,3,Spring 2023
+Sorting and searching,Students will gain proficiency in implementing and optimizing sorting and searching algorithms.,ANALYSIS OF ALGORITHMS I,3,Spring 2023
+Dynamic programming,Students will develop the skill of solving complex problems by breaking them down into smaller overlapping subproblems.,ANALYSIS OF ALGORITHMS I,3,Spring 2023
+Graph algorithms,Students will learn how to manipulate and traverse graphs to solve various computational problems.,ANALYSIS OF ALGORITHMS I,3,Spring 2023
+Approximation algorithms,Students will acquire the skill of designing algorithms that provide near-optimal solutions for NP-hard problems.,ANALYSIS OF ALGORITHMS I,3,Spring 2023
+Python programming,"Students will learn how to write and execute Python programs, gaining proficiency in the language.",INTRO TO COMP FOR ENG/APP,3,Spring 2023
+Computational thinking,"Students will develop the ability to break down complex problems into smaller, manageable parts and apply algorithmic problem-solving techniques.",INTRO TO COMP FOR ENG/APP,3,Spring 2023
+Data analysis,"Students will learn how to manipulate and analyze data using Python, including techniques such as data cleaning, visualization, and statistical analysis.",INTRO TO COMP FOR ENG/APP,3,Spring 2023
+Debugging,Students will acquire the skill of identifying and fixing errors in their code through the process of debugging.,INTRO TO COMP FOR ENG/APP,3,Spring 2023
+Collaboration,Students will practice working in teams and develop skills in collaborating with others on programming projects.,INTRO TO COMP FOR ENG/APP,3,Spring 2023

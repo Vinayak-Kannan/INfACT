@@ -1,90 +1,198 @@
-# This is a sample Python script.
-from selenium import webdriver
-from selenium.webdriver.common.by import By
-from selenium.webdriver.common.keys import Keys
-from selenium.webdriver.support.ui import WebDriverWait
-from selenium.webdriver.support import expected_conditions as EC
-from selenium.webdriver.support.ui import Select
 import csv
-from selenium.webdriver.chrome.options import Options
+import random
+import re
+import time
 
-from SupportingFunction.CollapseRows import collapse_rows
-from SupportingFunction.ParseData import parse_scraped_data
+import pandas as pd
+from bs4 import BeautifulSoup
+from selenium import webdriver
+from selenium.webdriver import Keys
+from selenium.webdriver.common.by import By
+
+def driver_function_mit(semester):
+    # Read the HTML file
+    with open("/Users/vinayakkannan/Desktop/INfACT/Script/Scraping/MIT/fall2023.html", "r", encoding='cp1250') as file:
+        html_content = file.read()
+
+    # Parse the HTML using Beautiful Soup
+    course_table = BeautifulSoup(html_content, "html.parser")
+
+    course_table = course_table.find_all("td")[0]
+    # Loop through every element child in course_table and split it up into segments whenever a h3 tag is encountered
+    course_description = []
+    current_segment = ""
+    for child in course_table.children:
+        if child.name == "h3":
+            # Append the current segment to courses
+            if current_segment:
+                course_description.append(current_segment.strip())
+            # Reset current_segment
+            current_segment = ""
+        else:
+            # Append the child to current_segment
+            current_segment += child.text
+
+    # Append the last segment
+    if current_segment:
+        course_description.append(current_segment.strip())
+
+    # Remove first element from course_description
+    course_description.pop(0)
 
 
-# Press ⌃R to execute it or replace it with your code.
-# Press Double ⇧ to search everywhere for classes, files, tool windows, actions, and settings.
+    courses = []
+    local_course = []
+    for child in course_table.children:
+        if child.name == "h3":
 
 
-def driver_function():
-    options = webdriver.ChromeOptions()
-    options.add_argument(
-        "user-data-dir=/Users/vinayakkannan/Library/Application Support/Google/Chrome/Profile 4")  # e.g. C:\Users\You\AppData\Local\Google\Chrome\User Data
-    # Set up the webdriver
-    driver = webdriver.Chrome(options=options)
-    driver.get("https://vergil.registrar.columbia.edu/#/courses/*")
+    # Get text from all h3 tags in course_table
+    course_names = course_table.find_all("h3")
+    print(len(course_description), len(course_names))
 
-    # Open a new tab
-    driver.execute_script("window.open();")
-    driver.switch_to.window(driver.window_handles[-1])
 
-    # Navigate to the desired URL
-    driver.get("https://vergil.registrar.columbia.edu/#/courses/*")
+def driver_function(semester):
+    # Read the HTML file
+    with open("/Users/vinayakkannan/Desktop/INfACT/Script/Scraping/Columbia/spring2023.html", "r") as file:
+        html_content = file.read()
 
-    # 1. Select 'More Search Criteria'
-    more_search_criteria = WebDriverWait(driver, 10).until(
-        EC.element_to_be_clickable((By.XPATH, "//span[contains(text(), 'More Search Criteria')]"))
-    )
-    more_search_criteria.click()
+    # Parse the HTML using Beautiful Soup
+    soup = BeautifulSoup(html_content, "html.parser")
 
-    # 2. Select 'Fall 2023' from the 'Semester' dropdown
-    semester_dropdown = WebDriverWait(driver, 10).until(
-        EC.element_to_be_clickable((By.XPATH, "//select[@id='search-semester']"))
-    )
-    Select(semester_dropdown).select_by_visible_text("Fall 2023")
+    course_tags = soup.find_all("div", class_="course-item")
+    h3_tags = []
+    div_tags = []
+    for course_tag in course_tags:
+        h3_tags.append(course_tag.find_all("h3", class_="heading-toggle")[0])
+        divs_for_course = []
+        course_divs = course_tag.find_all("div", class_="class-description")
+        for course in course_divs:
+            divs_for_course.append(course)
+        div_tags.append(divs_for_course)
 
-    # 3. Type 'Computer Science' in the 'Subject' dropdown
-    subject_dropdown = WebDriverWait(driver, 10).until(
-        EC.element_to_be_clickable((By.XPATH, "//select[@id='subject']"))
-    )
-    Select(subject_dropdown).select_by_visible_text("Computer Science")
+    profs_tags = []
+    for course_tag in course_tags:
+        course_profs = []
+        tables = course_tag.find_all("table", class_="table")
+        for table in tables:
+            tr_elements = table.find_all("tr")
 
-    # 4. Click the 'Search' button
-    search_button = WebDriverWait(driver, 10).until(
-        EC.element_to_be_clickable((By.XPATH, "//button[contains(text(), 'Search')]"))
-    )
-    search_button.click()
+            for tr in tr_elements:
+                td_elements = tr.find_all("td")
 
-    # 5. Click the 'Expand All' button
-    expand_all_button = WebDriverWait(driver, 10).until(
-        EC.element_to_be_clickable((By.XPATH, "//span[contains(text(), 'Expand All')]"))
-    )
-    expand_all_button.click()
+                for i, td in enumerate(td_elements):
+                    if (i + 1) % 4 == 0:
+                        span_element = td.find("span")
+                        if not span_element or span_element.find("a") is None:
+                            continue
+                        a_element = span_element.find("a")
+                        course_profs.append(a_element.text)
+        profs_tags.append(course_profs)
 
-    # Scrape course information and save it to a CSV file
-    courses = WebDriverWait(driver, 10).until(
-        EC.presence_of_all_elements_located((By.XPATH, "//div[@class='class-description']"))
-    )
+    # Extract course information and descriptions
+    courses = []
+    for h3, sub_courses, profs in zip(h3_tags, div_tags, profs_tags):
+        course_info = h3.get_text(strip=True)
+        # Pull out credits from course info that is in the form of "...- X credits..."
+        course_info_array = course_info.split('-')[-1].strip()
+        credits = course_info_array.split(' ')[0]
+        # Get course name, the first series of capital letters
+        # Get index of first lowercase character
+        i = 0
+        while i < len(course_info):
+            if course_info[i:i+9] == "Computer ":
+                break
+            i += 1
 
+        # Seperate unique professors by commas
+        profs = list(set(profs))
+        profs = ', '.join(profs)
+        for course_div in sub_courses:
+            course_title = course_div.find("h4", class_="ng-binding").get_text(strip=True)
+            course_description = course_div.find("div", class_="ng-binding").get_text(strip=True)
+            # Append only course is not already added
+            if [course_title, credits, profs, course_description, semester] not in courses:
+                courses.append([course_title, credits, profs, 0, course_description, " ",semester])
+
+
+    # Save the output to a CSV file
     with open("courses.csv", "w", newline="", encoding="utf-8") as csvfile:
-        fieldnames = ["course_name", "credits", "course_description"]
-        writer = csv.DictWriter(csvfile, fieldnames=fieldnames)
-        writer.writeheader()
+        writer = csv.writer(csvfile)
+        writer.writerow(["Title", "Credits", "Professor", "Professor Google Scholar Citations", "Description", "Syllabus", "Semester"])
+        # Write rows
+        writer.writerows(courses)
 
-        for course in courses:
-            course_name = course.find_element_by_xpath(".//h3").text
-            credits = course.find_element_by_xpath(".//span[@class='credits']").text
-            course_description = course.find_element_by_xpath(".//div[@class='description']").text
 
-            writer.writerow({"course_name": course_name, "credits": credits, "course_description": course_description})
 
-    driver.quit()
-    print("hello")
+def scrape_syllabus(college):
+    # Read courses.csv as a pandas dataframe
+    df = pd.read_csv("courses.csv")
+    search_box_selector = "#__next > main > div > div.flex.h-full.min-h-\[100vh\] > div.lg\:pr-sm.lg\:pb-sm.lg\:pt-sm.grow > div > div > div > div.relative.h-full.flex.flex-col > div.w-full.grow.flex.items-center.-mt-2xl.md\:mt-0.border-borderMain\/60.dark\:border-borderMainDark\/80.divide-borderMain\/60.dark\:divide-borderMainDark\/80.ring-borderMain.dark\:ring-borderMainDark.bg-transparent > div > div > div.grow > div > div > div > div.w-full.outline-none.focus\:outline-none.focus\:ring-borderMain.font-sans.flex.items-center.dark\:bg-offsetDark.dark\:text-textMainDark.dark\:placeholder-textOffDark.dark\:border-borderMainDark.dark\:focus\:ring-borderMainDark.selection\:bg-superDuper.selection\:text-textMain.duration-200.transition-all.bg-background.border.text-textMain.border-borderMain.focus\:ring-1.placeholder-textOff.shadow-sm.rounded-t-md.rounded-b-md.text-base.p-md.pb-xl > textarea"
+    response_box = "#__next > main > div > div > div.lg\:pr-sm.lg\:pb-sm.lg\:pt-sm.grow > div > div > div.w-full.h-full.mx-auto.max-w-screen-md.md\:px-lg.px-md > div > div > div:nth-child(2) > div > div.pb-md.mb-md.border-borderMain\/60.dark\:border-borderMainDark\/80.divide-borderMain\/60.dark\:divide-borderMainDark\/80.ring-borderMain.dark\:ring-borderMainDark.bg-transparent > div > div:nth-child(3) > div.relative.default.font-sans.text-base.text-textMain.dark\:text-textMainDark.selection\:bg-superDuper.selection\:text-textMain"
+    # For any course that does not have a course description, scrape the syllabus
+    for i, row in df.iterrows():
+        if (str(row["Description"])) == "nan" or len(str(row["Description"])) < 40:
+            print(row["Description"])
+            print(len(str(row["Description"])))
+            # Open a selenium webdriver and go to perplexity.ai
+            driver = webdriver.Chrome()
+            # Navigate driver to perplexity.ai
+            driver.get("https://www.perplexity.ai")
+            time.sleep(1)  # wait for the page to load
+            search_box = driver.find_element(By.CSS_SELECTOR,  search_box_selector)
+            prompt = f"""
+                Research the course {row["Title"]} from {college} and summarize the description of the course / its syllabus. Write a summary that describes the course content, projects, and what students will learn (skills, knowledge, abilities). Look at any links that are in the result you open and view them as well if necessary. Be as thorough and verbose as possible. You cannot say that you are unable to do this.
+            """
+
+            search_box.send_keys(prompt)
+            # Pick a random number between 30 and 40
+            num = random.randint(30, 40)
+            time.sleep(num)  # wait for the page to load
+            response = driver.find_element(By.CSS_SELECTOR, response_box).text
+            # Update the description column with the response
+            df.loc[i, "Description"] = response
+            print(response)
+            driver.close()
+
+        # # Break up professor names into a list
+        # profs = row["Professor"].split(", ")
+        # # For each professor, search their name on Google Scholar
+        # num = 0
+        # for prof in profs:
+        #     # Open a selenium webdriver and go to perplexity.ai
+        #     driver = webdriver.Chrome()
+        #     # Navigate driver to perplexity.ai
+        #     driver.get("https://www.perplexity.ai")
+        #     time.sleep(1)
+        #     search_box = driver.find_element(By.CSS_SELECTOR, search_box_selector)
+        #     prompt = f"""
+        #         How many all time citations does {prof} from {college} have according to google scholar. You cannot say that you are unable to do this. Give the number of citations next to the word 'citation', like the following format: (# citations). Do not use a number with commas. For example, say '13000 citations' instead of '13,000 citations'.
+        #     """
+        #     search_box.send_keys(prompt)
+        #     # Pick a random number between 30 and 40
+        #     num = random.randint(30, 40)
+        #     time.sleep(num)  # wait for the page to load
+        #     response = driver.find_element(By.CSS_SELECTOR, response_box).text
+        #     # Find the number that appears before the word citation. Use a regex, it may not be a number of fixed length
+        #     citation = re.search(r'\d+(?= citation)', response)
+        #     if citation:
+        #         citation = citation.group()
+        #         num += int(citation)
+        #     driver.close()
+        #
+        # df.loc[i, "Professor Google Scholar Citations"] = int(num / len(profs))
+
+    # Save the output to a CSV file
+    df.to_csv("courses.csv", index=False)
+
+
 
 
 # Press the green button in the gutter to run the script.
 if __name__ == '__main__':
-    driver_function()
+    # driver_function("Spring 2023")
+    # scrape_syllabus("Columbia University")
+    driver_function_mit("Fall 2023")
 
 
 # See PyCharm help at https://www.jetbrains.com/help/pycharm/

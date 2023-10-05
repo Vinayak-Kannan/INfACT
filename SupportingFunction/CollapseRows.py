@@ -101,6 +101,6 @@ def collapse_rows(df: DataFrame, school) -> DataFrame:
     orig_df = pd.read_csv(f'/Users/vinayakkannan/Desktop/INfACT/Script/SupportingFunction/RawData/{school}/Data - Sheet1.csv')
     # Drop credits and syllabus from orig_df
     orig_df = orig_df.drop(columns=['Credits', 'Syllabus'])
-    df = pd.merge(df, orig_df, left_on='Related Course', right_on='Title')
+    df = pd.merge(df, orig_df, left_on=['Related Course', 'Semester'], right_on=['Title', 'Semester'])
 
     return df
