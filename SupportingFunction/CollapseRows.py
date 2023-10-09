@@ -1,9 +1,12 @@
+import uuid
+
 import numpy as np
 import openai
 from dotenv import dotenv_values
 from openai.embeddings_utils import cosine_similarity, get_embedding
 from pandas import DataFrame
 import pandas as pd
+import pinecone
 
 
 def get_embeddings(texts):
@@ -109,5 +112,41 @@ def collapse_rows(df: DataFrame, school) -> DataFrame:
     # Drop credits and syllabus from orig_df
     orig_df = orig_df.drop(columns=['Credits', 'Syllabus'])
     df = pd.merge(df, orig_df, left_on=['Related Course', 'Semester'], right_on=['Title', 'Semester'])
+
+    return df
+
+
+def collapse_rows_pinecone(df: DataFrame):
+    config = dotenv_values("/Users/vinayakkannan/Desktop/INfACT/Script/SupportingFunction/.env")
+    openai.api_key = config.get("SECRET_KEY")
+    # get api key from app.pinecone.io
+    PINECONE_API_KEY = config.get('PINECONE_KEY')
+    # find your environment next to the api key in pinecone console
+    PINECONE_ENV = config.get('PINECONE_ENV')
+
+    # Send to pinecone
+    pinecone.init(
+        api_key=PINECONE_API_KEY,
+        environment=PINECONE_ENV
+    )
+    index = pinecone.GRPCIndex("infact")
+    df['Collapsed Skill'] = ''
+
+    for i, row in df.iterrows():
+        embedding_model = "text-embedding-ada-002"
+        embedding = get_embedding(row['Skill'], engine=embedding_model)
+        response = index.query(vector=embedding, top_k=1, include_values=True, include_metadata=True).to_dict()
+        top_match = response['matches'][0]
+        print(top_match['metadata']['text'] + " vs " + row['Skill'] + " : " + str(top_match['score']))
+        if top_match['score'] > 0.9:
+            df.loc[i, 'Collapsed Skill'] = top_match['metadata']['text']
+        else:
+            df.loc[i, 'Collapsed Skill'] = row['Skill']
+            upsert_value = [{
+                "id": uuid.uuid4().hex,
+                "values": embedding,
+                "metadata": {'text': row['Skill']}
+            }]
+            index.upsert(vectors=upsert_value, show_progress=True)
 
     return df
