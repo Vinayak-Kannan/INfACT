@@ -11,7 +11,7 @@ from selenium.webdriver.common.by import By
 
 def driver_function_mit(semester):
     # Read the HTML file
-    with open("/Users/vinayakkannan/Desktop/INfACT/Script/Scraping/MIT/fall2023.html", "r", encoding='cp1250') as file:
+    with open("/Users/vinayakkannan/Desktop/INfACT/Script/Scraping/MIT/spring2023.html", "r", encoding='cp1250') as file:
         html_content = file.read()
 
     # Parse the HTML using Beautiful Soup
@@ -44,11 +44,53 @@ def driver_function_mit(semester):
     local_course = []
     for child in course_table.children:
         if child.name == "h3":
+            # Append the current segment to courses
+            courses.append(local_course)
+            # Reset current_segment
+            local_course = []
+        else:
+            # Append the child to current_segment
+            local_course.append(child)
 
+    courses = courses[1:]
+    profs = []
+    # Find last <i> within each course
+    for i, course in enumerate(courses):
+        for element in course:
+            if element.name == "i":
+                profs.append(element.text)
+                break
 
-    # Get text from all h3 tags in course_table
     course_names = course_table.find_all("h3")
+
+    # credits = []
+    # # Within each course_description, find the text that says "Units: " and get the number after it
+    # for description in course_description:
+    #     # Check if description.split("Units: ")[1] containts "-"
+    #     numbers = description.split("Units: ")[1][:7]
+    #     # Check if first character is a number
+    #     if not numbers[0].isdigit():
+    #         continue
+    #     print(numbers[0].isdigit())
+    #     numbers = numbers.split("-")
+    #     sum = 0
+    #     for number in numbers:
+    #         print(number)
+    #         sum += int(number)
+    #     credits.append(sum)
+
     print(len(course_description), len(course_names))
+
+    row = []
+    for i in range(len(course_description)):
+        print(course_names[i].text)
+        row.append([course_names[i].text, 1, " ", 0, course_description[i], " ", semester])
+
+    with open("courses.csv", "w", newline="", encoding="utf-8") as csvfile:
+        writer = csv.writer(csvfile)
+        writer.writerow(["Title", "Credits", "Professor", "Professor Google Scholar Citations", "Description", "Syllabus", "Semester"])
+        # Write rows
+        writer.writerows(row)
 
 
 def driver_function(semester):
@@ -191,8 +233,9 @@ def scrape_syllabus(college):
 # Press the green button in the gutter to run the script.
 if __name__ == '__main__':
     # driver_function("Spring 2023")
-    # scrape_syllabus("Columbia University")
     driver_function_mit("Fall 2023")
+    scrape_syllabus("MIT")
+
 
 
 # See PyCharm help at https://www.jetbrains.com/help/pycharm/

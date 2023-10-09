@@ -83,9 +83,16 @@ def collapse_rows(df: DataFrame, school) -> DataFrame:
 
         response_message = response.choices[0].message.content
         print(similar_skills)
-        print(response_message)
         # Get the label from the response
         label = response_message.split("Label: ")[1].strip()
+
+        # Check if similar_skills are all the same when lowered to lower case and removing punctuation
+        # If they are, then set the label to the first skill
+        # If they are not, then set the label to the response
+        similar_skills = similar_skills.lower().replace(",", "").replace("-", "").replace(" ", "").split()
+        label = similar_skills[0] if len(set(similar_skills)) == 1 else label
+        print(label)
+
         # If there are similar values, add the first similar value to the 'Collapsed Skill' column
         df.loc[i, 'Collapsed Skill'] = label
         for similarity in similarities:

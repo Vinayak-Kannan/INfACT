@@ -1,0 +1,1054 @@
+Skill,Explanation,Related Course,Credits,Semester
+Computation,"Students will learn about the fundamental concepts and principles of computation, including the notion of computation itself.","6.100A Introduction to Computer Science Programming in Python
+",1,Fall 2023
+Python language,"Students will acquire knowledge of the syntax, features, and capabilities of the Python programming language.","6.100A Introduction to Computer Science Programming in Python
+",1,Fall 2023
+Algorithms,"Students will learn about different algorithms and their characteristics, such as efficiency and complexity.","6.100A Introduction to Computer Science Programming in Python
+",1,Fall 2023
+Software testing,Students will gain knowledge of testing methodologies and techniques to ensure the quality and reliability of their programs.,"6.100A Introduction to Computer Science Programming in Python
+",1,Fall 2023
+Debugging techniques,Students will learn various strategies and techniques for identifying and fixing errors in their code.,"6.100A Introduction to Computer Science Programming in Python
+",1,Fall 2023
+Probability and statistics,Students will acquire knowledge of basic probability and statistical concepts and their applications in data science.,"6.100B Introduction to Computational Thinking and Data Science
+",1,Fall 2023
+Monte Carlo simulations,Students will learn about Monte Carlo simulation methods and their use in modeling and analyzing complex systems.,"6.100B Introduction to Computational Thinking and Data Science
+",1,Fall 2023
+Data modeling,Students will gain knowledge of different data modeling techniques and their applications in representing and organizing data.,"6.100B Introduction to Computational Thinking and Data Science
+",1,Fall 2023
+Clustering,Students will learn about clustering algorithms and techniques used for grouping similar data points together.,"6.100B Introduction to Computational Thinking and Data Science
+",1,Fall 2023
+Computational thinking,Students will develop an understanding of computational thinking principles and how they can be applied to solve problems.,"6.100B Introduction to Computational Thinking and Data Science
+",1,Fall 2023
+Notion of computation,Students will acquire knowledge about the fundamental concepts and principles of computation.,"6.100L Introduction to Computer Science and Programming
+",1,Fall 2023
+Python programming language,"Students will learn about the syntax, features, and functionalities of the Python programming language.","6.100L Introduction to Computer Science and Programming
+",1,Fall 2023
+Simple algorithms,Students will gain knowledge of basic algorithms and their applications in solving simple problems.,"6.100L Introduction to Computer Science and Programming
+",1,Fall 2023
+Algorithmic complexity,Students will understand the concept of algorithmic complexity and its impact on program efficiency.,"6.100L Introduction to Computer Science and Programming
+",1,Fall 2023
+Testing and debugging techniques,Students will learn about different techniques and strategies for testing and debugging programs.,"6.100L Introduction to Computer Science and Programming
+",1,Fall 2023
+Programming basics,Students will acquire knowledge of the basic principles and concepts of programming.,"6.1010 Fundamentals of Programming
+",1,Fall 2023
+Computational concepts,"Students will learn about fundamental computational concepts such as loops, conditionals, and variables.","6.1010 Fundamentals of Programming
+",1,Fall 2023
+Software design,Students will gain knowledge of software design principles and practices.,"6.1010 Fundamentals of Programming
+",1,Fall 2023
+Data structures,Students will learn about different data structures used in programming and their applications.,"6.1010 Fundamentals of Programming
+",1,Fall 2023
+Problem-solving strategies,Students will acquire knowledge of problem-solving strategies and techniques used in programming.,"6.1010 Fundamentals of Programming
+",1,Fall 2023
+Specifications and invariants,"Students will learn how to define specifications and invariants for software systems, ensuring that the code meets the desired requirements.","6.1020 Software Construction
+",1,Fall 2023
+Abstract data types,"Students will gain knowledge of abstract data types and representation independence, allowing them to design efficient and flexible data structures.","6.1020 Software Construction
+",1,Fall 2023
+Design patterns,"Students will learn various design patterns used in object-oriented programming, enabling them to solve common software design problems effectively.","6.1020 Software Construction
+",1,Fall 2023
+Concurrent programming techniques,"Students will acquire knowledge of different techniques for concurrent programming, such as message passing and shared memory concurrency.","6.1020 Software Construction
+",1,Fall 2023
+Functional programming concepts,"Students will learn the principles and concepts of functional programming, including working with immutable data and higher-order functions.","6.1020 Software Construction
+",1,Fall 2023
+Abstract data modeling,Students will learn about abstract data modeling and its application in software design.,"6.1040 Software Design
+",1,Fall 2023
+Social and ethical implications,Students will gain knowledge of the social and ethical considerations involved in software design and development.,"6.1040 Software Design
+",1,Fall 2023
+Web services,Students will acquire knowledge of web services and their role in building web applications.,"6.1040 Software Design
+",1,Fall 2023
+Reactive front-ends,"Students will learn about reactive front-end development, understanding how to create responsive user interfaces.","6.1040 Software Design
+",1,Fall 2023
+Visual design,"Students will gain knowledge of visual design principles and techniques, enabling them to create visually appealing software interfaces.","6.1040 Software Design
+",1,Fall 2023
+Performance engineering principles,Students will acquire knowledge of the principles and concepts of software performance engineering.,"6.1060 Software Performance Engineering
+",1,Fall 2023
+Software optimization techniques,Students will learn about different techniques used to optimize software performance.,"6.1060 Software Performance Engineering
+",1,Fall 2023
+Cache and memory hierarchy optimization,Students will gain knowledge of optimizing software by optimizing cache and memory usage.,"6.1060 Software Performance Engineering
+",1,Fall 2023
+Scalability,Students will learn about designing software systems that can scale effectively.,"6.1060 Software Performance Engineering
+",1,Fall 2023
+High-performance computing,Students will acquire knowledge of the field of high-performance computing and its applications.,"6.1060 Software Performance Engineering
+",1,Fall 2023
+Models of computation,Students will learn about different models of computation and their implications in algorithm design.,"6.5060 Algorithm Engineering
+",1,Fall 2023
+Data structures,Students will acquire knowledge about various data structures and their applications in algorithm engineering.,"6.5060 Algorithm Engineering
+",1,Fall 2023
+Graph problems,Students will learn about different graph problems and algorithms used to solve them.,"6.5060 Algorithm Engineering
+",1,Fall 2023
+Cache-efficient algorithms,Students will gain knowledge about designing algorithms that effectively utilize cache memory.,"6.5060 Algorithm Engineering
+",1,Fall 2023
+Computational complexity,Students will understand the concept of computational complexity and its importance in algorithm analysis.,"6.5060 Algorithm Engineering
+",1,Fall 2023
+Principles of multicore programming,"Students will learn the fundamental principles and concepts of programming multicore machines, including understanding the challenges and considerations specific to multicore architectures.","6.5080 Multicore Programming
+",1,Fall 2023
+Concurrent data structures,Students will acquire knowledge about concurrent data structures and how to design and implement them in multicore programming.,"6.5080 Multicore Programming
+",1,Fall 2023
+Multicore machine architecture,Students will acquire knowledge about the architecture of multicore machines and how they function.,"6.5081 Multicore Programming
+",1,Fall 2023
+Locking and synchronization,Students will learn about locking and synchronization mechanisms used in multicore programming.,"6.5081 Multicore Programming
+",1,Fall 2023
+Scalability,Students will gain knowledge about scalability issues and techniques in multicore programming.,"6.5081 Multicore Programming
+",1,Fall 2023
+Concurrent data structures,Students will learn about concurrent data structures and their implementation in multicore programming.,"6.5081 Multicore Programming
+",1,Fall 2023
+Higher-level programming languages,"Students will acquire knowledge about the concepts, functions, and structures of higher-level programming languages.","6.1100 Computer Language Engineering
+",1,Fall 2023
+Compiler theory,Students will learn about the theoretical foundations of compilers and their role in software development.,"6.1100 Computer Language Engineering
+",1,Fall 2023
+Software engineering principles,Students will gain knowledge of software engineering principles and practices.,"6.1100 Computer Language Engineering
+",1,Fall 2023
+Programming paradigms,Students will acquire knowledge about different programming paradigms and their application in language engineering.,"6.1100 Computer Language Engineering
+",1,Fall 2023
+Tools and technologies,Students will learn about various tools and technologies used in language engineering and compiler design.,"6.1100 Computer Language Engineering
+",1,Fall 2023
+Design and implementation of programming languages,Students will acquire knowledge about the principles and techniques involved in designing and implementing programming languages.,"6.1120 Dynamic Computer Language Engineering
+",1,Fall 2023
+Just-in-time machine code generation,"Students will learn about the process of generating machine code at runtime, optimizing program execution.","6.1120 Dynamic Computer Language Engineering
+",1,Fall 2023
+Optimization,Students will gain knowledge about techniques for improving the performance and efficiency of programs.,"6.1120 Dynamic Computer Language Engineering
+",1,Fall 2023
+Fundamental approaches for parsing,Students will learn various methods and algorithms for parsing programming language syntax.,"6.1120 Dynamic Computer Language Engineering
+",1,Fall 2023
+Memory management,"Students will acquire knowledge about memory management techniques, including garbage collection, in programming languages.","6.1120 Dynamic Computer Language Engineering
+",1,Fall 2023
+Formal semantics,"Students will acquire knowledge of formal semantics, which is the study of the meaning of programming languages.","6.5110 Foundations of Program Analysis
+",1,Fall 2023
+Type systems,"Students will learn about type systems, which are used to classify and ensure the correctness of program behavior.","6.5110 Foundations of Program Analysis
+",1,Fall 2023
+Operational semantics,Students will learn about operational semantics and its application in formal reasoning about programs.,"6.5120 Formal Reasoning About Programs
+",1,Fall 2023
+Type systems,Students will gain knowledge of type systems and their role in ensuring program correctness.,"6.5120 Formal Reasoning About Programs
+",1,Fall 2023
+Program logics,Students will learn about program logics and their use in reasoning about program correctness.,"6.5120 Formal Reasoning About Programs
+",1,Fall 2023
+Functional programming,Students will gain knowledge of functional programming paradigms and their application in formal reasoning about programs.,"6.5120 Formal Reasoning About Programs
+",1,Fall 2023
+Concurrency,Students will learn about concurrency and its impact on program correctness.,"6.5120 Formal Reasoning About Programs
+",1,Fall 2023
+Database design,Students will learn the principles and techniques of designing databases for large-scale symbolic systems.,"6.5150 Large-scale Symbolic Systems
+",1,Fall 2023
+Programming languages,Students will acquire knowledge of various programming languages and their features.,"6.5150 Large-scale Symbolic Systems
+",1,Fall 2023
+Symbolic systems,Students will gain knowledge about the concepts and theories behind large-scale symbolic systems.,"6.5150 Large-scale Symbolic Systems
+",1,Fall 2023
+Software development methodologies,Students will learn about different methodologies and approaches used in the development of large software systems.,"6.5150 Large-scale Symbolic Systems
+",1,Fall 2023
+Artificial intelligence,Students will acquire knowledge of artificial intelligence concepts and their applications in symbolic systems.,"6.5150 Large-scale Symbolic Systems
+",1,Fall 2023
+Software design,Students will learn concepts and techniques for designing large software systems that can be adapted to unforeseen uses.,"6.5151 Large-scale Symbolic Systems
+",1,Fall 2023
+Artificial intelligence,Students will gain knowledge of artificial intelligence applications and their integration into large-scale symbolic systems.,"6.5151 Large-scale Symbolic Systems
+",1,Fall 2023
+Compiler design,Students will learn about the design and implementation of compilers within the context of large-scale symbolic systems.,"6.5151 Large-scale Symbolic Systems
+",1,Fall 2023
+Computer-algebra systems,Students will acquire knowledge of computer-algebra systems and their role in large-scale symbolic systems.,"6.5151 Large-scale Symbolic Systems
+",1,Fall 2023
+Deductive systems,Students will learn about deductive systems and their application in large-scale symbolic systems.,"6.5151 Large-scale Symbolic Systems
+",1,Fall 2023
+Classical mechanics,Students will acquire knowledge of classical mechanics and its computational approach.,"6.5160[J] Classical Mechanics: A Computational Approach
+",1,Fall 2023
+Lagrangian formulation,Students will learn about the Lagrangian formulation of classical mechanics.,"6.5160[J] Classical Mechanics: A Computational Approach
+",1,Fall 2023
+Hamiltonian formulation,Students will gain knowledge of the Hamiltonian formulation of classical mechanics.,"6.5160[J] Classical Mechanics: A Computational Approach
+",1,Fall 2023
+Mathematical tools and proof techniques,Students will acquire a body of knowledge regarding various mathematical tools and proof techniques used in computer science.,"6.1200[J] Mathematics for Computer Science
+",1,Fall 2023
+Elementary number theory and cryptography,Students will learn about the fundamental concepts of number theory and their applications in cryptography.,"6.1200[J] Mathematics for Computer Science
+",1,Fall 2023
+Permutations and combinations,"Students will gain knowledge about permutations and combinations, which are important in counting and probability problems.","6.1200[J] Mathematics for Computer Science
+",1,Fall 2023
+Counting tools,"Students will learn different counting techniques, such as the rule of product and the rule of sum, to solve combinatorial problems.","6.1200[J] Mathematics for Computer Science
+",1,Fall 2023
+Sets and relations,"Students will acquire knowledge about sets and relations, which are foundational concepts in discrete mathematics and computer science.","6.1200[J] Mathematics for Computer Science
+",1,Fall 2023
+Discrete mathematics,"Students will gain knowledge of the fundamental concepts and principles of discrete mathematics, which is essential for computer science.","6.120A Discrete Mathematics and Proof for Computer Science
+",1,Fall 2023
+Sets and relations,Students will learn about sets and relations and their applications in computer science.,"6.120A Discrete Mathematics and Proof for Computer Science
+",1,Fall 2023
+State machines,Students will acquire knowledge of state machines and their role in modeling computational systems.,"6.120A Discrete Mathematics and Proof for Computer Science
+",1,Fall 2023
+Number theory and cryptography,Students will learn about elementary number theory and its applications in cryptography.,"6.120A Discrete Mathematics and Proof for Computer Science
+",1,Fall 2023
+Recurrences,Students will gain knowledge of recurrences and their use in solving problems in computer science.,"6.120A Discrete Mathematics and Proof for Computer Science
+",1,Fall 2023
+Mathematical modeling,Students will learn how to model computational problems using mathematical concepts.,"6.1210 Introduction to Algorithms
+",1,Fall 2023
+Algorithmic paradigms,Students will learn about different approaches and strategies for solving computational problems.,"6.1210 Introduction to Algorithms
+",1,Fall 2023
+Search trees,Students will acquire knowledge about different types of search trees and their properties.,"6.1220[J] Design and Analysis of Algorithms
+",1,Fall 2023
+Hashing,Students will learn about hashing techniques and their use in efficient data retrieval.,"6.1220[J] Design and Analysis of Algorithms
+",1,Fall 2023
+Divide-and-conquer,Students will gain knowledge of the divide-and-conquer technique for problem-solving.,"6.1220[J] Design and Analysis of Algorithms
+",1,Fall 2023
+Greedy algorithms,Students will understand the concept of greedy algorithms and their application in solving optimization problems.,"6.1220[J] Design and Analysis of Algorithms
+",1,Fall 2023
+Network flow,Students may be exposed to advanced topics such as network flow algorithms and their applications.,"6.1220[J] Design and Analysis of Algorithms
+",1,Fall 2023
+Theory of computing,"Students will gain knowledge about the theory of computing, including concepts related to finite automata, circuits, Turing machines, and communication complexity.","6.1400[J] Computability and Complexity Theory
+",1,Fall 2023
+Computational complexity,Students will learn about the classification of computational tasks in terms of their difficulty and the factors that determine their complexity.,"6.1400[J] Computability and Complexity Theory
+",1,Fall 2023
+Open problems in mathematics,Students will acquire knowledge about major open problems in mathematics and their relevance to computing.,"6.1400[J] Computability and Complexity Theory
+",1,Fall 2023
+Fundamental issues in computing,"Students will gain knowledge about fundamental issues in computing, such as the Halting Problem, the Church-Turing Thesis, and the P versus NP problem.","6.1400[J] Computability and Complexity Theory
+",1,Fall 2023
+Mathematical foundations,Students will develop a solid understanding of mathematical foundations underlying computability and complexity theory.,"6.1400[J] Computability and Complexity Theory
+",1,Fall 2023
+Parameterized algorithms,"Students will learn the theory and techniques behind parameterized algorithms, which involve solving computational problems by considering additional parameters.","6.1420 Fixed Parameter and Fine-grained Computation
+",1,Fall 2023
+Fine-grained complexity,"Students will gain knowledge about the theory of fine-grained complexity, which provides a new perspective on measuring the difficulty and feasibility of solving computational problems.","6.1420 Fixed Parameter and Fine-grained Computation
+",1,Fall 2023
+W-hierarchy,"Students will learn about the W-hierarchy, including W[1], W[2], W[P], and other levels, which classify the complexity of computational problems.","6.1420 Fixed Parameter and Fine-grained Computation
+",1,Fall 2023
+3-sum-hardness,"Students will gain knowledge about the concept of 3-sum-hardness, which is a measure of the computational hardness of a problem.","6.1420 Fixed Parameter and Fine-grained Computation
+",1,Fall 2023
+All-pairs shortest paths (APSP)-equivalences,"Students will learn about the equivalence between all-pairs shortest paths problems and other computational problems, providing insights into their complexity.","6.1420 Fixed Parameter and Fine-grained Computation
+",1,Fall 2023
+Computational models,Students will learn about different computational models and their applications in solving computational problems.,"6.5210[J] Advanced Algorithms
+",1,Fall 2023
+Network flows,Students will gain knowledge about network flow algorithms and their applications in optimizing flow in networks.,"6.5210[J] Advanced Algorithms
+",1,Fall 2023
+Linear programming,Students will learn about linear programming techniques and their applications in optimization problems.,"6.5210[J] Advanced Algorithms
+",1,Fall 2023
+Approximation algorithms,Students will gain knowledge about approximation algorithms and their use in solving NP-hard problems.,"6.5210[J] Advanced Algorithms
+",1,Fall 2023
+External memory,Students will learn about algorithms and data structures that are designed to efficiently handle large datasets stored in external memory.,"6.5210[J] Advanced Algorithms
+",1,Fall 2023
+Randomized computation models,Students will acquire knowledge about different models of randomized computation.,"6.5220[J] Randomized Algorithms
+",1,Fall 2023
+Graph algorithms,"Students will learn about graph algorithms, including minimum spanning trees, shortest paths, and minimum cuts.","6.5220[J] Randomized Algorithms
+",1,Fall 2023
+Geometric algorithms,"Students will gain knowledge about geometric algorithms, such as convex hulls and linear programming in fixed or arbitrary dimensions.","6.5220[J] Randomized Algorithms
+",1,Fall 2023
+Approximate counting,Students will learn about techniques for approximate counting in algorithms.,"6.5220[J] Randomized Algorithms
+",1,Fall 2023
+Parallel algorithms,Students will acquire knowledge about parallel algorithms and their implementation.,"6.5220[J] Randomized Algorithms
+",1,Fall 2023
+Dictionaries,Students will learn about dictionaries and their use in data structures for efficient searching and retrieval.,"6.5230 Advanced Data Structures
+",1,Fall 2023
+Hashing,Students will gain knowledge of hashing techniques and their application in data structures.,"6.5230 Advanced Data Structures
+",1,Fall 2023
+Search trees,Students will learn about different types of search trees and their properties for efficient data retrieval.,"6.5230 Advanced Data Structures
+",1,Fall 2023
+Integer data structures,Students will gain knowledge of data structures specifically designed for handling integer values.,"6.5230 Advanced Data Structures
+",1,Fall 2023
+Text indexing,Students will learn about text indexing techniques such as suffix arrays and suffix trees for efficient text searching.,"6.5230 Advanced Data Structures
+",1,Fall 2023
+Number theory,Students will learn about number theory and its relevance in sublinear time algorithms.,"6.5240 Sublinear Time Algorithms
+",1,Fall 2023
+Combinatorics,Students will gain knowledge of combinatorics and its application in sublinear time algorithms.,"6.5240 Sublinear Time Algorithms
+",1,Fall 2023
+Linear algebra,Students will learn about linear algebra concepts and their use in sublinear time algorithms.,"6.5240 Sublinear Time Algorithms
+",1,Fall 2023
+Probability theory,Students will gain knowledge of probability theory and its role in sublinear time algorithms.,"6.5240 Sublinear Time Algorithms
+",1,Fall 2023
+Graph theory,Students will learn about graph theory and its application in sublinear time algorithms.,"6.5240 Sublinear Time Algorithms
+",1,Fall 2023
+Distributed systems,Students will acquire knowledge about the principles and concepts of distributed systems.,"6.5250[J] Distributed Algorithms
+",1,Fall 2023
+Formal models for distributed computation,Students will learn about formal models used to analyze and reason about distributed algorithms.,"6.5250[J] Distributed Algorithms
+",1,Fall 2023
+Fault tolerance,Students will gain knowledge about techniques for designing fault-tolerant distributed algorithms.,"6.5250[J] Distributed Algorithms
+",1,Fall 2023
+Communication protocols,Students will learn about different communication protocols used in distributed systems.,"6.5250[J] Distributed Algorithms
+",1,Fall 2023
+Clock synchronization,Students will acquire knowledge about methods for synchronizing clocks in a distributed network.,"6.5250[J] Distributed Algorithms
+",1,Fall 2023
+Geometric folding algorithms,"Students will gain knowledge of the algorithms and techniques used in geometric folding, which involves manipulating and folding two-dimensional and three-dimensional objects.","6.5310 Geometric Folding Algorithms: Linkages, Origami, Polyhedra
+",1,Fall 2023
+Protein folding,"Students will learn about the process of protein folding, which is relevant to the study of foldable structures and their applications in biology.","6.5310 Geometric Folding Algorithms: Linkages, Origami, Polyhedra
+",1,Fall 2023
+Geometric data structures,"Students will learn about point location, Voronoi diagrams, and Binary Space Partitions as fundamental geometric data structures.","6.5320 Geometric Computing
+",1,Fall 2023
+Linear programming,Students will acquire knowledge of linear programming techniques and their application in solving geometric problems.,"6.5320 Geometric Computing
+",1,Fall 2023
+Closest pair problems,Students will learn about the concept of closest pair problems and various algorithms to solve them.,"6.5320 Geometric Computing
+",1,Fall 2023
+High-dimensional nearest neighbor search,Students will gain knowledge of techniques for performing nearest neighbor search in high-dimensional spaces.,"6.5320 Geometric Computing
+",1,Fall 2023
+Low-distortion embeddings,Students will learn about low-distortion embeddings between metric spaces and their significance in geometric computing.,"6.5320 Geometric Computing
+",1,Fall 2023
+Game theory,Students will acquire knowledge of game theory principles and concepts.,"6.5340 Topics in Algorithmic Game Theory
+",1,Fall 2023
+Computer systems,Students will learn about the application of game-theoretic tools in computer systems.,"6.5340 Topics in Algorithmic Game Theory
+",1,Fall 2023
+Equilibria and fixed points,Students will gain knowledge of equilibria and fixed points in game theory and their significance in system design.,"6.5340 Topics in Algorithmic Game Theory
+",1,Fall 2023
+Algorithmic game theory,Students will learn about the field of algorithmic game theory and its intersection with computer science.,"6.5340 Topics in Algorithmic Game Theory
+",1,Fall 2023
+Conflict of interest,Students will acquire knowledge of conflicts of interest and their impact on system performance.,"6.5340 Topics in Algorithmic Game Theory
+",1,Fall 2023
+Matrix operations,"Students will acquire knowledge of matrix operations, including matrix multiplication, addition, and subtraction, which are essential for understanding and implementing graph algorithms.","6.5350 Matrix Multiplication and Graph Algorithms
+",1,Fall 2023
+Graph theory,"Students will learn the fundamental concepts and principles of graph theory, including graph representation, connectivity, paths, and cycles, providing them with a solid foundation for studying and solving graph algorithm problems.","6.5350 Matrix Multiplication and Graph Algorithms
+",1,Fall 2023
+Linear algebra,"Students will gain knowledge of basic linear algebra concepts, such as vectors, matrices, and linear transformations, which are necessary for understanding and analyzing matrix multiplication and its applications in graph algorithms.","6.5350 Matrix Multiplication and Graph Algorithms
+",1,Fall 2023
+Algorithm design,"Students will acquire knowledge of various algorithm design techniques, such as divide and conquer, dynamic programming, and greedy algorithms, which can be applied to solve graph algorithm problems effectively.","6.5350 Matrix Multiplication and Graph Algorithms
+",1,Fall 2023
+Computational complexity,"Students will learn about computational complexity theory, including the classification of problems into different complexity classes (e.g., P, NP, NP-complete), enabling them to understand the inherent difficulty of graph algorithm problems and the limitations of efficient solutions.","6.5350 Matrix Multiplication and Graph Algorithms
+",1,Fall 2023
+Regular and context-free languages,"Students will acquire knowledge about regular and context-free languages, which are important concepts in formal language theory.","6.5400[J] Theory of Computation
+",1,Fall 2023
+Decidable and undecidable problems,"Students will learn about the distinction between problems that can be solved by an algorithm and those that cannot, providing them with a foundational understanding of computability theory.","6.5400[J] Theory of Computation
+",1,Fall 2023
+Time and space measures on computation,"Students will gain knowledge about different measures of computational resources, such as time and space, and their impact on the efficiency of algorithms.","6.5400[J] Theory of Computation
+",1,Fall 2023
+Inherently complex problems,"Students will learn about problems that are inherently difficult to solve, regardless of the algorithm used, providing them with an understanding of the limits of computation.","6.5400[J] Theory of Computation
+",1,Fall 2023
+Oracles,"Students will acquire knowledge about oracles, which are hypothetical computational devices used to study the power of different types of computations.","6.5400[J] Theory of Computation
+",1,Fall 2023
+Computational complexity theory,"Students will acquire in-depth knowledge of computational complexity theory, including complexity classes, complete sets, and the polynomial-time hierarchy.","6.5410[J] Advanced Complexity Theory
+",1,Fall 2023
+Nondeterministic computation,Students will learn about the concept of nondeterministic computation and its role in computational complexity theory.,"6.5410[J] Advanced Complexity Theory
+",1,Fall 2023
+Probabilistic computation,Students will gain knowledge of probabilistic computation models and their applications in computational complexity.,"6.5410[J] Advanced Complexity Theory
+",1,Fall 2023
+Parallel computation,Students will learn about parallel computation models and their significance in computational complexity theory.,"6.5410[J] Advanced Complexity Theory
+",1,Fall 2023
+Interactive proof systems,Students will acquire knowledge of interactive proof systems and their use in computational complexity theory.,"6.5410[J] Advanced Complexity Theory
+",1,Fall 2023
+Computational complexity,"Students will gain knowledge about computational complexity theory, which studies the inherent difficulty of solving computational problems.","6.5420 Randomness and Computation
+",1,Fall 2023
+Cryptography,"Students will learn about the principles and techniques of cryptography, which involves secure communication and data protection.","6.5420 Randomness and Computation
+",1,Fall 2023
+Combinatorics,"Students will acquire knowledge in combinatorics, which is the branch of mathematics that deals with counting, arranging, and organizing objects.","6.5420 Randomness and Computation
+",1,Fall 2023
+Randomness in computation,"Students will learn about the role and significance of randomness in computation, including its applications in various areas of computer science.","6.5420 Randomness and Computation
+",1,Fall 2023
+Expander graphs,"Students will gain knowledge about expander graphs, which are highly connected graphs with useful properties in various applications, such as error-correcting codes and network design.","6.5420 Randomness and Computation
+",1,Fall 2023
+Quantum computational complexity theory,Students will acquire knowledge about the fundamental concepts and principles of quantum computational complexity theory.,"6.5430 Quantum Complexity Theory
+",1,Fall 2023
+Classical simulation of quantum circuits,Students will learn about the techniques and methods used for simulating quantum circuits using classical computers.,"6.5430 Quantum Complexity Theory
+",1,Fall 2023
+Complexity classes,Students will gain knowledge about different complexity classes and their significance in quantum complexity theory.,"6.5430 Quantum Complexity Theory
+",1,Fall 2023
+Lower bounds,Students will acquire knowledge about lower bounds and their importance in analyzing the capabilities of quantum computers.,"6.5430 Quantum Complexity Theory
+",1,Fall 2023
+Research frontier,Students will gain knowledge about the current research trends and advancements in quantum complexity theory.,"6.5430 Quantum Complexity Theory
+",1,Fall 2023
+Cryptographic foundations,"Students will learn about the principles and techniques of cryptography, including pseudorandomness, collision-resistant hash functions, authentication codes, signatures, authenticated encryption, and public-key encryption.","6.1600 Foundations of Computer Security
+",1,Fall 2023
+Systems security,"Students will acquire knowledge about systems ideas such as isolation, non-interference, authentication, access control, delegation, and trust, and how these concepts contribute to achieving security in computer systems.","6.1600 Foundations of Computer Security
+",1,Fall 2023
+Implementation techniques,"Students will learn about various implementation techniques used in computer security, including privilege separation, fuzzing, symbolic execution, runtime defenses, and side-channel attacks.","6.1600 Foundations of Computer Security
+",1,Fall 2023
+Case studies,"Through case studies, students will gain knowledge about real-world examples of how security ideas and techniques are applied in deployed systems.","6.1600 Foundations of Computer Security
+",1,Fall 2023
+Security vulnerabilities,Students will learn about common security vulnerabilities and how to identify and address them in computer systems.,"6.1600 Foundations of Computer Security
+",1,Fall 2023
+Systems security,"Students will gain knowledge about the basic notions of systems security, including the principles and techniques used to protect computer systems from unauthorized access and attacks.","6.5610 Applied Cryptography and Security
+",1,Fall 2023
+Cryptographic hash functions,Students will learn about cryptographic hash functions and their applications in ensuring data integrity and password storage.,"6.5610 Applied Cryptography and Security
+",1,Fall 2023
+Key-exchange,"Students will acquire knowledge about key-exchange protocols, which enable secure communication between two parties over an insecure channel.","6.5610 Applied Cryptography and Security
+",1,Fall 2023
+Secret-sharing,"Students will learn about secret-sharing schemes, which distribute a secret among multiple participants in such a way that cooperation is required to reconstruct the secret.","6.5610 Applied Cryptography and Security
+",1,Fall 2023
+Electronic voting,Students will gain knowledge about the challenges and cryptographic techniques involved in designing secure electronic voting systems.,"6.5610 Applied Cryptography and Security
+",1,Fall 2023
+Cryptographic primitives,"Students will acquire knowledge of the fundamental cryptographic primitives used in modern cryptography, such as public-key encryption, digital signatures, and pseudo-random number generation.","6.5620[J] Cryptography and Cryptanalysis
+",1,Fall 2023
+Computational complexity,"Students will learn about the computational complexity requirements of cryptographic protocols, including understanding the efficiency and security trade-offs in different algorithms.","6.5620[J] Cryptography and Cryptanalysis
+",1,Fall 2023
+Cryptographic protocols,Students will learn about various cryptographic protocols used in secure communication.,"6.5630 Advanced Topics in Cryptography
+",1,Fall 2023
+Number theory,Students will acquire knowledge of number theory concepts and their applications in cryptography.,"6.5630 Advanced Topics in Cryptography
+",1,Fall 2023
+Cryptographic primitives,"Students will gain knowledge of different cryptographic primitives such as hash functions, symmetric and asymmetric encryption algorithms.","6.5630 Advanced Topics in Cryptography
+",1,Fall 2023
+Cryptographic attacks,Students will learn about different types of cryptographic attacks and their countermeasures.,"6.5630 Advanced Topics in Cryptography
+",1,Fall 2023
+Cryptographic standards,Students will become familiar with industry standards and best practices in cryptography.,"6.5630 Advanced Topics in Cryptography
+",1,Fall 2023
+Attacks compromising security,Students will acquire knowledge about various types of attacks that can compromise the security of computer systems.,"6.5660 Computer Systems Security
+",1,Fall 2023
+Privilege separation,Students will learn about the concept of privilege separation and its importance in system security.,"6.5660 Computer Systems Security
+",1,Fall 2023
+Language-based security,Students will gain knowledge about language-based security and its applications in securing computer systems.,"6.5660 Computer Systems Security
+",1,Fall 2023
+Trusted hardware,Students will learn about the use of trusted hardware in enhancing system security.,"6.5660 Computer Systems Security
+",1,Fall 2023
+Recent research papers,Students will be exposed to and gain knowledge about recent research papers in the field of computer systems security.,"6.5660 Computer Systems Security
+",1,Fall 2023
+Complexity control,"Students will learn about techniques for controlling complexity in computer software and hardware systems, which involves applying knowledge of system design principles and practices.","6.1800 Computer Systems Engineering
+",1,Fall 2023
+Naming conventions,"Students will gain knowledge of naming conventions used in computer systems, which involves understanding and applying standardized naming practices.","6.1800 Computer Systems Engineering
+",1,Fall 2023
+Fault-tolerant systems,"Students will learn about designing and implementing fault-tolerant systems, which involves understanding and applying knowledge of system redundancy and error handling techniques.","6.1800 Computer Systems Engineering
+",1,Fall 2023
+Impact of computer systems on society,"Students will gain knowledge of the social and ethical implications of computer systems, which involves understanding and analyzing the effects of technology on individuals and society.","6.1800 Computer Systems Engineering
+",1,Fall 2023
+Current literature analysis,"Students will develop the ability to analyze and compare case studies and readings from the current literature, which requires knowledge of relevant research and industry trends.","6.1800 Computer Systems Engineering
+",1,Fall 2023
+Virtual memory,Students will learn about virtual memory and its role in managing memory resources in an operating system.,"6.1810 Operating System Engineering
+",1,Fall 2023
+File systems,Students will gain knowledge about file systems and their organization within an operating system.,"6.1810 Operating System Engineering
+",1,Fall 2023
+Interprocess communication,"Students will learn about different mechanisms for interprocess communication, such as shared memory and message passing.","6.1810 Operating System Engineering
+",1,Fall 2023
+Hardware-software interaction,"Students will acquire knowledge about the interaction between software and hardware in an operating system, including topics such as interrupts and context switches.","6.1810 Operating System Engineering
+",1,Fall 2023
+Networking,"Students will learn about networking concepts and protocols, and how they can be integrated into an operating system.","6.1810 Operating System Engineering
+",1,Fall 2023
+IoT technologies,Students will gain knowledge about the different technologies and protocols used in IoT systems.,"6.1820[J] Mobile and Sensor Computing
+",1,Fall 2023
+Sensor technologies,Students will learn about various sensor technologies used in IoT applications.,"6.1820[J] Mobile and Sensor Computing
+",1,Fall 2023
+Wireless communication protocols,Students will acquire knowledge about different wireless communication protocols used in IoT systems.,"6.1820[J] Mobile and Sensor Computing
+",1,Fall 2023
+Data analysis techniques,Students will learn about various techniques and algorithms used for analyzing sensor data.,"6.1820[J] Mobile and Sensor Computing
+",1,Fall 2023
+Embedded system architectures,Students will gain knowledge about different architectures and platforms used for building embedded systems in IoT applications.,"6.1820[J] Mobile and Sensor Computing
+",1,Fall 2023
+"Impact of computer systems on individuals, society, and the environment","Students will learn about the impact of computer systems on various aspects of human life, society, and the environment. This knowledge is essential in understanding the broader implications of computer systems.","6.1850 Computer Systems and Society
+",1,Fall 2023
+Power structures in technical design decisions,Students will gain knowledge about the power structures that arise from low-level technical design decisions. This knowledge allows them to recognize and analyze the influence of design choices on power dynamics.,"6.1850 Computer Systems and Society
+",1,Fall 2023
+Proof-of-work-based systems,Students will learn about the environmental impact of proof-of-work-based systems like Bitcoin. This knowledge helps them understand the sustainability challenges associated with certain computer systems.,"6.1850 Computer Systems and Society
+",1,Fall 2023
+Design decision assessment within an ethical framework,Students will acquire knowledge on how to assess design decisions within an ethical framework. This knowledge enables them to make informed and responsible choices in their future work.,"6.1850 Computer Systems and Society
+",1,Fall 2023
+Comparison and contrast of working systems,Students will learn how to compare and contrast different working systems through case studies and readings. This knowledge helps them understand the strengths and weaknesses of different systems.,"6.1850 Computer Systems and Society
+",1,Fall 2023
+Operating system abstractions,"Students will acquire knowledge about the basic operating system abstractions, such as process management, memory management, and file systems.","6.5810 Operating System Engineering
+",1,Fall 2023
+Virtual memory,Students will learn about virtual memory and its role in managing memory resources in an operating system.,"6.5810 Operating System Engineering
+",1,Fall 2023
+File system design,"Students will gain knowledge about file system design and implementation, including concepts like file organization, directory structures, and file access methods.","6.5810 Operating System Engineering
+",1,Fall 2023
+Thread management,"Students will acquire knowledge about thread management in an operating system, including thread creation, scheduling, and synchronization.","6.5810 Operating System Engineering
+",1,Fall 2023
+Hardware-software interaction,"Students will learn about the coordination and interaction between software and hardware components in an operating system, understanding how the operating system utilizes hardware resources efficiently.","6.5810 Operating System Engineering
+",1,Fall 2023
+Architectural principles for designing heterogeneous networks,Students will acquire knowledge of the principles and best practices for designing networks that consist of different types of devices and technologies.,"6.5820 Computer Networks
+",1,Fall 2023
+Internet routing,Students will learn about the algorithms and protocols used for routing data packets across the Internet.,"6.5820 Computer Networks
+",1,Fall 2023
+Network resource management,"Students will gain knowledge of techniques for efficiently managing network resources, such as bandwidth and storage.","6.5820 Computer Networks
+",1,Fall 2023
+Naming systems,"Students will learn about the various naming systems used in computer networks, such as domain names and IP addresses.","6.5820 Computer Networks
+",1,Fall 2023
+Overlay and peer-to-peer networks,"Students will acquire knowledge of overlay networks and peer-to-peer networks, including their advantages and challenges.","6.5820 Computer Networks
+",1,Fall 2023
+Database design,"Students will learn how to design a database, including data models, schema design, schema normalization, and integrity constraints. This knowledge is essential for creating efficient and well-structured database systems.","6.5830 Database Systems
+",1,Fall 2023
+Database design,"Students will learn how to design a database, including data models, schema design, schema normalization, and integrity constraints. This knowledge is essential for creating efficient and well-structured database systems.","6.5831 Database Systems
+",1,Fall 2023
+Abstractions and implementation techniques for distributed systems,Students will acquire knowledge about various abstractions and implementation techniques used in engineering distributed systems.,"6.5840 Distributed Computer Systems Engineering
+",1,Fall 2023
+Consistency models,Students will learn about different consistency models used in distributed systems and their impact on system behavior and performance.,"6.5840 Distributed Computer Systems Engineering
+",1,Fall 2023
+Security in distributed systems,Students will gain knowledge about security measures and techniques used to protect distributed systems from unauthorized access and attacks.,"6.5840 Distributed Computer Systems Engineering
+",1,Fall 2023
+Current literature in distributed systems,"Students will be exposed to readings from current literature in the field of distributed systems, allowing them to stay updated with the latest advancements and research.","6.5840 Distributed Computer Systems Engineering
+",1,Fall 2023
+Network file systems,"Students will learn about the design and implementation of network file systems, including fault-tolerant and scalable approaches.","6.5840 Distributed Computer Systems Engineering
+",1,Fall 2023
+Computer architecture,"Students will acquire knowledge about the fundamental principles and components of computer systems, including processors, memory, input/output devices, and system organization.","6.5850 Principles of Computer Systems
+",1,Fall 2023
+Distributed systems,"Students will learn about the concepts and principles behind distributed systems, including the challenges of coordinating multiple nodes and achieving fault tolerance.","6.5850 Principles of Computer Systems
+",1,Fall 2023
+Reliability principles and algorithms,Students will gain knowledge about the techniques and algorithms used to ensure the reliability and fault tolerance of computer systems.,"6.5850 Principles of Computer Systems
+",1,Fall 2023
+Naming,Students will learn about naming conventions and systems used in computer networks and distributed systems for identifying and locating resources.,"6.5850 Principles of Computer Systems
+",1,Fall 2023
+Database management,"Students will acquire knowledge about the principles and practices of managing databases, including data modeling, query languages, and transaction management.","6.5850 Principles of Computer Systems
+",1,Fall 2023
+Low-level programming concepts,"Students will acquire knowledge about low-level programming concepts, including the constraints and intricacies involved in manipulating complex data structures.","6.1903 Introduction to Low-level Programming in C and Assembly
+(6.1900)
+",1,Fall 2023
+Memory organization,"Students will learn about memory organization, including how data structures are stored in memory and the role of the stack and heap.","6.1903 Introduction to Low-level Programming in C and Assembly
+(6.1900)
+",1,Fall 2023
+C language features,Students will gain knowledge about the features and syntax of the C programming language.,"6.1903 Introduction to Low-level Programming in C and Assembly
+(6.1900)
+",1,Fall 2023
+Assembly language principles,"Students will learn about assembly language principles, which will provide them with a deeper understanding of how high-level languages are translated to machine-level instructions.","6.1903 Introduction to Low-level Programming in C and Assembly
+(6.1900)
+",1,Fall 2023
+Computational systems,Students will acquire knowledge about modern computational systems and the challenges associated with manipulating complex data structures.,"6.1903 Introduction to Low-level Programming in C and Assembly
+(6.1900)
+",1,Fall 2023
+Low-level programming,Students will acquire knowledge about low-level programming concepts and techniques.,"6.1904 Introduction to Low-level Programming in C and Assembly
+(New)
+",1,Fall 2023
+Memory allocation,Students will learn about memory allocation and how it is managed in low-level programming.,"6.1904 Introduction to Low-level Programming in C and Assembly
+(New)
+",1,Fall 2023
+Data structure storage,Students will gain knowledge about how different data structures are stored in memory in low-level programming.,"6.1904 Introduction to Low-level Programming in C and Assembly
+(New)
+",1,Fall 2023
+Translation process,Students will understand the process of translating high-level languages to machine-level instructions.,"6.1904 Introduction to Low-level Programming in C and Assembly
+(New)
+",1,Fall 2023
+Computational constraints,Students will learn about the constraints involved in manipulating complex data structures in modern computational systems.,"6.1904 Introduction to Low-level Programming in C and Assembly
+(New)
+",1,Fall 2023
+Digital systems design,Students will acquire knowledge of the principles and techniques used in designing digital systems.,"6.1910 Computation Structures
+",1,Fall 2023
+Computer architecture,Students will gain knowledge of the fundamental concepts and components of computer architecture.,"6.1910 Computation Structures
+",1,Fall 2023
+Memory hierarchies,Students will learn about multi-level memory hierarchies and their role in computer systems.,"6.1910 Computation Structures
+",1,Fall 2023
+Virtual memory,Students will understand the concept of virtual memory and its importance in modern computer systems.,"6.1910 Computation Structures
+",1,Fall 2023
+Exceptions and I/O,Students will acquire knowledge of handling exceptions and input/output operations in computer systems.,"6.1910 Computation Structures
+",1,Fall 2023
+Computer Architecture,Students will gain knowledge about the principles and concepts of computer architecture.,"6.1920 Constructive Computer Architecture
+",1,Fall 2023
+Virtual Memory Support,Students will learn about virtual memory and its support in computer architecture.,"6.1920 Constructive Computer Architecture
+",1,Fall 2023
+Cache Coherence,Students will gain knowledge about cache coherence protocols used in multicore architectures.,"6.1920 Constructive Computer Architecture
+",1,Fall 2023
+Multicore Architectures,Students will learn about the design and implementation of multicore architectures.,"6.1920 Constructive Computer Architecture
+",1,Fall 2023
+Interrupts,Students will gain knowledge about interrupt handling in computer architecture.,"6.1920 Constructive Computer Architecture
+",1,Fall 2023
+Computer organization,Students will acquire knowledge about the organization and structure of computer systems.,"6.5900 Computer System Architecture
+",1,Fall 2023
+Hardware design,Students will learn about the design and implementation of computer hardware components.,"6.5900 Computer System Architecture
+",1,Fall 2023
+Programming systems,Students will gain knowledge about programming systems and their role in computer architecture.,"6.5900 Computer System Architecture
+",1,Fall 2023
+Memory management,Students will learn about memory management techniques and strategies used in computer systems.,"6.5900 Computer System Architecture
+",1,Fall 2023
+Performance optimization,Students will acquire knowledge about techniques for optimizing the performance of computer systems.,"6.5900 Computer System Architecture
+",1,Fall 2023
+Robust designs,Students will learn about the principles and techniques for designing robust digital systems.,"6.5910 Complex Digital Systems Design
+",1,Fall 2023
+Reusable modules,Students will gain knowledge on how to design and implement reusable modules in digital systems.,"6.5910 Complex Digital Systems Design
+",1,Fall 2023
+Correctness by construction,Students will learn strategies for ensuring correctness in the design and implementation of digital systems.,"6.5910 Complex Digital Systems Design
+",1,Fall 2023
+Architectural exploration,Students will gain knowledge on how to explore different architectural options for digital systems.,"6.5910 Complex Digital Systems Design
+",1,Fall 2023
+Area and timing constraints,Students will learn about the constraints related to area and timing in the design of digital systems.,"6.5910 Complex Digital Systems Design
+",1,Fall 2023
+Multicore processor design,Students will learn about the design and implementation of multicore processors.,"6.5920 Parallel Computing
+",1,Fall 2023
+Networking applications,Students will gain knowledge about the use of multicore processors in networking applications.,"6.5920 Parallel Computing
+",1,Fall 2023
+Continuum applications,Students will learn about the use of multicore processors in continuum applications.,"6.5920 Parallel Computing
+",1,Fall 2023
+Particle applications,Students will gain knowledge about the use of multicore processors in particle applications.,"6.5920 Parallel Computing
+",1,Fall 2023
+Graph applications,Students will learn about the use of multicore processors in graph applications.,"6.5920 Parallel Computing
+",1,Fall 2023
+Basics of deep learning,Students will acquire knowledge about the fundamental concepts and principles of deep learning.,"6.5930 Hardware Architecture for Deep Learning
+",1,Fall 2023
+Optimization principles for programmable platforms,Students will learn about the principles and techniques for optimizing deep learning algorithms on programmable platforms.,"6.5930 Hardware Architecture for Deep Learning
+",1,Fall 2023
+Design principles of accelerator architectures,Students will gain knowledge about the design principles of accelerator architectures for efficient processing of deep learning algorithms.,"6.5930 Hardware Architecture for Deep Learning
+",1,Fall 2023
+Advanced technologies in hardware,Students will learn about advanced technologies such as memristors and optical computing and their applications in hardware architectures for deep learning.,"6.5930 Hardware Architecture for Deep Learning
+",1,Fall 2023
+Tensor algebra,Students will acquire knowledge about tensor algebra and its relevance to deep learning algorithms.,"6.5930 Hardware Architecture for Deep Learning
+",1,Fall 2023
+Basics of deep learning,Students will acquire knowledge about the fundamental concepts and principles of deep learning.,"6.5931 Hardware Architecture for Deep Learning
+",1,Fall 2023
+Optimization principles for programmable platforms,Students will learn about the principles and techniques for optimizing deep learning algorithms on programmable platforms.,"6.5931 Hardware Architecture for Deep Learning
+",1,Fall 2023
+Advanced technologies in hardware architecture,Students will gain knowledge about advanced technologies such as memristors and optical computing and their use in hardware architectures for deep learning.,"6.5931 Hardware Architecture for Deep Learning
+",1,Fall 2023
+Tensor algebra,Students will learn about tensor algebra and its application in deep learning algorithms.,"6.5931 Hardware Architecture for Deep Learning
+",1,Fall 2023
+Design principles of accelerator architectures,Students will acquire knowledge about the design principles of accelerator architectures for efficient processing of deep learning algorithms.,"6.5931 Hardware Architecture for Deep Learning
+",1,Fall 2023
+Model compression,Students will learn about techniques for reducing the size of deep learning models while maintaining their performance.,"6.5940 TinyML and Efficient Deep Learning Computing
+(New)
+",1,Fall 2023
+Pruning,Students will gain knowledge of pruning methods to remove unnecessary connections or parameters in deep learning models.,"6.5940 TinyML and Efficient Deep Learning Computing
+(New)
+",1,Fall 2023
+Quantization,Students will understand the concept of quantization and its application in reducing the precision of deep learning models.,"6.5940 TinyML and Efficient Deep Learning Computing
+(New)
+",1,Fall 2023
+Neural architecture search,Students will learn about automated methods for discovering optimal neural network architectures.,"6.5940 TinyML and Efficient Deep Learning Computing
+(New)
+",1,Fall 2023
+Application-specific acceleration,"Students will acquire knowledge of techniques for accelerating deep learning applications in specific domains, such as video recognition and point cloud processing.","6.5940 TinyML and Efficient Deep Learning Computing
+(New)
+",1,Fall 2023
+Representations and architectures,Students will learn about different representations and architectures used in building applications and accounting for human intelligence from a computational perspective.,"6.4100 Artificial Intelligence
+",1,Fall 2023
+Problem-solving paradigms,"Students will gain knowledge about various problem-solving paradigms, including rule chaining, constraint propagation, statistical inference, identification trees, neural nets, genetic algorithms, support-vector machines, and boosting.","6.4100 Artificial Intelligence
+",1,Fall 2023
+Human intelligence,Students will learn about the characteristics and factors that differentiate human intelligence from that of other animals.,"6.4100 Artificial Intelligence
+",1,Fall 2023
+Artificial Intelligence,Students will acquire knowledge about the principles and concepts of artificial intelligence.,"6.4102 Artificial Intelligence
+",1,Fall 2023
+Identification trees,Students will learn about identification trees and their use in decision-making and classification.,"6.4102 Artificial Intelligence
+",1,Fall 2023
+Support-vector machines,Students will gain knowledge about support-vector machines and their application in machine learning.,"6.4102 Artificial Intelligence
+",1,Fall 2023
+Boosting,Students will learn about boosting algorithms and their role in improving the performance of machine learning models.,"6.4102 Artificial Intelligence
+",1,Fall 2023
+Computational point of view,Students will develop an understanding of human intelligence from a computational perspective.,"6.4102 Artificial Intelligence
+",1,Fall 2023
+Representation in AI,Students will acquire knowledge about different methods and techniques used for representing knowledge in artificial intelligence.,"6.4110 Representation, Inference, and Reasoning in AI
+",1,Fall 2023
+Algorithms for AI,"Students will learn about various algorithms used in artificial intelligence, such as constraint satisfaction algorithms, Monte Carlo tree search algorithms, and planning algorithms.","6.4110 Representation, Inference, and Reasoning in AI
+",1,Fall 2023
+Constraint satisfaction in AI,Students will gain knowledge about the concept of constraint satisfaction and its application in solving problems in AI.,"6.4110 Representation, Inference, and Reasoning in AI
+",1,Fall 2023
+Logical inference in AI,Students will acquire knowledge about logical reasoning and inference techniques used in artificial intelligence.,"6.4110 Representation, Inference, and Reasoning in AI
+",1,Fall 2023
+Probabilistic modeling in AI,"Students will learn about probabilistic modeling techniques and their application in AI, including probabilistic graphical models.","6.4110 Representation, Inference, and Reasoning in AI
+",1,Fall 2023
+Computational theories of human cognition,Students will gain knowledge about computational theories that aim to explain human cognitive processes.,"6.4120[J] Computational Cognitive Science
+",1,Fall 2023
+Bayesian models,Students will learn about Bayesian models and their use in modeling and reasoning about uncertainty.,"6.4120[J] Computational Cognitive Science
+",1,Fall 2023
+Hierarchical Bayesian models,"Students will acquire knowledge about hierarchical Bayesian models, which allow for modeling complex dependencies and hierarchical structures.","6.4120[J] Computational Cognitive Science
+",1,Fall 2023
+Inductive learning,"Students will learn about principles of inductive learning, which involve generalizing from observed data to make predictions or draw conclusions.","6.4120[J] Computational Cognitive Science
+",1,Fall 2023
+Structured representations,"Students will gain knowledge about probabilistic models defined over structured representations such as first-order logic, grammars, or relational schemas.","6.4120[J] Computational Cognitive Science
+",1,Fall 2023
+Database design,Students will learn how to design databases to effectively store and retrieve information.,"6.4130[J] Principles of Autonomy and Decision Making
+",1,Fall 2023
+Artificial intelligence,Students will gain knowledge of artificial intelligence principles and algorithms used in decision-making processes.,"6.4130[J] Principles of Autonomy and Decision Making
+",1,Fall 2023
+Autonomy and decision making principles,Students will learn about the principles and concepts behind autonomy and decision making in the context of highly autonomous systems.,"6.4132[J] Principles of Autonomy and Decision Making
+",1,Fall 2023
+Artificial intelligence and operations research,"Students will acquire knowledge of models, principles, and algorithms used in artificial intelligence and operations research for decision making.","6.4132[J] Principles of Autonomy and Decision Making
+",1,Fall 2023
+Cognitive robotics,Students will acquire knowledge about the field of cognitive robotics and its applications.,"6.8110[J] Cognitive Robotics
+",1,Fall 2023
+Architectures for goal-directed systems,Students will learn about different architectures used in goal-directed systems for robots.,"6.8110[J] Cognitive Robotics
+",1,Fall 2023
+Risk-bounded programming,Students will gain knowledge about programming techniques that consider risk and safety in robot operations.,"6.8110[J] Cognitive Robotics
+",1,Fall 2023
+Self-monitoring and self-diagnosing systems,Students will learn about systems that can monitor and diagnose themselves for improved performance.,"6.8110[J] Cognitive Robotics
+",1,Fall 2023
+Recent advances in cognitive robots,Students will be exposed to the latest advancements in the field of cognitive robotics.,"6.8110[J] Cognitive Robotics
+",1,Fall 2023
+Sensing,Students will acquire knowledge about different sensing techniques used in robotics and autonomous vehicles.,"6.4200[J] Robotics: Science and Systems
+",1,Fall 2023
+Kinematics and dynamics,Students will learn about the principles of kinematics and dynamics that govern the motion of robots and autonomous vehicles.,"6.4200[J] Robotics: Science and Systems
+",1,Fall 2023
+State estimation,Students will gain knowledge about methods for estimating the state of robots and autonomous vehicles based on sensor measurements.,"6.4200[J] Robotics: Science and Systems
+",1,Fall 2023
+Perception,Students will learn about perception algorithms that enable robots and autonomous vehicles to understand their environment.,"6.4200[J] Robotics: Science and Systems
+",1,Fall 2023
+Control,Students will acquire knowledge about control theory and techniques used to control the motion of robots and autonomous vehicles.,"6.4200[J] Robotics: Science and Systems
+",1,Fall 2023
+Algorithmic approaches for creating robot systems,Students will learn about the fundamental algorithmic approaches used in creating robot systems that can autonomously manipulate physical objects in unstructured environments. This knowledge is selected because it provides the necessary information to understand and apply the concepts taught in the course.,"6.4210 Robotic Manipulation
+",1,Fall 2023
+Algorithmic approaches,Students will acquire knowledge of the fundamental algorithmic approaches used in creating robot systems for autonomous manipulation in unstructured environments.,"6.4212 Robotic Manipulation
+",1,Fall 2023
+Deep learning,Students will learn about deep learning techniques and their application in perception tasks in robotics.,"6.4212 Robotic Manipulation
+",1,Fall 2023
+Machine learning,"Students will acquire knowledge of various machine learning techniques, including reinforcement learning, self-supervised learning, imitation learning, and model-based learning.","6.8200 Sensorimotor Learning
+",1,Fall 2023
+Control systems,Students will learn about control systems and their application in sensorimotor learning.,"6.8200 Sensorimotor Learning
+",1,Fall 2023
+Sensorimotor systems,Students will gain knowledge of the unique challenges and considerations involved in building sensorimotor systems.,"6.8200 Sensorimotor Learning
+",1,Fall 2023
+Learning frameworks,Students will learn how to formulate problems in the learning framework and identify if learning-based control can be applied.,"6.8200 Sensorimotor Learning
+",1,Fall 2023
+Algorithm selection,Students will acquire knowledge of different algorithms and their suitability for solving specific problems in sensorimotor learning.,"6.8200 Sensorimotor Learning
+",1,Fall 2023
+Underactuated mechanical systems,Students will gain knowledge about the characteristics and behavior of underactuated mechanical systems.,"6.8210 Underactuated Robotics
+",1,Fall 2023
+Computational methods in robotics,"Students will learn about the computational methods used in robotics, specifically for analyzing and controlling underactuated systems.","6.8210 Underactuated Robotics
+",1,Fall 2023
+Optimal control theory,Students will acquire knowledge of optimal control theory and its application to underactuated robotics.,"6.8210 Underactuated Robotics
+",1,Fall 2023
+Robust control theory,"Students will learn about robust control theory and its application to underactuated systems, considering uncertainties and disturbances.","6.8210 Underactuated Robotics
+",1,Fall 2023
+Motion planning algorithms,"Students will gain knowledge of various motion planning algorithms used in underactuated robotics, including those for legged locomotion, compliant manipulation, underwater robots, and flying machines.","6.8210 Underactuated Robotics
+",1,Fall 2023
+Computer graphics algorithms,"Students will acquire knowledge of various algorithms used in computer graphics, such as ray tracing, texture mapping, and splines, enabling them to understand and implement these techniques.","6.4400 Computer Graphics
+",1,Fall 2023
+Hardware and software,"Students will gain an understanding of the hardware and software components involved in computer graphics, including graphics cards, rendering engines, and programming languages.","6.4400 Computer Graphics
+",1,Fall 2023
+Transformation,"Students will learn about different types of transformations, such as translation, rotation, and scaling, and how they are applied to manipulate objects in computer graphics.","6.4400 Computer Graphics
+",1,Fall 2023
+Sampling,"Students will learn about sampling techniques used in computer graphics, which involve capturing and representing continuous data in a discrete form.","6.4400 Computer Graphics
+",1,Fall 2023
+Global illumination,"Students will gain knowledge of global illumination techniques, which simulate the interaction of light in a scene to create realistic lighting effects.","6.4400 Computer Graphics
+",1,Fall 2023
+Kinematics,"Students will acquire knowledge of kinematics, which involves the study of motion and the relationships between the positions, velocities, and accelerations of objects.","6.4420[J] Computational Design and Fabrication
+",1,Fall 2023
+Geometry processing,Students will learn about various algorithms and techniques used for processing and manipulating geometric data.,"6.4420[J] Computational Design and Fabrication
+",1,Fall 2023
+Computational fabrication,Students will gain knowledge of computational methods and technologies used in the fabrication of physical objects.,"6.4420[J] Computational Design and Fabrication
+",1,Fall 2023
+Computer graphics,"Students will learn about the principles and techniques of computer graphics, including geometry modeling and solid modeling.","6.4420[J] Computational Design and Fabrication
+",1,Fall 2023
+3D fabrication methods,"Students will acquire knowledge of different methods and technologies used in 3D fabrication, such as subtractive manufacturing and additive manufacturing.","6.4420[J] Computational Design and Fabrication
+",1,Fall 2023
+Geometric data analysis,"Students will acquire knowledge of mathematical, algorithmic, and statistical tools used in analyzing geometric data.","6.8410 Shape Analysis
+",1,Fall 2023
+Computer graphics,Students will learn about the application of geometric techniques in computer graphics.,"6.8410 Shape Analysis
+",1,Fall 2023
+Machine learning,Students will gain knowledge of how geometric techniques can be applied in machine learning.,"6.8410 Shape Analysis
+",1,Fall 2023
+Computer vision,Students will acquire knowledge of how geometric techniques are used in computer vision.,"6.8410 Shape Analysis
+",1,Fall 2023
+Medical imaging,Students will learn about the application of geometric techniques in medical imaging.,"6.8410 Shape Analysis
+",1,Fall 2023
+Computational fabrication,"Students will learn about the principles and techniques used in computational fabrication, including 3D scanning, geometry processing, and 3D fabrication methods.","6.8420 Computational Design and Fabrication
+",1,Fall 2023
+Computer graphics,"Students will gain knowledge of computer graphics concepts and techniques, including geometry modeling, solid modeling, and procedural modeling.","6.8420 Computational Design and Fabrication
+",1,Fall 2023
+Kinematics,Students will learn about the study of motion and the mathematical description of motion in computer-aided design and manufacturing.,"6.8420 Computational Design and Fabrication
+",1,Fall 2023
+3D scanning,Students will learn about the process of capturing the geometry of real-world objects and converting them into digital 3D models.,"6.8420 Computational Design and Fabrication
+",1,Fall 2023
+Solid modeling,"Students will gain knowledge of solid modeling techniques used in computer-aided design and manufacturing, including creating and manipulating solid objects.","6.8420 Computational Design and Fabrication
+",1,Fall 2023
+Interactive Technologies,"Students will learn about various interactive technologies such as multi-touch, augmented reality, haptics, wearables, and shape-changing interfaces.","6.4510 Engineering Interactive Technologies
+",1,Fall 2023
+Engineering Concepts,Students will gain knowledge of the underlying engineering concepts behind interactive technologies.,"6.4510 Engineering Interactive Technologies
+",1,Fall 2023
+Prototyping Techniques,Students will learn different techniques and methodologies for prototyping interactive hardware/software.,"6.4510 Engineering Interactive Technologies
+",1,Fall 2023
+User Experience Design,Students will acquire knowledge of user experience design principles for interactive technologies.,"6.4510 Engineering Interactive Technologies
+",1,Fall 2023
+Project Management,Students will learn the basics of project management in the context of building interactive prototypes.,"6.4510 Engineering Interactive Technologies
+",1,Fall 2023
+Human factors,Students will gain knowledge about human factors and how they influence the design and usability of assistive technologies.,"6.4530[J] Principles and Practice of Assistive Technology
+",1,Fall 2023
+Social and ethical aspects,Students will learn about the social and ethical considerations involved in the development and use of assistive technologies.,"6.4530[J] Principles and Practice of Assistive Technology
+",1,Fall 2023
+Cognitive science,Students will acquire knowledge about cognitive science and its relevance to the design of assistive technologies.,"6.4530[J] Principles and Practice of Assistive Technology
+",1,Fall 2023
+Mechanical engineering,Students will learn about mechanical engineering principles and their application in the development of assistive technologies.,"6.4530[J] Principles and Practice of Assistive Technology
+",1,Fall 2023
+Control systems,Students will gain knowledge about control systems and their role in the functioning of assistive technologies.,"6.4530[J] Principles and Practice of Assistive Technology
+",1,Fall 2023
+Music structure,Students will learn about the structure of music and how it can be applied in creating interactive musical experiences.,"6.4550[J] Interactive Music Systems
+",1,Fall 2023
+Human-computer interaction (HCI),Students will gain knowledge about HCI principles and how they can be applied in designing interactive music systems.,"6.4550[J] Interactive Music Systems
+",1,Fall 2023
+UI (User Interface) design,Students will learn about UI design principles and how to create visually appealing interfaces for interactive music systems.,"6.4550[J] Interactive Music Systems
+",1,Fall 2023
+Visualization techniques,Students will gain knowledge about different visualization techniques that can be used in interactive music systems.,"6.4550[J] Interactive Music Systems
+",1,Fall 2023
+Aesthetics in music,Students will learn about the aesthetic aspects of music and how to incorporate them into interactive music systems.,"6.4550[J] Interactive Music Systems
+",1,Fall 2023
+Video game industry,"Students will gain knowledge about the video game industry, including its history, trends, and current practices.","6.4570[J] Creating Video Games
+",1,Fall 2023
+Game development process,"Students will learn about the various stages of game development, from concept to release, and the different roles involved.","6.4570[J] Creating Video Games
+",1,Fall 2023
+Game mechanics,"Students will acquire knowledge about game mechanics, understanding how they contribute to gameplay and player experience.","6.4570[J] Creating Video Games
+",1,Fall 2023
+Visual arts in games,"Students will learn about the use of visual arts in game development, including character design, environments, and animation.","6.4570[J] Creating Video Games
+",1,Fall 2023
+Music and sound design,"Students will gain knowledge about the role of music and sound design in video games, and how they enhance the player experience.","6.4570[J] Creating Video Games
+",1,Fall 2023
+Computer crime,"Students will acquire knowledge about different types of computer crimes, their impact, and the legal frameworks surrounding them.","6.4590[J] Foundations of Information Policy
+",1,Fall 2023
+Intellectual property restrictions on software,Students will learn about the laws and regulations governing intellectual property rights in the context of software development and distribution.,"6.4590[J] Foundations of Information Policy
+",1,Fall 2023
+Encryption,Students will gain knowledge about encryption techniques and their role in ensuring privacy and security in computer and communications technology.,"6.4590[J] Foundations of Information Policy
+",1,Fall 2023
+Privacy,"Students will acquire knowledge about privacy concerns in the digital age, including the collection, storage, and use of personal data.","6.4590[J] Foundations of Information Policy
+",1,Fall 2023
+Academic freedom and free speech,Students will learn about the legal and ethical issues surrounding academic freedom and free speech in the context of computer and communications technology.,"6.4590[J] Foundations of Information Policy
+",1,Fall 2023
+Speech processing,Students will acquire knowledge about the principles and techniques used in speech processing for intelligent multimodal user interfaces.,"6.8510 Intelligent Multimodal User Interfaces
+",1,Fall 2023
+Computer vision algorithms,Students will learn about different computer vision algorithms and their applications in intelligent multimodal user interfaces.,"6.8510 Intelligent Multimodal User Interfaces
+",1,Fall 2023
+Pen-based interaction design,Students will gain knowledge about the design principles and best practices for pen-based interaction in multimodal user interfaces.,"6.8510 Intelligent Multimodal User Interfaces
+",1,Fall 2023
+Modality integration strategies,Students will understand the different strategies and approaches for integrating multiple modalities in intelligent user interfaces.,"6.8510 Intelligent Multimodal User Interfaces
+",1,Fall 2023
+Literature review,"Students will be exposed to the original literature in the field of intelligent multimodal user interfaces, allowing them to gain knowledge about the current state of research and advancements in the field.","6.8510 Intelligent Multimodal User Interfaces
+",1,Fall 2023
+Graphic design principles,Students will learn about the principles of graphic design and how to apply them in creating visually appealing visualizations.,"6.8530 Interactive Data Visualization
+",1,Fall 2023
+Perceptual psychology,Students will gain knowledge of perceptual psychology to understand how humans perceive and interpret visual information.,"6.8530 Interactive Data Visualization
+",1,Fall 2023
+Cognitive science,Students will learn about cognitive science principles to design visualizations that align with human cognitive abilities.,"6.8530 Interactive Data Visualization
+",1,Fall 2023
+Data analysis techniques,Students will acquire knowledge of various techniques and algorithms used for analyzing and interpreting data.,"6.8530 Interactive Data Visualization
+",1,Fall 2023
+Data visualization techniques,Students will learn different techniques and approaches for visualizing data effectively.,"6.8530 Interactive Data Visualization
+",1,Fall 2023
+Key concepts of biological evolution,"Students will learn about the fundamental concepts of biological evolution, such as adaptive evolution, neutral evolution, and speciation. This knowledge is selected because it provides a foundation for understanding evolutionary biology.","6.4710[J] Evolutionary Biology: Concepts, Models and Computation
+",1,Fall 2023
+Genomic conflict,"Students will gain knowledge about genomic conflict, which refers to conflicts between different parts of a genome. This knowledge is selected because it is relevant to understanding the mechanisms of evolution.","6.4710[J] Evolutionary Biology: Concepts, Models and Computation
+",1,Fall 2023
+Genomics,"Students will acquire knowledge about the structure, function, and evolution of genomes.","6.8700[J] Advanced Computational Biology: Genomes, Networks, Evolution
+",1,Fall 2023
+Biological networks,"Students will learn about the principles and properties of biological networks, including gene regulatory networks and protein-protein interaction networks.","6.8700[J] Advanced Computational Biology: Genomes, Networks, Evolution
+",1,Fall 2023
+Evolutionary biology,Students will gain knowledge about the mechanisms and patterns of evolution.,"6.8700[J] Advanced Computational Biology: Genomes, Networks, Evolution
+",1,Fall 2023
+Statistical analysis,Students will learn statistical methods commonly used in analyzing biological data.,"6.8700[J] Advanced Computational Biology: Genomes, Networks, Evolution
+",1,Fall 2023
+Bioinformatics tools,Students will become familiar with various bioinformatics tools and databases used in computational biology research.,"6.8700[J] Advanced Computational Biology: Genomes, Networks, Evolution
+",1,Fall 2023
+Computational biology,"Students will acquire knowledge about the field of computational biology and its applications in genomics, networks, and evolution.","6.8701 Computational Biology: Genomes, Networks, Evolution
+",1,Fall 2023
+RNA folding,Students will learn about the process of RNA folding and its significance in biological systems.,"6.8701 Computational Biology: Genomes, Networks, Evolution
+",1,Fall 2023
+Regulatory motifs,Students will gain knowledge about regulatory motifs and their role in gene expression regulation.,"6.8701 Computational Biology: Genomes, Networks, Evolution
+",1,Fall 2023
+Comparative genomics,Students will learn about the comparative analysis of genomes to understand evolutionary relationships and genomic variations.,"6.8701 Computational Biology: Genomes, Networks, Evolution
+",1,Fall 2023
+Phylogenetics,Students will acquire knowledge about the construction of evolutionary trees and the inference of ancestral relationships.,"6.8701 Computational Biology: Genomes, Networks, Evolution
+",1,Fall 2023
+Protein-DNA interaction,Students will acquire knowledge about the interaction between proteins and DNA in the context of life sciences.,"6.8710[J] Computational Systems Biology: Deep Learning in the Life Sciences
+",1,Fall 2023
+Chromatin accessibility,Students will learn about chromatin accessibility and its relevance in the life sciences field.,"6.8710[J] Computational Systems Biology: Deep Learning in the Life Sciences
+",1,Fall 2023
+Regulatory variant interpretation,Students will gain knowledge about interpreting regulatory variants and their impact on biological processes.,"6.8710[J] Computational Systems Biology: Deep Learning in the Life Sciences
+",1,Fall 2023
+Medical image understanding,Students will learn about the analysis and interpretation of medical images in the context of life sciences research.,"6.8710[J] Computational Systems Biology: Deep Learning in the Life Sciences
+",1,Fall 2023
+Medical record understanding,Students will acquire knowledge about understanding and analyzing medical records for research purposes.,"6.8710[J] Computational Systems Biology: Deep Learning in the Life Sciences
+",1,Fall 2023
+Protein-DNA interaction,Students will acquire knowledge about the interaction between proteins and DNA in the context of life sciences.,"6.8711[J] Computational Systems Biology: Deep Learning in the Life Sciences
+",1,Fall 2023
+Chromatin accessibility,Students will learn about the accessibility of chromatin and its implications in the life sciences.,"6.8711[J] Computational Systems Biology: Deep Learning in the Life Sciences
+",1,Fall 2023
+Regulatory variant interpretation,Students will gain knowledge about interpreting regulatory variants and their impact on biological processes.,"6.8711[J] Computational Systems Biology: Deep Learning in the Life Sciences
+",1,Fall 2023
+Medical image understanding,Students will acquire knowledge about understanding and analyzing medical images.,"6.8711[J] Computational Systems Biology: Deep Learning in the Life Sciences
+",1,Fall 2023
+Medical record understanding,Students will learn how to interpret and analyze medical records in the context of life sciences research.,"6.8711[J] Computational Systems Biology: Deep Learning in the Life Sciences
+",1,Fall 2023
+Synthetic biology principles,"Students will acquire knowledge of the principles underlying synthetic biology, including the discovery and genetic factoring of useful cellular activities into reusable functions for design.","6.8720[J] Principles of Synthetic Biology
+",1,Fall 2023
+Cellular network characterization,Students will learn about the methods and techniques used to characterize cellular networks in synthetic biology.,"6.8720[J] Principles of Synthetic Biology
+",1,Fall 2023
+Biomolecular system diagnosis,Students will gain knowledge of how to diagnose and evaluate the performance of designed biomolecular systems.,"6.8720[J] Principles of Synthetic Biology
+",1,Fall 2023
+Cutting-edge applications,Students will be exposed to and gain knowledge of the latest applications and advancements in synthetic biology.,"6.8720[J] Principles of Synthetic Biology
+",1,Fall 2023
+Reusable functions,Students will learn about the concept of reusable functions in synthetic biology and how they contribute to the design of biomolecular systems.,"6.8720[J] Principles of Synthetic Biology
+",1,Fall 2023
+Synthetic biology principles,"Students will acquire knowledge of the principles underlying synthetic biology, including the discovery and genetic factoring of useful cellular activities into reusable functions for design.","6.8721[J] Principles of Synthetic Biology
+",1,Fall 2023
+Cellular network characterization,Students will learn about the characterization of cellular networks in synthetic biology.,"6.8721[J] Principles of Synthetic Biology
+",1,Fall 2023
+Biomolecular system diagnosis,Students will gain knowledge of diagnosing designed biomolecular systems in synthetic biology.,"6.8721[J] Principles of Synthetic Biology
+",1,Fall 2023
+Cutting-edge applications,Students will be exposed to and gain knowledge of the latest advancements and applications in synthetic biology.,"6.8721[J] Principles of Synthetic Biology
+",1,Fall 2023
+Reusable functions,Students will learn about the concept of reusable functions in synthetic biology and how they contribute to the design of biomolecular systems.,"6.8721[J] Principles of Synthetic Biology
+",1,Fall 2023
+Human cardiovascular system,"Students will acquire knowledge about the structure and function of the human cardiovascular system, including its role in health and disease.","6.4800[J] Biomedical Systems: Modeling and Inference
+",1,Fall 2023
+Electrocardiograms,Students will learn about the principles and applications of electrocardiograms in the context of health and disease.,"6.4800[J] Biomedical Systems: Modeling and Inference
+",1,Fall 2023
+Medical imaging,"Students will gain knowledge about medical imaging techniques, with a focus on MRI, and their use in clinical decision making.","6.4800[J] Biomedical Systems: Modeling and Inference
+",1,Fall 2023
+Image reconstruction,"Students will learn about the process of reconstructing images from medical imaging data, including the algorithms and techniques involved.","6.4800[J] Biomedical Systems: Modeling and Inference
+",1,Fall 2023
+Image analysis,Students will acquire knowledge about analyzing medical images to extract relevant information and make inferences.,"6.4800[J] Biomedical Systems: Modeling and Inference
+",1,Fall 2023
+Mass transport,"Students will learn about the different mechanisms of mass transport through cell membranes, including diffusion, osmosis, chemically mediated transport, and active transport.","6.4810[J] Cellular Neurophysiology and Computing
+",1,Fall 2023
+Electrical properties of cells,"Students will acquire knowledge about the electrical properties of cells, including ion transport, action potential generation, and propagation in electrically excitable cells.","6.4810[J] Cellular Neurophysiology and Computing
+",1,Fall 2023
+Synaptic transmission,Students will learn about the process of synaptic transmission and its role in cellular neurophysiology.,"6.4810[J] Cellular Neurophysiology and Computing
+",1,Fall 2023
+Mass transport,"Students will learn about the mechanisms and processes of mass transport through cell membranes, including diffusion, osmosis, and active transport.","6.4812[J] Cellular Neurophysiology and Computing
+",1,Fall 2023
+Electrical properties of cells,"Students will acquire knowledge about the electrical properties of cells, including ion transport, action potential generation, and propagation in electrically excitable cells.","6.4812[J] Cellular Neurophysiology and Computing
+",1,Fall 2023
+Synaptic transmission,Students will learn about the process of synaptic transmission and the mechanisms involved in transmitting signals between neurons.,"6.4812[J] Cellular Neurophysiology and Computing
+",1,Fall 2023
+Biophysics of cells,"Students will gain knowledge about the biophysical properties of cells, from prokaryotes to neurons, and how these properties contribute to cellular function.","6.4812[J] Cellular Neurophysiology and Computing
+",1,Fall 2023
+Computational modeling,Students will learn about the principles and techniques of computational modeling in the context of neural systems.,"6.4812[J] Cellular Neurophysiology and Computing
+",1,Fall 2023
+Principles of energy and mass flow,Students will gain knowledge of the fundamental principles governing energy and mass flow in human organ systems.,"6.4820[J] Quantitative and Clinical Physiology
+",1,Fall 2023
+Anatomical and physiological features,"Students will learn about the anatomical and physiological characteristics of the cardiovascular, respiratory, and renal systems.","6.4820[J] Quantitative and Clinical Physiology
+",1,Fall 2023
+Clinical features,"Students will acquire knowledge of the clinical aspects and implications of the cardiovascular, respiratory, and renal systems.","6.4820[J] Quantitative and Clinical Physiology
+",1,Fall 2023
+Principles of energy and mass flow,Students will gain knowledge of the principles governing energy and mass flow in major human organ systems.,"6.4822[J] Quantitative Physiology: Organ Transport Systems
+",1,Fall 2023
+Anatomical and physiological features,"Students will learn about the anatomical and physiological features of the cardiovascular, respiratory, and renal systems.","6.4822[J] Quantitative Physiology: Organ Transport Systems
+",1,Fall 2023
+Maxwell's equations,Students will gain knowledge of Maxwell's equations and their application in understanding electric fields and fluid flows in biological systems.,"6.4830[J] Fields, Forces and Flows in Biological Systems
+",1,Fall 2023
+Conservation laws,Students will learn about the principles of conservation of mass and momentum and how they apply to biological systems.,"6.4830[J] Fields, Forces and Flows in Biological Systems
+",1,Fall 2023
+Biological systems,Students will gain knowledge about the structure and function of biological systems.,"6.4832[J] Fields, Forces, and Flows in Biological Systems
+",1,Fall 2023
+Transport phenomena,Students will learn about the principles and mechanisms of transport phenomena in biological systems.,"6.4832[J] Fields, Forces, and Flows in Biological Systems
+",1,Fall 2023
+Electromechanical interactions,Students will acquire knowledge about the electromechanical interactions in cells and biomaterials.,"6.4832[J] Fields, Forces, and Flows in Biological Systems
+",1,Fall 2023
+Fluid dynamics,Students will learn about the principles of fluid dynamics and their application to biological systems.,"6.4832[J] Fields, Forces, and Flows in Biological Systems
+",1,Fall 2023
+Molecular diffusion,Students will gain knowledge about molecular diffusion and its role in biological processes.,"6.4832[J] Fields, Forces, and Flows in Biological Systems
+",1,Fall 2023
+Structure of tissues,"Students will acquire knowledge about the organization and composition of different types of tissues in the human body, which is essential for understanding their mechanical behavior.","6.4840[J] Molecular, Cellular, and Tissue Biomechanics
+",1,Fall 2023
+Molecular basis for macroscopic properties,"Students will learn about the relationship between molecular structures and the macroscopic mechanical properties of biological materials, providing a foundation for studying biomechanics.","6.4840[J] Molecular, Cellular, and Tissue Biomechanics
+",1,Fall 2023
+Chemical and electrical effects on mechanical behavior,"Students will gain knowledge about how chemical and electrical factors influence the mechanical behavior of biological systems, allowing them to analyze and predict their responses to external stimuli.","6.4840[J] Molecular, Cellular, and Tissue Biomechanics
+",1,Fall 2023
+"Cell mechanics, motility, and adhesion","Students will develop an understanding of the mechanical properties and behaviors of cells, including their ability to move, adhere to surfaces, and respond to mechanical forces.","6.4840[J] Molecular, Cellular, and Tissue Biomechanics
+",1,Fall 2023
+Biomembranes and biomolecular mechanics,"Students will learn about the mechanical properties and functions of biomembranes and biomolecules, such as proteins and nucleic acids, in the context of biomechanics.","6.4840[J] Molecular, Cellular, and Tissue Biomechanics
+",1,Fall 2023
+Structure of tissues,"Students will learn about the structure of tissues in biological systems, which involves acquiring knowledge about the different types of tissues and their organization.","6.4842[J] Molecular, Cellular, and Tissue Biomechanics
+",1,Fall 2023
+Chemical and electrical effects on mechanical behavior,"Students will gain knowledge about the effects of chemical and electrical factors on the mechanical behavior of biological systems, which involves understanding the underlying principles and mechanisms.","6.4842[J] Molecular, Cellular, and Tissue Biomechanics
+",1,Fall 2023
+"Cell mechanics, motility, and adhesion","Students will acquire knowledge about the mechanics, motility, and adhesion of cells, which involves understanding the cellular processes and interactions that contribute to biomechanical phenomena.","6.4842[J] Molecular, Cellular, and Tissue Biomechanics
+",1,Fall 2023
+Biomembranes,"Students will learn about biomembranes and their role in biomechanics, which involves understanding the structure, properties, and functions of biological membranes.","6.4842[J] Molecular, Cellular, and Tissue Biomechanics
+",1,Fall 2023
+Molecular motors,"Students will gain knowledge about molecular motors and their significance in biomechanics, which involves understanding the mechanisms and functions of these molecular machines.","6.4842[J] Molecular, Cellular, and Tissue Biomechanics
+",1,Fall 2023
+Medical device design,Students will acquire knowledge about the principles and practices of designing medical devices.,"6.4860[J] Medical Device Design
+",1,Fall 2023
+Design process,Students will learn about the systematic approach to designing and developing medical devices.,"6.4860[J] Medical Device Design
+",1,Fall 2023
+Clinical challenges,Students will gain knowledge about real-world clinical challenges faced in the field of medical device design.,"6.4860[J] Medical Device Design
+",1,Fall 2023
+Fundamentals of mechanical engineering,Students will acquire foundational knowledge in mechanical engineering principles relevant to medical device design.,"6.4860[J] Medical Device Design
+",1,Fall 2023
+Fundamentals of electrical engineering,Students will learn the basic principles of electrical engineering as applied to medical device design.,"6.4860[J] Medical Device Design
+",1,Fall 2023
+Medical device design,Students will gain knowledge about the principles and practices involved in designing medical devices.,"6.4861[J] Medical Device Design
+",1,Fall 2023
+Mechanical fundamentals,Students will learn the fundamental concepts and principles of mechanical engineering relevant to medical device design.,"6.4861[J] Medical Device Design
+",1,Fall 2023
+Electrical fundamentals,Students will acquire knowledge of electrical engineering principles and concepts applicable to medical device design.,"6.4861[J] Medical Device Design
+",1,Fall 2023
+Circuit design principles,Students will learn about the principles and techniques of circuit design for medical devices.,"6.4861[J] Medical Device Design
+",1,Fall 2023
+Sensor technology,Students will gain knowledge about different types of sensors used in medical devices and their applications.,"6.4861[J] Medical Device Design
+",1,Fall 2023
+Synthetic biology,"Students will acquire knowledge about the principles, concepts, and techniques used in the field of synthetic biology.","6.4880[J] Biological Circuit Engineering Laboratory
+",1,Fall 2023
+Gene assembly,Students will learn about the process of assembling individual genes and regulatory elements into larger-scale circuits.,"6.4880[J] Biological Circuit Engineering Laboratory
+",1,Fall 2023
+Quantitative techniques,"Students will gain knowledge about quantitative techniques used in synthetic biology research, such as flow cytometry.","6.4880[J] Biological Circuit Engineering Laboratory
+",1,Fall 2023
+Computational modeling,Students will acquire knowledge about computational modeling and its application in synthetic biology research.,"6.4880[J] Biological Circuit Engineering Laboratory
+",1,Fall 2023
+Current research,Students will learn about ongoing research in the field of synthetic biology through the analysis of current literature.,"6.4880[J] Biological Circuit Engineering Laboratory
+",1,Fall 2023
+Signal characterization and modeling,Students will acquire knowledge about the physical characterization and modeling of systems in the time and frequency domains.,"6.4900 Introduction to EECS via Medical Technology
+",1,Fall 2023
+Analog and digital signals,Students will learn about analog and digital signals and their properties.,"6.4900 Introduction to EECS via Medical Technology
+",1,Fall 2023
+Machine vision,Students will gain knowledge about introductory machine vision techniques.,"6.4900 Introduction to EECS via Medical Technology
+",1,Fall 2023
+Biomedical technology,Students will learn about the application of technology in the field of medicine.,"6.4900 Introduction to EECS via Medical Technology
+",1,Fall 2023
+Experimental methodology,Students will acquire knowledge about experimental design and methodology in the context of medical technology.,"6.4900 Introduction to EECS via Medical Technology
+",1,Fall 2023
+Biomedical research,Students will acquire knowledge about the fundamentals of digital signal processing in the context of biomedical research.,"6.8800[J] Biomedical Signal and Image Processing
+",1,Fall 2023
+Clinical medicine,"Students will learn how digital signal processing is applied in clinical medicine for tasks such as cardiology, speech processing, and medical imaging.","6.8800[J] Biomedical Signal and Image Processing
+",1,Fall 2023
+Biomedical research,Students will gain knowledge about the fundamentals of biomedical research and its applications in clinical medicine.,"6.8801[J] Biomedical Signal and Image Processing
+",1,Fall 2023
+Data acquisition,Students will learn about the methods and techniques used for acquiring physiological data.,"6.8801[J] Biomedical Signal and Image Processing
+",1,Fall 2023
+Imaging,Students will acquire knowledge about different imaging techniques used in biomedical signal processing.,"6.8801[J] Biomedical Signal and Image Processing
+",1,Fall 2023
+Filtering,Students will learn about various filtering techniques used to remove noise and artifacts from biomedical signals.,"6.8801[J] Biomedical Signal and Image Processing
+",1,Fall 2023
+Signal coding,Students will gain knowledge about coding techniques used to compress and represent biomedical signals efficiently.,"6.8801[J] Biomedical Signal and Image Processing
+",1,Fall 2023
+MR physics,Students will acquire knowledge of the physics principles underlying magnetic resonance imaging.,"6.8810[J] Data Acquisition and Image Reconstruction in MRI
+",1,Fall 2023
+Signal analysis,Students will learn about the analysis of signals and noise in linear systems in the context of MRI.,"6.8810[J] Data Acquisition and Image Reconstruction in MRI
+",1,Fall 2023
+Sampling theory,Students will gain knowledge of sampling theory and its application in MRI.,"6.8810[J] Data Acquisition and Image Reconstruction in MRI
+",1,Fall 2023
+Hardware imperfections,Students will learn about the impact of hardware imperfections on reconstruction performance in MRI.,"6.8810[J] Data Acquisition and Image Reconstruction in MRI
+",1,Fall 2023
+Active areas of MR research,Students will be exposed to current research topics and advancements in the field of MRI.,"6.8810[J] Data Acquisition and Image Reconstruction in MRI
+",1,Fall 2023
+Physiological knowledge,Students will acquire knowledge about the current physiological understanding of the human auditory system.,"6.8830[J] Signal Processing by the Auditory System: Perception
+",1,Fall 2023
+Auditory system organization,Students will learn about the tono-topic organization of the auditory system.,"6.8830[J] Signal Processing by the Auditory System: Perception
+",1,Fall 2023
+Psychophysical relations,Students will gain knowledge about the quantitative relationships between behavior and physiological transformations in the auditory system.,"6.8830[J] Signal Processing by the Auditory System: Perception
+",1,Fall 2023
+Signal processing,Students will learn about signal processing techniques used in the auditory system.,"6.8830[J] Signal Processing by the Auditory System: Perception
+",1,Fall 2023
+Auditory behavior,Students will acquire knowledge about the behavior of the auditory system and how it relates to information processing.,"6.8830[J] Signal Processing by the Auditory System: Perception
+",1,Fall 2023
+Image representations,Students will learn about different representations of images and their advantages and limitations.,"6.8300 Advances in Computer Vision
+",1,Fall 2023
+Bayesian techniques,Students will gain knowledge of Bayesian inference and its application in computer vision.,"6.8300 Advances in Computer Vision
+",1,Fall 2023
+Texture models,Students will learn about modeling and analyzing textures in images.,"6.8300 Advances in Computer Vision
+",1,Fall 2023
+Shape modeling,Students will acquire knowledge of techniques for representing and analyzing shapes in computer vision.,"6.8300 Advances in Computer Vision
+",1,Fall 2023
+Human-computer interface,Students will learn about the principles and techniques of designing interactive systems for human-computer interaction.,"6.8300 Advances in Computer Vision
+",1,Fall 2023
+Image representations,Students will learn about different methods and algorithms for representing images in computer vision.,"6.8301 Advances in Computer Vision
+",1,Fall 2023
+Texture models,Students will gain knowledge about modeling and analyzing textures in images.,"6.8301 Advances in Computer Vision
+",1,Fall 2023
+Bayesian techniques,Students will learn about the principles and applications of Bayesian inference in computer vision.,"6.8301 Advances in Computer Vision
+",1,Fall 2023
+Structure-from-motion algorithms,Students will acquire knowledge about algorithms for reconstructing 3D scenes from 2D images.,"6.8301 Advances in Computer Vision
+",1,Fall 2023
+Photorealistic rendering,Students will learn about techniques for generating realistic images in computer graphics.,"6.8301 Advances in Computer Vision
+",1,Fall 2023
+Advanced computer vision techniques,"Students will acquire knowledge of advanced techniques used in computer vision research, such as computational imaging and multimodal human-computer interaction.","6.8320 Advanced Topics in Computer Vision
+",1,Fall 2023
+Learning in vision,Students will learn about different learning algorithms and methods used in computer vision applications.,"6.8320 Advanced Topics in Computer Vision
+",1,Fall 2023
+Biomedical imaging,Students will gain knowledge of imaging techniques used in the field of biomedicine and their applications in computer vision.,"6.8320 Advanced Topics in Computer Vision
+",1,Fall 2023
+Representation and estimation methods,Students will learn about various methods and algorithms used for representing and estimating objects and scenes in computer vision.,"6.8320 Advanced Topics in Computer Vision
+",1,Fall 2023
+Research methodologies,Students will acquire knowledge of different research methodologies and experimental design principles used in computer vision research.,"6.8320 Advanced Topics in Computer Vision
+",1,Fall 2023
+Cameras and image formation,Students will acquire knowledge about the principles and mechanisms behind camera operation and image formation.,"6.8370 Advanced Computational Photography
+",1,Fall 2023
+Human visual perception and color,Students will learn about the human visual system and how it perceives color.,"6.8370 Advanced Computational Photography
+",1,Fall 2023
+High-dynamic-range imaging,Students will understand the concept and techniques of capturing and displaying images with a wide dynamic range.,"6.8370 Advanced Computational Photography
+",1,Fall 2023
+Morphing,Students will gain knowledge about the process of smoothly transforming one image into another.,"6.8370 Advanced Computational Photography
+",1,Fall 2023
+Hardware and software techniques,Students will learn about the various hardware and software methods used in digital and computational photography.,"6.8370 Advanced Computational Photography
+",1,Fall 2023
+Cameras and image formation,Students will acquire knowledge about the principles and mechanisms behind camera operation and image formation.,"6.8371 Digital and Computational Photography
+",1,Fall 2023
+Human visual perception and color,Students will learn about the human visual system and how it perceives color.,"6.8371 Digital and Computational Photography
+",1,Fall 2023
+Single view 3-D model reconstruction,Students will gain knowledge about reconstructing three-dimensional models from a single image.,"6.8371 Digital and Computational Photography
+",1,Fall 2023
+High-dynamic-range imaging,Students will learn about techniques for capturing and displaying a wide range of brightness levels in an image.,"6.8371 Digital and Computational Photography
+",1,Fall 2023
+Super-resolution,Students will acquire knowledge about methods for enhancing the resolution and details of an image.,"6.8371 Digital and Computational Photography
+",1,Fall 2023
+Computational linguistics,"Students will acquire knowledge about the field of computational linguistics, which combines linguistics and computer science to study human language from a computational perspective.","6.8610 Quantitative Methods for Natural Language Processing
+",1,Fall 2023
+Syntactic and semantic processing models,Students will learn about different models and techniques used for syntactic and semantic processing of natural language.,"6.8610 Quantitative Methods for Natural Language Processing
+",1,Fall 2023
+Discourse processing,"Students will gain knowledge about discourse analysis and processing, which involves understanding the structure and coherence of written or spoken texts.","6.8610 Quantitative Methods for Natural Language Processing
+",1,Fall 2023
+Natural language understanding,Students will learn about methods and algorithms for understanding the meaning and intent behind natural language expressions.,"6.8610 Quantitative Methods for Natural Language Processing
+",1,Fall 2023
+Natural language generation,Students will acquire knowledge about techniques for generating coherent and contextually appropriate natural language responses.,"6.8610 Quantitative Methods for Natural Language Processing
+",1,Fall 2023
+Computational linguistics,"Students will acquire knowledge about the study of human language from a computational perspective, including syntactic, semantic, and discourse processing models.","6.8611 Quantitative Methods for Natural Language Processing
+",1,Fall 2023
+Information extraction,"Students will learn about techniques and methods for extracting structured information from unstructured text, an important aspect of natural language processing.","6.8611 Quantitative Methods for Natural Language Processing
+",1,Fall 2023
+Acoustic Theory of Speech Production,Students will acquire knowledge about the principles and mechanisms of speech production.,"6.8620[J] Spoken Language Processing
+",1,Fall 2023
+Acoustic-Phonetics,Students will learn about the relationship between acoustic properties of speech sounds and phonetic features.,"6.8620[J] Spoken Language Processing
+",1,Fall 2023
+Computer representation of knowledge,Students will learn about the different ways in which knowledge can be represented in a computer system.,"6.8630[J] Natural Language and the Computer Representation of Knowledge
+",1,Fall 2023
+Human language acquisition,Students will gain knowledge about the process of acquiring human language and its relationship to computational intelligence.,"6.8630[J] Natural Language and the Computer Representation of Knowledge
+",1,Fall 2023
