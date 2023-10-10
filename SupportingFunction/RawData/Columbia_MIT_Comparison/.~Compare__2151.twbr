@@ -1,0 +1,557 @@
+<?xml version='1.0' encoding='utf-8' ?>
+
+<!-- build 20232.23.0909.1159                               -->
+<workbook original-version='18.1' source-build='2023.2.2 (20232.23.0909.1159)' source-platform='mac' version='18.1' xmlns:user='http://www.tableausoftware.com/xml/user'>
+  <document-format-change-manifest>
+    <_.fcp.AnimationOnByDefault.true...AnimationOnByDefault />
+    <IntuitiveSorting />
+    <IntuitiveSorting_SP2 />
+    <_.fcp.MarkAnimation.true...MarkAnimation />
+    <_.fcp.ObjectModelEncapsulateLegacy.true...ObjectModelEncapsulateLegacy />
+    <_.fcp.ObjectModelTableType.true...ObjectModelTableType />
+    <_.fcp.SchemaViewerObjectModel.true...SchemaViewerObjectModel />
+    <SheetIdentifierTracking />
+    <WindowsPersistSimpleIdentifiers />
+  </document-format-change-manifest>
+  <preferences>
+    <preference name='ui.encoding.shelf.height' value='24' />
+    <preference name='ui.shelf.height' value='26' />
+  </preferences>
+  <_.fcp.AnimationOnByDefault.false...style>
+    <_.fcp.AnimationOnByDefault.false..._.fcp.MarkAnimation.true...style-rule element='animation'>
+      <_.fcp.AnimationOnByDefault.false...format attr='animation-on' value='ao-on' />
+    </_.fcp.AnimationOnByDefault.false..._.fcp.MarkAnimation.true...style-rule>
+  </_.fcp.AnimationOnByDefault.false...style>
+  <datasources>
+    <datasource caption='comparison' inline='true' name='federated.1bkcods03kks64184j0po1g5hfeh' version='18.1'>
+      <connection class='federated'>
+        <named-connections>
+          <named-connection caption='comparison' name='textscan.0mxueq514td6uk1gborz50dz9scr'>
+            <connection class='textscan' directory='/Users/vinayakkannan/Desktop/INfACT/Script/SupportingFunction/RawData/Columbia_MIT_Comparison' filename='comparison.csv' password='' server='' />
+          </named-connection>
+        </named-connections>
+        <_.fcp.ObjectModelEncapsulateLegacy.false...relation connection='textscan.0mxueq514td6uk1gborz50dz9scr' name='comparison.csv' table='[comparison#csv]' type='table'>
+          <columns character-set='UTF-8' header='yes' locale='en_US' separator=','>
+            <column datatype='string' name='Skill_columbia' ordinal='0' />
+            <column datatype='string' name='Explanation_columbia' ordinal='1' />
+            <column datatype='string' name='Related Course_columbia' ordinal='2' />
+            <column datatype='real' name='Credits_columbia' ordinal='3' />
+            <column datatype='string' name='Semester_columbia' ordinal='4' />
+            <column datatype='string' name='Collapsed Skill' ordinal='5' />
+            <column datatype='string' name='Skill_mit' ordinal='6' />
+            <column datatype='string' name='Explanation_mit' ordinal='7' />
+            <column datatype='string' name='Related Course_mit' ordinal='8' />
+            <column datatype='real' name='Credits_mit' ordinal='9' />
+            <column datatype='string' name='Semester_mit' ordinal='10' />
+          </columns>
+        </_.fcp.ObjectModelEncapsulateLegacy.false...relation>
+        <_.fcp.ObjectModelEncapsulateLegacy.true...relation connection='textscan.0mxueq514td6uk1gborz50dz9scr' name='comparison.csv' table='[comparison#csv]' type='table'>
+          <columns character-set='UTF-8' header='yes' locale='en_US' separator=','>
+            <column datatype='string' name='Skill_columbia' ordinal='0' />
+            <column datatype='string' name='Explanation_columbia' ordinal='1' />
+            <column datatype='string' name='Related Course_columbia' ordinal='2' />
+            <column datatype='real' name='Credits_columbia' ordinal='3' />
+            <column datatype='string' name='Semester_columbia' ordinal='4' />
+            <column datatype='string' name='Collapsed Skill' ordinal='5' />
+            <column datatype='string' name='Skill_mit' ordinal='6' />
+            <column datatype='string' name='Explanation_mit' ordinal='7' />
+            <column datatype='string' name='Related Course_mit' ordinal='8' />
+            <column datatype='real' name='Credits_mit' ordinal='9' />
+            <column datatype='string' name='Semester_mit' ordinal='10' />
+          </columns>
+        </_.fcp.ObjectModelEncapsulateLegacy.true...relation>
+        <metadata-records>
+          <metadata-record class='capability'>
+            <remote-name />
+            <remote-type>0</remote-type>
+            <parent-name>[comparison.csv]</parent-name>
+            <remote-alias />
+            <aggregation>Count</aggregation>
+            <contains-null>true</contains-null>
+            <attributes>
+              <attribute datatype='string' name='character-set'>&quot;UTF-8&quot;</attribute>
+              <attribute datatype='string' name='collation'>&quot;en_US&quot;</attribute>
+              <attribute datatype='string' name='field-delimiter'>&quot;,&quot;</attribute>
+              <attribute datatype='string' name='header-row'>&quot;true&quot;</attribute>
+              <attribute datatype='string' name='locale'>&quot;en_US&quot;</attribute>
+              <attribute datatype='string' name='single-char'>&quot;&quot;</attribute>
+            </attributes>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>Skill_columbia</remote-name>
+            <remote-type>129</remote-type>
+            <local-name>[Skill_columbia]</local-name>
+            <parent-name>[comparison.csv]</parent-name>
+            <remote-alias>Skill_columbia</remote-alias>
+            <ordinal>0</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <scale>1</scale>
+            <width>1073741823</width>
+            <contains-null>true</contains-null>
+            <collation flag='0' name='LEN_RUS' />
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[comparison.csv_770719D859C141199289CD66CF91406C]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>Explanation_columbia</remote-name>
+            <remote-type>129</remote-type>
+            <local-name>[Explanation_columbia]</local-name>
+            <parent-name>[comparison.csv]</parent-name>
+            <remote-alias>Explanation_columbia</remote-alias>
+            <ordinal>1</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <scale>1</scale>
+            <width>1073741823</width>
+            <contains-null>true</contains-null>
+            <collation flag='0' name='LEN_RUS' />
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[comparison.csv_770719D859C141199289CD66CF91406C]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>Related Course_columbia</remote-name>
+            <remote-type>129</remote-type>
+            <local-name>[Related Course_columbia]</local-name>
+            <parent-name>[comparison.csv]</parent-name>
+            <remote-alias>Related Course_columbia</remote-alias>
+            <ordinal>2</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <scale>1</scale>
+            <width>1073741823</width>
+            <contains-null>true</contains-null>
+            <collation flag='0' name='LEN_RUS' />
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[comparison.csv_770719D859C141199289CD66CF91406C]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>Credits_columbia</remote-name>
+            <remote-type>5</remote-type>
+            <local-name>[Credits_columbia]</local-name>
+            <parent-name>[comparison.csv]</parent-name>
+            <remote-alias>Credits_columbia</remote-alias>
+            <ordinal>3</ordinal>
+            <local-type>real</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[comparison.csv_770719D859C141199289CD66CF91406C]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>Semester_columbia</remote-name>
+            <remote-type>129</remote-type>
+            <local-name>[Semester_columbia]</local-name>
+            <parent-name>[comparison.csv]</parent-name>
+            <remote-alias>Semester_columbia</remote-alias>
+            <ordinal>4</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <approx-count>1</approx-count>
+            <scale>1</scale>
+            <width>1073741823</width>
+            <contains-null>true</contains-null>
+            <collation flag='0' name='LEN_RUS' />
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[comparison.csv_770719D859C141199289CD66CF91406C]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>Collapsed Skill</remote-name>
+            <remote-type>129</remote-type>
+            <local-name>[Collapsed Skill]</local-name>
+            <parent-name>[comparison.csv]</parent-name>
+            <remote-alias>Collapsed Skill</remote-alias>
+            <ordinal>5</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <scale>1</scale>
+            <width>1073741823</width>
+            <contains-null>true</contains-null>
+            <collation flag='0' name='LEN_RUS' />
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[comparison.csv_770719D859C141199289CD66CF91406C]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>Skill_mit</remote-name>
+            <remote-type>129</remote-type>
+            <local-name>[Skill_mit]</local-name>
+            <parent-name>[comparison.csv]</parent-name>
+            <remote-alias>Skill_mit</remote-alias>
+            <ordinal>6</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <scale>1</scale>
+            <width>1073741823</width>
+            <contains-null>true</contains-null>
+            <collation flag='0' name='LEN_RUS' />
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[comparison.csv_770719D859C141199289CD66CF91406C]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>Explanation_mit</remote-name>
+            <remote-type>129</remote-type>
+            <local-name>[Explanation_mit]</local-name>
+            <parent-name>[comparison.csv]</parent-name>
+            <remote-alias>Explanation_mit</remote-alias>
+            <ordinal>7</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <scale>1</scale>
+            <width>1073741823</width>
+            <contains-null>true</contains-null>
+            <collation flag='0' name='LEN_RUS' />
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[comparison.csv_770719D859C141199289CD66CF91406C]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>Related Course_mit</remote-name>
+            <remote-type>129</remote-type>
+            <local-name>[Related Course_mit]</local-name>
+            <parent-name>[comparison.csv]</parent-name>
+            <remote-alias>Related Course_mit</remote-alias>
+            <ordinal>8</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <scale>1</scale>
+            <width>1073741823</width>
+            <contains-null>true</contains-null>
+            <collation flag='0' name='LEN_RUS' />
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[comparison.csv_770719D859C141199289CD66CF91406C]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>Credits_mit</remote-name>
+            <remote-type>5</remote-type>
+            <local-name>[Credits_mit]</local-name>
+            <parent-name>[comparison.csv]</parent-name>
+            <remote-alias>Credits_mit</remote-alias>
+            <ordinal>9</ordinal>
+            <local-type>real</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[comparison.csv_770719D859C141199289CD66CF91406C]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>Semester_mit</remote-name>
+            <remote-type>129</remote-type>
+            <local-name>[Semester_mit]</local-name>
+            <parent-name>[comparison.csv]</parent-name>
+            <remote-alias>Semester_mit</remote-alias>
+            <ordinal>10</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <scale>1</scale>
+            <width>1073741823</width>
+            <contains-null>true</contains-null>
+            <collation flag='0' name='LEN_RUS' />
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[comparison.csv_770719D859C141199289CD66CF91406C]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+        </metadata-records>
+      </connection>
+      <aliases enabled='yes' />
+      <column caption='Credits columbia' datatype='real' name='[Credits_columbia]' role='measure' type='quantitative' />
+      <column caption='Credits mit' datatype='real' name='[Credits_mit]' role='measure' type='quantitative' />
+      <column caption='Explanation columbia' datatype='string' name='[Explanation_columbia]' role='dimension' type='nominal' />
+      <column caption='Explanation mit' datatype='string' name='[Explanation_mit]' role='dimension' type='nominal' />
+      <column caption='Related Course columbia' datatype='string' name='[Related Course_columbia]' role='dimension' type='nominal' />
+      <column caption='Related Course mit' datatype='string' name='[Related Course_mit]' role='dimension' type='nominal' />
+      <column caption='Semester columbia' datatype='string' name='[Semester_columbia]' role='dimension' type='nominal' />
+      <column caption='Semester mit' datatype='string' name='[Semester_mit]' role='dimension' type='nominal' />
+      <column caption='Skill columbia' datatype='string' name='[Skill_columbia]' role='dimension' type='nominal' />
+      <column caption='Skill mit' datatype='string' name='[Skill_mit]' role='dimension' type='nominal' />
+      <_.fcp.ObjectModelTableType.true...column caption='comparison.csv' datatype='table' name='[__tableau_internal_object_id__].[comparison.csv_770719D859C141199289CD66CF91406C]' role='measure' type='quantitative' />
+      <layout _.fcp.SchemaViewerObjectModel.false...dim-percentage='0.5' _.fcp.SchemaViewerObjectModel.false...measure-percentage='0.4' dim-ordering='alphabetic' measure-ordering='alphabetic' rowDisplayCount='5000' show-structure='true' />
+      <semantic-values>
+        <semantic-value key='[Country].[Name]' value='&quot;United States&quot;' />
+      </semantic-values>
+      <_.fcp.ObjectModelEncapsulateLegacy.true...object-graph>
+        <objects>
+          <object caption='comparison.csv' id='comparison.csv_770719D859C141199289CD66CF91406C'>
+            <properties context=''>
+              <relation connection='textscan.0mxueq514td6uk1gborz50dz9scr' name='comparison.csv' table='[comparison#csv]' type='table'>
+                <columns character-set='UTF-8' header='yes' locale='en_US' separator=','>
+                  <column datatype='string' name='Skill_columbia' ordinal='0' />
+                  <column datatype='string' name='Explanation_columbia' ordinal='1' />
+                  <column datatype='string' name='Related Course_columbia' ordinal='2' />
+                  <column datatype='real' name='Credits_columbia' ordinal='3' />
+                  <column datatype='string' name='Semester_columbia' ordinal='4' />
+                  <column datatype='string' name='Collapsed Skill' ordinal='5' />
+                  <column datatype='string' name='Skill_mit' ordinal='6' />
+                  <column datatype='string' name='Explanation_mit' ordinal='7' />
+                  <column datatype='string' name='Related Course_mit' ordinal='8' />
+                  <column datatype='real' name='Credits_mit' ordinal='9' />
+                  <column datatype='string' name='Semester_mit' ordinal='10' />
+                </columns>
+              </relation>
+            </properties>
+          </object>
+        </objects>
+      </_.fcp.ObjectModelEncapsulateLegacy.true...object-graph>
+    </datasource>
+  </datasources>
+  <worksheets>
+    <worksheet name='Columbia Unique Skills'>
+      <table>
+        <view>
+          <datasources>
+            <datasource caption='comparison' name='federated.1bkcods03kks64184j0po1g5hfeh' />
+          </datasources>
+          <datasource-dependencies datasource='federated.1bkcods03kks64184j0po1g5hfeh'>
+            <column datatype='string' name='[Collapsed Skill]' role='dimension' type='nominal' />
+            <column caption='Credits columbia' datatype='real' name='[Credits_columbia]' role='measure' type='quantitative' />
+            <column caption='Related Course columbia' datatype='string' name='[Related Course_columbia]' role='dimension' type='nominal' />
+            <column caption='Skill mit' datatype='string' name='[Skill_mit]' role='dimension' type='nominal' />
+            <column-instance column='[Collapsed Skill]' derivation='None' name='[none:Collapsed Skill:nk]' pivot='key' type='nominal' />
+            <column-instance column='[Related Course_columbia]' derivation='None' name='[none:Related Course_columbia:nk]' pivot='key' type='nominal' />
+            <column-instance column='[Skill_mit]' derivation='None' name='[none:Skill_mit:nk]' pivot='key' type='nominal' />
+            <column-instance column='[Credits_columbia]' derivation='Sum' name='[sum:Credits_columbia:qk]' pivot='key' type='quantitative' />
+          </datasource-dependencies>
+          <filter class='categorical' column='[federated.1bkcods03kks64184j0po1g5hfeh].[none:Skill_mit:nk]'>
+            <groupfilter function='member' level='[none:Skill_mit:nk]' member='%null%' user:ui-domain='database' user:ui-enumeration='inclusive' user:ui-marker='enumerate' />
+          </filter>
+          <shelf-sorts>
+            <shelf-sort-v2 dimension-to-sort='[federated.1bkcods03kks64184j0po1g5hfeh].[none:Collapsed Skill:nk]' direction='DESC' is-on-innermost-dimension='true' measure-to-sort-by='[federated.1bkcods03kks64184j0po1g5hfeh].[sum:Credits_columbia:qk]' shelf='rows' />
+          </shelf-sorts>
+          <slices>
+            <column>[federated.1bkcods03kks64184j0po1g5hfeh].[none:Skill_mit:nk]</column>
+          </slices>
+          <aggregation value='true' />
+        </view>
+        <style>
+          <style-rule element='header'>
+            <format attr='width' field='[federated.1bkcods03kks64184j0po1g5hfeh].[none:Collapsed Skill:nk]' value='312' />
+          </style-rule>
+        </style>
+        <panes>
+          <pane selection-relaxation-option='selection-relaxation-allow'>
+            <view>
+              <breakdown value='auto' />
+            </view>
+            <mark class='Automatic' />
+            <encodings>
+              <lod column='[federated.1bkcods03kks64184j0po1g5hfeh].[none:Related Course_columbia:nk]' />
+            </encodings>
+          </pane>
+        </panes>
+        <rows>[federated.1bkcods03kks64184j0po1g5hfeh].[none:Collapsed Skill:nk]</rows>
+        <cols>[federated.1bkcods03kks64184j0po1g5hfeh].[sum:Credits_columbia:qk]</cols>
+      </table>
+      <simple-id uuid='{1FF6851A-14D3-4E26-892F-5C2C7A9C87FF}' />
+    </worksheet>
+    <worksheet name='MIT Unique Skills'>
+      <table>
+        <view>
+          <datasources>
+            <datasource caption='comparison' name='federated.1bkcods03kks64184j0po1g5hfeh' />
+          </datasources>
+          <datasource-dependencies datasource='federated.1bkcods03kks64184j0po1g5hfeh'>
+            <column datatype='string' name='[Collapsed Skill]' role='dimension' type='nominal' />
+            <column caption='Credits mit' datatype='real' name='[Credits_mit]' role='measure' type='quantitative' />
+            <column caption='Related Course mit' datatype='string' name='[Related Course_mit]' role='dimension' type='nominal' />
+            <column caption='Skill columbia' datatype='string' name='[Skill_columbia]' role='dimension' type='nominal' />
+            <column-instance column='[Collapsed Skill]' derivation='None' name='[none:Collapsed Skill:nk]' pivot='key' type='nominal' />
+            <column-instance column='[Related Course_mit]' derivation='None' name='[none:Related Course_mit:nk]' pivot='key' type='nominal' />
+            <column-instance column='[Skill_columbia]' derivation='None' name='[none:Skill_columbia:nk]' pivot='key' type='nominal' />
+            <column-instance column='[Credits_mit]' derivation='Sum' name='[sum:Credits_mit:qk]' pivot='key' type='quantitative' />
+          </datasource-dependencies>
+          <filter class='categorical' column='[federated.1bkcods03kks64184j0po1g5hfeh].[none:Skill_columbia:nk]'>
+            <groupfilter function='member' level='[none:Skill_columbia:nk]' member='%null%' user:ui-domain='database' user:ui-enumeration='inclusive' user:ui-marker='enumerate' />
+          </filter>
+          <shelf-sorts>
+            <shelf-sort-v2 dimension-to-sort='[federated.1bkcods03kks64184j0po1g5hfeh].[none:Collapsed Skill:nk]' direction='DESC' is-on-innermost-dimension='true' measure-to-sort-by='[federated.1bkcods03kks64184j0po1g5hfeh].[sum:Credits_mit:qk]' shelf='rows' />
+          </shelf-sorts>
+          <slices>
+            <column>[federated.1bkcods03kks64184j0po1g5hfeh].[none:Skill_columbia:nk]</column>
+          </slices>
+          <aggregation value='true' />
+        </view>
+        <style />
+        <panes>
+          <pane selection-relaxation-option='selection-relaxation-allow'>
+            <view>
+              <breakdown value='auto' />
+            </view>
+            <mark class='Automatic' />
+            <encodings>
+              <lod column='[federated.1bkcods03kks64184j0po1g5hfeh].[none:Related Course_mit:nk]' />
+            </encodings>
+            <style>
+              <style-rule element='mark'>
+                <format attr='mark-labels-show' value='false' />
+              </style-rule>
+            </style>
+          </pane>
+        </panes>
+        <rows>[federated.1bkcods03kks64184j0po1g5hfeh].[none:Collapsed Skill:nk]</rows>
+        <cols>[federated.1bkcods03kks64184j0po1g5hfeh].[sum:Credits_mit:qk]</cols>
+      </table>
+      <simple-id uuid='{059C252A-FD01-4E9E-8666-96D144103249}' />
+    </worksheet>
+    <worksheet name='MIT Unique Skills (2)'>
+      <table>
+        <view>
+          <datasources>
+            <datasource caption='comparison' name='federated.1bkcods03kks64184j0po1g5hfeh' />
+          </datasources>
+          <datasource-dependencies datasource='federated.1bkcods03kks64184j0po1g5hfeh'>
+            <column datatype='string' name='[Collapsed Skill]' role='dimension' type='nominal' />
+            <column caption='Credits mit' datatype='real' name='[Credits_mit]' role='measure' type='quantitative' />
+            <column caption='Related Course mit' datatype='string' name='[Related Course_mit]' role='dimension' type='nominal' />
+            <column caption='Skill columbia' datatype='string' name='[Skill_columbia]' role='dimension' type='nominal' />
+            <column caption='Skill mit' datatype='string' name='[Skill_mit]' role='dimension' type='nominal' />
+            <column-instance column='[Collapsed Skill]' derivation='None' name='[none:Collapsed Skill:nk]' pivot='key' type='nominal' />
+            <column-instance column='[Related Course_mit]' derivation='None' name='[none:Related Course_mit:nk]' pivot='key' type='nominal' />
+            <column-instance column='[Skill_columbia]' derivation='None' name='[none:Skill_columbia:nk]' pivot='key' type='nominal' />
+            <column-instance column='[Skill_mit]' derivation='None' name='[none:Skill_mit:nk]' pivot='key' type='nominal' />
+            <column-instance column='[Credits_mit]' derivation='Sum' name='[sum:Credits_mit:qk]' pivot='key' type='quantitative' />
+          </datasource-dependencies>
+          <filter class='categorical' column='[federated.1bkcods03kks64184j0po1g5hfeh].[none:Skill_columbia:nk]'>
+            <groupfilter function='except' user:ui-domain='database' user:ui-enumeration='inclusive' user:ui-marker='enumerate'>
+              <groupfilter function='level-members' level='[none:Skill_columbia:nk]' />
+              <groupfilter function='member' level='[none:Skill_columbia:nk]' member='%null%' />
+            </groupfilter>
+          </filter>
+          <filter class='categorical' column='[federated.1bkcods03kks64184j0po1g5hfeh].[none:Skill_mit:nk]'>
+            <groupfilter function='except' user:ui-domain='database' user:ui-enumeration='inclusive' user:ui-marker='enumerate'>
+              <groupfilter function='level-members' level='[none:Skill_mit:nk]' />
+              <groupfilter function='member' level='[none:Skill_mit:nk]' member='%null%' />
+            </groupfilter>
+          </filter>
+          <shelf-sorts>
+            <shelf-sort-v2 dimension-to-sort='[federated.1bkcods03kks64184j0po1g5hfeh].[none:Collapsed Skill:nk]' direction='DESC' is-on-innermost-dimension='true' measure-to-sort-by='[federated.1bkcods03kks64184j0po1g5hfeh].[sum:Credits_mit:qk]' shelf='rows' />
+          </shelf-sorts>
+          <slices>
+            <column>[federated.1bkcods03kks64184j0po1g5hfeh].[none:Skill_columbia:nk]</column>
+            <column>[federated.1bkcods03kks64184j0po1g5hfeh].[none:Skill_mit:nk]</column>
+          </slices>
+          <aggregation value='true' />
+        </view>
+        <style />
+        <panes>
+          <pane selection-relaxation-option='selection-relaxation-allow'>
+            <view>
+              <breakdown value='auto' />
+            </view>
+            <mark class='Automatic' />
+            <encodings>
+              <lod column='[federated.1bkcods03kks64184j0po1g5hfeh].[none:Related Course_mit:nk]' />
+            </encodings>
+            <style>
+              <style-rule element='mark'>
+                <format attr='mark-labels-show' value='false' />
+              </style-rule>
+            </style>
+          </pane>
+        </panes>
+        <rows>[federated.1bkcods03kks64184j0po1g5hfeh].[none:Collapsed Skill:nk]</rows>
+        <cols>[federated.1bkcods03kks64184j0po1g5hfeh].[sum:Credits_mit:qk]</cols>
+      </table>
+      <simple-id uuid='{FB7A581D-3BDC-47D2-B79C-C5216D28C728}' />
+    </worksheet>
+    <worksheet name='Sheet 3'>
+      <table>
+        <view>
+          <datasources />
+          <aggregation value='true' />
+        </view>
+        <style />
+        <panes>
+          <pane selection-relaxation-option='selection-relaxation-allow'>
+            <view>
+              <breakdown value='auto' />
+            </view>
+            <mark class='Automatic' />
+          </pane>
+        </panes>
+        <rows />
+        <cols />
+      </table>
+      <simple-id uuid='{B16E0FE3-2925-482A-84B2-8CD754B17FE8}' />
+    </worksheet>
+  </worksheets>
+  <windows source-height='30'>
+    <window class='worksheet' name='Columbia Unique Skills'>
+      <cards>
+        <edge name='left'>
+          <strip size='160'>
+            <card type='pages' />
+            <card type='filters' />
+            <card type='marks' />
+          </strip>
+        </edge>
+        <edge name='top'>
+          <strip size='2147483647'>
+            <card type='columns' />
+          </strip>
+          <strip size='2147483647'>
+            <card type='rows' />
+          </strip>
+          <strip size='31'>
+            <card type='title' />
+          </strip>
+        </edge>
+      </cards>
+      <simple-id uuid='{D195A302-5AF5-4E9A-8E1E-1F36BE23E681}' />
+    </window>
+    <window class='worksheet' name='MIT Unique Skills'>
+      <cards>
+        <edge name='left'>
+          <strip size='160'>
+            <card type='pages' />
+            <card type='filters' />
+            <card type='marks' />
+          </strip>
+        </edge>
+        <edge name='top'>
+          <strip size='2147483647'>
+            <card type='columns' />
+          </strip>
+          <strip size='2147483647'>
+            <card type='rows' />
+          </strip>
+          <strip size='31'>
+            <card type='title' />
+          </strip>
+        </edge>
+      </cards>
+      <simple-id uuid='{C6EE7D36-520A-4779-971E-901A6DBD8188}' />
+    </window>
+    <window class='worksheet' maximized='true' name='MIT Unique Skills (2)'>
+      <cards>
+        <edge name='left'>
+          <strip size='160'>
+            <card type='pages' />
+            <card type='filters' />
+            <card type='marks' />
+          </strip>
+        </edge>
+        <edge name='top'>
+          <strip size='2147483647'>
+            <card type='columns' />
+          </strip>
+          <strip size='2147483647'>
+            <card type='rows' />
+          </strip>
+          <strip size='31'>
+            <card type='title' />
+          </strip>
+        </edge>
+      </cards>
+      <simple-id uuid='{936AB999-03FC-49B8-A388-32CDC3FA366F}' />
+    </window>
+    <window class='worksheet' name='Sheet 3'>
+      <cards>
+        <edge name='left'>
+          <strip size='160'>
+            <card type='pages' />
+            <card type='filters' />
+            <card type='marks' />
+          </strip>
+        </edge>
+        <edge name='top'>
+          <strip size='2147483647'>
+            <card type='columns' />
+          </strip>
+          <strip size='2147483647'>
+            <card type='rows' />
+          </strip>
+          <strip size='31'>
+            <card type='title' />
+          </strip>
+        </edge>
+      </cards>
+      <simple-id uuid='{7038341D-D92B-4B61-8A27-0337C664B506}' />
+    </window>
+  </windows>
+</workbook>

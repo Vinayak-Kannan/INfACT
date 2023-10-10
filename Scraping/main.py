@@ -6,7 +6,6 @@ import time
 import pandas as pd
 from bs4 import BeautifulSoup
 from selenium import webdriver
-from selenium.webdriver import Keys
 from selenium.webdriver.common.by import By
 
 def driver_function_mit(semester):
@@ -63,28 +62,19 @@ def driver_function_mit(semester):
 
     course_names = course_table.find_all("h3")
 
-    # credits = []
-    # # Within each course_description, find the text that says "Units: " and get the number after it
-    # for description in course_description:
-    #     # Check if description.split("Units: ")[1] containts "-"
-    #     numbers = description.split("Units: ")[1][:7]
-    #     # Check if first character is a number
-    #     if not numbers[0].isdigit():
-    #         continue
-    #     print(numbers[0].isdigit())
-    #     numbers = numbers.split("-")
-    #     sum = 0
-    #     for number in numbers:
-    #         print(number)
-    #         sum += int(number)
-    #     credits.append(sum)
+    credits = []
+    # Within each course_description, find the text that says "Units: " and get the number after it
+    for description in course_description:
+        # Check if description.split("Units: ")[1] containts "-"
+        numbers = description.split("Units: ")[1][0]
+        credits.append(int(numbers))
 
-    print(len(course_description), len(course_names))
+    print(len(course_description), len(course_names), len(credits))
 
     row = []
     for i in range(len(course_description)):
         print(course_names[i].text)
-        row.append([course_names[i].text, 1, " ", 0, course_description[i], " ", semester])
+        row.append([course_names[i].text, credits[i], " ", 0, course_description[i], " ", semester])
 
     with open("courses.csv", "w", newline="", encoding="utf-8") as csvfile:
         writer = csv.writer(csvfile)

@@ -50,13 +50,13 @@ def create_lexicon(generate: bool = False):
     #     row['metadata'] = row['metadata'].replace("'", '"')
     #     df.loc[i, 'metadata'] = json.loads(row['metadata'])
 
-    # Loop through each row and see if there is a similar row with greater than 0.9 cosine similarity. If so, drop current row
+    # Loop through each row and see if there is a similar row with greater than 0.85 cosine similarity. If so, drop current row
     for i, row in df.iterrows():
         for j, row2 in df.iterrows():
             if row['values'] == row2['values']:
                 print("same")
                 continue
-            if cosine_similarity(row['values'], row2['values']) > 0.9:
+            if cosine_similarity(row['values'], row2['values']) > 0.85:
                 df.drop(i, inplace=True)
                 break
 

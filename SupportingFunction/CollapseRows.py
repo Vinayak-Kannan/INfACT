@@ -117,6 +117,13 @@ def collapse_rows(df: DataFrame, school) -> DataFrame:
 
 
 def collapse_rows_pinecone(df: DataFrame):
+    # Convert rows in 'Credits' column to numeric
+    df['Credits'] = pd.to_numeric(df['Credits'], errors='coerce')
+    # Filter df to rows where credits value contains a number even if it is a string
+    df = df[df['Credits'].notna()]
+
+
+
     config = dotenv_values("/Users/vinayakkannan/Desktop/INfACT/Script/SupportingFunction/.env")
     openai.api_key = config.get("SECRET_KEY")
     # get api key from app.pinecone.io
@@ -136,9 +143,18 @@ def collapse_rows_pinecone(df: DataFrame):
         embedding_model = "text-embedding-ada-002"
         embedding = get_embedding(row['Skill'], engine=embedding_model)
         response = index.query(vector=embedding, top_k=1, include_values=True, include_metadata=True).to_dict()
+        if len(response['matches']) == 0:
+            upsert_value = [{
+                "id": uuid.uuid4().hex,
+                "values": embedding,
+                "metadata": {'text': row['Skill']}
+            }]
+            index.upsert(vectors=upsert_value, show_progress=True)
+            df.loc[i, 'Collapsed Skill'] = row['Skill']
+            continue
         top_match = response['matches'][0]
         print(top_match['metadata']['text'] + " vs " + row['Skill'] + " : " + str(top_match['score']))
-        if top_match['score'] > 0.9:
+        if top_match['score'] > 0.85:
             df.loc[i, 'Collapsed Skill'] = top_match['metadata']['text']
         else:
             df.loc[i, 'Collapsed Skill'] = row['Skill']
