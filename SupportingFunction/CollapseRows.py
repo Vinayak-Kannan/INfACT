@@ -17,6 +17,7 @@ def get_embeddings(texts):
         embeddings.append(value)
     return embeddings
 
+
 # Ideas to do this better:
 # 1. Store the embeddings in vectorDB to stop having to call the API every time
 # 2. Instead of dropping terms, roll them up into a list of terms, then have LLM synthesize them all into a single term
@@ -108,7 +109,8 @@ def collapse_rows(df: DataFrame, school) -> DataFrame:
     df = df.drop(columns=['Embedding'])
 
     # Merge original column with df
-    orig_df = pd.read_csv(f'/Users/vinayakkannan/Desktop/INfACT/Script/SupportingFunction/RawData/{school}/Data - Sheet1.csv')
+    orig_df = pd.read_csv(
+        f'/Users/vinayakkannan/Desktop/INfACT/Script/SupportingFunction/RawData/{school}/Data - Sheet1.csv')
     # Drop credits and syllabus from orig_df
     orig_df = orig_df.drop(columns=['Credits', 'Syllabus'])
     df = pd.merge(df, orig_df, left_on=['Related Course', 'Semester'], right_on=['Title', 'Semester'])
@@ -117,12 +119,20 @@ def collapse_rows(df: DataFrame, school) -> DataFrame:
 
 
 def collapse_rows_pinecone(df: DataFrame):
+    config = dotenv_values("/Users/vinayakkannan/Desktop/INfACT/Script/SupportingFunction/.env")
+    openai.api_key = config.get("SECRET_KEY")
+
     # Convert rows in 'Credits' column to numeric
     df['Credits'] = pd.to_numeric(df['Credits'], errors='coerce')
     # Filter df to rows where credits value contains a number even if it is a string
     df = df[df['Credits'].notna()]
 
+    df['Embedding'] = ''
 
+    for i, row in df.iterrows():
+        embedding_model = "text-embedding-ada-002"
+        embedding = get_embedding(row['Skill'], engine=embedding_model)
+        df.at[i, 'Embedding'] = embedding
 
     config = dotenv_values("/Users/vinayakkannan/Desktop/INfACT/Script/SupportingFunction/.env")
     openai.api_key = config.get("SECRET_KEY")
@@ -138,11 +148,45 @@ def collapse_rows_pinecone(df: DataFrame):
     )
     index = pinecone.GRPCIndex("infact")
     df['Collapsed Skill'] = ''
+    df['Reviewed'] = False
 
     for i, row in df.iterrows():
-        embedding_model = "text-embedding-ada-002"
-        embedding = get_embedding(row['Skill'], engine=embedding_model)
-        response = index.query(vector=embedding, top_k=1, include_values=True, include_metadata=True).to_dict()
+        if row['Reviewed']:
+            continue
+        # Find all rows in index that have a cosine similarity greater than 0.85
+        embedding = row['Embedding']
+        similar_rows = [[row['Skill'], row['Embedding'], i]]
+        for j, row_compare in df.iterrows():
+            if cosine_similarity(embedding, row_compare['Embedding']) > 0.85:
+                similar_rows.append([row_compare['Skill'], row_compare['Embedding'], j])
+                break
+
+        # Get center of all embeddings
+        similar_row_embeddings = []
+        for row in similar_rows:
+            df.at[row[2], 'Reviewed'] = True
+            similar_row_embeddings.append(row[1])
+        embeddings = np.array(similar_row_embeddings)  # replace with your array of embeddings
+        centroid = np.mean(embeddings, axis=0)
+
+        # Find the closest row in similar_rows to the center of all embeddings
+        closest_row = similar_rows[0]
+        for row_compare in similar_rows:
+            if cosine_similarity(centroid, row_compare[1]) > cosine_similarity(centroid, closest_row[1]):
+                closest_row = row_compare
+
+        upsert_value = [{
+            "id": uuid.uuid4().hex,
+            "values": closest_row[1],
+            "metadata": {'text': closest_row[0]}
+        }]
+        response = index.query(vector=closest_row[1], top_k=1, include_values=False, include_metadata=True).to_dict()
+        if len(response['matches']) == 0 or response['matches'][0]['score'] < 0.85:
+            index.upsert(vectors=upsert_value, show_progress=True)
+
+    for i, row in df.iterrows():
+        embedding = row['Embedding']
+        response = index.query(vector=embedding, top_k=1, include_values=False, include_metadata=True).to_dict()
         if len(response['matches']) == 0:
             upsert_value = [{
                 "id": uuid.uuid4().hex,
@@ -153,10 +197,12 @@ def collapse_rows_pinecone(df: DataFrame):
             df.loc[i, 'Collapsed Skill'] = row['Skill']
             continue
         top_match = response['matches'][0]
-        print(top_match['metadata']['text'] + " vs " + row['Skill'] + " : " + str(top_match['score']))
         if top_match['score'] > 0.85:
             df.loc[i, 'Collapsed Skill'] = top_match['metadata']['text']
         else:
+            print(str(top_match['score']) + " :" + str(top_match['metadata']['text']))
+            print(str(row['Skill']))
+            print("RIP")
             df.loc[i, 'Collapsed Skill'] = row['Skill']
             upsert_value = [{
                 "id": uuid.uuid4().hex,
@@ -165,4 +211,7 @@ def collapse_rows_pinecone(df: DataFrame):
             }]
             index.upsert(vectors=upsert_value, show_progress=True)
 
+    # Drop df embedding column
+    df = df.drop(columns=['Embedding'])
+    df = df.drop(columns=['Reviewed'])
     return df

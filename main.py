@@ -11,7 +11,7 @@ from SupportingFunction.CompareSkills import compare_skills
 # Press Double ⇧ to search everywhere for classes, files, tool windows, actions, and settings.
 
 def driver():
-    school = "MIT_Fall2023_v1"
+    school = "Columbia_Fall2023_v1"
     # Use a breakpoint in the code line below to debug your script.
     # parse_scraped_data(school)
     skill_df = pd.read_csv(
@@ -37,6 +37,10 @@ def driver():
 
     columbia = pd.read_csv('/Users/vinayakkannan/Desktop/INfACT/Script/SupportingFunction/RawData/Columbia_Fall2023_v1/SkillOutputUpdated.csv')
     mit = pd.read_csv('/Users/vinayakkannan/Desktop/INfACT/Script/SupportingFunction/RawData/MIT_Fall2023_v1/SkillOutputUpdated.csv')
+
+    # Drop rows from columbia where course and collapsed skill columns are duplicates
+    columbia = columbia.drop_duplicates(subset=['Related Course', 'Collapsed Skill'])
+    mit = mit.drop_duplicates(subset=['Related Course', 'Collapsed Skill'])
 
     # Join columbia and mit by 'Collapsed Skill' by outer join
     joined = pd.merge(columbia, mit, on='Collapsed Skill', how='outer', suffixes=('_columbia', '_mit'))

@@ -12,29 +12,29 @@ Communication,Students will enhance their communication skills through class dis
 Critical thinking,Students will develop the skill of critical thinking as they analyze and evaluate the issues surrounding anonymity and privacy in the digital age.,ANONYMITY & PRIVACY,3.0,,Critical thinking
 Analysis,"Students will learn how to analyze various aspects of online privacy and anonymity, including traffic analysis, biometrics, authentication, and legal policies.",ANONYMITY & PRIVACY,3.0,,Analysis
 Communication,Students will enhance their communication skills through class discussions and project work related to anonymity and privacy.,ANONYMITY & PRIVACY,3.0,,Communication
-Research,Students will gain the skill of conducting research and reading technical papers to deepen their understanding of the subject matter.,ANONYMITY & PRIVACY,3.0,,Research
+Research,Students will gain the skill of conducting research and reading technical papers to deepen their understanding of the subject matter.,ANONYMITY & PRIVACY,3.0,,Analysis
 Project management,"Students will develop project management skills as they work on projects related to anonymity and privacy, applying their knowledge and skills learned in class.",ANONYMITY & PRIVACY,3.0,,Project management
 Intrusion detection system design and implementation,Students will learn how to design and implement an intrusion detection system as part of the final project.,INTRUSION DETECTION SYSTE,3.0,,Intrusion detection system design and implementation
-SQL,Students will gain proficiency in SQL as they analyze and manipulate data related to intrusion detection systems.,INTRUSION DETECTION SYSTE,3.0,,SQL
+SQL,Students will gain proficiency in SQL as they analyze and manipulate data related to intrusion detection systems.,INTRUSION DETECTION SYSTE,3.0,,XML
 Problem-solving,"Students will develop problem-solving skills as they analyze vulnerabilities, behavior patterns, and potential threats in intrusion detection systems.",INTRUSION DETECTION SYSTE,3.0,,Problem-solving
 Communication,Students will enhance their communication skills through project presentations and discussions related to intrusion detection systems.,INTRUSION DETECTION SYSTE,3.0,,Communication
 Network analysis,Students will learn how to analyze network traffic and behavior patterns to detect potential intrusions.,INTRUSION DETECTION SYSTE,3.0,,Network analysis
-Intrusion detection systems,Students will gain proficiency in designing and implementing intrusion detection systems.,INTRUSION DETECTION SYSTEMS,3.0,,Intrusion detection systems
+Intrusion detection systems,Students will gain proficiency in designing and implementing intrusion detection systems.,INTRUSION DETECTION SYSTEMS,3.0,,Intrusion detection system design and implementation
 Malicious code analysis,Students will learn how to study the behavior of malware and develop techniques to detect and prevent it.,INTRUSION DETECTION SYSTEMS,3.0,,Malicious code analysis
 Secure wireless networks,Students will develop skills in studying the security of wireless networks and implementing techniques to detect and prevent attacks.,INTRUSION DETECTION SYSTEMS,3.0,,Secure wireless networks
 Anomaly detection,Students will learn how to identify patterns of abnormal or unexpected behavior that may indicate an intrusion.,INTRUSION DETECTION SYSTEMS,3.0,,Anomaly detection
 Collaborative intrusion detection,Students will gain skills in using multiple sensors or systems to detect intrusions and sharing information between them to improve accuracy.,INTRUSION DETECTION SYSTEMS,3.0,,Collaborative intrusion detection
-Programming,Students will develop proficiency in programming languages and gain practical experience in writing code to solve real-world problems.,ANALYSIS OF ALGORITHMS II,3.0,,Programming
-Mathematical Reasoning,Students will learn how to apply mathematical concepts and reasoning to analyze algorithms and solve computational problems.,ANALYSIS OF ALGORITHMS II,3.0,,Mathematical Reasoning
+Programming,Students will develop proficiency in programming languages and gain practical experience in writing code to solve real-world problems.,ANALYSIS OF ALGORITHMS II,3.0,,Communication
+Mathematical Reasoning,Students will learn how to apply mathematical concepts and reasoning to analyze algorithms and solve computational problems.,ANALYSIS OF ALGORITHMS II,3.0,,Mathematical proof writing
 Problem-solving,Students will develop the ability to identify and solve complex problems by applying logical thinking and analytical skills.,ANALYSIS OF ALGORITHMS II,3.0,,Problem-solving
 Data Structures,Students will learn about different data structures and how to implement and manipulate them efficiently in programming.,ANALYSIS OF ALGORITHMS II,3.0,,Data Structures
 Algorithm Design and Analysis,Students will learn how to design and analyze efficient algorithms for various computational problems.,ANALYSIS OF ALGORITHMS II,3.0,,Algorithm Design and Analysis
 3D graphics,Students will gain proficiency in creating and manipulating 3D graphics.,VIRTUAL AND AUGMENTED REALITY,3.0,,3D graphics
 Rendering,Students will learn how to render 3D graphics to create realistic visual effects.,VIRTUAL AND AUGMENTED REALITY,3.0,,Communication
-3D interaction techniques,Students will develop skills in designing and implementing interactive 3D user interfaces.,VIRTUAL AND AUGMENTED REALITY,3.0,,3D interaction techniques
+3D interaction techniques,Students will develop skills in designing and implementing interactive 3D user interfaces.,VIRTUAL AND AUGMENTED REALITY,3.0,,3D graphics
 Spatial cognition,Students will learn how to understand and apply principles of spatial cognition in the design of virtual environments.,VIRTUAL AND AUGMENTED REALITY,3.0,,Spatial cognition
 Augmented reality,Students will gain skills in developing augmented reality systems and applications.,VIRTUAL AND AUGMENTED REALITY,3.0,,Augmented reality
-Reading research papers,"Students will develop the skill of effectively reading and understanding research papers, which is essential for staying updated with the latest advancements in the field.",NATURAL LANG GEN SUMMARIZ,3.0,,Research
+Reading research papers,"Students will develop the skill of effectively reading and understanding research papers, which is essential for staying updated with the latest advancements in the field.",NATURAL LANG GEN SUMMARIZ,3.0,,Reading research papers
 Participating in discussions,"Students will learn how to actively engage in discussions, express their ideas, and contribute to the exchange of knowledge and perspectives.",NATURAL LANG GEN SUMMARIZ,3.0,,Participating in discussions
 Presenting work,"Students will gain the skill of presenting their work effectively, including summarizing complex concepts and delivering clear and engaging presentations.",NATURAL LANG GEN SUMMARIZ,3.0,,Presenting work
 Language generation,"Students will develop the skill of generating language for different purposes, such as creating coherent and meaningful text.",NATURAL LANG GEN SUMMARIZ,3.0,,Language generation
@@ -42,142 +42,142 @@ Analysis of social media,"Students will learn how to analyze social media data, 
 Blockchain development,Students will gain proficiency in developing blockchain applications.,ENGR WEB3 BLOCKCHAIN APPS,3.0,,Blockchain development
 Smart contract programming,Students will learn how to write and deploy smart contracts on a blockchain.,ENGR WEB3 BLOCKCHAIN APPS,3.0,,Smart contract programming
 Front-end development using Web3.js,Students will develop skills in building user interfaces for blockchain applications using Web3.js.,ENGR WEB3 BLOCKCHAIN APPS,3.0,,Front-end development using Web3.js
-SQL,"Although not explicitly mentioned in the course description, knowledge of SQL is often required in blockchain development for interacting with databases.",ENGR WEB3 BLOCKCHAIN APPS,3.0,,SQL
-XML,"Although not explicitly mentioned in the course description, knowledge of XML may be useful for understanding data formats and interoperability in blockchain applications.",ENGR WEB3 BLOCKCHAIN APPS,3.0,,SQL
+SQL,"Although not explicitly mentioned in the course description, knowledge of SQL is often required in blockchain development for interacting with databases.",ENGR WEB3 BLOCKCHAIN APPS,3.0,,XML
+XML,"Although not explicitly mentioned in the course description, knowledge of XML may be useful for understanding data formats and interoperability in blockchain applications.",ENGR WEB3 BLOCKCHAIN APPS,3.0,,XML
 Mobile programming,"Students will develop proficiency in programming for mobile devices, including smartphones, smartwatches, and smart glasses.",TOPICS IN MOBILE X,3.0,,Mobile programming
-Mobile security,Students will learn about the principles and practices of securing mobile devices and networks.,TOPICS IN MOBILE X,3.0,,Protection and security
-Mobile communication and networking,Students will gain knowledge and skills in designing and implementing mobile communication and networking systems.,TOPICS IN MOBILE X,3.0,,Communication
+Mobile security,Students will learn about the principles and practices of securing mobile devices and networks.,TOPICS IN MOBILE X,3.0,,Mobile security
+Mobile communication and networking,Students will gain knowledge and skills in designing and implementing mobile communication and networking systems.,TOPICS IN MOBILE X,3.0,,Mobile communication and networking
 Mobile sensing,Students will learn how to utilize sensors in mobile devices to collect and analyze data.,TOPICS IN MOBILE X,3.0,,Mobile sensing
 Mobile human-to-computer interaction (HCI),Students will develop skills in designing user interfaces and interactions for mobile applications.,TOPICS IN MOBILE X,3.0,,Mobile human-to-computer interaction (HCI)
-Paper reading/writing,Students will develop the skill of effectively reading and writing research papers on programming language design.,READINGS LANGUAGE DESIGN,3.0,,Paper reading/writing
-Public presentation,Students will gain the skill of presenting their ideas and research findings in a clear and engaging manner.,READINGS LANGUAGE DESIGN,3.0,,Public presentation
+Paper reading/writing,Students will develop the skill of effectively reading and writing research papers on programming language design.,READINGS LANGUAGE DESIGN,3.0,,Reading research papers
+Public presentation,Students will gain the skill of presenting their ideas and research findings in a clear and engaging manner.,READINGS LANGUAGE DESIGN,3.0,,Presenting work
 Python programming,"Students will develop proficiency in Python programming, specifically for data analytics, which is essential for implementing machine learning algorithms.",HIGH PERF MACH LEARNING,3.0,,Python programming
 Supervised learning techniques,"Students will learn and practice various supervised learning techniques for regression and classification, gaining the skill to apply these methods to real-world problems.",HIGH PERF MACH LEARNING,3.0,,Supervised learning techniques
-Unsupervised learning techniques,"Students will gain proficiency in unsupervised learning techniques, allowing them to analyze and interpret data without labeled outcomes.",HIGH PERF MACH LEARNING,3.0,,Unsupervised learning techniques
+Unsupervised learning techniques,"Students will gain proficiency in unsupervised learning techniques, allowing them to analyze and interpret data without labeled outcomes.",HIGH PERF MACH LEARNING,3.0,,Supervised learning techniques
 Model selection,"Students will learn how to select the most appropriate machine learning model for a given problem, developing the skill to evaluate and compare different models.",HIGH PERF MACH LEARNING,3.0,,Model selection
-Data analysis,"Students will develop the ability to analyze and interpret data, which is crucial for understanding the results and insights obtained from machine learning models.",HIGH PERF MACH LEARNING,3.0,,Analysis
+Data analysis,"Students will develop the ability to analyze and interpret data, which is crucial for understanding the results and insights obtained from machine learning models.",HIGH PERF MACH LEARNING,3.0,,Data visualization
 Speech recognition coding techniques,Students will learn practical coding techniques used in speech recognition.,FUND SPEECH RECOGNITION,3.0,,Speech recognition coding techniques
 Database design,Students will gain knowledge and skills in designing databases for speech recognition systems.,FUND SPEECH RECOGNITION,3.0,,Database design
 Problem-solving,Students will develop problem-solving skills through hands-on projects in speech recognition.,FUND SPEECH RECOGNITION,3.0,,Problem-solving
 Communication,Students will enhance their communication skills through the final oral presentation and conference-style paper.,FUND SPEECH RECOGNITION,3.0,,Communication
-Proficiency in using open-source speech recognition software packages,Students will gain proficiency in using software packages like Kaldi to develop fully functional speech recognition engines.,FUND SPEECH RECOGNITION,3.0,,Speech recognition coding techniques
+Proficiency in using open-source speech recognition software packages,Students will gain proficiency in using software packages like Kaldi to develop fully functional speech recognition engines.,FUND SPEECH RECOGNITION,3.0,,Proficiency in using open-source speech recognition software packages
 Cloud computing infrastructure,Students will gain proficiency in understanding and managing cloud computing infrastructure.,CLOUD COMPUTING & BIG DATA,3.0,,Cloud computing
 Cloud management,Students will learn how to effectively manage cloud computing systems.,CLOUD COMPUTING & BIG DATA,3.0,,Cloud computing
 Big data storage,Students will develop skills in storing and managing large-scale data.,CLOUD COMPUTING & BIG DATA,3.0,,Cloud computing
 Data processing,Students will learn how to process and analyze big data.,CLOUD COMPUTING & BIG DATA,3.0,,Data processing
 Data visualization,Students will gain skills in visualizing and presenting data in a meaningful way.,CLOUD COMPUTING & BIG DATA,3.0,,Data visualization
-Data analysis,Students will learn how to analyze data using machine learning techniques to gain insights and make predictions.,MACHINE LEARNING &CLIMATE,3.0,,Analysis
-Machine learning,"Students will develop proficiency in various machine learning techniques, including supervised and unsupervised learning, deep learning, and reinforcement learning.",MACHINE LEARNING &CLIMATE,3.0,,Supervised learning techniques
+Data analysis,Students will learn how to analyze data using machine learning techniques to gain insights and make predictions.,MACHINE LEARNING &CLIMATE,3.0,,Data visualization
+Machine learning,"Students will develop proficiency in various machine learning techniques, including supervised and unsupervised learning, deep learning, and reinforcement learning.",MACHINE LEARNING &CLIMATE,3.0,,Deep learning
 Climate science,"Students will gain knowledge and skills in the field of climate science, including understanding the Earth's energy balance, the greenhouse effect, and climate models.",MACHINE LEARNING &CLIMATE,3.0,,Climate science
-Programming,Students will enhance their programming skills as they apply machine learning techniques to climate-related problems.,MACHINE LEARNING &CLIMATE,3.0,,Programming
+Programming,Students will enhance their programming skills as they apply machine learning techniques to climate-related problems.,MACHINE LEARNING &CLIMATE,3.0,,Communication
 Project management,"Students will develop the ability to manage and execute a project, as the course is project-based and requires the completion of a final technical paper summarizing their use case.",MACHINE LEARNING &CLIMATE,3.0,,Project management
-Front-end and back-end web development,Students will gain proficiency in both front-end and back-end technologies for creating interactive websites. This skill is selected because it is quantifiable and can be measured by the ability to create functional and visually appealing websites.,ADV WEB DESIGN STUDIO,3.0,,Front-end development using Web3.js
+Front-end and back-end web development,Students will gain proficiency in both front-end and back-end technologies for creating interactive websites. This skill is selected because it is quantifiable and can be measured by the ability to create functional and visually appealing websites.,ADV WEB DESIGN STUDIO,3.0,,Front-end and back-end web development
 User needs discovery,"Students will learn how to develop a low-level, mechanical model of a website to understand and address specific user needs. This skill is selected because it involves manipulating data and information to accomplish the objective of creating user-centered websites.",ADV WEB DESIGN STUDIO,3.0,,User needs discovery
-Proficiency in analyzing networks,"Students will develop the skill of analyzing networks, including understanding their structure and dynamics.",ANALYSIS OF NETWORKS & CROWDS,3.0,,Network analysis
-Data manipulation,"Students will gain the skill of manipulating data related to networks and crowds, such as extracting relevant information and performing data cleaning.",ANALYSIS OF NETWORKS & CROWDS,3.0,,Database design
-Research methodology,"Students will learn the skill of conducting original research in the field of network analysis and crowds, including designing experiments and collecting data.",ANALYSIS OF NETWORKS & CROWDS,3.0,,Research
-Programming,Students will develop programming skills to implement algorithms and models for analyzing networks and crowds.,ANALYSIS OF NETWORKS & CROWDS,3.0,,Programming
+Proficiency in analyzing networks,"Students will develop the skill of analyzing networks, including understanding their structure and dynamics.",ANALYSIS OF NETWORKS & CROWDS,3.0,,Proficiency in analyzing networks
+Data manipulation,"Students will gain the skill of manipulating data related to networks and crowds, such as extracting relevant information and performing data cleaning.",ANALYSIS OF NETWORKS & CROWDS,3.0,,Data processing
+Research methodology,"Students will learn the skill of conducting original research in the field of network analysis and crowds, including designing experiments and collecting data.",ANALYSIS OF NETWORKS & CROWDS,3.0,,Reading research papers
+Programming,Students will develop programming skills to implement algorithms and models for analyzing networks and crowds.,ANALYSIS OF NETWORKS & CROWDS,3.0,,Communication
 Data visualization,Students will learn how to visually represent network data and analyze patterns and trends.,ANALYSIS OF NETWORKS & CROWDS,3.0,,Data visualization
-Algorithmic techniques,"Students will learn algorithmic techniques for tackling massive datasets efficiently, including sketching and streaming algorithms, distributed algorithms, and online learning algorithms. This skill is selected because it involves the ability to manipulate and analyze data to solve complex problems.",ALGORITHMS FOR MASSIVE DATA,3.0,,Algorithm Design and Analysis
-SQL,"Students will gain proficiency in SQL. This skill is selected because it involves the ability to manipulate and query databases, which is essential for working with large datasets.",ALGORITHMS FOR MASSIVE DATA,3.0,,SQL
-XML,Students will learn about XML (eXtensible Markup Language) and its use in databases. This skill is selected because it involves the ability to handle and manipulate data in a specific format.,ALGORITHMS FOR MASSIVE DATA,3.0,,SQL
+Algorithmic techniques,"Students will learn algorithmic techniques for tackling massive datasets efficiently, including sketching and streaming algorithms, distributed algorithms, and online learning algorithms. This skill is selected because it involves the ability to manipulate and analyze data to solve complex problems.",ALGORITHMS FOR MASSIVE DATA,3.0,,Algorithm design and analysis
+SQL,"Students will gain proficiency in SQL. This skill is selected because it involves the ability to manipulate and query databases, which is essential for working with large datasets.",ALGORITHMS FOR MASSIVE DATA,3.0,,XML
+XML,Students will learn about XML (eXtensible Markup Language) and its use in databases. This skill is selected because it involves the ability to handle and manipulate data in a specific format.,ALGORITHMS FOR MASSIVE DATA,3.0,,XML
 Problem-solving,Students will develop the ability of problem-solving as they work on programming projects. This skill is selected because it involves the ability to analyze issues and find solutions.,ALGORITHMS FOR MASSIVE DATA,3.0,,Problem-solving
 Communication,Students will enhance their communication skills. This skill is selected because it involves the ability to effectively communicate ideas and findings.,ALGORITHMS FOR MASSIVE DATA,3.0,,Communication
 Formal methods,"Students will gain proficiency in using mathematically based techniques for the specification, development, and verification of software and hardware systems.",FORMAL VERIFICATION SYSTEM SW,3.0,,Formal methods
 Software verification,"Students will learn how to verify the correctness of software systems, ensuring they are bug-free and reliable.",FORMAL VERIFICATION SYSTEM SW,3.0,,Software verification
-Research skills,Students will develop the ability to conduct research in the field of formal verification of system software.,FORMAL VERIFICATION SYSTEM SW,3.0,,Research
-Presentation skills,Students will enhance their ability to present research papers during lectures.,FORMAL VERIFICATION SYSTEM SW,3.0,,Presenting work
+Research skills,Students will develop the ability to conduct research in the field of formal verification of system software.,FORMAL VERIFICATION SYSTEM SW,3.0,,Presentation skills
+Presentation skills,Students will enhance their ability to present research papers during lectures.,FORMAL VERIFICATION SYSTEM SW,3.0,,Presentation skills
 Project management,"Students will learn how to work on a significant research project throughout the semester, culminating in a draft research paper.",FORMAL VERIFICATION SYSTEM SW,3.0,,Project management
-Algorithm design and analysis,Students will learn how to design and analyze algorithms that use algebraic techniques.,ALGEBRAIC TECHNIQUES IN TCS,3.0,,Algorithm Design and Analysis
-Implementation,Students will gain experience in implementing algorithms and applying algebraic techniques to real-world problems.,ALGEBRAIC TECHNIQUES IN TCS,3.0,,Programming
+Algorithm design and analysis,Students will learn how to design and analyze algorithms that use algebraic techniques.,ALGEBRAIC TECHNIQUES IN TCS,3.0,,Algorithm design and analysis
+Implementation,Students will gain experience in implementing algorithms and applying algebraic techniques to real-world problems.,ALGEBRAIC TECHNIQUES IN TCS,3.0,,Communication
 Problem-solving,Students will develop problem-solving skills as they work on programming projects and analyze theoretical results.,ALGEBRAIC TECHNIQUES IN TCS,3.0,,Problem-solving
-Mathematical proof writing,Students will enhance their ability to read and write mathematical proofs.,ALGEBRAIC TECHNIQUES IN TCS,3.0,,Mathematical Reasoning
+Mathematical proof writing,Students will enhance their ability to read and write mathematical proofs.,ALGEBRAIC TECHNIQUES IN TCS,3.0,,Mathematical proof writing
 Communication,Students will improve their ability to communicate their ideas clearly and concisely.,ALGEBRAIC TECHNIQUES IN TCS,3.0,,Communication
 Causal modeling,Students will gain proficiency in designing and implementing causal models in AI systems.,CAUSAL TRUSTWORTHY AI,3.0,,Causal modeling
-AI system design,Students will learn how to design AI systems that are trustworthy and reliable.,CAUSAL TRUSTWORTHY AI,3.0,,Algorithm Design and Analysis
+AI system design,Students will learn how to design AI systems that are trustworthy and reliable.,CAUSAL TRUSTWORTHY AI,3.0,,AI system deployment
 AI system deployment,Students will develop the ability to deploy AI systems in real-world settings.,CAUSAL TRUSTWORTHY AI,3.0,,AI system deployment
-Causal inference,Students will learn about causal inference methods and their application in AI systems.,CAUSAL TRUSTWORTHY AI,3.0,,Causal inference
+Causal inference,Students will learn about causal inference methods and their application in AI systems.,CAUSAL TRUSTWORTHY AI,3.0,,Causal modeling
 Problem-solving,Students will enhance their problem-solving skills as they work on designing and implementing trustworthy AI systems.,CAUSAL TRUSTWORTHY AI,3.0,,Problem-solving
-Design and build extremely large-scale systems using real cloud platforms and services,Students will learn how to design and construct large-scale systems using cloud platforms and services.,TOPICS CLOUD COMPUTING,3.0,,Cloud computing
+Design and build extremely large-scale systems using real cloud platforms and services,Students will learn how to design and construct large-scale systems using cloud platforms and services.,TOPICS CLOUD COMPUTING,3.0,,Understand the underlying principles and building blocks in the design of such large-scale applications
 Understand the underlying principles and building blocks in the design of such large-scale applications,Students will gain knowledge of the fundamental principles and components involved in designing large-scale applications.,TOPICS CLOUD COMPUTING,3.0,,Understand the underlying principles and building blocks in the design of such large-scale applications
 Practical experience working on different stages of the life cycle of cloud computing and big data systems,Students will develop hands-on experience in various stages of the life cycle of cloud computing and big data systems.,TOPICS CLOUD COMPUTING,3.0,,Cloud computing
 Evaluate the performance of machine learning and deep learning systems on cloud platforms,Students will learn how to assess the performance of machine learning and deep learning systems on cloud platforms.,TOPICS CLOUD COMPUTING,3.0,,Cloud computing
 "Run experiments using standard DL frameworks (TensorFlow, PyTorch) and work with open-source DL technologies",Students will gain proficiency in running experiments using popular deep learning frameworks and open-source technologies.,TOPICS CLOUD COMPUTING,3.0,,"Run experiments using standard DL frameworks (TensorFlow, PyTorch) and work with open-source DL technologies"
-Algorithm design and analysis,Students will learn how to design and analyze algorithms for testing various properties.,INTRO PROPERTY TESTING,3.0,,Algorithm Design and Analysis
-Programming in a rigorous and mathematical setting,Students will gain experience with programming in a rigorous and mathematical context.,INTRO PROPERTY TESTING,3.0,,Programming
-Research paper writing,Students will develop the skill of writing up their results in a research-style paper.,INTRO PROPERTY TESTING,3.0,,Paper reading/writing
-Reading and understanding research papers,Students will enhance their ability to read and comprehend research papers.,INTRO PROPERTY TESTING,3.0,,Paper reading/writing
-Implementation and analysis of algorithms,Students will gain hands-on experience with implementing and analyzing algorithms for property testing.,INTRO PROPERTY TESTING,3.0,,Algorithm Design and Analysis
-Mathematical Foundations,"Students will develop proficiency in the mathematical foundations of data privacy concepts such as differential privacy, k-anonymity, and l-diversity.",FOUNDATIONS DATA PRIVACY,3.0,,Mathematical Reasoning
-Data Privacy Analysis,Students will learn how to analyze and evaluate data privacy techniques and algorithms.,FOUNDATIONS DATA PRIVACY,3.0,,Data Privacy Analysis
-Research Skills,Students will acquire the ability to conduct research in the field of data privacy and stay updated with recent advancements.,FOUNDATIONS DATA PRIVACY,3.0,,Research
+Algorithm design and analysis,Students will learn how to design and analyze algorithms for testing various properties.,INTRO PROPERTY TESTING,3.0,,Algorithm design and analysis
+Programming in a rigorous and mathematical setting,Students will gain experience with programming in a rigorous and mathematical context.,INTRO PROPERTY TESTING,3.0,,Mathematical proof writing
+Research paper writing,Students will develop the skill of writing up their results in a research-style paper.,INTRO PROPERTY TESTING,3.0,,Reading research papers
+Reading and understanding research papers,Students will enhance their ability to read and comprehend research papers.,INTRO PROPERTY TESTING,3.0,,Reading research papers
+Implementation and analysis of algorithms,Students will gain hands-on experience with implementing and analyzing algorithms for property testing.,INTRO PROPERTY TESTING,3.0,,Algorithm design and analysis
+Mathematical Foundations,"Students will develop proficiency in the mathematical foundations of data privacy concepts such as differential privacy, k-anonymity, and l-diversity.",FOUNDATIONS DATA PRIVACY,3.0,,Mathematical proof writing
+Data Privacy Analysis,Students will learn how to analyze and evaluate data privacy techniques and algorithms.,FOUNDATIONS DATA PRIVACY,3.0,,Data visualization
+Research Skills,Students will acquire the ability to conduct research in the field of data privacy and stay updated with recent advancements.,FOUNDATIONS DATA PRIVACY,3.0,,Reading research papers
 Problem-solving,Students will enhance their problem-solving skills by applying data privacy concepts to real-world problems.,FOUNDATIONS DATA PRIVACY,3.0,,Problem-solving
 Critical Thinking,Students will develop critical thinking skills to assess the effectiveness and limitations of different data privacy approaches.,FOUNDATIONS DATA PRIVACY,3.0,,Critical thinking
-Data analysis,Students will learn how to measure and analyze Internet traffic using tools and techniques.,INTERNET MEASUREMENT,3.0,,Analysis
-Programming,Students may develop programming skills to develop tools for measuring and analyzing Internet traffic.,INTERNET MEASUREMENT,3.0,,Programming
+Data analysis,Students will learn how to measure and analyze Internet traffic using tools and techniques.,INTERNET MEASUREMENT,3.0,,Data visualization
+Programming,Students may develop programming skills to develop tools for measuring and analyzing Internet traffic.,INTERNET MEASUREMENT,3.0,,Communication
 Communication,Students may enhance their communication skills through project work and presenting their findings.,INTERNET MEASUREMENT,3.0,,Communication
 Problem-solving,Students may develop problem-solving skills as they work on projects related to Internet traffic analysis.,INTERNET MEASUREMENT,3.0,,Problem-solving
-Technical proficiency,Students may gain proficiency in using various tools and techniques for Internet traffic measurement and analysis.,INTERNET MEASUREMENT,3.0,,Technical proficiency
+Technical proficiency,Students may gain proficiency in using various tools and techniques for Internet traffic measurement and analysis.,INTERNET MEASUREMENT,3.0,,Proficiency in analyzing networks
 Network protocol analysis,Students will learn how to analyze and understand the different protocols used in computer networks.,ADV COMPUTER NETWORKS,3.0,,Network analysis
-Routing algorithms,Students will gain proficiency in designing and implementing routing algorithms for efficient data transmission in networks.,ADV COMPUTER NETWORKS,3.0,,Algorithm Design and Analysis
+Routing algorithms,Students will gain proficiency in designing and implementing routing algorithms for efficient data transmission in networks.,ADV COMPUTER NETWORKS,3.0,,Algorithm design and analysis
 Data harvesting and exploration,Students will learn how to collect and analyze data.,MACHINE LEARNING DATASETS,3.0,,Data processing
 Data manipulation and transformation,Students will gain proficiency in manipulating and transforming data.,MACHINE LEARNING DATASETS,3.0,,Data processing
 Statistical frameworks and methods,Students will learn and apply statistical frameworks and methods to extract insights from data.,MACHINE LEARNING DATASETS,3.0,,Statistical frameworks and methods
 Machine learning techniques,Students will learn and implement common machine learning techniques.,MACHINE LEARNING DATASETS,3.0,,Supervised learning techniques
-Programming,Students will develop programming skills to implement machine learning algorithms.,MACHINE LEARNING DATASETS,3.0,,Programming
+Programming,Students will develop programming skills to implement machine learning algorithms.,MACHINE LEARNING DATASETS,3.0,,Communication
 Human-computer interfaces,Students will learn how to design and interact with user interfaces to enhance user experience.,INTRO TO INFORMATION SCIE,3.0,,Mobile human-to-computer interaction (HCI)
 Digital information representation,Students will gain proficiency in representing information digitally using various formats and technologies.,INTRO TO INFORMATION SCIE,3.0,,Data visualization
 Information organization and search,Students will learn techniques and strategies for organizing and searching information effectively.,INTRO TO INFORMATION SCIE,3.0,,Information organization and search
 Algorithmic problem-solving,Students will develop the ability to solve problems using algorithms and logical thinking.,INTRO TO INFORMATION SCIE,3.0,,Problem-solving
 Programming in Python,Students will learn the fundamentals of programming using the Python language.,INTRO TO INFORMATION SCIE,3.0,,Python programming
-Statistical computing,Students will learn how to apply statistical computing skills to economics research and analysis.,COMPUTING IN ECONOMICS,4.0,,Data processing
+Statistical computing,Students will learn how to apply statistical computing skills to economics research and analysis.,COMPUTING IN ECONOMICS,4.0,,Statistical frameworks and methods
 Econometrics,"Students will gain proficiency in econometrics, which involves the application of statistical methods to economic data.",COMPUTING IN ECONOMICS,4.0,,Econometrics
 Financial decision-making,"Students will learn the principles of financial decision-making, including bond and stock valuations, capital budgeting, dividend policy, market efficiency, risk valuation, and risk management.",COMPUTING IN ECONOMICS,4.0,,Financial decision-making
-Programming,"Students will develop programming skills, particularly in Java and MATLAB, which are commonly used in economics research and analysis.",COMPUTING IN ECONOMICS,4.0,,Programming
+Programming,"Students will develop programming skills, particularly in Java and MATLAB, which are commonly used in economics research and analysis.",COMPUTING IN ECONOMICS,4.0,,Communication
 Data analysis,Students will learn how to analyze and interpret economic data using various statistical techniques.,COMPUTING IN ECONOMICS,4.0,,Data visualization
 Python programming,"Students will learn introductory Python programming skills, which will enable them to write code and solve problems using Python.",COMPUTING IN ART,4.0,,Python programming
 Algorithmic problem-solving,Students will develop the ability to analyze problems and design efficient algorithms to solve them.,COMPUTING IN ART,4.0,,Problem-solving
 Text analysis,"Students will gain proficiency in computational methods for text analysis, allowing them to extract meaningful information from textual data.",COMPUTING IN ART,4.0,,Analysis
 Physical computing,"Students will learn the foundations of physical computing, including working with micro-controllers, sensors, and actuators.",COMPUTING IN ART,4.0,,Cloud computing
-Creative coding,Students will develop the ability to use coding as a tool for artistic expression and create interactive forms of art.,COMPUTING IN ART,4.0,,Programming
-Programming,Students will gain proficiency in programming languages such as Java and Python.,COMPUTING IN LINGUISTICS,4.0,,Programming
+Creative coding,Students will develop the ability to use coding as a tool for artistic expression and create interactive forms of art.,COMPUTING IN ART,4.0,,Collaborative programming
+Programming,Students will gain proficiency in programming languages such as Java and Python.,COMPUTING IN LINGUISTICS,4.0,,Communication
 Database Management,Students will learn how to design and manage databases.,COMPUTING IN LINGUISTICS,4.0,,Database design
-Natural Language Processing,Students will develop skills in analyzing and processing natural language data.,COMPUTING IN LINGUISTICS,4.0,,Language generation
-Machine Learning,Students will learn techniques and algorithms for machine learning.,COMPUTING IN LINGUISTICS,4.0,,Supervised learning techniques
+Natural Language Processing,Students will develop skills in analyzing and processing natural language data.,COMPUTING IN LINGUISTICS,4.0,,Applying neural networks to computer vision and natural language processing
+Machine Learning,Students will learn techniques and algorithms for machine learning.,COMPUTING IN LINGUISTICS,4.0,,Deep learning
 Problem-solving,Students will develop problem-solving skills through programming projects and assignments.,COMPUTING IN LINGUISTICS,4.0,,Problem-solving
-Machine learning,Students will gain proficiency in using machine learning techniques to analyze biological data.,COMPUTING IN BIOLOGY,4.0,,Supervised learning techniques
+Machine learning,Students will gain proficiency in using machine learning techniques to analyze biological data.,COMPUTING IN BIOLOGY,4.0,,Deep learning
 Data visualization,Students will learn how to effectively visualize and interpret biological data using computational tools.,COMPUTING IN BIOLOGY,4.0,,Data visualization
-Statistical analysis,Students will develop skills in statistical analysis to draw meaningful conclusions from biological datasets.,COMPUTING IN BIOLOGY,4.0,,Data visualization
+Statistical analysis,Students will develop skills in statistical analysis to draw meaningful conclusions from biological datasets.,COMPUTING IN BIOLOGY,4.0,,Statistical frameworks and methods
 Genome assembly,Students will learn the skill of assembling genomes from fragmented DNA sequences.,COMPUTING IN BIOLOGY,4.0,,Genome assembly
 Protein structure prediction,Students will gain the ability to predict the three-dimensional structure of proteins using computational methods.,COMPUTING IN BIOLOGY,4.0,,Protein structure prediction
-Java programming,"Students will learn how to write programs in Java, a popular programming language used in industry and academia.",INTRO-COMPUT SCI/PROG IN,3.0,,Python programming
-Algorithm design and implementation,Students will learn how to design and implement algorithms to solve problems.,INTRO-COMPUT SCI/PROG IN,3.0,,Algorithm Design and Analysis
+Java programming,"Students will learn how to write programs in Java, a popular programming language used in industry and academia.",INTRO-COMPUT SCI/PROG IN,3.0,,Object-Oriented Programming in Java
+Algorithm design and implementation,Students will learn how to design and implement algorithms to solve problems.,INTRO-COMPUT SCI/PROG IN,3.0,,Algorithm design and analysis
 Data structure manipulation,Students will learn how to use data structures to solve problems.,INTRO-COMPUT SCI/PROG IN,3.0,,Data Structures
-Collaborative programming,Students will learn how to work collaboratively on programming projects.,INTRO-COMPUT SCI/PROG IN,3.0,,Programming
+Collaborative programming,Students will learn how to work collaboratively on programming projects.,INTRO-COMPUT SCI/PROG IN,3.0,,Collaborative programming
 Problem-solving,Students will develop problem-solving skills as they work on programming projects.,INTRO-COMPUT SCI/PROG IN,3.0,,Problem-solving
 Collaborative problem-solving,"Students will develop the skill of working collaboratively with others to solve complex problems, as emphasized by the course's focus on teamwork and collaborative projects.",EMERGING SCHOLARS PROG SE,1.0,,Problem-solving
-Presentation skills,"Students will learn how to effectively present their ideas and findings to others, as indicated by the course's inclusion of student presentations.",EMERGING SCHOLARS PROG SE,1.0,,Presenting work
-In-depth knowledge of computer science-related topics and fields,"Students will acquire a comprehensive understanding of various computer science-related subjects, allowing them to apply this knowledge in their future work.",EMERGING SCHOLARS PROG SE,1.0,,Technical proficiency
-Teamwork skills,"Students will develop the ability to work effectively in teams, as highlighted by the course's emphasis on collaborative work and team-oriented projects.",EMERGING SCHOLARS PROG SE,1.0,,Technical proficiency
-Full-stack web development,"Students will gain proficiency in all aspects of web development, including front-end and back-end technologies.",FULL STACK WEB DEVELOP,1.0,,Front-end development using Web3.js
-JavaScript,"Students will learn and develop proficiency in JavaScript, a widely used programming language for web development.",FULL STACK WEB DEVELOP,1.0,,Programming
+Presentation skills,"Students will learn how to effectively present their ideas and findings to others, as indicated by the course's inclusion of student presentations.",EMERGING SCHOLARS PROG SE,1.0,,Presentation skills
+In-depth knowledge of computer science-related topics and fields,"Students will acquire a comprehensive understanding of various computer science-related subjects, allowing them to apply this knowledge in their future work.",EMERGING SCHOLARS PROG SE,1.0,,Programming skills in computer graphics algorithms and techniques
+Teamwork skills,"Students will develop the ability to work effectively in teams, as highlighted by the course's emphasis on collaborative work and team-oriented projects.",EMERGING SCHOLARS PROG SE,1.0,,Group work
+Full-stack web development,"Students will gain proficiency in all aspects of web development, including front-end and back-end technologies.",FULL STACK WEB DEVELOP,1.0,,Front-end and back-end web development
+JavaScript,"Students will learn and develop proficiency in JavaScript, a widely used programming language for web development.",FULL STACK WEB DEVELOP,1.0,,XML
 Databases (MySQL and MongoDB),"Students will learn how to work with databases, specifically MySQL and MongoDB, and gain proficiency in querying and manipulating data.",FULL STACK WEB DEVELOP,1.0,,Database design
-Progressive web applications,"Students will learn how to develop progressive web applications, which are web apps that can function offline and provide a native app-like experience.",FULL STACK WEB DEVELOP,1.0,,Progressive web applications
+Progressive web applications,"Students will learn how to develop progressive web applications, which are web apps that can function offline and provide a native app-like experience.",FULL STACK WEB DEVELOP,1.0,,Front-end and back-end web development
 Agile methodology,"Students will learn and apply agile methodology, a project management approach that emphasizes flexibility, collaboration, and iterative development.",FULL STACK WEB DEVELOP,1.0,,Agile methodology
-Object-oriented design,Students will learn how to design computer software according to object-oriented design patterns and clean coding practices.,Clean Object-Oriented Des,3.0,,Database design
-Java programming,Students will gain proficiency in using Java to implement object-oriented design principles.,Clean Object-Oriented Des,3.0,,Python programming
+Object-oriented design,Students will learn how to design computer software according to object-oriented design patterns and clean coding practices.,Clean Object-Oriented Des,3.0,,Object-Oriented Programming in Java
+Java programming,Students will gain proficiency in using Java to implement object-oriented design principles.,Clean Object-Oriented Des,3.0,,Object-Oriented Programming in Java
 UML,Students will learn how to use UML (Unified Modeling Language) to visualize and document their software designs.,Clean Object-Oriented Des,3.0,,UML
 Javadoc,Students will learn how to use Javadoc to generate documentation for their Java code.,Clean Object-Oriented Des,3.0,,Javadoc
 Design patterns,"Students will learn various design patterns such as adapter, builder, command, composite, decorator, facade, factory, iterator, lazy evaluation, observer, singleton, strategy, template, and visitor.",Clean Object-Oriented Des,3.0,,Design patterns
 Algorithmic problem-solving,"Students will learn fundamental ways of algorithmic problem-solving, which involves breaking down complex problems into smaller, manageable steps.",DATA STRUCTURES IN JAVA,3.0,,Problem-solving
 Data structure manipulation,"Students will gain proficiency in manipulating basic data types and structures such as arrays, linked lists, stacks, queues, trees, sets, maps, and graphs.",DATA STRUCTURES IN JAVA,3.0,,Data Structures
-Programming techniques,"Students will learn various programming techniques and algorithms that operate on data structures, such as sorting, searching, hashing, and finding shortest paths.",DATA STRUCTURES IN JAVA,3.0,,Programming
-Space and time analysis,"Students will develop the ability to analyze the space and time requirements of algorithms, understanding their efficiency and performance.",DATA STRUCTURES IN JAVA,3.0,,Space and time analysis
+Programming techniques,"Students will learn various programming techniques and algorithms that operate on data structures, such as sorting, searching, hashing, and finding shortest paths.",DATA STRUCTURES IN JAVA,3.0,,Programming skills in computer graphics algorithms and techniques
+Space and time analysis,"Students will develop the ability to analyze the space and time requirements of algorithms, understanding their efficiency and performance.",DATA STRUCTURES IN JAVA,3.0,,Algorithm design and analysis
 Object-Oriented Programming in Java,"Students will enhance their skills in Object-Oriented Programming using Java, applying it to solve algorithmic problems efficiently.",DATA STRUCTURES IN JAVA,3.0,,Object-Oriented Programming in Java
-Proficiency in C/C++,Students will gain proficiency in programming in C/C++.,ESSENTIAL DATA STRUCTURES,4.0,,Technical proficiency
-Algorithm analysis,Students will learn how to analyze the efficiency of algorithms using Big O notation.,ESSENTIAL DATA STRUCTURES,4.0,,Algorithm Design and Analysis
+Proficiency in C/C++,Students will gain proficiency in programming in C/C++.,ESSENTIAL DATA STRUCTURES,4.0,,Proficiency in Haskell programming language
+Algorithm analysis,Students will learn how to analyze the efficiency of algorithms using Big O notation.,ESSENTIAL DATA STRUCTURES,4.0,,Algorithm design and analysis
 Problem-solving,Students will develop problem-solving skills as they work on programming assignments and projects.,ESSENTIAL DATA STRUCTURES,4.0,,Problem-solving
-Teamwork,Students will enhance their ability to work on programming assignments and projects in a team.,ESSENTIAL DATA STRUCTURES,4.0,,Project management
+Teamwork,Students will enhance their ability to work on programming assignments and projects in a team.,ESSENTIAL DATA STRUCTURES,4.0,,Group work
 Programming with data structures,Students will learn how to implement data structures and algorithms in C/C++.,ESSENTIAL DATA STRUCTURES,4.0,,Data Structures
 C programming,Students will gain proficiency in writing complex programs in C.,ADVANCED PROGRAMMING,4.0,,Python programming
 C++ programming,Students will gain proficiency in writing complex programs in C++.,ADVANCED PROGRAMMING,4.0,,Python programming
@@ -185,30 +185,30 @@ UNIX environment,Students will learn how to work with the UNIX environment and v
 Debugging,"Students will develop skills in debugging programs using tools such as gdb, valgrind, and strace.",ADVANCED PROGRAMMING,4.0,,Debugging
 Memory management,"Students will develop skills in memory management, including dynamic memory allocation, garbage collection, and identifying memory leaks.",ADVANCED PROGRAMMING,4.0,,Virtual memory management
 Problem-solving,"Students will develop problem-solving skills as they work on assignments and projects, applying the concepts learned in class to real-world problems.",DISCRETE MATHEMATICS,4.0,,Problem-solving
-SQL,"Students will gain proficiency in SQL, a valuable skill for working with databases and data manipulation.",DISCRETE MATHEMATICS,4.0,,SQL
+SQL,"Students will gain proficiency in SQL, a valuable skill for working with databases and data manipulation.",DISCRETE MATHEMATICS,4.0,,XML
 Problem-solving,Students will develop problem-solving skills as they learn computational thinking and work on problem sets and projects.,COMPUTER SCIENCE THEORY,3.0,,Problem-solving
-Algorithmic thinking,Students will learn how to think algorithmically and develop the skill of designing efficient algorithms.,COMPUTER SCIENCE THEORY,3.0,,Mathematical Reasoning
-Mathematical reasoning,Students will gain proficiency in mathematical reasoning as they study the fundamental models of computation.,COMPUTER SCIENCE THEORY,3.0,,Mathematical Reasoning
-Programming,"Although not explicitly mentioned in the course description, it can be inferred that students will develop programming skills as they work on problem sets and the final project.",COMPUTER SCIENCE THEORY,3.0,,Programming
+Algorithmic thinking,Students will learn how to think algorithmically and develop the skill of designing efficient algorithms.,COMPUTER SCIENCE THEORY,3.0,,Critical thinking
+Mathematical reasoning,Students will gain proficiency in mathematical reasoning as they study the fundamental models of computation.,COMPUTER SCIENCE THEORY,3.0,,Mathematical proof writing
+Programming,"Although not explicitly mentioned in the course description, it can be inferred that students will develop programming skills as they work on problem sets and the final project.",COMPUTER SCIENCE THEORY,3.0,,Communication
 Analytical thinking,Students will enhance their analytical thinking skills as they analyze and understand the concepts of computability and complexity.,COMPUTER SCIENCE THEORY,3.0,,Critical thinking
 Critical thinking,Students will develop the skill of critical thinking as they analyze the impact of computers on society and explore various topics related to computers and society.,COMPUTERS AND SOCIETY,3.0,,Critical thinking
-Research,Students will learn and practice research skills as they gather information and data to support their analysis of the broader impact of computers on society.,COMPUTERS AND SOCIETY,3.0,,Research
+Research,Students will learn and practice research skills as they gather information and data to support their analysis of the broader impact of computers on society.,COMPUTERS AND SOCIETY,3.0,,Analysis
 Analysis,"Students will develop the skill of analysis as they examine the social, ethical, and legal issues surrounding computers and society, including topics such as social media and privacy, employment, intellectual property, and the media.",COMPUTERS AND SOCIETY,3.0,,Analysis
 Communication,"Students will enhance their communication skills through participation in discussions, sharing their opinions, and completing projects that require effective communication of their ideas and findings.",COMPUTERS AND SOCIETY,3.0,,Communication
 Project management,Students will gain experience in project management as they work on real-world scenarios and apply what they have learned to solve problems and accomplish objectives.,COMPUTERS AND SOCIETY,3.0,,Project management
-SQL,"Students will gain proficiency in SQL through the projects and programming assignments, allowing them to manipulate and query databases effectively.",INTRODUCTION TO DATABASES,3.0,,SQL
+SQL,"Students will gain proficiency in SQL through the projects and programming assignments, allowing them to manipulate and query databases effectively.",INTRODUCTION TO DATABASES,3.0,,XML
 Database design and implementation,"Students will learn how to design and implement databases, which involves handling and manipulating data to create efficient and functional database structures.",INTRODUCTION TO DATABASES,3.0,,Database design
-Coding,"Students will gain proficiency in coding, particularly in building systems-level components.",FUND-LARGE-SCALE DIST SYS,3.0,,Programming
-SQL,Students will learn SQL to manipulate and handle data in distributed systems.,FUND-LARGE-SCALE DIST SYS,3.0,,SQL
-Coding,"Students will develop solid coding skills, particularly in building systems-level components, through the homework series. This skill is necessary to design and implement distributed systems.",FUND-LARGE-SCALE DIST SYSTEMS,3.0,,Programming
-SQL,"Students will gain proficiency in SQL, which is essential for working with databases in distributed systems.",FUND-LARGE-SCALE DIST SYSTEMS,3.0,,SQL
-Programming,Students will develop proficiency in programming languages and gain practical skills in writing code.,PROGRAMMING LANG & TRANSL,3.0,,Programming
+Coding,"Students will gain proficiency in coding, particularly in building systems-level components.",FUND-LARGE-SCALE DIST SYS,3.0,,Communication
+SQL,Students will learn SQL to manipulate and handle data in distributed systems.,FUND-LARGE-SCALE DIST SYS,3.0,,XML
+Coding,"Students will develop solid coding skills, particularly in building systems-level components, through the homework series. This skill is necessary to design and implement distributed systems.",FUND-LARGE-SCALE DIST SYSTEMS,3.0,,Communication
+SQL,"Students will gain proficiency in SQL, which is essential for working with databases in distributed systems.",FUND-LARGE-SCALE DIST SYSTEMS,3.0,,XML
+Programming,Students will develop proficiency in programming languages and gain practical skills in writing code.,PROGRAMMING LANG & TRANSL,3.0,,Communication
 Memory management,Students will learn how to manage memory effectively in programming languages.,PROGRAMMING LANG & TRANSL,3.0,,Virtual memory management
 Garbage collection,Students will gain knowledge and skills in implementing garbage collection techniques in programming languages.,PROGRAMMING LANG & TRANSL,3.0,,Garbage collection
 Concurrency,Students will learn about concurrency issues and develop skills in writing concurrent programs.,PROGRAMMING LANG & TRANSL,3.0,,Communication
 Language translation and compilation,Students will gain knowledge and skills in translating and compiling programming languages.,PROGRAMMING LANG & TRANSL,3.0,,Language generation
 Compiler design,Students will gain proficiency in designing and implementing compilers for programming languages.,PROGRAMMING LANG-TRANSLATORS,3.0,,Compiler design
-Programming languages,"Students will learn about different programming languages, including imperative, object-oriented, functional, logic, and scripting languages.",PROGRAMMING LANG-TRANSLATORS,3.0,,Programming
+Programming languages,"Students will learn about different programming languages, including imperative, object-oriented, functional, logic, and scripting languages.",PROGRAMMING LANG-TRANSLATORS,3.0,,Knowledge of parallel programming models and languages
 Lexical analysis,"Students will develop the skill of performing lexical analysis, which involves breaking down source code into tokens.",PROGRAMMING LANG-TRANSLATORS,3.0,,Analysis
 Parsing,Students will learn how to parse source code and create a parse tree.,PROGRAMMING LANG-TRANSLATORS,3.0,,Analysis
 Code generation,Students will acquire the skill of generating executable code from the parse tree.,PROGRAMMING LANG-TRANSLATORS,3.0,,Language generation
@@ -218,36 +218,36 @@ Open source software,Students will gain experience working with open source soft
 Group work,Students will develop the ability to work effectively in groups and complete assignments and projects on time.,OPERATING SYSTEMS I,3.0,,Group work
 Problem-solving,Students will enhance their problem-solving skills through the practical application of operating system design and implementation concepts.,OPERATING SYSTEMS I,3.0,,Problem-solving
 Software engineering practices,"Students will gain proficiency in modern software engineering practices, including SaaS architecture, behavior-driven development, Ruby on Rails, and Dev/ops.",Engineering Software-as-a,3.0,,Software verification
-Web application development,"Students will learn how to design, develop, and deploy web applications using Ruby on Rails.",Engineering Software-as-a,3.0,,Progressive web applications
+Web application development,"Students will learn how to design, develop, and deploy web applications using Ruby on Rails.",Engineering Software-as-a,3.0,,Front-end and back-end web development
 Behavior-driven development,Students will learn how to use behavior-driven development to write high-quality code.,Engineering Software-as-a,3.0,,Behavior-driven development
-SQL,Students will gain proficiency in SQL.,Engineering Software-as-a,3.0,,SQL
-XML,Students will learn about XML (eXtensible Markup Language) and its use in databases.,Engineering Software-as-a,3.0,,SQL
+SQL,Students will gain proficiency in SQL.,Engineering Software-as-a,3.0,,XML
+XML,Students will learn about XML (eXtensible Markup Language) and its use in databases.,Engineering Software-as-a,3.0,,XML
 Agile development,"Students will gain proficiency in agile development practices, which involve iterative and incremental development to deliver high-quality software.",ADVANCED SOFTWARE ENGINEE,3.0,,Agile methodology
 Continuous integration and deployment,Students will learn how to automate the process of integrating code changes and deploying software to ensure a smooth and efficient development workflow.,ADVANCED SOFTWARE ENGINEE,3.0,,Continuous integration and deployment
 Testing and debugging,Students will develop skills in testing software and identifying and fixing bugs to ensure the reliability and functionality of their applications.,ADVANCED SOFTWARE ENGINEE,3.0,,Debugging
-SaaS architecture,"Students will learn how to design and implement a Software as a Service (SaaS) architecture, which involves delivering software over the internet on a subscription basis.",ADVANCED SOFTWARE ENGINEE,3.0,,Cloud computing
+SaaS architecture,"Students will learn how to design and implement a Software as a Service (SaaS) architecture, which involves delivering software over the internet on a subscription basis.",ADVANCED SOFTWARE ENGINEE,3.0,,Working with SaaS architecture
 Ruby on Rails,"Students will gain proficiency in using the Ruby on Rails framework, a popular web development framework known for its simplicity and productivity.",ADVANCED SOFTWARE ENGINEE,3.0,,Ruby on Rails
-Building modern software products and services,Students will learn how to develop software products and services using modern software engineering practices.,Advanced Software Engineering,3.0,,Software verification
+Building modern software products and services,Students will learn how to develop software products and services using modern software engineering practices.,Advanced Software Engineering,3.0,,Front-end and back-end web development
 Working with SaaS architecture,Students will gain proficiency in working with Software as a Service (SaaS) architecture.,Advanced Software Engineering,3.0,,Working with SaaS architecture
 Implementing behavior-driven development,Students will learn how to implement behavior-driven development techniques in software development.,Advanced Software Engineering,3.0,,Implementing behavior-driven development
-Developing software using Ruby on Rails,Students will develop the skill of building software applications using the Ruby on Rails framework.,Advanced Software Engineering,3.0,,Developing software using Ruby on Rails
+Developing software using Ruby on Rails,Students will develop the skill of building software applications using the Ruby on Rails framework.,Advanced Software Engineering,3.0,,Ruby on Rails
 Programming skills in computer graphics algorithms and techniques,Students will gain proficiency in programming computer graphics algorithms and techniques through the completion of programming projects.,COMPUTER GRAPHICS,3.0,,Programming skills in computer graphics algorithms and techniques
-Implementation skills in advanced graphics techniques,"Students will develop the ability to implement projects that involve advanced graphics techniques, demonstrating their proficiency in implementing complex graphics algorithms.",COMPUTER GRAPHICS,3.0,,3D graphics
-Presentation skills,Students will enhance their presentation skills through paper-presentation sessions where they read research papers and present them in class.,COMPUTER GRAPHICS,3.0,,Presenting work
+Implementation skills in advanced graphics techniques,"Students will develop the ability to implement projects that involve advanced graphics techniques, demonstrating their proficiency in implementing complex graphics algorithms.",COMPUTER GRAPHICS,3.0,,Programming skills in computer graphics algorithms and techniques
+Presentation skills,Students will enhance their presentation skills through paper-presentation sessions where they read research papers and present them in class.,COMPUTER GRAPHICS,3.0,,Presentation skills
 Image processing,"Students will gain proficiency in techniques for manipulating and analyzing pixel data, such as convolutional neural nets and other deep learning algorithms.",COMPUT TECHNIQUES-PIXEL P,3.0,,Data processing
 Computer graphics,Students will learn skills related to creating and manipulating visual content using computer software and hardware.,COMPUT TECHNIQUES-PIXEL P,3.0,,3D graphics
-User interface design,Students will gain proficiency in designing user interfaces for web-based applications.,USER INTERFACE DESIGN,3.0,,Database design
+User interface design,Students will gain proficiency in designing user interfaces for web-based applications.,USER INTERFACE DESIGN,3.0,,Iterative design
 Iterative design,Students will learn how to design usable systems through iteration and feedback.,USER INTERFACE DESIGN,3.0,,Iterative design
-SQL,Students will develop proficiency in SQL for database management.,USER INTERFACE DESIGN,3.0,,SQL
-XML,Students will learn about XML and its use in databases.,USER INTERFACE DESIGN,3.0,,SQL
+SQL,Students will develop proficiency in SQL for database management.,USER INTERFACE DESIGN,3.0,,XML
+XML,Students will learn about XML and its use in databases.,USER INTERFACE DESIGN,3.0,,XML
 Problem-solving,Students will develop problem-solving skills as they work on programming projects.,USER INTERFACE DESIGN,3.0,,Problem-solving
 Financial analysis,Students will learn how to analyze financial data and make informed investment decisions.,SECURITY I,3.0,,Financial decision-making
-Presentation skills,Students will develop the ability to effectively communicate their investment ideas and analysis to others.,SECURITY I,3.0,,Presenting work
-Research skills,Students will learn how to conduct thorough primary research to gather relevant information for investment analysis.,SECURITY I,3.0,,Research
+Presentation skills,Students will develop the ability to effectively communicate their investment ideas and analysis to others.,SECURITY I,3.0,,Presentation skills
+Research skills,Students will learn how to conduct thorough primary research to gather relevant information for investment analysis.,SECURITY I,3.0,,Presentation skills
 Valuation methods,Students will gain proficiency in various valuation techniques used in security analysis.,SECURITY I,3.0,,Formal methods
 Decision-making,Students will develop the ability to make informed decisions based on their analysis of investment opportunities.,SECURITY I,3.0,,Financial decision-making
 Malware analysis,Students will gain proficiency in analyzing malware and understanding how it works.,MALWARE ANALYSIS&REVERSE,3.0,,Malicious code analysis
-Tool development,Students will learn how to develop tools to detect and prevent malware attacks.,MALWARE ANALYSIS&REVERSE,3.0,,Technical proficiency
+Tool development,Students will learn how to develop tools to detect and prevent malware attacks.,MALWARE ANALYSIS&REVERSE,3.0,,Tool development
 Reverse engineering,"Students will acquire skills in using disassemblers, debuggers, and other tools for reverse engineering.",MALWARE ANALYSIS&REVERSE,3.0,,Reverse engineering
 Windows Internals,Students will develop knowledge and skills in studying Windows Internals.,MALWARE ANALYSIS&REVERSE,3.0,,Windows Internals
 x86 assembly,Students will learn how to analyze and work with x86 assembly code.,MALWARE ANALYSIS&REVERSE,3.0,,x86 assembly
@@ -255,53 +255,53 @@ Python programming,"Students will learn and develop proficiency in Python progra
 Computational thinking,Students will develop the ability to think algorithmically and solve problems using computational methods.,INTRO-COMPUTATIONAL COMPL,3.0,,Critical thinking
 Data analysis,Students will gain skills in analyzing and interpreting data using computational tools.,INTRO-COMPUTATIONAL COMPL,3.0,,Data visualization
 Text analysis,Students will learn computational methods for analyzing and processing text data.,INTRO-COMPUTATIONAL COMPL,3.0,,Analysis
-Programming skills,Students will acquire introductory programming skills that can be applied in various fields.,INTRO-COMPUTATIONAL COMPL,3.0,,Programming
-Analyzing time and space complexity of algorithms,Students will develop the skill of analyzing the efficiency of algorithms in terms of time and space requirements.,INTRO-COMPUTATIONAL COMPLEXITY,3.0,,Space and time analysis
+Programming skills,Students will acquire introductory programming skills that can be applied in various fields.,INTRO-COMPUTATIONAL COMPL,3.0,,Programming skills in computer graphics algorithms and techniques
+Analyzing time and space complexity of algorithms,Students will develop the skill of analyzing the efficiency of algorithms in terms of time and space requirements.,INTRO-COMPUTATIONAL COMPLEXITY,3.0,,Algorithm design and analysis
 Understanding the concept of NP-completeness,"Students will gain the skill of recognizing and identifying NP-complete problems, which are important in the field of computational complexity.",INTRO-COMPUTATIONAL COMPLEXITY,3.0,,Understanding the concept of NP-completeness
 Understanding the concept of hardness of approximation,"Students will learn how to assess the difficulty of approximating optimization problems, developing the skill of evaluating approximation algorithms.",INTRO-COMPUTATIONAL COMPLEXITY,3.0,,Understanding the concept of hardness of approximation
 Problem-solving,"Through completing weekly problem sets and a final project, students will enhance their problem-solving abilities in the context of computational complexity theory.",INTRO-COMPUTATIONAL COMPLEXITY,3.0,,Problem-solving
 Communication,"The course requires students to apply the concepts they have learned to a real-world problem, which will improve their ability to communicate their ideas effectively.",INTRO-COMPUTATIONAL COMPLEXITY,3.0,,Communication
-SQL,"Students will gain proficiency in SQL, which is a valuable skill for working with databases and analyzing data.",INTRO-COMPUTATIONAL LEARN,3.0,,SQL
-XML,"Students will learn about XML (eXtensible Markup Language) and its use in databases, which is a skill that can be applied in data management and integration.",INTRO-COMPUTATIONAL LEARN,3.0,,SQL
+SQL,"Students will gain proficiency in SQL, which is a valuable skill for working with databases and analyzing data.",INTRO-COMPUTATIONAL LEARN,3.0,,XML
+XML,"Students will learn about XML (eXtensible Markup Language) and its use in databases, which is a skill that can be applied in data management and integration.",INTRO-COMPUTATIONAL LEARN,3.0,,XML
 Implementation of algorithms for learning from data,"Students will learn how to implement algorithms for learning from data, which involves handling and manipulating data to achieve the objective of learning patterns and making predictions.",INTRO-COMPUTATIONAL LEARN THRY,3.0,,Supervised learning techniques
-Performance analysis of algorithms on real-world datasets,"Students will learn how to analyze the performance of algorithms on real-world datasets, which requires the ability to handle and manipulate data to evaluate the effectiveness of the algorithms.",INTRO-COMPUTATIONAL LEARN THRY,3.0,,Algorithm Design and Analysis
-Cryptographic protocol design and analysis,Students will gain the skill to design and analyze cryptographic protocols.,INTRO TO CRYPTOGRAPHY,3.0,,Algorithm Design and Analysis
+Performance analysis of algorithms on real-world datasets,"Students will learn how to analyze the performance of algorithms on real-world datasets, which requires the ability to handle and manipulate data to evaluate the effectiveness of the algorithms.",INTRO-COMPUTATIONAL LEARN THRY,3.0,,Algorithm design and analysis
+Cryptographic protocol design and analysis,Students will gain the skill to design and analyze cryptographic protocols.,INTRO TO CRYPTOGRAPHY,3.0,,Algorithm design and analysis
 Application of cryptographic techniques,Students will learn how to apply cryptographic techniques to real-world problems.,INTRO TO CRYPTOGRAPHY,3.0,,Application of cryptographic techniques
-Quantum computing,Students will gain proficiency in the theory and principles of quantum computing.,INTRO TO QUANTUM COMPUTIN,3.0,,Cloud computing
-Quantum information,Students will learn about the fundamental postulates and protocols of quantum information theory.,INTRO TO QUANTUM COMPUTIN,3.0,,Quantum information
-Quantum circuit model,Students will develop skills in understanding and working with the quantum circuit model.,INTRO TO QUANTUM COMPUTIN,3.0,,Quantum circuit model
+Quantum computing,Students will gain proficiency in the theory and principles of quantum computing.,INTRO TO QUANTUM COMPUTIN,3.0,,Quantum protocols
+Quantum information,Students will learn about the fundamental postulates and protocols of quantum information theory.,INTRO TO QUANTUM COMPUTIN,3.0,,Quantum protocols
+Quantum circuit model,Students will develop skills in understanding and working with the quantum circuit model.,INTRO TO QUANTUM COMPUTIN,3.0,,Quantum protocols
 Quantum protocols,Students will learn how to implement basic quantum protocols such as quantum teleportation and superdense coding.,INTRO TO QUANTUM COMPUTIN,3.0,,Quantum protocols
 Linear algebra,Familiarity and comfort with abstract linear algebra is a must for this course.,INTRO TO QUANTUM COMPUTIN,3.0,,Linear algebra
 Problem-solving,Students will develop problem-solving skills as they work on building intelligent computer systems and solving open-ended computational problems.,PROGRAMMING & PROBLEM SOL,3.0,,Problem-solving
-Programming,"Students will gain proficiency in programming through hands-on experience in building a basic search agent and adversarial search, as well as completing programming assignments in Python.",PROGRAMMING & PROBLEM SOL,3.0,,Programming
+Programming,"Students will gain proficiency in programming through hands-on experience in building a basic search agent and adversarial search, as well as completing programming assignments in Python.",PROGRAMMING & PROBLEM SOL,3.0,,Communication
 Data analysis,"Students will learn how to analyze data through the introduction to machine learning, including work on linear regression.",PROGRAMMING & PROBLEM SOL,3.0,,Data visualization
 Communication,"Although not explicitly mentioned in the course description, communication skills are essential for collaborating with peers and presenting findings in the field of AI.",PROGRAMMING & PROBLEM SOL,3.0,,Communication
 Creative problem-solving,Students will develop the skill of creative problem-solving as they work on developing business models and solving challenges in the new venture creation process.,PRIN-INNOVATN/ENTREPRENEU,3.0,,Problem-solving
 Communication and negotiation,"Students will enhance their skills in communication and negotiation as they collaborate with team members, present their ideas, and engage in discussions with potential investors and stakeholders.",PRIN-INNOVATN/ENTREPRENEU,3.0,,Communication
 Project management,"Students will learn and practice project management skills as they plan, execute, and monitor the progress of their new venture projects.",PRIN-INNOVATN/ENTREPRENEU,3.0,,Project management
 Financial analysis,"Students will gain proficiency in financial analysis skills, including understanding financial statements, conducting financial forecasting, and evaluating the financial viability of their new ventures.",PRIN-INNOVATN/ENTREPRENEU,3.0,,Financial decision-making
-Website development,"Students will learn the skill of website development as they create websites for their new business or social ventures, showcasing their products or services.",PRIN-INNOVATN/ENTREPRENEU,3.0,,Project management
+Website development,"Students will learn the skill of website development as they create websites for their new business or social ventures, showcasing their products or services.",PRIN-INNOVATN/ENTREPRENEU,3.0,,Front-end and back-end web development
 AI fundamentals,Students will gain proficiency in the fundamental concepts and principles of artificial intelligence.,ARTIFICIAL INTELLIGENCE,3.0,,AI fundamentals
-Machine learning,Students will learn how to apply machine learning techniques to analyze and solve real-world problems.,ARTIFICIAL INTELLIGENCE,3.0,,Supervised learning techniques
-Natural language processing,Students will develop skills in using machine learning techniques to analyze and understand human language.,ARTIFICIAL INTELLIGENCE,3.0,,Language generation
-Computer vision,Students will learn how to use machine learning techniques to analyze and interpret visual data.,ARTIFICIAL INTELLIGENCE,3.0,,Augmented reality
+Machine learning,Students will learn how to apply machine learning techniques to analyze and solve real-world problems.,ARTIFICIAL INTELLIGENCE,3.0,,Deep learning
+Natural language processing,Students will develop skills in using machine learning techniques to analyze and understand human language.,ARTIFICIAL INTELLIGENCE,3.0,,Applying neural networks to computer vision and natural language processing
+Computer vision,Students will learn how to use machine learning techniques to analyze and interpret visual data.,ARTIFICIAL INTELLIGENCE,3.0,,Applying neural networks to computer vision and natural language processing
 Python programming,"Students will acquire proficiency in Python programming, which is commonly used in AI and machine learning.",ARTIFICIAL INTELLIGENCE,3.0,,Python programming
 Python programming,Students will gain practical experience in implementing methods in Python through guided lab sessions.,NATURAL LANGUAGE PROCESSI,3.0,,Python programming
 NLP techniques,"Students will learn advanced methods and systems in NLP, such as named entity recognition, sentiment analysis, and word vector embeddings.",NATURAL LANGUAGE PROCESSI,3.0,,Supervised learning techniques
-SQL,"Students will gain proficiency in SQL, which is commonly used in NLP data analysis.",NATURAL LANGUAGE PROCESSI,3.0,,SQL
+SQL,"Students will gain proficiency in SQL, which is commonly used in NLP data analysis.",NATURAL LANGUAGE PROCESSI,3.0,,XML
 Communication,Students will enhance their communication skills through short video presentations and hands-on class exercises.,NATURAL LANGUAGE PROCESSI,3.0,,Communication
 Problem-solving,Students will develop problem-solving abilities as they work on programming projects and apply NLP techniques to real-world problems.,NATURAL LANGUAGE PROCESSI,3.0,,Problem-solving
-Programming,"Students will develop their programming skills through assignments and the final project, where they will apply concepts learned in class to real-world problems.",Computer Vision I,3.0,,Programming
+Programming,"Students will develop their programming skills through assignments and the final project, where they will apply concepts learned in class to real-world problems.",Computer Vision I,3.0,,Communication
 Python,"Students will gain proficiency in Python, as they will be implementing computer vision algorithms using this programming language.",Computer Vision I,3.0,,Python programming
 OpenCV,Students will learn about OpenCV (Open Source Computer Vision Library) and its use in computer vision algorithms.,Computer Vision I,3.0,,OpenCV
 Critical thinking,Students will develop critical thinking skills as they apply computer vision techniques to solve real-world problems.,Computer Vision I,3.0,,Critical thinking
 Problem-solving,Students will enhance their problem-solving abilities through the assignments and the final project.,Computer Vision I,3.0,,Problem-solving
 Understanding of functional genomics and massively-parallel sequencing technologies,Students will gain knowledge and proficiency in the field of functional genomics and the use of massively-parallel sequencing technologies.,ML for Functional Genomic,3.0,,Understanding of functional genomics and massively-parallel sequencing technologies
-Ability to apply machine learning methods to functional genomics datasets,Students will develop the ability to apply machine learning techniques to analyze and interpret functional genomics datasets.,ML for Functional Genomic,3.0,,Ability to apply machine learning methods to functional genomics datasets
+Ability to apply machine learning methods to functional genomics datasets,Students will develop the ability to apply machine learning techniques to analyze and interpret functional genomics datasets.,ML for Functional Genomic,3.0,,Ability to critically evaluate and interpret results from machine learning models applied to functional genomics data
 Ability to critically evaluate and interpret results from machine learning models applied to functional genomics data,Students will learn how to assess and interpret the outcomes of machine learning models when applied to functional genomics data.,ML for Functional Genomic,3.0,,Ability to critically evaluate and interpret results from machine learning models applied to functional genomics data
 Communication,Students will enhance their communication skills by effectively conveying the results and conclusions of machine learning analyses to a scientific audience.,ML for Functional Genomic,3.0,,Communication
 Machine learning algorithms,"Students will gain proficiency in various machine learning algorithms, such as linear regression, logistic regression, decision trees, neural networks, support vector machines, and clustering methods.",MACHINE LEARNING,3.0,,Supervised learning techniques
-Programming,Students will develop programming skills in order to implement machine learning algorithms and work on application projects.,MACHINE LEARNING,3.0,,Programming
+Programming,Students will develop programming skills in order to implement machine learning algorithms and work on application projects.,MACHINE LEARNING,3.0,,Communication
 Statistical analysis,Students will learn statistical techniques and methods that are essential for understanding and analyzing machine learning models and data.,MACHINE LEARNING,3.0,,Statistical frameworks and methods
 Data manipulation,Students will acquire skills in manipulating and preprocessing data to prepare it for machine learning tasks.,MACHINE LEARNING,3.0,,Data processing
 Problem-solving,Students will develop problem-solving skills as they work on challenging application projects that require them to apply machine learning concepts to real-world datasets.,MACHINE LEARNING,3.0,,Problem-solving
@@ -311,37 +311,37 @@ Problem-solving,Students will develop problem-solving skills as they apply diffe
 Communication,Students will enhance their communication skills through assignments and discussions related to causal inference.,Causal Inference,3.0,,Communication
 Database management,"Although not explicitly mentioned in the course description, students may develop skills in managing databases as they work with data for causal inference.",Causal Inference,3.0,,Database design
 Proficiency in Haskell programming language,Students will gain the ability to write code in Haskell and understand its syntax and concepts.,PARALLEL FUNCTIONAL PROGRAMMIN,3.0,,Proficiency in Haskell programming language
-Ability to write parallel programs in Haskell,"Students will learn how to write code that can be executed in parallel, taking advantage of multiple processors or cores.",PARALLEL FUNCTIONAL PROGRAMMIN,3.0,,Ability to write parallel programs in Haskell
+Ability to write parallel programs in Haskell,"Students will learn how to write code that can be executed in parallel, taking advantage of multiple processors or cores.",PARALLEL FUNCTIONAL PROGRAMMIN,3.0,,Proficiency in Haskell programming language
 Knowledge of parallel programming models and languages,"Students will learn about different models and languages used for parallel programming, allowing them to choose the most appropriate approach for a given problem.",PARALLEL FUNCTIONAL PROGRAMMIN,3.0,,Knowledge of parallel programming models and languages
-Familiarity with parallel programming tools and libraries,"Students will become familiar with tools and libraries that facilitate parallel programming, enabling them to leverage existing resources and optimize their code.",PARALLEL FUNCTIONAL PROGRAMMIN,3.0,,Familiarity with parallel programming tools and libraries
+Familiarity with parallel programming tools and libraries,"Students will become familiar with tools and libraries that facilitate parallel programming, enabling them to leverage existing resources and optimize their code.",PARALLEL FUNCTIONAL PROGRAMMIN,3.0,,Knowledge of parallel programming models and languages
 Ability to analyze the performance of parallel programs,"Students will develop the ability to evaluate the performance of parallel programs, identifying bottlenecks and optimizing their code for better efficiency.",PARALLEL FUNCTIONAL PROGRAMMIN,3.0,,Ability to analyze the performance of parallel programs
 C++ programming,Students will gain proficiency in programming in C++ and learn how to design and implement efficient and maintainable C++ programs.,DESIGN USING C++,3.0,,Python programming
 Database design,"Although not explicitly mentioned in the course description, knowledge of database design is often essential in software engineering and programming, including C++ programming.",DESIGN USING C++,3.0,,Database design
 Problem-solving,"As students work on programming assignments and the semester-long project, they will develop problem-solving skills in the context of C++ programming.",DESIGN USING C++,3.0,,Problem-solving
 Communication,"Through the short video presentation of their project, students will enhance their communication skills in presenting their work to others.",DESIGN USING C++,3.0,,Communication
 Software engineering principles,"Students will learn software engineering principles, which include skills such as designing and implementing efficient and maintainable programs.",DESIGN USING C++,3.0,,Understand the underlying principles and building blocks in the design of such large-scale applications
-SQL,Students will gain proficiency in SQL to manipulate and analyze data in machine learning and signal recognition.,MATH MACH LEARN SIG RECOG,3.0,,SQL
-XML,"Students will learn about XML (eXtensible Markup Language) and its use in databases, which is relevant for handling and manipulating data in machine learning and signal recognition.",MATH MACH LEARN SIG RECOG,3.0,,SQL
+SQL,Students will gain proficiency in SQL to manipulate and analyze data in machine learning and signal recognition.,MATH MACH LEARN SIG RECOG,3.0,,XML
+XML,"Students will learn about XML (eXtensible Markup Language) and its use in databases, which is relevant for handling and manipulating data in machine learning and signal recognition.",MATH MACH LEARN SIG RECOG,3.0,,XML
 C++ programming,"Students will gain proficiency in C++ programming language, which is the foundation of the course.",TECH INTERVIEW PREP C++,3.0,,Python programming
 Data structures,Students will learn about different data structures and how to implement them in C++.,TECH INTERVIEW PREP C++,3.0,,Data Structures
-Algorithms,Students will learn various algorithms and their implementations in C++.,TECH INTERVIEW PREP C++,3.0,,Algorithm Design and Analysis
+Algorithms,Students will learn various algorithms and their implementations in C++.,TECH INTERVIEW PREP C++,3.0,,Algorithm design and analysis
 Problem-solving,Students will develop problem-solving skills through programming projects and assignments.,TECH INTERVIEW PREP C++,3.0,,Problem-solving
-Technical interview preparation,Students will learn strategies and techniques to succeed in technical interviews at top-tier companies.,TECH INTERVIEW PREP C++,3.0,,Technical proficiency
+Technical interview preparation,Students will learn strategies and techniques to succeed in technical interviews at top-tier companies.,TECH INTERVIEW PREP C++,3.0,,Tool development
 Proficiency in data structures,"Students will gain the ability to handle and manipulate data structures effectively, which is essential for competitive programming.",COMPETITIVE PROGRAMMING,3.0,,Data Structures
 Proficiency in algorithms,Students will develop the skill of designing and implementing efficient algorithms to solve complex problems in competitive programming contests.,COMPETITIVE PROGRAMMING,3.0,,Programming skills in computer graphics algorithms and techniques
 Dynamic programming,Students will learn the skill of using dynamic programming techniques to optimize solutions and improve efficiency in programming contests.,COMPETITIVE PROGRAMMING,3.0,,Dynamic programming
 Graph theory,"Students will acquire the skill of analyzing and manipulating graphs, which is crucial for solving graph-related problems in competitive programming.",COMPETITIVE PROGRAMMING,3.0,,Network analysis
-Number theory,Students will learn the skill of applying number theory concepts and techniques to solve mathematical problems in programming contests.,COMPETITIVE PROGRAMMING,3.0,,Mathematical Reasoning
+Number theory,Students will learn the skill of applying number theory concepts and techniques to solve mathematical problems in programming contests.,COMPETITIVE PROGRAMMING,3.0,,Number theory
 Data analysis,Students will learn how to effectively analyze different data sets and present the data in engaging ways.,EMPIRICAL METHODS DATA SC,3.0,,Data visualization
-SQL,"Students will gain proficiency in SQL, which is a valuable skill for data analysis and database management.",EMPIRICAL METHODS DATA SC,3.0,,SQL
-Research design,"Students will learn how to design a study, including conducting a literature review, building and testing hypotheses, and collecting data.",EMPIRICAL METHODS DATA SC,3.0,,Research
+SQL,"Students will gain proficiency in SQL, which is a valuable skill for data analysis and database management.",EMPIRICAL METHODS DATA SC,3.0,,XML
+Research design,"Students will learn how to design a study, including conducting a literature review, building and testing hypotheses, and collecting data.",EMPIRICAL METHODS DATA SC,3.0,,Database design
 Communication,"Students will enhance their communication skills through assignments such as project proposals, progress reports, and final projects.",EMPIRICAL METHODS DATA SC,3.0,,Communication
 Problem-solving,Students will develop problem-solving abilities as they work on programming projects and analyze data.,EMPIRICAL METHODS DATA SC,3.0,,Problem-solving
 Mobile app development,Students will gain proficiency in developing mobile applications for Apple's iOS operating system.,MOBILE APP DEVELOP IOS,3.0,,Mobile programming
 Swift programming,"Students will learn and practice the Swift programming language, which is essential for iOS app development.",MOBILE APP DEVELOP IOS,3.0,,Swift programming
 Xcode IDE,"Students will become proficient in using Xcode, the integrated development environment for iOS app development.",MOBILE APP DEVELOP IOS,3.0,,Xcode IDE
 UI/UX design,Students will learn about user interface and user experience design principles and apply them in creating mobile applications.,MOBILE APP DEVELOP IOS,3.0,,Iterative design
-Networking and authentication for enterprise apps,Students will learn how to implement networking and authentication features in mobile applications for enterprise use.,MOBILE APP DEVELOP IOS,3.0,,Networking and authentication for enterprise apps
+Networking and authentication for enterprise apps,Students will learn how to implement networking and authentication features in mobile applications for enterprise use.,MOBILE APP DEVELOP IOS,3.0,,Mobile communication and networking
 Problem-solving,Students will develop problem-solving skills as they work on real-world problems and develop solutions.,HACKING 4 DEFENSE,3.0,,Problem-solving
 Critical thinking,Students will enhance their critical thinking skills through analyzing and evaluating different aspects of the problems they are working on.,HACKING 4 DEFENSE,3.0,,Critical thinking
 Entrepreneurship,"Students will learn entrepreneurial skills, such as identifying opportunities, developing innovative solutions, and pitching their ideas.",HACKING 4 DEFENSE,3.0,,Entrepreneurship
@@ -351,11 +351,11 @@ Data analysis,Students will learn how to collect and analyze data to identify so
 Data visualization,Students will gain proficiency in visualizing data to effectively communicate insights and findings.,DATA-DRVN DSGN SOCIAL INN,3.0,,Data visualization
 User-centered design,Students will learn how to design solutions that prioritize the needs and experiences of the end-users.,DATA-DRVN DSGN SOCIAL INN,3.0,,Iterative design
 Teamwork,Students will develop the ability to work effectively in cross-disciplinary teams to collaborate on projects.,DATA-DRVN DSGN SOCIAL INN,3.0,,Group work
-Presentation skills,Students will enhance their ability to present their solutions to a panel of experts in a clear and persuasive manner.,DATA-DRVN DSGN SOCIAL INN,3.0,,Presenting work
-Training neural networks,"Students will gain proficiency in training neural networks, which involves manipulating data and parameters to optimize the network's performance.",NEURAL NETWORKS DEEP LEARNING,3.0,,Training neural networks
+Presentation skills,Students will enhance their ability to present their solutions to a panel of experts in a clear and persuasive manner.,DATA-DRVN DSGN SOCIAL INN,3.0,,Presentation skills
+Training neural networks,"Students will gain proficiency in training neural networks, which involves manipulating data and parameters to optimize the network's performance.",NEURAL NETWORKS DEEP LEARNING,3.0,,Applying neural networks to computer vision and natural language processing
 Applying neural networks to computer vision and natural language processing,"Students will learn how to use neural networks to analyze and process visual and textual data, requiring the manipulation and interpretation of data.",NEURAL NETWORKS DEEP LEARNING,3.0,,Applying neural networks to computer vision and natural language processing
-Building efficient machine learning systems,Students will develop the skill of constructing machine learning systems that are optimized for performance and resource usage.,NEURAL NETWORKS DEEP LEARNING,3.0,,Supervised learning techniques
-Deep learning techniques,"Students will gain proficiency in deep learning techniques for vision, speech, and natural language processing problems.",DEEP LRNG FOR COMP VISION,3.0,,Supervised learning techniques
+Building efficient machine learning systems,Students will develop the skill of constructing machine learning systems that are optimized for performance and resource usage.,NEURAL NETWORKS DEEP LEARNING,3.0,,Applying neural networks to computer vision and natural language processing
+Deep learning techniques,"Students will gain proficiency in deep learning techniques for vision, speech, and natural language processing problems.",DEEP LRNG FOR COMP VISION,3.0,,Deep learning
 PyTorch,"Students will learn how to use PyTorch, a popular deep learning framework.",DEEP LRNG FOR COMP VISION,3.0,,PyTorch
 CUDA programming,"Students will develop skills in CUDA programming, which is used for parallel computing on NVIDIA GPUs.",DEEP LRNG FOR COMP VISION,3.0,,CUDA programming
 MPI,Students will learn how to use MPI (Message Passing Interface) for parallel computing.,DEEP LRNG FOR COMP VISION,3.0,,MPI
@@ -363,21 +363,21 @@ Performance optimization,Students will acquire skills in optimizing the performa
 Project-based learning,Students will learn by doing and gain hands-on experience in completing projects.,INNOVATION & DESIGN LAB,3.0,,Project management
 Design principles,Students will learn the principles of design and how to apply them in their projects.,INNOVATION & DESIGN LAB,3.0,,Design patterns
 Software techniques for visualizing data,Students will learn various software techniques for visualizing data effectively.,INNOVATION & DESIGN LAB,3.0,,Data visualization
-Implementation,Students will learn how to implement their projects using appropriate software tools and technologies.,INNOVATION & DESIGN LAB,3.0,,Programming
-Presentation skills,Students will learn how to effectively present their projects and communicate their ideas to others.,INNOVATION & DESIGN LAB,3.0,,Presenting work
+Implementation,Students will learn how to implement their projects using appropriate software tools and technologies.,INNOVATION & DESIGN LAB,3.0,,Communication
+Presentation skills,Students will learn how to effectively present their projects and communicate their ideas to others.,INNOVATION & DESIGN LAB,3.0,,Presentation skills
 Machine learning techniques,Students will gain advanced proficiency in machine learning techniques and their applications to biomedical research problems.,Adv Mach Lrng Health &Med,3.0,,Supervised learning techniques
 Data analysis,Students will develop skills in working with real-world data and applying machine learning techniques to solve complex problems in the health and medical fields.,Adv Mach Lrng Health &Med,3.0,,Data visualization
 Python programming,"Students will acquire proficiency in Python programming, which is essential for implementing machine learning algorithms and working with real-world data.",APPLIED MACHINE LEARNING,3.0,,Python programming
-Machine learning models,"Students will master the models of machine learning, including supervised and unsupervised approaches, to analyze and interpret data.",APPLIED MACHINE LEARNING,3.0,,Supervised learning techniques
+Machine learning models,"Students will master the models of machine learning, including supervised and unsupervised approaches, to analyze and interpret data.",APPLIED MACHINE LEARNING,3.0,,Deep learning
 Problem-solving,"Students will enhance their problem-solving skills through hands-on application projects, where they will tackle real-world challenges using machine learning techniques.",APPLIED MACHINE LEARNING,3.0,,Problem-solving
 Data analysis,"Students will develop the ability to analyze and interpret data, enabling them to make informed decisions and draw meaningful insights.",APPLIED MACHINE LEARNING,3.0,,Data visualization
 Communication,Students will improve their communication skills by effectively presenting their findings and insights from machine learning projects.,APPLIED MACHINE LEARNING,3.0,,Communication
-SQL,"Students will gain proficiency in SQL, which is a fundamental skill for data scientists to manipulate and analyze large datasets.",ELEMENTS FOR DATA SCIENCE,3.0,,SQL
+SQL,"Students will gain proficiency in SQL, which is a fundamental skill for data scientists to manipulate and analyze large datasets.",ELEMENTS FOR DATA SCIENCE,3.0,,XML
 Python/R programming,"The course will emphasize hands-on experiments with Python or R, allowing students to develop programming skills for data analysis and modeling.",ELEMENTS FOR DATA SCIENCE,3.0,,Python programming
 Data cleaning and preprocessing,"Students will learn techniques for cleaning and preprocessing data, which is essential for ensuring data quality and accuracy in data science projects.",ELEMENTS FOR DATA SCIENCE,3.0,,Data processing
 Data visualization,"The course will cover techniques for data visualization, enabling students to effectively communicate insights and findings from data analysis.",ELEMENTS FOR DATA SCIENCE,3.0,,Data visualization
 Working with large datasets,"Students will learn techniques for working with large datasets, which is a crucial skill for handling and analyzing big data in data science projects.",ELEMENTS FOR DATA SCIENCE,3.0,,Data visualization
-Deep learning,Students will gain proficiency in deep learning techniques and algorithms.,APPLIED DEEP LEARNING,3.0,,Applying neural networks to computer vision and natural language processing
+Deep learning,Students will gain proficiency in deep learning techniques and algorithms.,APPLIED DEEP LEARNING,3.0,,Deep learning
 Python programming,"Students will develop intermediate programming skills in Python, which are necessary for implementing deep learning models.",APPLIED DEEP LEARNING,3.0,,Python programming
 Problem-solving,Students will enhance their problem-solving skills through the completion of challenging projects and assignments.,APPLIED DEEP LEARNING,3.0,,Problem-solving
 Data analysis,Students will learn how to analyze and interpret data using deep learning techniques.,APPLIED DEEP LEARNING,3.0,,Data visualization
@@ -387,7 +387,7 @@ Software engineering methodology,Students will learn about software engineering 
 Dynamic analysis,Students will develop skills in dynamic analysis techniques for understanding and improving the behavior of software systems.,FORMAL VERIF HW SW SYSTEM,3.0,,Dynamic programming
 Software testing,Students will learn about different software testing techniques and strategies for ensuring the correctness and reliability of software.,FORMAL VERIF HW SW SYSTEM,3.0,,Software verification
 Research paper presentation,Students will develop skills in presenting research papers and effectively communicating their findings to an audience.,FORMAL VERIF HW SW SYSTEM,3.0,,Presenting work
-Programming,Students will develop programming skills in languages such as C and assembly language.,FUNDAMENTALS OF COMPUTER,3.0,,Programming
+Programming,Students will develop programming skills in languages such as C and assembly language.,FUNDAMENTALS OF COMPUTER,3.0,,Communication
 Database design,Students will learn how to design and implement simple operating systems and network protocols.,FUNDAMENTALS OF COMPUTER,3.0,,Database design
 Problem-solving,Students will develop problem-solving skills as they work on programming projects.,FUNDAMENTALS OF COMPUTER,3.0,,Problem-solving
 Critical thinking,Students will enhance their critical thinking skills through the course projects.,FUNDAMENTALS OF COMPUTER,3.0,,Critical thinking
@@ -395,23 +395,23 @@ Communication,Students will improve their communication skills through project p
 Understanding of computer architecture,"Students will gain proficiency in understanding the fundamentals of computer architecture, including instruction set design, pipelining, memory hierarchy, and I/O systems.",COMPUTER ARCHITECTURE,3.0,,Understand the underlying principles and building blocks in the design of such large-scale applications
 Design and implementation of computer systems,Students will develop the ability to design and implement a computer system using the concepts covered in the course.,COMPUTER ARCHITECTURE,3.0,,Intrusion detection system design and implementation
 Analysis of computer system performance,Students will acquire the ability to analyze the performance of a computer system and identify areas for improvement.,COMPUTER ARCHITECTURE,3.0,,Ability to analyze the performance of parallel programs
-SQL,"Although not explicitly mentioned in the course description, knowledge of SQL may be required for working with databases in computer architecture.",COMPUTER ARCHITECTURE,3.0,,SQL
-XML,"Although not explicitly mentioned in the course description, knowledge of XML may be useful for understanding its use in computer architecture.",COMPUTER ARCHITECTURE,3.0,,SQL
+SQL,"Although not explicitly mentioned in the course description, knowledge of SQL may be required for working with databases in computer architecture.",COMPUTER ARCHITECTURE,3.0,,XML
+XML,"Although not explicitly mentioned in the course description, knowledge of XML may be useful for understanding its use in computer architecture.",COMPUTER ARCHITECTURE,3.0,,XML
 Design and implementation of SoC platforms,Students will learn how to design and implement SoC platforms using industry-standard CAD tools.,SYSTEM-ON-CHIP PLATFORMS,3.0,,Design and implementation of SoC platforms
 Understanding of technology and economic trends in SoC platforms,Students will gain knowledge and skills in understanding the current technology and economic trends in SoC platforms.,SYSTEM-ON-CHIP PLATFORMS,3.0,,Understanding of technology and economic trends in SoC platforms
-System-level design of SoC platforms,Students will learn methodologies for system-level design of SoC platforms.,SYSTEM-ON-CHIP PLATFORMS,3.0,,System-level design of SoC platforms
-Design considerations for SoC platforms in various application domains,"Students will understand the design considerations for SoC platforms in multimedia, wireless, networking, embedded systems, real-time systems, security, and reliability.",SYSTEM-ON-CHIP PLATFORMS,3.0,,Design considerations for SoC platforms in various application domains
+System-level design of SoC platforms,Students will learn methodologies for system-level design of SoC platforms.,SYSTEM-ON-CHIP PLATFORMS,3.0,,Design and implementation of SoC platforms
+Design considerations for SoC platforms in various application domains,"Students will understand the design considerations for SoC platforms in multimedia, wireless, networking, embedded systems, real-time systems, security, and reliability.",SYSTEM-ON-CHIP PLATFORMS,3.0,,Design and implementation of SoC platforms
 Hands-on experience with industry-standard CAD tools,"Through the significant project component, students will gain hands-on experience in designing and implementing SoC platforms using industry-standard CAD tools.",SYSTEM-ON-CHIP PLATFORMS,3.0,,Hands-on experience with industry-standard CAD tools
 Designing computer systems,"Students will learn how to design computer systems, which involves understanding the components and architecture of a computer system and how to optimize its performance.",MODELING & PERFORMANCE EV,3.0,,Designing computer systems
 Constructing and analyzing performance models of systems,Students will learn how to create mathematical models to represent the performance of computer systems and analyze these models to identify bottlenecks and areas for improvement.,MODELING & PERFORMANCE EV,3.0,,Ability to analyze the performance of parallel programs
-"Performance optimization in Pytorch, Parallel",Students will gain proficiency in optimizing the performance of computer systems using PyTorch and parallel computing techniques.,MODELING & PERFORMANCE EV,3.0,,Performance optimization
-Algorithm design,Students will learn how to design efficient algorithms to solve various computational problems.,ANALYSIS OF ALGORITHMS I,3.0,,Algorithm Design and Analysis
-Programming,Students will develop programming skills to implement and test algorithms.,ANALYSIS OF ALGORITHMS I,3.0,,Programming
+"Performance optimization in Pytorch, Parallel",Students will gain proficiency in optimizing the performance of computer systems using PyTorch and parallel computing techniques.,MODELING & PERFORMANCE EV,3.0,,"Performance optimization in Pytorch, Parallel"
+Algorithm design,Students will learn how to design efficient algorithms to solve various computational problems.,ANALYSIS OF ALGORITHMS I,3.0,,Algorithm design and analysis
+Programming,Students will develop programming skills to implement and test algorithms.,ANALYSIS OF ALGORITHMS I,3.0,,Communication
 Data analysis,Students will gain skills in analyzing and interpreting data to optimize algorithm performance.,ANALYSIS OF ALGORITHMS I,3.0,,Data visualization
 Problem-solving,Students will enhance their problem-solving abilities through the application of algorithmic techniques.,ANALYSIS OF ALGORITHMS I,3.0,,Problem-solving
 Critical thinking,Students will develop critical thinking skills to evaluate and improve algorithm designs.,ANALYSIS OF ALGORITHMS I,3.0,,Critical thinking
-Programming,"Students will develop proficiency in programming, specifically in Python or an equivalent programming language, to manipulate and analyze data.",ALGORITHMS FOR DATA SCIEN,3.0,,Programming
-SQL,"Students will gain proficiency in SQL, which is essential for querying and manipulating databases.",ALGORITHMS FOR DATA SCIEN,3.0,,SQL
+Programming,"Students will develop proficiency in programming, specifically in Python or an equivalent programming language, to manipulate and analyze data.",ALGORITHMS FOR DATA SCIEN,3.0,,Communication
+SQL,"Students will gain proficiency in SQL, which is essential for querying and manipulating databases.",ALGORITHMS FOR DATA SCIEN,3.0,,XML
 Data organization,"Students will learn methods for organizing data, such as hashing, trees, queues, lists, and priority queues, to efficiently store and retrieve information.",ALGORITHMS FOR DATA SCIEN,3.0,,Data processing
 Problem-solving,Students will develop problem-solving skills as they work on programming projects and apply algorithms to solve data science problems.,ALGORITHMS FOR DATA SCIEN,3.0,,Problem-solving
 Communication,"Students will enhance their communication skills through project presentations and written reports, effectively conveying their findings and insights to others.",ALGORITHMS FOR DATA SCIEN,3.0,,Communication

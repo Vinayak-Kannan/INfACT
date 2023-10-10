@@ -1,0 +1,1072 @@
+Title,Credits,Professor,Professor Google Scholar Citations,Description,Syllabus,Semester
+"6.100A Introduction to Computer Science Programming in Python
+(6.0001)
+",3, ,0,"(, ); first half of term
+Prereq: None
+Units: 3-0-3
+Credit cannot also be received for 6.100L
+URL: https://introcomp.mit.edu/spring23 
+Ends Mar 24. Lecture: MW3-4.30 (26-100) Recitation: F10 (5-134) or F11 (5-134, 24-121) or F12 (24-121) or F1 (5-134) or F2 (5-134) or F1 (5-217) or F2 (5-217)
+
+Introduction to computer science and programming for students with little or no programming experience. Students develop skills to program and use computational techniques to solve problems. Topics include the notion of computation, Python, simple algorithms and data structures, testing and debugging, and algorithmic complexity. Combination of 6.100A and 6.100B or 16.C20 counts as REST subject. Final given in the seventh week of the term.
+A. Bell, J. V. GuttagTextbooks (Spring 2023)", ,Fall 2023
+"6.100B Introduction to Computational Thinking and Data Science
+(6.0002)
+",3, ,0,"(, ); second half of term
+Prereq: 6.100A or permission of instructor
+Units: 3-0-3
+Credit cannot also be received for 16.C20, 18.C20, CSE.C20
+URL: https://introcomp.mit.edu/spring23 
+Begins Apr 3. Lecture: MW3-4.30 (26-100) Recitation: F10 (5-134) or F11 (5-134, 24-121) or F12 (24-121) or F1 (5-134) or F2 (5-134) or F1 (5-217) or F2 (5-217)
+
+Provides an introduction to using computation to understand real-world phenomena. Topics include plotting, stochastic programs, probability and statistics, random walks, Monte Carlo simulations, modeling data, optimization problems, and clustering. Combination of 6.100A and 6.100B counts as REST subject.
+A. Bell, J. V. GuttagTextbooks (Spring 2023)", ,Fall 2023
+"6.100L Introduction to Computer Science and Programming
+(New)
+",3, ,0,"(, )
+Prereq: None
+Units: 3-0-6
+Credit cannot also be received for 6.100A
+URL: https://sicp-s1.mit.edu/6.100L_fa22
+Lecture: MW3-4.30 (1-190) Recitation: F10 (32-123)
+
+Introduction to computer science and programming for students with no programming experience. Presents content taught in 6.100A over an entire semester. Students develop skills to program and use computational techniques to solve problems. Topics include the notion of computation, Python, simple algorithms and data structures, testing and debugging, and algorithmic complexity.
+A. Bell, J. V. GuttagTextbooks (Spring 2023)", ,Fall 2023
+"6.1010 Fundamentals of Programming
+(6.009)
+",2, ,0,"(, ) 
+Prereq: 6.100A
+Units: 2-4-6
+URL: https://py.mit.edu
+Lecture: MW9 (34-101) or MW10 (4-149, 32-124, 32-144) or MW11 (4-237, 56-154) or MW12 (26-100, 32-141) or MW1 (1-190, 4-270) or MW2 (4-237, 1-190) or MW3 (E25-111) Lab: F10-1 (34-101) or F2-5 (34-101) +final
+
+Introduces fundamental concepts of programming. Designed to develop skills in applying basic methods from programming languages to abstract problems. Topics include programming and Python basics, computational concepts, software engineering, algorithmic techniques, data types, and recursion.  Lab component consists of software design, construction, and implementation of design. Enrollment may be limited.
+D. S. Boning, A. Chlipala, S. Devadas, A. HartzNo textbook information available", ,Fall 2023
+"6.1020 Software Construction
+(6.031)
+",3, ,0,"()
+Prereq: 6.1010
+Units: 3-0-12
+Lecture: TR9.30-11 (26-100) +final
+
+Introduces fundamental principles and techniques of software development: how to write software that is safe from bugs, easy to understand, and ready for change. Topics include specifications and invariants; testing, test-case generation, and coverage; abstract data types and representation independence; design patterns for object-oriented programming; concurrent programming, including message passing and shared memory concurrency, and defending against races and deadlock; and functional programming with immutable data and higher-order functions. Includes weekly programming exercises and larger group programming projects.
+M. Goldman, R. C. MillerNo required or recommended textbooks", ,Fall 2023
+"6.1040 Software Studio
+(6.170)
+",4, ,0,"()
+Prereq: 6.1020 and 6.1200
+Units: 4-9-2
+
+Provides design-focused instruction on how to build software applications. Design topics include classic human-computer interaction (HCI) design tactics (need finding, heuristic evaluation, prototyping, user testing), conceptual design (modeling and evaluating constituent concepts), abstract data modeling, and visual design. Implementation topics include functional programming in Javascript, reactive front-ends, web services, and databases. Students work in teams on term-long projects in which they construct applications of social value.
+D. N. Jackson, A. Satyanarayan", ,Fall 2023
+"6.1060 Software Performance Engineering
+(6.172)
+",3, ,0,"()
+Prereq: 6.1020, 6.1210, and 6.1910
+Units: 3-12-3
+
+Project-based introduction to building efficient, high-performance and scalable software systems. Topics include performance analysis, algorithmic techniques for high performance, instruction-level optimizations, vectorization, cache and memory hierarchy optimization, and parallel programming.
+S. Amarasinghe, C. E. Leiserson", ,Fall 2023
+"6.5060 Algorithm Engineering
+(6.827)
+",3, ,0,"()
+Prereq: 6.1060 and 6.1220
+Units: 3-0-9
+Lecture: TR11-12.30 (24-121)
+
+Covers the theory and practice of algorithms and data structures. Topics include models of computation, algorithm design and analysis, and performance engineering of algorithm implementations. Presents the design and implementation of sequential, parallel, cache-efficient, and external-memory algorithms. Illustrates many of the principles of algorithm engineering in the context of parallel algorithms and graph problems.
+J. ShunNo textbook information available", ,Fall 2023
+"6.5080 Multicore Programming
+(6.836)
+",4, ,0,"()
+(Subject meets with 6.5081)
+Prereq: 6.1210
+Units: 4-0-8
+
+Introduces principles and core techniques for programming multicore machines. Topics include locking, scalability, concurrent data structures, multiprocessor scheduling, load balancing, and state-of-the-art synchronization techniques, such as transactional memory. Includes sequence of programming assignments on a large multicore machine, culminating with the design of a highly concurrent application. Students taking graduate version complete additional assignments.
+N. Shavit", ,Fall 2023
+"6.5081 Multicore Programming
+(6.816)
+",4, ,0,"()
+(Subject meets with 6.5080)
+Prereq: 6.1210
+Units: 4-0-8
+
+Introduces principles and core techniques for programming multicore machines. Topics include locking, scalability, concurrent data structures, multiprocessor scheduling, load balancing, and state-of-the-art synchronization techniques, such as transactional memory. Includes sequence of programming assignments on a large multicore machine, culminating with the design of a highly concurrent application. Students taking graduate version complete additional assignments.
+N. Shavit
+
+Programming Languages", ,Fall 2023
+"6.1100 Computer Language Engineering
+(6.035)
+",4, ,0,"()
+Prereq: 6.1020 and 6.1910
+Units: 4-4-4
+Lecture: MWF11 (32-124) Recitation: TR11 (32-124)
+
+Analyzes issues associated with the implementation of higher-level programming languages. Fundamental concepts, functions, and structures of compilers. The interaction of theory and practice. Using tools in building software. Includes a multi-person project on compiler design and implementation.
+M. C. RinardNo textbook information available", ,Fall 2023
+"6.1120 Dynamic Computer Language Engineering
+(6.818)
+",4, ,0,"()
+Prereq: 6.1020 or 6.1910
+Units: 4-4-4
+
+Studies the design and implementation of modern, dynamic programming languages. Topics include fundamental approaches for parsing, semantics and interpretation, virtual machines, garbage collection, just-in-time machine code generation, and optimization. Includes a semester-long, group project that delivers a virtual machine that spans all of these topics.
+M. Carbin", ,Fall 2023
+"6.5110 Foundations of Program Analysis
+(6.820)
+",3, ,0,"()
+Prereq: 6.1100
+Units: 3-0-9
+
+Presents major principles and techniques for program analysis. Includes formal semantics, type systems and type-based program analysis, abstract interpretation and model checking and synthesis. Emphasis on Haskell and Ocaml, but no prior experience in these languages is assumed. Student assignments include implementing of techniques covered in class, including building simple verifiers.
+A. Solar-Lezama", ,Fall 2023
+"6.5120 Formal Reasoning About Programs
+(6.822)
+",3, ,0,"()
+Prereq: 6.1020 and 6.1200
+Units: 3-0-9
+Lecture: MW2.30-4 (2-105)
+
+Surveys techniques for rigorous mathematical reasoning about correctness of software, emphasizing commonalities across approaches. Introduces interactive computer theorem proving with the Coq proof assistant, which is used for all assignments, providing immediate feedback on soundness of logical arguments. Covers common program-proof techniques, including operational semantics, model checking, abstract interpretation, type systems, program logics, and their applications to functional, imperative, and concurrent programs. Develops a common conceptual framework based on invariants, abstraction, and modularity applied to state and labeled transition systems.
+A. ChlipalaTextbooks (Spring 2023)", ,Fall 2023
+"6.5150 Large-scale Symbolic Systems
+(6.945)
+",3, ,0,"()
+(Subject meets with 6.5151)
+Prereq: 6.4100 or permission of instructor
+Units: 3-0-9
+Lecture: MWF2 (35-225)
+
+Concepts and techniques for the design and implementation of large software systems that can be adapted to uses not anticipated by the designer. Applications include compilers, computer-algebra systems, deductive systems, and some artificial intelligence applications. Covers means for decoupling goals from strategy, mechanisms for implementing additive data-directed invocation, work with partially-specified entities, and how to manage multiple viewpoints. Topics include combinators, generic operations, pattern matching, pattern-directed invocation, rule systems, backtracking, dependencies, indeterminacy, memoization, constraint propagation, and incremental refinement. Students taking graduate version complete additional assignments.
+G. J. SussmanTextbooks (Spring 2023)", ,Fall 2023
+"6.5151 Large-scale Symbolic Systems
+(6.905)
+",3, ,0,"()
+(Subject meets with 6.5150)
+Prereq: 6.4100 or permission of instructor
+Units: 3-0-9
+Lecture: MWF2 (35-225)
+
+Concepts and techniques for the design and implementation of large software systems that can be adapted to uses not anticipated by the designer. Applications include compilers, computer-algebra systems, deductive systems, and some artificial intelligence applications. Covers means for decoupling goals from strategy, mechanisms for implementing additive data-directed invocation, work with partially-specified entities, and how to manage multiple viewpoints. Topics include combinators, generic operations, pattern matching, pattern-directed invocation, rule systems, backtracking, dependencies, indeterminacy, memoization, constraint propagation, and incremental refinement. Students taking graduate version complete additional assignments.
+G. J. SussmanTextbooks (Spring 2023)", ,Fall 2023
+"6.5160J Classical Mechanics: A Computational Approach
+(6.946)
+",3, ,0,"()
+(Same subject as 8.351[J], 12.620[J])
+Prereq: Physics I (GIR), 18.03, and permission of instructor
+Units: 3-3-6
+
+Classical mechanics in a computational framework, Lagrangian formulation, action, variational principles, and Hamilton's principle. Conserved quantities, Hamiltonian formulation, surfaces of section, chaos, and Liouville's theorem. PoincarĂ© integral invariants, PoincarĂ©-Birkhoff and KAM theorems. Invariant curves and cantori. Nonlinear resonances, resonance overlap and transition to chaos. Symplectic integration. Adiabatic invariants. Applications to simple physical systems and solar system dynamics. Extensive use of computation to capture methods, for simulation, and for symbolic analysis. Programming experience required.
+J. Wisdom, G. J. Sussman
+
+Theoretical Computer Science", ,Fall 2023
+"6.1200J Mathematics for Computer Science
+(6.042)
+",5, ,0,"(, ) 
+(Same subject as 18.062[J])
+Prereq: Calculus I (GIR)
+Units: 5-0-7
+Lecture: TR2.30-4 (34-101) Recitation: WF10 (38-166) or WF1 (36-156) or WF2 (36-156) or WF3 (36-156) or WF11 (38-166) or WF12 (38-166) or WF1 (38-166) or WF2 (38-166) or WF3 (38-166) or WF10 (36-155) or WF11 (36-155) or WF12 (36-156) or WF11 (26-168) or WF12 (26-168) or WF1 (26-328) or WF2 (35-308) +final
+
+Elementary discrete mathematics for science and engineering, with a focus on mathematical tools and proof techniques useful in computer science. Topics include logical notation, sets, relations, elementary graph theory, state machines and invariants, induction and proofs by contradiction, recurrences, asymptotic notation, elementary analysis of algorithms, elementary number theory and cryptography, permutations and combinations, counting tools, and discrete probability.
+Z. R. Abel, F. T. Leighton, A. MoitraNo required or recommended textbooks", ,Fall 2023
+"6.120A Discrete Mathematics and Proof for Computer Science
+(New)
+",3, ,0,"(); second half of term
+Prereq: Calculus I (GIR)
+Units: 3-0-3
+Lecture: TR1-2.30 (32-144)
+
+Subset of elementary discrete mathematics for science and engineering useful in computer science. Topics may include logical notation, sets, done relations, elementary graph theory, state machines and invariants, induction and proofs by contradiction, recurrences, asymptotic notation, elementary analysis of algorithms, elementary number theory and cryptography, permutations and combinations, counting tools.
+StaffNo textbook information available", ,Fall 2023
+"6.1210 Introduction to Algorithms
+(6.006)
+",5, ,0,"(, )
+Prereq: 6.1200 and (6.100A or Coreq: 6.1010)
+Units: 5-0-7
+Lecture: TR11-12.30 (26-100) Recitation: WF10 (34-304, 34-303, 36-156) or WF11 (34-304, 34-303, 34-301) or WF12 (34-304, 34-301) or WF1 (34-304, 34-303, 34-301) or WF2 (34-304, 34-303, 34-301) or WF3 (34-304, 34-301) or WF4 (34-304) +final
+
+Introduction to mathematical modeling of computational problems, as well as common algorithms, algorithmic paradigms, and data structures used to solve these problems. Emphasizes the relationship between algorithms and programming, and introduces basic performance measures and analysis techniques for these problems. Enrollment may be limited.
+E. Demaine, S. DevadasNo textbook information available", ,Fall 2023
+"6.1220J Design and Analysis of Algorithms
+(6.046)
+",4, ,0,"(, )
+(Same subject as 18.410[J])
+Prereq: 6.1210
+Units: 4-0-8
+Lecture: TR11-12.30 (34-101) Recitation: F9 (36-112) or F10 (36-112) or F11 (36-112) or F12 (36-112) or F1 (36-112) or F2 (36-112) or F3 (36-112) or F11 (4-265) or F12 (4-265) or F1 (4-265) or F10 (24-121) or F2 (24-121) +final
+
+Techniques for the design and analysis of efficient algorithms, emphasizing methods useful in practice. Topics include sorting; search trees, heaps, and hashing; divide-and-conquer; dynamic programming; greedy algorithms; amortized analysis; graph algorithms; and shortest paths. Advanced topics may include network flow; computational geometry; number-theoretic algorithms; polynomial and matrix calculations; caching; and parallel computing.
+E. Demaine, M. GoemansTextbooks (Spring 2023)", ,Fall 2023
+"6.1400J Computability and Complexity Theory
+(6.045)
+",4, ,0,"()
+(Same subject as 18.400[J])
+Prereq: 6.1210 or permission of instructor
+Units: 4-0-8
+Lecture: TR2.30-4 (32-155) Recitation: F11 (4-257) or F1 (24-121) +final
+
+Mathematical introduction to the theory of computing. Rigorously explores what kinds of tasks can be efficiently solved with computers by way of finite automata, circuits, Turing machines, and communication complexity, introducing students to some major open problems in mathematics. Builds skills in classifying computational tasks in terms of their difficulty. Discusses other fundamental issues in computing, including the Halting Problem, the Church-Turing Thesis, the P versus NP problem, and the power of randomness.  
+R. Williams, R. RubinfeldTextbooks (Spring 2023)", ,Fall 2023
+"6.1420 Fixed Parameter and Fine-grained Computation
+(6.054)
+",3, ,0,"()
+Prereq: 6.1200, 6.1210, and (6.1220, 6.1400, or 18.404)
+Units: 3-0-9
+
+An overview of the theory of parameterized algorithms and the ""problem-centric"" theory of fine-grained complexity, both of which reconsider how to measure the difficulty and feasibility of solving computational problems. Topics include: fixed-parameter tractability (FPT) and its characterizations, the W-hierarchy (W[1], W[2], W[P], etc.), 3-sum-hardness, all-pairs shortest paths (APSP)-equivalences, strong exponential time hypothesis (SETH) hardness of problems, and the connections to circuit complexity and other aspects of computing.
+R. Williams, V. Williams", ,Fall 2023
+"6.5210J Advanced Algorithms
+(6.854)
+",5, ,0,"()
+(Same subject as 18.415[J])
+Prereq: 6.1220 and (6.1200, 6.3700, or 18.600)
+Units: 5-0-7
+
+First-year graduate subject in algorithms. Emphasizes fundamental algorithms and advanced methods of algorithmic design, analysis, and implementation. Surveys a variety of computational models and the algorithms for them. Data structures, network flows, linear programming, computational geometry, approximation algorithms, online algorithms, parallel algorithms, external memory, streaming algorithms.
+A. Moitra, D. R. Karger", ,Fall 2023
+"6.5220J Randomized Algorithms
+(6.856)
+",5, ,0,"()
+(Same subject as 18.416[J])
+Prereq: (6.1200 or 6.3700) and (6.1220 or 6.5210)
+Units: 5-0-7
+
+Studies how randomization can be used to make algorithms simpler and more efficient via random sampling, random selection of witnesses, symmetry breaking, and Markov chains. Models of randomized computation. Data structures: hash tables, and skip lists. Graph algorithms: minimum spanning trees, shortest paths, and minimum cuts. Geometric algorithms: convex hulls, linear programming in fixed or arbitrary dimension. Approximate counting; parallel algorithms; online algorithms; derandomization techniques; and tools for probabilistic analysis of algorithms.
+D. R. Karger", ,Fall 2023
+"6.5230 Advanced Data Structures
+(6.851)
+",3, ,0,"()
+Prereq: 6.1220
+Units: 3-0-9
+
+More advanced and powerful data structures for answering several queries on the same data. Such structures are crucial in particular for designing efficient algorithms. Dictionaries; hashing; search trees. Self-adjusting data structures; linear search; splay trees; dynamic optimality. Integer data structures; word RAM. Predecessor problem; van Emde Boas priority queues; y-fast trees; fusion trees. Lower bounds; cell-probe model; round elimination. Dynamic graphs; link-cut trees; dynamic connectivity. Strings; text indexing; suffix arrays; suffix trees. Static data structures; compact arrays; rank and select. Succinct data structures; tree encodings; implicit data structures. External-memory and cache-oblivious data structures; B-trees; buffer trees; tree layout; ordered-file maintenance. Temporal data structures; persistence; retroactivity.
+E. D. Demaine", ,Fall 2023
+"6.5240 Sublinear Time Algorithms
+(6.855)
+",3, ,0,"()
+Prereq: 6.1220 or permission of instructor
+Units: 3-0-9
+
+Sublinear time algorithms understand parameters and properties of input data after viewing only a minuscule fraction of it. Tools from number theory, combinatorics, linear algebra, optimization theory, distributed algorithms, statistics, and probability are covered. Topics include: testing and estimating properties of distributions, functions, graphs, strings, point sets, and various combinatorial objects.
+R. Rubinfeld", ,Fall 2023
+"6.5250J Distributed Algorithms
+(6.852)
+",3, ,0,"()
+(Same subject as 18.437[J])
+Prereq: 6.1220
+Units: 3-0-9
+
+Design and analysis of concurrent algorithms, emphasizing those suitable for use in distributed networks. Process synchronization, allocation of computational resources, distributed consensus, distributed graph algorithms, election of a leader in a network, distributed termination, deadlock detection, concurrency control, communication, and clock synchronization. Special consideration given to issues of efficiency and fault tolerance. Formal models and proof methods for distributed computation.
+M. Ghaffari, N. A. Lynch", ,Fall 2023
+"6.5310 Geometric Folding Algorithms: Linkages, Origami, Polyhedra
+(6.849)
+",3, ,0,"()
+Prereq: 6.1220 or permission of instructor
+Units: 3-0-9
+
+Covers discrete geometry and algorithms underlying the reconfiguration of foldable structures, with applications to robotics, manufacturing, and biology. Linkages made from one-dimensional rods connected by hinges: constructing polynomial curves, characterizing rigidity, characterizing unfoldable versus locked, protein folding. Folding two-dimensional paper (origami): characterizing flat foldability, algorithmic origami design, one-cut magic trick. Unfolding and folding three-dimensional polyhedra: edge unfolding, vertex unfolding, gluings, Alexandrov's Theorem, hinged dissections.
+E. D. Demaine", ,Fall 2023
+"6.5320 Geometric Computing
+(6.850)
+",3, ,0,"()
+Prereq: 6.1220
+Units: 3-0-9
+
+Introduction to the design and analysis of algorithms for geometric problems, in low- and high-dimensional spaces. Algorithms: convex hulls, polygon triangulation, Delaunay triangulation, motion planning, pattern matching. Geometric data structures: point location, Voronoi diagrams, Binary Space Partitions. Geometric problems in higher dimensions: linear programming, closest pair problems. High-dimensional nearest neighbor search and low-distortion embeddings between metric spaces. Geometric algorithms for massive data sets: external memory and streaming algorithms. Geometric optimization.
+P. Indyk", ,Fall 2023
+"6.5340 Topics in Algorithmic Game Theory
+(6.853)
+",3, ,0,"()
+Prereq: 6.1210 or 6.1220
+Units: 3-0-9
+
+Presents research topics at the interface of computer science and game theory, with an emphasis on algorithms and computational complexity. Explores the types of game-theoretic tools that are applicable to computer systems, the loss in system performance due to the conflicts of interest of users and administrators, and the design of systems whose performance is robust with respect to conflicts of interest inside the system. Algorithmic focus is on algorithms for equilibria, the complexity of equilibria and fixed points, algorithmic tools in mechanism design, learning in games, and the price of anarchy.
+K. Daskalakis", ,Fall 2023
+"6.5350 Matrix Multiplication and Graph Algorithms
+(New)
+",3, ,0,"()
+Prereq: 6.1220
+Units: 3-0-9
+
+Explores topics around matrix multiplication (MM) and its use in the design of graph algorithms. Focuses on problems such as transitive closure, shortest paths, graph matching, and other classical graph problems. Explores fast approximation algorithms when MM techniques are too expensive.
+V. Williams", ,Fall 2023
+"6.5400J Theory of Computation
+(6.840)
+",4, ,0,"()
+(Same subject as 18.4041[J])(Subject meets with 18.404)
+Prereq: 6.1200 or 18.200
+Units: 4-0-8
+
+A more extensive and theoretical treatment of the material in 6.1400J/18.400J, emphasizing computability and computational complexity theory. Regular and context-free languages. Decidable and undecidable problems, reducibility, recursive function theory. Time and space measures on computation, completeness, hierarchy theorems, inherently complex problems, oracles, probabilistic computation, and interactive proof systems. Students in Course 18 must register for the undergraduate version, 18.404.
+M. Sipser", ,Fall 2023
+"6.5410J Advanced Complexity Theory
+(6.841)
+",3, ,0,"()
+(Same subject as 18.405[J])
+Prereq: 18.404
+Units: 3-0-9
+
+Current research topics in computational complexity theory. Nondeterministic, alternating, probabilistic, and parallel computation models. Boolean circuits. Complexity classes and complete sets. The polynomial-time hierarchy. Interactive proof systems. Relativization. Definitions of randomness. Pseudo-randomness and derandomizations. Interactive proof systems and probabilistically checkable proofs.
+R. Williams", ,Fall 2023
+"6.5420 Randomness and Computation
+(6.842)
+",3, ,0,"()
+Prereq: 6.1220 and 18.4041
+Units: 3-0-9
+
+The power and sources of randomness in computation. Connections and applications to computational complexity, computational learning theory, cryptography and combinatorics. Topics include: probabilistic proofs, uniform generation and approximate counting, Fourier analysis of Boolean functions, computational learning theory, expander graphs, pseudorandom generators, derandomization.
+R. Rubinfeld", ,Fall 2023
+"6.5430 Quantum Complexity Theory
+(6.845)
+",3, ,0,"()
+Prereq: 6.1400, 18.4041, and 18.435
+Units: 3-0-9
+
+Introduction to quantum computational complexity theory, the study of the fundamental capabilities and limitations of quantum computers. Topics include complexity classes, lower bounds, communication complexity, proofs and advice, and interactive proof systems in the quantum world; classical simulation of quantum circuits. The objective is to bring students to the research frontier.
+Staff
+
+Security & Cryptography", ,Fall 2023
+"6.1600 Foundations of Computer Security
+(6.053)
+",4, ,0,"()
+Prereq: 6.1210 and 6.1800
+Units: 4-0-8
+
+Fundamental notions and big ideas for achieving security in computer systems. Topics include cryptographic foundations (pseudorandomness, collision-resistant hash functions, authentication codes, signatures, authenticated encryption, public-key encryption), systems ideas (isolation, non-interference, authentication, access control, delegation, trust), and implementation techniques (privilege separation, fuzzing, symbolic execution, runtime defenses, side-channel attacks). Case studies of how these ideas are realized in deployed systems. Lab assignments apply ideas from lectures to learn how to build secure systems and how they can be attacked.
+H. Corrigan-Gibbs, S. Devadas, S. Goldwasser, Y. Kalai, S. Micali, R. Rivest, V. Vaikuntanathan, N. Zeldovich", ,Fall 2023
+"6.5610 Applied Cryptography and Security
+(6.857)
+",4, ,0,"()
+Prereq: 6.1200 and 6.1800
+Units: 4-0-8
+Lecture: MW11-12.30 (6-120) Recitation: F11 (1-190)
+
+Emphasis on applied cryptography. May include: basic notion of systems security, cryptographic hash functions, symmetric cryptography (one-time pad, block ciphers, stream ciphers, message authentication codes), secret-sharing, key-exchange, public-key cryptography (encryption, digital signatures), elliptic curve cryptography, public-key infrastructure, TLS, fully homomorphic encryption, differential privacy, crypto-currencies, and electronic voting. Assignments include a final group project. Topics may vary year to year.
+Y. Kalai, R. RivestNo textbook information available", ,Fall 2023
+"6.5620J Cryptography and Cryptanalysis
+(6.875)
+",3, ,0,"()
+(Same subject as 18.425[J])
+Prereq: 6.1220
+Units: 3-0-9
+URL: https://mit6875.github.io/
+
+A rigorous introduction to modern cryptography. Emphasis on the fundamental cryptographic primitives of public-key encryption, digital signatures, pseudo-random number generation, and basic protocols and their computational complexity requirements.
+S. Goldwasser, S. Micali, V. Vaikuntanathan", ,Fall 2023
+"6.5630 Advanced Topics in Cryptography
+(6.876)
+",3, ,0,"() 
+Prereq: 6.5620
+Units: 3-0-9
+
+In-depth exploration of recent results in cryptography.
+S. Goldwasser, S. Micali, V. Vaikuntanathan", ,Fall 2023
+"6.5660 Computer Systems Security
+(6.858)
+",3, ,0,"()
+Prereq: 6.1020 and 6.1800
+Units: 3-6-3
+Lecture: TR2.30-4 (26-100) +final
+
+Design and implementation of secure computer systems. Lectures cover attacks that compromise security as well as techniques for achieving security, based on recent research papers. Topics include operating system security, privilege separation, capabilities, language-based security, cryptographic network protocols, trusted hardware, and security in web applications and mobile phones. Labs involve implementing and compromising a web application that sandboxes arbitrary code, and a group final project.
+N. B. ZeldovichNo textbook information available
+
+Computer Systems", ,Fall 2023
+"6.1800 Computer Systems Engineering
+(6.033)
+",5, ,0,"()
+Prereq: 6.1910
+Units: 5-1-6
+Lecture: MW2 (26-100) Lab: F1 (36-144) or F2 (36-144) or F1 (26-142) or F2 (26-142) or F1 (26-210) or F2 (26-210) or F1 (26-314) or F2 (26-314) or F1 (4-153) or F2 (4-153) or F1 (4-261) or F2 (4-261) or F1 (4-145) or F2 (4-145) or F1 (24-307) or F2 (24-307) Recitation: TR10 (34-301) or TR1 (34-302, 38-166) or TR2 (24-307, 34-302, 38-166) or TR11 (34-303) or TR12 (34-303) or TR10 (36-153, 36-156) or TR11 (34-301, 36-153, 36-156) or TR12 (36-155) or TR1 (36-155, 24-307) +final
+
+Topics on the engineering of computer software and hardware systems: techniques for controlling complexity; strong modularity using client-server design, operating systems; performance, networks; naming; security and privacy; fault-tolerant systems, atomicity and coordination of concurrent activities, and recovery; impact of computer systems on society. Case studies of working systems and readings from the current literature provide comparisons and contrasts. Includes a single, semester-long design project. Students engage in extensive written communication exercises. Enrollment may be limited.
+K. LaCurtsTextbooks (Spring 2023)", ,Fall 2023
+"6.1810 Operating System Engineering
+(6.039)
+",3, ,0,"()
+Prereq: 6.1910
+Units: 3-0-9
+
+Design and implementation of operating systems, and their use as a foundation for systems programming. Topics include virtual memory, file systems, threads, context switches, kernels, interrupts, system calls, interprocess communication, coordination, and interaction between software and hardware. A multi-processor operating system for RISC-V, xv6, is used to illustrate these topics. Individual laboratory assignments involve extending the xv6 operating system, for example to support sophisticated virtual memory features and networking.
+A. Belay, M. F. Kaashoek, R. T. Morris", ,Fall 2023
+"6.1820J Mobile and Sensor Computing
+(6.808)
+",3, ,0,"()
+(Same subject as MAS.453[J])
+Prereq: 6.1800 or permission of instructor
+Units: 3-0-9
+
+Focuses on ""Internet of Things"" (IoT) systems and technologies, sensing, computing, and communication. Explores fundamental design and implementation issues in the engineering of mobile and sensor computing systems. Topics include battery-free sensors, seeing through wall, robotic sensors, vital sign sensors (breathing, heartbeats, emotions), sensing in cars and autonomous vehicles, subsea IoT, sensor security, positioning technologies (including GPS and indoor WiFi), inertial sensing (accelerometers, gyroscopes, inertial measurement units, dead-reckoning), embedded and distributed system architectures, sensing with radio signals, sensing with microphones and cameras, wireless sensor networks, embedded and distributed system architectures, mobile libraries and APIs to sensors, and application case studies. Includes readings from research literature, as well as laboratory assignments and a significant term project.
+H. Balakrishnan, S. Madden, F. Adib", ,Fall 2023
+"6.1850 Computer Systems and Society
+(6.052)
+",3, ,0,"()
+Prereq: 6.1800
+Units: 3-0-9
+
+Explores the impact of computer systems on individual humans, society, and the environment. Examines large- and small-scale power structures that stem from low-level technical design decisions, the consequences of those structures on society, and how they can limit or provide access to certain technologies. Students learn to assess design decisions within an ethical framework and consider the impact of their decisions on non-users. Case studies of working systems and readings from the current literature provide comparisons and contrasts. Possible topics include the implications of hierarchical designs (e.g., DNS) for scale; how layered models influence what parts of a network have the power to take certain actions; and the environmental impact of proof-of-work-based systems such as Bitcoin. Enrollment may be limited.
+K. LaCurts", ,Fall 2023
+"6.5810 Operating System Engineering
+(6.828)
+",3, ,0,"()
+Prereq: 6.1020 and 6.1800
+Units: 3-6-3
+
+Fundamental design and implementation issues in the engineering of operating systems. Lectures based on the study of a symmetric multiprocessor version of UNIX version 6 and research papers. Topics include virtual memory; file system; threads; context switches; kernels; interrupts; system calls; interprocess communication; coordination, and interaction between software and hardware. Individual laboratory assignments accumulate in the construction of a minimal operating system (for an x86-based personal computer) that implements the basic operating system abstractions and a shell. Knowledge of programming in the C language is a prerequisite.
+M. F. Kaashoek", ,Fall 2023
+"6.5820 Computer Networks
+(6.829)
+",4, ,0,"()
+Prereq: 6.1800 or permission of instructor
+Units: 4-0-8
+
+Topics on the engineering and analysis of network protocols and architecture, including architectural principles for designing heterogeneous networks; transport protocols; Internet routing; router design; congestion control and network resource management; wireless networks; network security; naming; overlay and peer-to-peer networks. Readings from original research papers. Semester-long project and paper.
+H. Balakrishnan, D. Katabi", ,Fall 2023
+"6.5830 Database Systems
+(6.830)
+",3, ,0,"()
+(Subject meets with 6.5831)
+Prereq: (6.1800 and (6.1210 or 6.1220)) or permission of instructor
+Units: 3-0-9
+
+Topics related to the engineering and design of database systems, including data models; database and schema design; schema normalization and integrity constraints; query processing; query optimization and cost estimation; transactions; recovery; concurrency control; isolation and consistency; distributed, parallel and heterogeneous databases; adaptive databases; trigger systems; pub-sub systems; semi structured data and XML querying. Lecture and readings from original research papers. Semester-long project and paper. Students taking graduate version complete different assignments. Enrollment may be limited.
+S. R. Madden", ,Fall 2023
+"6.5831 Database Systems
+(6.814)
+",3, ,0,"()
+(Subject meets with 6.5830)
+Prereq: (6.1800 and (6.1210 or 6.1220)) or permission of instructor
+Units: 3-0-9
+
+Topics related to the engineering and design of database systems, including data models; database and schema design; schema normalization and integrity constraints; query processing; query optimization and cost estimation; transactions; recovery; concurrency control; isolation and consistency; distributed, parallel and heterogeneous databases; adaptive databases; trigger systems; pub-sub systems; semi structured data and XML querying. Lecture and readings from original research papers. Semester-long project and paper. Students taking graduate version complete different assignments. Enrollment may be limited.
+S. R. Madden", ,Fall 2023
+"6.5840 Distributed Computer Systems Engineering
+(6.824)
+",3, ,0,"()
+Prereq: 6.1800 and permission of instructor
+Units: 3-0-9
+Lecture: TR1-2.30 (E25-111) +final
+
+Abstractions and implementation techniques for engineering distributed systems: remote procedure call, threads and locking, client/server, peer-to-peer, consistency, fault tolerance, and security. Readings from current literature. Individual laboratory assignments culminate in the construction of a fault-tolerant and scalable network file system. Programming experience with C/C++ required. Enrollment limited.
+R. T. Morris, M. F. KaashoekNo textbook information available", ,Fall 2023
+"6.5850 Principles of Computer Systems
+(6.826)
+",3, ,0,"()
+Prereq: Permission of instructor
+Units: 3-0-9
+
+Introduction to the basic principles of computer systems with emphasis on the use of rigorous techniques as an aid to understanding and building modern computing systems. Particular attention paid to concurrent and distributed systems. Topics include: specification and verification, concurrent algorithms, synchronization, naming, Networking, replication techniques (including distributed cache management), and principles and algorithms for achieving reliability.
+M. F. Kaashoek, B. Lampson, N. B. Zeldovich
+
+Computer Architecture", ,Fall 2023
+"6.1900 Introduction to Low-level Programming in C and Assembly
+(6.0004)
+",2, ,0,"(, ); second half of term
+Prereq: 6.100A
+Units: 2-2-2
+Begins Apr 3. Lecture: M12.30-2 (34-101) Lab: W9.30-12 (38-530) or W12-2.30 (38-530) or W2.30-5 (38-530) Recitation: T9.30-11 (32-155) or T11-12.30 (3-370) or T1-2.30 (2-190) or T2.30-4 (3-442)
+
+Introduction to C and assembly language for students coming from a Python background (6.100A). Studies the C language, focusing on memory and associated topics including pointers, and how different data structures are stored in memory, the stack, and the heap in order to build a strong understanding of the constraints involved in manipulating complex data structures in modern computational systems. Studies assembly language to facilitate a firm understanding of how high-level languages are translated to machine-level instructions.
+J. D. Steinmeyer, S. Hanono WachmanNo textbook information available", ,Fall 2023
+"6.1910 Computation Structures
+(6.004)
+",4, ,0,"(, ) 
+Prereq: Physics II (GIR), 6.100A, and (6.1900 or 6.9010)
+Units: 4-0-8
+Lecture: TR1 (32-123) Recitation: WF10 (34-302) or WF11 (34-302) or WF12 (34-302) or WF1 (34-302) or WF2 (34-302) or WF3 (34-302) or WF10 (35-308) or WF11 (35-308) or WF12 (35-308) or WF1 (35-308, 8-205) or WF2 (8-205)
+
+Provides an introduction to the design of digital systems and computer architecture. Emphasizes expressing all hardware designs in a high-level hardware language and synthesizing the designs. Topics include combinational and sequential circuits, instruction set abstraction for programmable hardware, single-cycle and pipelined processor implementations, multi-level memory hierarchies, virtual memory, exceptions and I/O, and parallel systems.
+S. Z. Hanono Wachman, D. SanchezNo textbook information available", ,Fall 2023
+"6.1920 Constructive Computer Architecture
+(6.175)
+",3, ,0,"()
+Prereq: 6.1910
+Units: 3-8-1
+Lecture: TR9.30-11 (56-154) Recitation: F3.30 (56-154)
+
+Illustrates a constructive (as opposed to a descriptive) approach to computer architecture. Topics include combinational and pipelined arithmetic-logic units (ALU), in-order pipelined microarchitectures, branch prediction, blocking and unblocking caches, interrupts, virtual memory support, cache coherence and multicore architectures. Labs in a modern Hardware Design Language (HDL) illustrate various aspects of microprocessor design, culminating in a term project in which students present a multicore design running on an FPGA board.
+ArvindNo textbook information available", ,Fall 2023
+"6.5900 Computer System Architecture
+(6.823)
+",4, ,0,"()
+Prereq: 6.1910
+Units: 4-0-8
+
+Introduction to the principles underlying modern computer architecture. Emphasizes the relationship among technology, hardware organization, and programming systems in the evolution of computer architecture. Topics include pipelined, out-of-order, and speculative execution; caches, virtual memory and exception handling, superscalar, very long instruction word (VLIW), vector, and multithreaded processors; on-chip networks, memory models, synchronization, and cache coherence protocols for multiprocessors.
+J. S. Emer, D. Sanchez", ,Fall 2023
+"6.5910 Complex Digital Systems Design
+(6.375)
+",5, ,0,"()Not offered regularly; consult department
+Prereq: 6.1910
+Units: 5-5-2
+
+Introduction to the design and implementation of large-scale digital systems using hardware description languages and high-level synthesis tools in conjunction with standard commercial electronic design automation (EDA) tools. Emphasizes modular and robust designs, reusable modules, correctness by construction, architectural exploration, meeting area and timing constraints, and developing functional field-programmable gate array (FPGA) prototypes. Extensive use of CAD tools in weekly labs serve as preparation for a multi-person design project on multi-million gate FPGAs. Enrollment may be limited.
+Arvind", ,Fall 2023
+"6.5920 Parallel Computing
+(6.846)
+",3, ,0,"()Not offered regularly; consult department
+Prereq: 6.1910 or permission of instructor
+Units: 3-0-9
+
+Introduction to parallel and multicore computer architecture and programming. Topics include the design and implementation of multicore processors; networking, video, continuum, particle and graph applications for multicores; communication and synchronization algorithms and mechanisms; locality in parallel computations; computational models, including shared memory, streams, message passing, and data parallel; multicore mechanisms for synchronization, cache coherence, and multithreading. Performance evaluation of multicores; compilation and runtime systems for parallel computing. Substantial project required.
+A. Agarwal", ,Fall 2023
+"6.5930 Hardware Architecture for Deep Learning
+(6.825)
+",3, ,0,"()
+(Subject meets with 6.5931)
+Prereq: 6.1910 or 6.3000
+Units: 3-3-6
+Lecture: MW1-2.30 (4-163) Lab: TBA Recitation: F11 (4-270)
+
+Introduction to the design and implementation of hardware architectures for efficient processing of deep learning algorithms in AI systems. Topics include basics of deep learning, programmable platforms, accelerators, co-optimization of algorithms and hardware, training, support for complex networks, and applications of advanced technologies. Includes labs involving modeling and analysis of hardware architectures, building systems using popular deep learning tools and platforms (CPU, GPU, FPGA), and an open-ended design project. Students taking graduate version complete additional assignments.
+V. Sze, J. EmerNo textbook information available", ,Fall 2023
+"6.5931 Hardware Architecture for Deep Learning
+(6.812)
+",3, ,0,"()
+(Subject meets with 6.5930)
+Prereq: 6.1910 or 6.3000
+Units: 3-3-6
+Lecture: MW1-2.30 (4-163) Lab: TBA Recitation: F11 (66-144)
+
+Introduction to the design and implementation of hardware architectures for efficient processing of deep learning algorithms in AI systems. Topics include basics of deep learning, programmable platforms, accelerators, co-optimization of algorithms and hardware, training, support for complex networks, and applications of advanced technologies. Includes labs involving modeling and analysis of hardware architectures, building systems using popular deep learning tools and platforms (CPU, GPU, FPGA), and an open-ended design project. Students taking graduate version complete additional assignments.
+V. Sze, J. EmerNo textbook information available
+
+Artificial Intelligence", ,Fall 2023
+"6.4100 Artificial Intelligence
+(6.034)
+",4, ,0,"()
+(Subject meets with 6.4102)
+Prereq: 6.100A
+Units: 4-3-5
+
+Introduces representations, methods, and architectures used to build applications and to account for human intelligence from a computational point of view. Covers applications of rule chaining, constraint propagation, constrained search, inheritance, statistical inference, and other problem-solving paradigms. Also addresses applications of identification trees, neural nets, genetic algorithms, support-vector machines, boosting, and other learning paradigms. Considers what separates human intelligence from that of other animals. Students taking graduate version complete additional assignments.
+K. Koile", ,Fall 2023
+"6.4102 Artificial Intelligence
+(6.844)
+",4, ,0,"()
+(Subject meets with 6.4100)
+Prereq: 6.100A
+Units: 4-3-5
+
+Introduces representations, methods, and architectures used to build applications and to account for human intelligence from a computational point of view. Covers applications of rule chaining, constraint propagation, constrained search, inheritance, statistical inference, and other problem-solving paradigms. Also addresses applications of identification trees, neural nets, genetic algorithms, support-vector machines, boosting, and other learning paradigms. Considers what separates human intelligence from that of other animals. Students taking  graduate version complete additional assignments.
+K. Koile", ,Fall 2023
+"6.4110 Representation, Inference, and Reasoning in AI
+(6.038)
+",3, ,0,"()
+(Subject meets with 16.420)
+Prereq: (16.09 and 16.410) or (6.1010, 6.1210, and (6.3700 or 6.3800))
+Units: 3-0-9
+
+An introduction to representations and algorithms for artificial intelligence. Topics covered include: constraint satisfaction in discrete and continuous problems, logical representation and inference, Monte Carlo tree search, probabilistic graphical models and inference, planning in discrete and continuous deterministic and probabilistic models including MDPs and POMDPs.
+L. P. Kaelbling, T. Lozano-Perez, N. Roy", ,Fall 2023
+"6.4120J Computational Cognitive Science
+(6.804)
+",3, ,0,"()
+(Same subject as 9.66[J])(Subject meets with 9.660)
+Prereq: 6.3700, 6.3800, 9.40, 18.05, 6.3900, or permission of instructor
+Units: 3-0-9
+
+Introduction to computational theories of human cognition. Focus on principles of inductive learning and inference, and the representation of knowledge. Computational frameworks covered include Bayesian and hierarchical Bayesian models; probabilistic graphical models; nonparametric statistical models and the Bayesian Occam's razor; sampling algorithms for approximate learning and inference; and probabilistic models defined over structured representations such as first-order logic, grammars, or relational schemas. Applications to understanding core aspects of cognition, such as concept learning and categorization, causal reasoning, theory formation, language acquisition, and social inference. Graduate students complete a final project.
+J. Tenenbaum", ,Fall 2023
+"6.4130J Principles of Autonomy and Decision Making
+(6.817)
+",4, ,0,"()
+(Same subject as 16.410[J])(Subject meets with 6.4132[J], 16.413[J])
+Prereq: 6.100B or 6.9080
+Units: 4-0-8
+
+Surveys decision making methods used to create highly autonomous systems and decision aids. Applies models, principles and algorithms taken from artificial intelligence and operations research. Focuses on planning as state-space search, including uninformed, informed and stochastic search, activity and motion planning, probabilistic and adversarial planning, Markov models and decision processes, and Bayesian filtering. Also emphasizes planning with real-world constraints using constraint programming. Includes methods for satisfiability and optimization of logical, temporal and finite domain constraints, graphical models, and linear and integer programs, as well as methods for search, inference, and conflict-learning. Students taking graduate version complete additional assignments.
+H. E. Shrobe", ,Fall 2023
+"6.4132J Principles of Autonomy and Decision Making
+(6.877)
+",3, ,0,"()
+(Same subject as 16.413[J])(Subject meets with 6.4130[J], 16.410[J])
+Prereq: 6.100B, 6.9080, or permission of instructor
+Units: 3-0-9
+
+Surveys decision making methods used to create highly autonomous systems and decision aids. Applies models, principles and algorithms taken from artificial intelligence and operations research. Focuses on planning as state-space search, including uninformed, informed and stochastic search, activity and motion planning, probabilistic and adversarial planning, Markov models and decision processes, and Bayesian filtering. Also emphasizes planning with real-world constraints using constraint programming. Includes methods for satisfiability and optimization of logical, temporal and finite domain constraints, graphical models, and linear and integer programs, as well as methods for search, inference, and conflict-learning. Students taking graduate version complete additional assignments.
+B. C. Williams", ,Fall 2023
+"6.8110J Cognitive Robotics
+(6.834)
+",3, ,0,"()
+(Same subject as 16.412[J])
+Prereq: (6.4100 or 16.413) and (6.1200, 6.3700, or 16.09)
+Units: 3-0-9
+Lecture: MW11-12.30 (32-155)
+
+Highlights algorithms and paradigms for creating human-robot systems that act intelligently and robustly, by reasoning from models of themselves, their counterparts and their world. Examples include space and undersea explorers, cooperative vehicles, manufacturing robot teams and everyday embedded devices. Themes include architectures for goal-directed systems; decision-theoretic programming and robust execution; state-space programming, activity and path planning; risk-bounded programming and risk-bounded planners; self-monitoring and self-diagnosing systems, and human-robot collaboration. Student teams explore recent advances in cognitive robots through delivery of advanced lectures and final projects, in support of a class-wide grand challenge. Enrollment may be limited.
+B. C. WilliamsTextbooks (Spring 2023)
+
+Robotics", ,Fall 2023
+"6.4200J Robotics: Science and Systems
+(6.141)
+",2, ,0,"() 
+(Same subject as 16.405[J])
+Prereq: ((1.00 or 6.100A) and (2.003, 6.1010, 6.1210, or 16.06)) or permission of instructor
+Units: 2-6-4
+Lecture: MWF1 (26-100) Lab: MW3-5 (32-082)
+
+Presents concepts, principles, and algorithmic foundations for robots and autonomous vehicles operating in the physical world. Topics include sensing, kinematics and dynamics, state estimation, computer vision, perception, learning, control, motion planning, and embedded system development. Students design and implement advanced algorithms on complex robotic platforms capable of agile autonomous navigation and real-time interaction with the physical word. Students engage in extensive written and oral communication exercises. Enrollment limited.
+L.  Carlone, S. KaramanNo textbook information available", ,Fall 2023
+"6.4210 Robotic Manipulation
+(6.800)
+",4, ,0,"()
+(Subject meets with 6.4212)
+Prereq: (6.100A and 6.3900) or permission of instructor
+Units: 4-2-9
+URL: http://manipulation.mit.edu
+
+Introduces the fundamental algorithmic approaches for creating robot systems that can autonomously manipulate physical objects in unstructured environments such as homes and restaurants. Topics include perception (including approaches based on deep learning and approaches based on 3D geometry), planning (robot kinematics and trajectory generation, collision-free motion planning, task-and-motion planning, and planning under uncertainty), as well as dynamics and control (both model-based and learning-based). Students taking graduate version complete additional assignments. Students engage in extensive written and oral communication exercises.
+R. Tedrake", ,Fall 2023
+"6.4212 Robotic Manipulation
+(6.843)
+",3, ,0,"()
+(Subject meets with 6.4210)
+Prereq: (6.100A and 6.3900) or permission of instructor
+Units: 3-0-9
+URL: http://manipulation.mit.edu
+
+Introduces the fundamental algorithmic approaches for creating robot systems that can autonomously manipulate physical objects in unstructured environments such as homes and restaurants. Topics include perception (including approaches based on deep learning and approaches based on 3D geometry), planning (robot kinematics and trajectory generation, collision-free motion planning, task-and-motion planning, and planning under uncertainty), as well as dynamics and control (both model-based and learning-based. Students taking graduate version complete additional assignments.
+T. P. Lozano-Perez, R. Tedrake", ,Fall 2023
+"6.8200 Sensorimotor Learning
+(6.484)
+",3, ,0,"()
+Prereq: 6.3900 or 6.7900
+Units: 3-0-9
+Lecture: TR11-12.30 (1-190)
+
+Provides an in-depth view of the state-of-the-art learning methods for control and the know-how of applying these techniques. Topics span reinforcement learning, self-supervised learning, imitation learning, model-based learning, and advanced deep learning architectures, and specific machine learning challenges unique to building sensorimotor systems. Discusses how to identify if learning-based control can help solve a particular problem, how to formulate the problem in the learning framework, and what algorithm to use. Applications of algorithms in robotics, logistics, recommendation systems, playing games, and other control domains covered. Instruction involves two lectures a week, practical experience through exercises, discussion of current research directions, and a group project.
+P. AgrawalNo textbook information available", ,Fall 2023
+"6.8210 Underactuated Robotics
+(6.832)
+",3, ,0,"()
+Prereq: 18.03 and 18.06
+Units: 3-0-9
+URL: http://underactuated.mit.edu
+Lecture: TR2.30-4 (E25-111)
+
+Covers nonlinear dynamics and control of underactuated mechanical systems, with an emphasis on computational methods. Topics include the nonlinear dynamics of robotic manipulators, applied optimal and robust control and motion planning. Discussions include examples from biology and applications to legged locomotion, compliant manipulation, underwater robots, and flying machines.
+R. TedrakeNo textbook information available
+
+Graphics", ,Fall 2023
+"6.4400 Computer Graphics
+(6.837)
+",3, ,0,"()
+Prereq: 6.1010 and (18.06 or 18.C06)
+Units: 3-0-9
+
+Introduction to computer graphics algorithms, software and hardware. Topics include ray tracing, the graphics pipeline, transformations, texture mapping, shadows, sampling, global illumination, splines, animation and color.
+F. P. Durand, W. Matusik, J. Solomon", ,Fall 2023
+"6.4420 Computational Design and Fabrication
+(6.807)
+",3, ,0,"()
+(Subject meets with 6.8420)
+Prereq: Calculus II (GIR) and (6.1010 or permission of instructor)
+Units: 3-0-9
+
+Introduces computational aspects of computer-aided design and manufacturing. Explores relevant methods in the context of additive manufacturing (e.g., 3D printing). Topics include computer graphics (geometry modeling, solid modeling, procedural modeling), physically-based simulation (kinematics, finite element method), 3D scanning/geometry processing, and an overview of 3D fabrication methods. Exposes students to the latest research in computational fabrication. Students taking the graduate version complete additional assignments.
+W. Matusik", ,Fall 2023
+"6.8410 Shape Analysis
+(6.838)
+",3, ,0,"()
+Prereq: Calculus II (GIR), 18.06, and (6.8300 or 6.4400)
+Units: 3-0-9
+Lecture: TR2.30-4 (4-237)
+
+Introduces mathematical, algorithmic, and statistical tools needed to analyze geometric data and to apply geometric techniques to data analysis, with applications to fields such as computer graphics, machine learning, computer vision, medical imaging, and architecture. Potential topics include applied introduction to differential geometry, discrete notions of curvature, metric embedding, geometric PDE via the finite element method (FEM) and discrete exterior calculus (DEC),; computational spectral geometry and relationship to graph-based learning, correspondence and mapping, level set method, descriptor, shape collections, optimal transport, and vector field design.
+J. SolomonNo textbook information available", ,Fall 2023
+"6.8420 Computational Design and Fabrication
+(6.839)
+",3, ,0,"()
+(Subject meets with 6.4420)
+Prereq: Calculus II (GIR) and (6.1010 or permission of instructor)
+Units: 3-0-9
+
+Introduces computational aspects of computer-aided design and manufacturing. Explores relevant methods in the context of additive manufacturing (e.g., 3D printing). Topics include computer graphics (geometry modeling, solid modeling, procedural modeling), physically-based simulation (kinematics, finite element method), 3D scanning/geometry processing, and an overview of 3D fabrication methods. Exposes students to the latest research in computational fabrication. Students taking graduate version complete additional assignments.
+W. Matusik", ,Fall 2023
+"6.8490 Advanced Topics in Computer Graphics
+(6.897)
+",3, ,0,"()Not offered regularly; consult department
+Prereq: 6.4400
+Units: 3-0-9
+
+In-depth study of an active research topic in computer graphics. Topics change each term. Readings from the literature, student presentations, short assignments, and a programming project.
+J. Solomon
+
+Human-Computer Interaction & Society", ,Fall 2023
+"6.4510 Engineering Interactive Technologies
+(6.810)
+",1, ,0,"()Not offered regularly; consult department
+Prereq: 6.1020, 6.2050, 6.2060, 6.9010, or permission of instructor
+Units: 1-5-6
+
+Provides instruction in building cutting-edge interactive technologies, explains the underlying engineering concepts, and shows how those technologies evolved over time. Students use a studio format (i.e., extended periods of time) for constructing software and hardware prototypes. Topics include interactive technologies, such as multi-touch, augmented reality, haptics, wearables, and shape-changing interfaces. In a group project, students build their own interactive hardware/software prototypes and present them in a live demo at the end of term. Enrollment may be limited.
+S. Mueller", ,Fall 2023
+"6.4530J Principles and Practice of Assistive Technology
+(6.811)
+",2, ,0,"()Not offered regularly; consult department
+(Same subject as 2.78[J], HST.420[J])
+Prereq: Permission of instructor
+Units: 2-4-6
+
+Students work closely with people with disabilities to develop assistive and adaptive technologies that help them live more independently. Covers design methods and problem-solving strategies; human factors; human-machine interfaces; community perspectives; social and ethical aspects; and assistive technology for motor, cognitive, perceptual, and age-related impairments. Prior knowledge of one or more of the following areas useful: software; electronics; human-computer interaction; cognitive science; mechanical engineering; control; or MIT hobby shop, MIT PSC, or other relevant independent project experience. Enrollment may be limited.
+R. C. Miller, J. E. Greenberg, J. J. Leonard", ,Fall 2023
+"6.4550J Interactive Music Systems
+(6.185)
+",3, ,0,"(, ) 
+(Same subject as 21M.385[J])
+Prereq: (6.1010 and 21M.301) or permission of instructor
+Units: 3-0-9
+Lecture: MW11-12.30 (4-270)
+
+Explores audio synthesis, musical structure, human computer interaction (HCI), and visual presentation for the creation of interactive musical experiences. Topics include audio synthesis; mixing and looping; MIDI sequencing; generative composition; motion sensors; music games; and graphics for UI, visualization, and aesthetics. Includes weekly programming assignments in python. Teams build an original, dynamic, and engaging interactive music system for their final project. Limited to 36.
+E. Egozy, L. KaelblingNo textbook information available", ,Fall 2023
+"6.4570J Creating Video Games
+(6.073)
+",3, ,0,"() 
+(Same subject as CMS.611[J])
+Prereq: 6.100A or CMS.301
+Units: 3-3-6
+
+Introduces students to the complexities of working in small, multidisciplinary teams to develop video games. Covers creative design and production methods, stressing design iteration and regular testing across all aspects of game development (design, visual arts, music, fiction, and programming). Assumes a familiarity with current video games, and the ability to discuss games critically. Previous experience in audio design, visual arts, or project management recommended. Limited to 36.
+P. Tan, S. Verrilli, R. Eberhardt, A. Grant", ,Fall 2023
+"6.4590J Foundations of Information Policy
+(6.805)
+",3, ,0,"() 
+(Same subject as STS.085[J])(Subject meets with STS.487)
+Prereq: Permission of instructor
+Units: 3-0-9
+
+Studies the growth of computer and communications technology and the new legal and ethical challenges that reflect tensions between individual rights and societal needs. Topics include computer crime; intellectual property restrictions on software; encryption, privacy, and national security; academic freedom and free speech. Students meet and question technologists, activists, law enforcement agents, journalists, and legal experts. Instruction and practice in oral and written communication provided. Students taking graduate version complete additional assignments. Enrollment limited.
+H. Abelson, R. David Edelman, M. Fischer, D. Weitzner", ,Fall 2023
+"6.8510 Intelligent Multimodal User Interfaces
+(6.835)
+",3, ,0,"()
+Prereq: (6.1020 and 6.4100) or permission of instructor
+Units: 3-0-9
+Lecture: TR11-12.30 (32-141)
+
+Implementation and evaluation of intelligent multi-modal user interfaces, taught from a combination of hands-on exercises and papers from the original literature. Topics include basic technologies for handling speech, vision, pen-based interaction, and other modalities, as well as various techniques for combining modalities. Substantial readings and a term project, where students build a program that illustrates one or more of the themes of the course.
+R. DavisNo required or recommended textbooks", ,Fall 2023
+"6.8530 Interactive Data Visualization
+(6.859)
+",3, ,0,"()
+Prereq: None
+Units: 3-0-9
+Credit cannot also be received for 6.C35, 6.C85, 11.C35, 11.C85
+
+Interactive visualization provides a means of making sense of a world awash in data. Covers the techniques and algorithms for creating effective visualizations, using principles from graphic design, perceptual psychology, and cognitive science. Short assignments build familiarity with the data analysis and visualization design process, and a final project provides experience designing, implementing, and deploying an explanatory narrative visualization or visual analysis tool to address a concrete challenge.
+A. Satyanarayan
+
+Computational Biology", ,Fall 2023
+"6.4710J Evolutionary Biology: Concepts, Models and Computation
+(6.049)
+",3, ,0,"()
+(Same subject as 7.33[J])
+Prereq: (6.100A and 7.03) or permission of instructor
+Units: 3-0-9
+
+Explores and illustrates how evolution explains biology, with an emphasis on computational model building for analyzing evolutionary data. Covers key concepts of biological evolution, including adaptive evolution, neutral evolution, evolution of sex, genomic conflict, speciation, phylogeny and comparative methods, life's history, coevolution, human evolution, and evolution of disease.
+R. Berwick, D. Bartel", ,Fall 2023
+"6.8700J Advanced Computational Biology: Genomes, Networks, Evolution
+(6.878)
+",4, ,0,"()
+(Same subject as HST.507[J])(Subject meets with 6.8701)
+Prereq: (Biology (GIR), 6.1210, and 6.3700) or permission of instructor
+Units: 4-0-8
+
+See description for 6.047. Additionally examines recent publications in the areas covered, with research-style assignments. A more substantial final project is expected, which can lead to a thesis and publication.
+M. Kellis", ,Fall 2023
+"6.8701 Computational Biology: Genomes, Networks, Evolution
+(6.047)
+",3, ,0,"()
+(Subject meets with 6.8700[J], HST.507[J])
+Prereq: (Biology (GIR), 6.1210, and 6.3700) or permission of instructor
+Units: 3-0-9
+
+Covers the algorithmic and machine learning foundations of computational biology, combining theory with practice. Principles of algorithm design, influential problems and techniques, and analysis of large-scale biological datasets. Topics include (a) genomes: sequence analysis, gene finding, RNA folding, genome alignment and assembly, database search; (b) networks: gene expression analysis, regulatory motifs, biological network analysis; (c) evolution: comparative genomics, phylogenetics, genome duplication, genome rearrangements, evolutionary theory. These are coupled with fundamental algorithmic techniques including: dynamic programming, hashing, Gibbs sampling, expectation maximization, hidden Markov models, stochastic context-free grammars, graph clustering, dimensionality reduction, Bayesian networks.
+M. Kellis", ,Fall 2023
+"6.8710J Computational Systems Biology: Deep Learning in the Life Sciences
+(6.874)
+",3, ,0,"()
+(Same subject as HST.506[J])(Subject meets with 6.8711[J], 20.390[J], 20.490)
+Prereq: Biology (GIR) and (6.041 or 18.600)
+Units: 3-0-9
+
+Presents innovative approaches to computational problems in the life sciences, focusing on deep learning-based approaches with comparisons to conventional methods. Topics include protein-DNA interaction, chromatin accessibility, regulatory variant interpretation, medical image understanding, medical record understanding, therapeutic design, and experiment design (the choice and interpretation of interventions). Focuses on machine learning model selection, robustness, and interpretation. Teams complete a multidisciplinary final research project using TensorFlow or other framework. Provides a comprehensive introduction to each life sciences problem, but relies upon students understanding probabilistic problem formulations. Students taking graduate version complete additional assignments.
+D. K. Gifford", ,Fall 2023
+"6.8711J Computational Systems Biology: Deep Learning in the Life Sciences
+(6.802)
+",3, ,0,"()
+(Same subject as 20.390[J])(Subject meets with 6.8710[J], 20.490, HST.506[J])
+Prereq: (7.05 and (6.100B or 6.9080)) or permission of instructor
+Units: 3-0-9
+
+Presents innovative approaches to computational problems in the life sciences, focusing on deep learning-based approaches with comparisons to conventional methods. Topics include protein-DNA interaction, chromatin accessibility, regulatory variant interpretation, medical image understanding, medical record understanding, therapeutic design, and experiment design (the choice and interpretation of interventions). Focuses on machine learning model selection, robustness, and interpretation. Teams complete a multidisciplinary final research project using TensorFlow or other framework. Provides a comprehensive introduction to each life sciences problem, but relies upon students understanding probabilistic problem formulations. Students taking graduate version complete additional assignments.
+D. K. Gifford", ,Fall 2023
+"6.8720J Principles of Synthetic Biology
+(6.589)
+",3, ,0,"()Not offered regularly; consult department
+(Same subject as 20.405[J])(Subject meets with 6.8721[J], 20.305[J])
+Prereq: None
+Units: 3-0-9
+
+Introduces the basics of synthetic biology, including quantitative cellular network characterization and modeling. Considers the discovery and genetic factoring of useful cellular activities into reusable functions for design. Emphasizes the principles of biomolecular system design and diagnosis of designed systems. Illustrates cutting-edge applications in synthetic biology and enhances skills in analysis and design of synthetic biological applications. Students taking graduate version complete additional assignments.
+R. Weiss", ,Fall 2023
+"6.8721J Principles of Synthetic Biology
+(6.580)
+",3, ,0,"()
+(Same subject as 20.305[J])(Subject meets with 6.8720[J], 20.405[J])
+Prereq: None
+Units: 3-0-9
+
+Introduces the basics of synthetic biology, including quantitative cellular network characterization and modeling. Considers the discovery and genetic factoring of useful cellular activities into reusable functions for design. Emphasizes the principles of biomolecular system design and diagnosis of designed systems. Illustrates cutting-edge applications in synthetic biology and enhances skills in analysis and design of synthetic biological applications. Students taking graduate version complete additional assignments.
+R. Weiss
+
+Biomedical & Health", ,Fall 2023
+"6.4800 Biomedical Systems: Modeling and Inference
+(New)
+",4, ,0,"()
+Prereq: 6.3100 and (18.06 or 18.C06)
+Units: 4-4-4
+Lecture: MW2 (24-121) +final
+
+Medically motivated examples of problems in human health that engage students in systems modeling, signal analysis and inference, and design. Content draws on two domains, first by establishing a model of the human cardiovascular system with signal analysis and inference applications of electrocardiograms in health and disease. In a second topic, medical imaging by MRI is motivated by examples of common clinical decision making, followed by laboratory work with technology and instrumentation with the functionality of commercial diagnostic scanners. Students apply concepts from lectures in labs for data collection for image reconstruction, image analysis, and inference by their own design. Labs further include kits for interactive and portable low-cost devices that can be assembled by the students to demonstrate fundamental building blocks of an MRI system.
+E. Adalsteinsson, T. Heldt, C. M. Stultz, J. K. WhiteNo textbook information available", ,Fall 2023
+"6.4810J Cellular Neurophysiology and Computing
+(6.021)
+",5, ,0,"()
+(Same subject as 2.791[J], 9.21[J], 20.370[J])(Subject meets with 2.794[J], 6.4812[J], 9.021[J], 20.470[J], HST.541[J])
+Prereq: (Physics II (GIR), 18.03, and (2.005, 6.2000, 6.3000, 10.301, or 20.110)) or permission of instructor
+Units: 5-2-5
+
+Integrated overview of the biophysics of cells from prokaryotes to neurons, with a focus on mass transport and electrical signal generation across cell membrane. First third of course focuses on mass transport through membranes: diffusion, osmosis, chemically mediated, and active transport. Second third focuses on electrical properties of cells: ion transport to action potential generation and propagation in electrically excitable cells. Synaptic transmission. Electrical properties interpreted via kinetic and molecular properties of single voltage-gated ion channels. Final third focuses on biophysics of synaptic transmission and introduction to neural computing. Laboratory and computer exercises illustrate the concepts. Students taking graduate version complete different assignments. Preference to juniors and seniors.
+J. Han, T. Heldt", ,Fall 2023
+"6.4812J Cellular Neurophysiology and Computing
+(6.521)
+",5, ,0,"()
+(Same subject as 2.794[J], 9.021[J], 20.470[J], HST.541[J])(Subject meets with 2.791[J], 6.4810[J], 9.21[J], 20.370[J])
+Prereq: (Physics II (GIR), 18.03, and (2.005, 6.2000, 6.3000, 10.301, or 20.110)) or permission of instructor
+Units: 5-2-5
+
+Integrated overview of the biophysics of cells from prokaryotes to neurons, with a focus on mass transport and electrical signal generation across cell membrane. First third of course focuses on mass transport through membranes: diffusion, osmosis, chemically mediated, and active transport. Second third focuses on electrical properties of cells: ion transport to action potential generation and propagation in electrically excitable cells. Synaptic transmission. Electrical properties interpreted via kinetic and molecular properties of single voltage-gated ion channels. Final third focuses on biophysics of synaptic transmission and introduction to neural computing. Laboratory and computer exercises illustrate the concepts. Students taking graduate version complete different assignments.
+J. Han, T. Heldt", ,Fall 2023
+"6.4820J Quantitative and Clinical Physiology
+(6.022)
+",4, ,0,"()
+(Same subject as 2.792[J], HST.542[J])(Subject meets with 2.796[J], 6.4822[J])
+Prereq: Physics II (GIR), 18.03, or permission of instructor
+Units: 4-2-6
+
+Application of the principles of energy and mass flow to major human organ systems. Anatomical, physiological and clinical features of the cardiovascular, respiratory and renal systems. Mechanisms of regulation and homeostasis. Systems, features and devices that are most illuminated by the methods of physical sciences and engineering models. Required laboratory work includes animal studies. Students taking graduate version complete additional assignments.
+T. Heldt, R. G. Mark", ,Fall 2023
+"6.4822J Quantitative Physiology: Organ Transport Systems
+(6.522)
+",4, ,0,"()
+(Same subject as 2.796[J])(Subject meets with 2.792[J], 6.4820[J], HST.542[J])
+Prereq: 6.4810 and (2.006 or 6.2300)
+Units: 4-2-6
+
+Application of the principles of energy and mass flow to major human organ systems. Anatomical, physiological and clinical features of the cardiovascular, respiratory and renal systems. Mechanisms of regulation and homeostasis. Systems, features and devices that are most illuminated by the methods of physical sciences and engineering models. Required laboratory work includes animal studies. Students taking graduate version complete additional assignments.
+T. Heldt, R. G. Mark", ,Fall 2023
+"6.4830J Fields, Forces and Flows in Biological Systems
+(6.023)
+",4, ,0,"()
+(Same subject as 2.793[J], 20.330[J])
+Prereq: Biology (GIR), Physics II (GIR), and 18.03
+Units: 4-0-8
+Lecture: MWF11 (4-163) Recitation: T10 (56-167) or T11 (66-160) or W12 (56-154) or W4 (66-156) +final
+
+Introduction to electric fields, fluid flows, transport phenomena and their application to biological systems. Flux and continuity laws, Maxwell's equations, electro-quasistatics, electro-chemical-mechanical driving forces, conservation of mass and momentum, Navier-Stokes flows, and electrokinetics. Applications include biomolecular transport in tissues, electrophoresis, and microfluidics.
+J. Han, S. ManalisNo textbook information available", ,Fall 2023
+"6.4832J Fields, Forces, and Flows in Biological Systems
+(6.561)
+",3, ,0,"()
+(Same subject as 2.795[J], 10.539[J], 20.430[J])
+Prereq: Permission of instructor
+Units: 3-0-9
+
+Molecular diffusion, diffusion-reaction, conduction, convection in biological systems; fields in heterogeneous media; electrical double layers; Maxwell stress tensor, electrical forces in physiological systems. Fluid and solid continua: equations of motion useful for porous, hydrated biological tissues. Case studies of membrane transport, electrode interfaces, electrical, mechanical, and chemical transduction in tissues, convective-diffusion/reaction, electrophoretic, electroosmotic flows in tissues/MEMs, and ECG. Electromechanical and physicochemical interactions in cells and biomaterials; musculoskeletal, cardiovascular, and other biological and clinical examples. Prior undergraduate coursework in transport recommended.
+M. Bathe, A. J. Grodzinsky", ,Fall 2023
+"6.4840J Molecular, Cellular, and Tissue Biomechanics
+(6.024)
+",4, ,0,"()
+(Same subject as 2.797[J], 3.053[J], 20.310[J])(Subject meets with 2.798[J], 3.971[J], 6.4842[J], 10.537[J], 20.410[J])
+Prereq: Biology (GIR) and 18.03
+Units: 4-0-8
+Lecture: TR1-2.30 (4-237) Recitation: TBA
+
+Develops and applies scaling laws and the methods of continuum mechanics to biomechanical phenomena over a range of length scales. Topics include structure of tissues and the molecular basis for macroscopic properties; chemical and electrical effects on mechanical behavior; cell mechanics, motility and adhesion; biomembranes; biomolecular mechanics and molecular motors. Experimental methods for probing structures at the tissue, cellular, and molecular levels. Students taking graduate version complete additional assignments.
+M. Bathe, K. Ribbeck, P. T. SoNo textbook information available", ,Fall 2023
+"6.4842J Molecular, Cellular, and Tissue Biomechanics
+(6.524)
+",3, ,0,"()
+(Same subject as 2.798[J], 3.971[J], 10.537[J], 20.410[J])(Subject meets with 2.797[J], 3.053[J], 6.4840[J], 20.310[J])
+Prereq: Biology (GIR) and 18.03
+Units: 3-0-9
+Lecture: TR1-2.30 (4-237)
+
+Develops and applies scaling laws and the methods of continuum mechanics to biomechanical phenomena over a range of length scales. Topics include structure of tissues and the molecular basis for macroscopic properties; chemical and electrical effects on mechanical behavior; cell mechanics, motility and adhesion; biomembranes; biomolecular mechanics and molecular motors. Experimental methods for probing structures at the tissue, cellular, and molecular levels. Students taking graduate version complete additional assignments.
+M. Bathe, K. Ribbeck, P. T. SoNo textbook information available", ,Fall 2023
+"6.4860J Medical Device Design
+(6.025)
+",3, ,0,"()
+(Same subject as 2.750[J])(Subject meets with 2.75[J], 6.4861[J], HST.552[J])
+Prereq: 2.008, 6.2040, 6.2050, 22.071, 6.2060, or permission of instructor
+Units: 3-3-6
+Lecture: MW1-2.30 (3-270)
+
+Provides an intense project-based learning experience around the design of medical devices with foci ranging from mechanical to electro mechanical to electronics. Projects motivated by real-world clinical challenges provided by sponsors and clinicians who also help mentor teams. Covers the design process, project management, and fundamentals of mechanical and electrical circuit and sensor design. Students work in small teams to execute a substantial term project, with emphasis placed upon developing creative designs -- via a deterministic design process -- that are developed and optimized using analytical techniques. Includes mandatory lab. Instruction and practice in written and oral communication provided. Students taking graduate version complete additional assignments. Enrollment limited.
+A. H. Slocum, G. Hom, E. Roche, N. C. HanumaraNo textbook information available", ,Fall 2023
+"6.4861J Medical Device Design
+(6.525)
+",3, ,0,"()
+(Same subject as 2.75[J], HST.552[J])(Subject meets with 2.750[J], 6.4860[J])
+Prereq: 2.008, 6.2040, 6.2050, 22.071, 6.2060, or permission of instructor
+Units: 3-3-6
+Lecture: MW1-2.30 (3-270)
+
+Provides an intense project-based learning experience around the design of medical devices with foci ranging from mechanical to electro mechanical to electronics. Projects motivated by real-world clinical challenges provided by sponsors and clinicians who also help mentor teams. Covers the design process, project management, and fundamentals of mechanical and electrical circuit and sensor design. Students work in small teams to execute a substantial term project, with emphasis placed upon developing creative designs â€” via a deterministic design process â€” that are developed and optimized using analytical techniques. Includes mandatory lab. Instruction and practice in written and oral communication provided. Students taking graduate version complete additional assignments. Enrollment limited.
+A. H. Slocum, G. Hom, E. Roche, N. C. HanumaraNo textbook information available", ,Fall 2023
+"6.4880J Biological Circuit Engineering Laboratory
+(6.129)
+",2, ,0,"() Not offered regularly; consult department
+(Same subject as 20.129[J])
+Prereq: Biology (GIR) and Calculus II (GIR)
+Units: 2-8-2
+
+Students assemble individual genes and regulatory elements into larger-scale circuits; they experimentally characterize these circuits in yeast cells using quantitative techniques, including flow cytometry, and model their results computationally. Emphasizes concepts and techniques to perform independent experimental and computational synthetic biology research. Discusses current literature and ongoing research in the field of synthetic biology. Instruction and practice in oral and written communication provided. Enrollment limited.
+T. Lu, R. Weiss", ,Fall 2023
+"6.4900 Introduction to EECS via Medical Technology
+(6.03)
+",4, ,0,"() 
+Prereq: Calculus II (GIR) and Physics II (GIR)
+Units: 4-4-4
+
+Explores biomedical signals generated from electrocardiograms, glucose detectors or ultrasound images, and magnetic resonance images. Topics include physical characterization and modeling of systems in the time and frequency domains; analog and digital signals and noise; basic machine learning including decision trees, clustering, and classification; and introductory machine vision. Labs designed to strengthen background in signal processing and machine learning. Students design and run structured experiments, and develop and test procedures through further experimentation.
+C. M. Stultz, E. Adalsteinsson", ,Fall 2023
+"6.8800J Biomedical Signal and Image Processing
+(6.555)
+",3, ,0,"()
+(Same subject as 16.456[J], HST.582[J])(Subject meets with 6.8801[J], HST.482[J])
+Prereq: (6.3700 and (2.004, 6.3000, 16.002, or 18.085)) or permission of instructor
+Units: 3-1-8
+
+Fundamentals of digital signal processing with emphasis on problems in biomedical research and clinical medicine. Basic principles and algorithms for processing both deterministic and random signals. Topics include data acquisition, imaging, filtering, coding, feature extraction, and modeling. Lab projects, performed in MATLAB, provide practical experience in processing physiological data, with examples from cardiology, speech processing, and medical imaging. Lectures cover signal processing topics relevant to the lab exercises, as well as background on the biological signals processed in the labs. Students taking graduate version complete additional assignments.
+J. Greenberg, E. Adalsteinsson, W. Wells", ,Fall 2023
+"6.8801J Biomedical Signal and Image Processing
+(6.026)
+",3, ,0,"()
+(Same subject as HST.482[J])(Subject meets with 6.8800[J], 16.456[J], HST.582[J])
+Prereq: (6.3700 or permission of instructor) and (2.004, 6.3000, 16.002, or 18.085)
+Units: 3-1-8
+
+Fundamentals of digital signal processing with emphasis on problems in biomedical research and clinical medicine. Basic principles and algorithms for processing both deterministic and random signals. Topics include data acquisition, imaging, filtering, coding, feature extraction, and modeling. Lab projects, performed in MATLAB, provide practical experience in processing physiological data, with examples from cardiology, speech processing, and medical imaging. Lectures cover signal processing topics relevant to the lab exercises, as well as background on the biological signals processed in the labs. Students taking graduate version complete additional assignments.
+J. Greenberg, E. Adalsteinsson, W. Wells", ,Fall 2023
+"6.8810J Data Acquisition and Image Reconstruction in MRI
+(6.556)
+",3, ,0,"()
+(Same subject as HST.580[J])
+Prereq: 6.3010
+Units: 3-0-9
+
+Applies analysis of signals and noise in linear systems, sampling, and Fourier properties to magnetic resonance (MR) imaging acquisition and reconstruction. Provides adequate foundation for MR physics to enable study of RF excitation design, efficient Fourier sampling, parallel encoding, reconstruction of non-uniformly sampled data, and the impact of hardware imperfections on reconstruction performance. Surveys active areas of MR research. Assignments include Matlab-based work with real data. Includes visit to a scan site for human MR studies.
+E. Adalsteinsson", ,Fall 2023
+"6.8830J Signal Processing by the Auditory System: Perception
+(6.552)
+",3, ,0,"()Not offered regularly; consult department
+(Same subject as HST.716[J])
+Prereq: (6.3000 and (6.3700 or 6.3702)) or permission of instructor
+Units: 3-0-9
+
+Studies information processing performance of the human auditory system in relation to current physiological knowledge. Examines mathematical models for the quantification of auditory-based behavior and the relation between behavior and peripheral physiology, reflecting the tono-topic organization and stochastic responses of the auditory system. Mathematical models of psychophysical relations, incorporating quantitative knowledge of physiological transformations by the peripheral auditory system.
+L. D. Braida
+
+Vision", ,Fall 2023
+"6.8300 Advances in Computer Vision
+(New)
+",3, ,0,"()
+(Subject meets with 6.8301)
+Prereq: (6.1200 or 6.3700) and (18.06 or 18.C06)
+Units: 3-0-9
+Lecture: TR1-2.30 (26-100)
+
+Advanced topics in computer vision with a focus on the use of machine learning techniques and applications in graphics and human-computer interface. Covers image representations, texture models, structure-from-motion algorithms, Bayesian techniques, object and scene recognition, tracking, shape modeling, and image databases. Applications may include face recognition, multimodal interaction, interactive systems, cinematic special effects, and photorealistic rendering. Covers topics complementary to 6.8390. Students taking graduate version complete additional assignments.
+W. T. Freeman, P. Isola, A. TorralbaNo textbook information available", ,Fall 2023
+"6.8301 Advances in Computer Vision
+(New)
+",4, ,0,"()
+(Subject meets with 6.8300)
+Prereq: (6.1200 or 6.3700) and (18.06 or 18.C06)
+Units: 4-0-11
+Lecture: TR1-2.30 (26-100) Recitation: W12 (34-303) or W3 (35-308) or R10 (34-303) or R3 (34-304) or R4 (34-304) or F11 (26-328) or F1 (26-322)
+
+Advanced topics in computer vision with a focus on the use of machine learning techniques and applications in graphics and human-computer interface. Covers image representations, texture models, structure-from-motion algorithms, Bayesian techniques, object and scene recognition, tracking, shape modeling, and image databases. Applications may include face recognition, multimodal interaction, interactive systems, cinematic special effects, and photorealistic rendering. Includes instruction and practice in written and oral communication. Students taking graduate version complete additional assignments.
+W. T. Freeman, P. Isola, A. TorralbaNo textbook information available", ,Fall 2023
+"6.8320 Advanced Topics in Computer Vision
+(6.870)
+",3, ,0,"() 
+Prereq: 6.801, 6.8300, or permission of instructor
+Units: 3-0-9
+
+Seminar exploring advanced research topics in the field of computer vision; focus varies with lecturer. Typically structured around discussion of assigned research papers and presentations by students. Example research areas explored in this seminar include learning in vision, computational imaging techniques, multimodal human-computer interaction, biomedical imaging, representation and estimation methods used in modern computer vision.
+W. T. Freeman, B. K. P. Horn, A. Torralba", ,Fall 2023
+"6.8370 Advanced Computational Photography
+(6.865)
+",3, ,0,"()
+(Subject meets with 6.8371)
+Prereq: Calculus II (GIR) and 6.1020
+Units: 3-0-9
+
+Presents fundamentals and applications of hardware and software techniques used in digital and computational photography, with an emphasis on software methods. Provides sufficient background to implement solutions to photographic challenges and opportunities. Topics include cameras and image formation, image processing and image representations, high-dynamic-range imaging, human visual perception and color, single view 3-D model reconstruction, morphing, data-rich photography, super-resolution, and image-based rendering. Students taking graduate version complete additional assignments.
+F. P. Durand", ,Fall 2023
+"6.8371 Digital and Computational Photography
+(6.815)
+",3, ,0,"()
+(Subject meets with 6.8370)
+Prereq: Calculus II (GIR) and 6.1010
+Units: 3-0-9
+
+Presents fundamentals and applications of hardware and software techniques used in digital and computational photography, with an emphasis on software methods. Provides sufficient background to implement solutions to photographic challenges and opportunities. Topics include cameras and image formation, image processing and image representations, high-dynamic-range imaging, human visual perception and color, single view 3-D model reconstruction, morphing, data-rich photography, super-resolution, and image-based rendering. Students taking graduate version complete additional assignments.
+F. P. Durand
+
+Natural Language Processing & Speech", ,Fall 2023
+"6.8610 Quantitative Methods for Natural Language Processing
+(6.864)
+",3, ,0,"()
+(Subject meets with 6.8611)
+Prereq: 6.3900 and (18.06 or 18.C06)
+Units: 3-0-9
+
+Introduces the study of human language from a computational perspective, including syntactic, semantic and discourse processing models. Emphasizes machine learning methods and algorithms. Uses these methods and models in applications such as syntactic parsing, information extraction, statistical machine translation, dialogue systems. Students taking graduate version complete additional assignments.
+J. Andreas, J. Glass", ,Fall 2023
+"6.8611 Quantitative Methods for Natural Language Processing
+(6.806)
+",4, ,0,"()
+(Subject meets with 6.8610)
+Prereq: 6.3900 and (18.06 or 18.C06)
+Units: 4-0-11
+
+Introduces the study of human language from a computational perspective, including syntactic, semantic and discourse processing models. Emphasizes machine learning methods and algorithms. Uses these methods and models in applications such as syntactic parsing, information extraction, statistical machine translation, dialogue systems. Instruction and practice in oral and written communication provided. Students taking graduate version complete additional assignments.
+J. Andreas, J. Glass", ,Fall 2023
+"6.8620J Spoken Language Processing
+(6.345)
+",3, ,0,"()
+(Same subject as HST.728[J])
+Prereq: 6.3000 and 6.3900
+Units: 3-1-8
+
+Introduces the rapidly developing field of spoken language processing including automatic speech recognition. Topics include acoustic theory of speech production, acoustic-phonetics, signal representation, acoustic and language modeling, search, hidden Markov modeling, neural networks models, end-to-end deep learning models, and other machine learning techniques applied to speech and language processing topics. Lecture material intersperses theory with practice. Includes problem sets, laboratory exercises, and open-ended term project.
+J. R. Glass", ,Fall 2023
+"6.8630J Natural Language and the Computer Representation of Knowledge
+(6.863)
+",3, ,0,"()
+(Same subject as 9.611[J])
+Prereq: 6.4100
+Units: 3-3-6
+Lecture: TR1-2.30 (4-270)
+
+Explores the relationship between the computer representation and acquisition of knowledge and the structure of human language, its acquisition, and hypotheses about its differentiating uniqueness. Emphasizes development of analytical skills necessary to judge the computational implications of grammatical formalisms and their role in connecting human intelligence to computational intelligence. Uses concrete examples to illustrate particular computational issues in this area.
+R. C. BerwickNo textbook information available", ,Fall 2023

@@ -290,9 +290,11 @@
           <datasource-dependencies datasource='federated.1bkcods03kks64184j0po1g5hfeh'>
             <column datatype='string' name='[Collapsed Skill]' role='dimension' type='nominal' />
             <column caption='Credits columbia' datatype='real' name='[Credits_columbia]' role='measure' type='quantitative' />
+            <column caption='Explanation columbia' datatype='string' name='[Explanation_columbia]' role='dimension' type='nominal' />
             <column caption='Related Course columbia' datatype='string' name='[Related Course_columbia]' role='dimension' type='nominal' />
             <column caption='Skill mit' datatype='string' name='[Skill_mit]' role='dimension' type='nominal' />
             <column-instance column='[Collapsed Skill]' derivation='None' name='[none:Collapsed Skill:nk]' pivot='key' type='nominal' />
+            <column-instance column='[Explanation_columbia]' derivation='None' name='[none:Explanation_columbia:nk]' pivot='key' type='nominal' />
             <column-instance column='[Related Course_columbia]' derivation='None' name='[none:Related Course_columbia:nk]' pivot='key' type='nominal' />
             <column-instance column='[Skill_mit]' derivation='None' name='[none:Skill_mit:nk]' pivot='key' type='nominal' />
             <column-instance column='[Credits_columbia]' derivation='Sum' name='[sum:Credits_columbia:qk]' pivot='key' type='quantitative' />
@@ -321,6 +323,7 @@
             <mark class='Automatic' />
             <encodings>
               <lod column='[federated.1bkcods03kks64184j0po1g5hfeh].[none:Related Course_columbia:nk]' />
+              <lod column='[federated.1bkcods03kks64184j0po1g5hfeh].[none:Explanation_columbia:nk]' />
             </encodings>
           </pane>
         </panes>
@@ -338,9 +341,11 @@
           <datasource-dependencies datasource='federated.1bkcods03kks64184j0po1g5hfeh'>
             <column datatype='string' name='[Collapsed Skill]' role='dimension' type='nominal' />
             <column caption='Credits mit' datatype='real' name='[Credits_mit]' role='measure' type='quantitative' />
+            <column caption='Explanation mit' datatype='string' name='[Explanation_mit]' role='dimension' type='nominal' />
             <column caption='Related Course mit' datatype='string' name='[Related Course_mit]' role='dimension' type='nominal' />
             <column caption='Skill columbia' datatype='string' name='[Skill_columbia]' role='dimension' type='nominal' />
             <column-instance column='[Collapsed Skill]' derivation='None' name='[none:Collapsed Skill:nk]' pivot='key' type='nominal' />
+            <column-instance column='[Explanation_mit]' derivation='None' name='[none:Explanation_mit:nk]' pivot='key' type='nominal' />
             <column-instance column='[Related Course_mit]' derivation='None' name='[none:Related Course_mit:nk]' pivot='key' type='nominal' />
             <column-instance column='[Skill_columbia]' derivation='None' name='[none:Skill_columbia:nk]' pivot='key' type='nominal' />
             <column-instance column='[Credits_mit]' derivation='Sum' name='[sum:Credits_mit:qk]' pivot='key' type='quantitative' />
@@ -365,6 +370,7 @@
             <mark class='Automatic' />
             <encodings>
               <lod column='[federated.1bkcods03kks64184j0po1g5hfeh].[none:Related Course_mit:nk]' />
+              <lod column='[federated.1bkcods03kks64184j0po1g5hfeh].[none:Explanation_mit:nk]' />
             </encodings>
             <style>
               <style-rule element='mark'>
@@ -484,7 +490,7 @@
       </cards>
       <simple-id uuid='{D195A302-5AF5-4E9A-8E1E-1F36BE23E681}' />
     </window>
-    <window class='worksheet' name='MIT Unique Skills'>
+    <window class='worksheet' maximized='true' name='MIT Unique Skills'>
       <cards>
         <edge name='left'>
           <strip size='160'>
@@ -507,7 +513,7 @@
       </cards>
       <simple-id uuid='{C6EE7D36-520A-4779-971E-901A6DBD8188}' />
     </window>
-    <window class='worksheet' maximized='true' name='MIT Unique Skills (2)'>
+    <window class='worksheet' name='MIT Unique Skills (2)'>
       <cards>
         <edge name='left'>
           <strip size='160'>
