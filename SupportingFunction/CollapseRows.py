@@ -45,7 +45,7 @@ def collapse_rows(df: DataFrame, school) -> DataFrame:
                 similarities.append([cosine_similarity(row, row2), skill_name, j])
 
         # Filter similarities to only include values that are greater than 0.8
-        similarities = [x for x in similarities if x[0] >= 0.9]
+        similarities = [x for x in similarities if x[0] >= 0.85]
 
         count = 0
         if len(similarities) > 0:
@@ -128,11 +128,12 @@ def collapse_rows_pinecone(df: DataFrame):
     df = df[df['Credits'].notna()]
 
     df['Embedding'] = ''
-
+    print(len(df))
     for i, row in df.iterrows():
         embedding_model = "text-embedding-ada-002"
-        embedding = get_embedding(row['Skill'], engine=embedding_model)
-        df.at[i, 'Embedding'] = embedding
+        print(f"Attribute: {row['Skill']}. Explanation of how course teaches this attribute: {row['Explanation']}")
+        embedding = get_embedding(row['Skill'] + row['Explanation'], engine=embedding_model)
+        df['Embedding'].update(pd.Series([embedding], index=[i]))
 
     config = dotenv_values("/Users/vinayakkannan/Desktop/INfACT/Script/SupportingFunction/.env")
     openai.api_key = config.get("SECRET_KEY")

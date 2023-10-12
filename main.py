@@ -11,9 +11,33 @@ from SupportingFunction.CompareSkills import compare_skills
 # Press Double ⇧ to search everywhere for classes, files, tool windows, actions, and settings.
 
 def driver():
-    school = "Columbia_Fall2023_v1"
+    school = "MIT_Fall2023_v1"
     # Use a breakpoint in the code line below to debug your script.
     # parse_scraped_data(school)
+    skill_df_1 = pd.read_csv(
+        f'/Users/vinayakkannan/Desktop/INfACT/Script/SupportingFunction/RawData/MIT_Fall2023_v1/SkillOutputv2.csv')
+    skill_df_2 = pd.read_csv(
+        f'/Users/vinayakkannan/Desktop/INfACT/Script/SupportingFunction/RawData/Columbia_Fall2023_v1/SkillOutputv2.csv')
+
+
+
+    abilities_df_1 = pd.read_csv(
+        f'/Users/vinayakkannan/Desktop/INfACT/Script/SupportingFunction/RawData/MIT_Fall2023_v1/AbilitiesOutputv2.csv')
+    abilities_df_2 = pd.read_csv(
+        f'/Users/vinayakkannan/Desktop/INfACT/Script/SupportingFunction/RawData/Columbia_Fall2023_v1/AbilitiesOutputv2.csv')
+
+
+
+    knowledge_df_1 = pd.read_csv(
+        f'/Users/vinayakkannan/Desktop/INfACT/Script/SupportingFunction/RawData/MIT_Fall2023_v1/KnowledgeOutputv2.csv')
+    knowledge_df_2 = pd.read_csv(
+        f'/Users/vinayakkannan/Desktop/INfACT/Script/SupportingFunction/RawData/Columbia_Fall2023_v1/KnowledgeOutputv2.csv')
+
+
+    # Merge all 6 dataframes
+    merged = pd.concat([skill_df_1, skill_df_2, abilities_df_1, abilities_df_2, knowledge_df_1, knowledge_df_2])
+    collapse_rows_pinecone(merged)
+
     skill_df = pd.read_csv(
         f'/Users/vinayakkannan/Desktop/INfACT/Script/SupportingFunction/RawData/{school}/SkillOutputv2.csv')
     skill_cleaned = collapse_rows_pinecone(skill_df)
