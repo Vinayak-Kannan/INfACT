@@ -5,6 +5,7 @@ from dotenv import dotenv_values
 import numpy as np
 import hdbscan
 
+# Load in data from csv
 config = dotenv_values("/Users/vinayakkannan/Desktop/INfACT/Script/SupportingFunction/.env")
 openai.api_key = config.get("SECRET_KEY")
 columbia = pd.read_csv('/Users/vinayakkannan/Desktop/INfACT/Script/SupportingFunction/RawData/Columbia_Fall2023_v1/KnowledgeOutputUpdated.csv')
@@ -91,11 +92,8 @@ skills = pre_skills['Skill'].tolist()
 
 print(len(skills), len(embeddings))
 
+# THIS IS THE HDBSCAN CLUSTERING PORTION OF THE CODE. MOVE TO A SEPERATE FUNCTION AS NEEDED
 hdb = hdbscan.HDBSCAN(min_cluster_size=5, min_samples=1, prediction_data=True).fit(embeddings)
-print(len(embeddings))
-print(hdb.labels_.max())
-print(np.count_nonzero(hdb.labels_ == -1))
-print(np.bincount(hdb.labels_[hdb.labels_ != -1]))
 labels = hdb.labels_
 membership_vectors = [np.argmax(x) for x in hdbscan.all_points_membership_vectors(hdb)]
 max_vectors = np.asarray([max(x) for x in hdbscan.all_points_membership_vectors(hdb)])
