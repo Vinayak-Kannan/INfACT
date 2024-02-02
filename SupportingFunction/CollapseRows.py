@@ -23,7 +23,8 @@ def get_embeddings(texts):
 # 2. Instead of dropping terms, roll them up into a list of terms, then have LLM synthesize them all into a single term
 # 3. Switch to LLAMA for better results, fine tune it on accruate responses we have
 def collapse_rows(df: DataFrame, school) -> DataFrame:
-    config = dotenv_values("/Users/vinayakkannan/Desktop/INfACT/Script/SupportingFunction/.env")
+    # Replace dotenv path with your path!!!
+    # config = dotenv_values("/Users/vinayakkannan/Desktop/INfACT/Script/SupportingFunction/.env")
     openai.api_key = config.get("SECRET_KEY")
     # Get embeddings for each value in the 'Skill' column
     embeddings = get_embeddings(df['Skill'].tolist())
